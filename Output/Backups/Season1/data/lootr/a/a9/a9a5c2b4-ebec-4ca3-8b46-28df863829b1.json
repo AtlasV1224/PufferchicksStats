@@ -1,0 +1,189 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 8,
+              "count": 2,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:iron_horse_armor"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 14,
+              "count": 2,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:bucket"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "exposure_expanded:antialias_filter"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 22,
+              "count": 2,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Bailey's Bovine Rocket\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "To the MOOn",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_delay",
+                        "ars_nouveau:glyph_explosion",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Bailey's Bovine Rocket"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:wheat"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      }
+    ],
+    "uuid": [
+      -1448754508,
+      -336835421,
+      -1958336289,
+      -2043139663
+    ],
+    "seed": 5123908989774335727,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/a/a9/a9a5c2b4-ebec-4ca3-8b46-28df863829b1",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -676,
+      -21,
+      -217
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

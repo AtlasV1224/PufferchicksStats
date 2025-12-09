@@ -1,0 +1,117 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:glistering_melon_slice"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:piercing": 3
+                  }
+                }
+              },
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:glistering_melon_slice"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hold": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 3.0168
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:bunny_hoppers"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      62846366,
+      -1928114653,
+      -1407146194,
+      -409077741
+    ],
+    "seed": 4546790333611663187,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/0/03/03bef59e-8d13-4e23-ac20-a72ee79df813",
+    "dimension": "pastel:deeper_down",
+    "hasBeenOpened": 1,
+    "position": [
+      -802,
+      -278,
+      -2516
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "pastel:chests/city_below/terrace_house_upper"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

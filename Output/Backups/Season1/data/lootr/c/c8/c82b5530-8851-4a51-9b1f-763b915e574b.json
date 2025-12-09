@@ -1,0 +1,411 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ],
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 11,
+              "count": 5,
+              "id": "minecraft:porkchop"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:porkchop"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 1,
+              "count": 5,
+              "id": "minecraft:porkchop"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:cooked_porkchop"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:porkchop"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:cooked_porkchop"
+            },
+            {
+              "Slot": 9,
+              "count": 2,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:cooked_porkchop"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:porkchop"
+            },
+            {
+              "Slot": 16,
+              "count": 3,
+              "id": "minecraft:cooked_porkchop"
+            },
+            {
+              "Slot": 18,
+              "count": 6,
+              "id": "minecraft:porkchop"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:porkchop"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 6,
+              "id": "minecraft:soul_sand"
+            },
+            {
+              "Slot": 1,
+              "count": 4,
+              "id": "minecraft:porkchop"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:cooked_porkchop"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:diamond"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "minecraft:leather"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -1678841899,
+          1864648116,
+          -1393378093,
+          -894335838
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#FFCC00\",\"fallback\":\"Elixir of Undying\",\"italic\":false,\"translate\":\"incendium.item.undying_elixer.name\"}",
+                "minecraft:potion_contents": {
+                  "custom_color": 14679821,
+                  "custom_effects": [
+                    {
+                      "amplifier": 1,
+                      "show_icon": 1,
+                      "id": "minecraft:regeneration",
+                      "duration": 1200
+                    },
+                    {
+                      "amplifier": 4,
+                      "show_icon": 1,
+                      "id": "minecraft:resistance",
+                      "duration": 600
+                    },
+                    {
+                      "amplifier": 3,
+                      "show_icon": 1,
+                      "id": "minecraft:absorption",
+                      "duration": 4800
+                    }
+                  ]
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#FFEEBB\",\"fallback\":\"Unstable Powder\",\"italic\":false,\"translate\":\"incendium.item.unstable_powder.name\"}",
+                "minecraft:custom_model_data": 1450401,
+                "minecraft:custom_data": {
+                  "incendium": {
+                    "item": "unstable_powder"
+                  }
+                },
+                "minecraft:lore": [
+                  "{\"color\":\"#666633\",\"fallback\":\"Emits a brilliant light when dropped\",\"italic\":true,\"translate\":\"incendium.item.unstable_powder.desc1\"}",
+                  "\"\"",
+                  "{\"color\":\"#FF8000\",\"fallback\":\"Incendium\",\"italic\":true,\"translate\":\"incendium\"}"
+                ],
+                "minecraft:enchantment_glint_override": 1
+              },
+              "id": "minecraft:glowstone_dust"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:redstone_block"
+            },
+            {
+              "Slot": 3,
+              "count": 6,
+              "id": "minecraft:spider_eye"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:water"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 5,
+              "count": 4,
+              "id": "minecraft:glowstone_dust"
+            },
+            {
+              "Slot": 6,
+              "count": 4,
+              "id": "minecraft:sugar"
+            },
+            {
+              "Slot": 7,
+              "count": 6,
+              "id": "minecraft:glistering_melon_slice"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:cooked_porkchop"
+            },
+            {
+              "Slot": 1,
+              "count": 7,
+              "id": "minecraft:porkchop"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:porkchop"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 4,
+              "count": 4,
+              "id": "minecraft:cooked_porkchop"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:cooked_porkchop"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:cooked_porkchop"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:cooked_porkchop"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:cooked_porkchop"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      -936684240,
+      -2007938479,
+      -1692436933,
+      -1856088245
+    ],
+    "seed": 5916391550585628123,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/c/c8/c82b5530-8851-4a51-9b1f-763b915e574b",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1729,
+      43,
+      -272
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ],
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ]
+    ],
+    "table": "incendium:castle/barrel/random"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,130 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "nutrition": {
+                        "stats": {
+                          "hunger": {
+                            "initialValue": 1.23605
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "drinking": {
+                        "stats": {
+                          "speed": {
+                            "initialValue": 0.38624
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:plastic_drinking_hat"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      1167943085,
+      -912177061,
+      -1697419096,
+      -22060579
+    ],
+    "seed": -6626960983335445346,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/4/45/459d65ad-c9a1-485b-9ad3-70a8feaf61dd",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -224,
+      57,
+      -395
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "ctov:chests/village/village_farm"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

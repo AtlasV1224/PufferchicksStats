@@ -1,0 +1,157 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:iron_horse_armor"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 3,
+              "count": 4,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 5,
+              "count": 6,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 6,
+              "count": 7,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "ars_nouveau:mana_regen": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hold": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 3.62696
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:bunny_hoppers"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "ars_nouveau:source_gem"
+            },
+            {
+              "Slot": 10,
+              "count": 4,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 11,
+              "count": 2,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      1855263594,
+      -596098086,
+      -1565076253,
+      858838536
+    ],
+    "seed": 8943377696872020613,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/6/6e/6e95136a-dc78-43da-a2b6-d4e33330d608",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      792,
+      215,
+      191
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

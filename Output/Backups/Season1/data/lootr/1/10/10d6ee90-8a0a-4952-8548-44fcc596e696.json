@@ -1,0 +1,127 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "cardiac:lifesteal": 1,
+                    "minecraft:sweeping_edge": 1
+                  }
+                },
+                "minecraft:damage": 32
+              },
+              "id": "minecraft:stone_sword"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 50
+              },
+              "id": "minecraft:chainmail_leggings"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hold": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 3.95549
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:bunny_hoppers"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      282521232,
+      -1979037358,
+      -2058861316,
+      -979966314
+    ],
+    "seed": -500458974990441487,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/1/10/10d6ee90-8a0a-4952-8548-44fcc596e696",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -2871,
+      107,
+      -1811
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

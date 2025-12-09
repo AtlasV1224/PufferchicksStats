@@ -1,0 +1,100 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 13,
+              "id": "minecraft:arrow"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "catch": {
+                        "stats": {
+                          "chance": {
+                            "initialValue": 0.13857
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:anglers_hat"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1548024550,
+      -933805643,
+      -1917993658,
+      1287074147
+    ],
+    "seed": 2406208586004784123,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/5/5c/5c44fae6-c857-41b5-8dad-bd464cb73163",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      4528,
+      78,
+      -351
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/pillager_chest"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

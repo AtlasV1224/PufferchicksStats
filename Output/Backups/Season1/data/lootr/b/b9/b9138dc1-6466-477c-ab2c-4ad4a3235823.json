@@ -1,0 +1,189 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:bane_of_arthropods": 4,
+                    "minecraft:fire_aspect": 2,
+                    "minecraft:sharpness": 4,
+                    "minecraft:knockback": 2
+                  }
+                },
+                "minecraft:damage": 7
+              },
+              "id": "minecraft:golden_sword"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 30
+              },
+              "id": "minecraft:leather_leggings"
+            },
+            {
+              "Slot": 25,
+              "count": 2,
+              "id": "minecraft:flint"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 11,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hell": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 59.79376
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:obsidian_skull"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:diamond_horse_armor"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 2
+                  }
+                },
+                "minecraft:damage": 24
+              },
+              "id": "minecraft:leather_chestplate"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:blast_protection": 2
+                  }
+                },
+                "minecraft:damage": 39
+              },
+              "id": "minecraft:leather_helmet"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -1189900863,
+      1684424572,
+      -1423160620,
+      -1557964765
+    ],
+    "seed": 6943382798613887972,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/b/b9/b9138dc1-6466-477c-ab2c-4ad4a3235823",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      61,
+      93,
+      64
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

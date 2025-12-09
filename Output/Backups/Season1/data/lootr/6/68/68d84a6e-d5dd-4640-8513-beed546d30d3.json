@@ -1,0 +1,105 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:suspicious_stew_effects": [
+                  {
+                    "id": "minecraft:poison",
+                    "duration": 300
+                  }
+                ]
+              },
+              "id": "minecraft:suspicious_stew"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:suspicious_stew_effects": [
+                  {
+                    "id": "minecraft:jump_boost",
+                    "duration": 180
+                  }
+                ]
+              },
+              "id": "minecraft:suspicious_stew"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1759005294,
+      -706918848,
+      -2062303507,
+      1416442067
+    ],
+    "seed": -2523143772148565357,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/6/68/68d84a6e-d5dd-4640-8513-beed546d30d3",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2054,
+      85,
+      521
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/generic"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

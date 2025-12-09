@@ -1,0 +1,79 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:slowness"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "create:capacity": 1,
+                    "minecraft:piercing": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            }
+          ]
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      }
+    ],
+    "uuid": [
+      -1655146511,
+      811944940,
+      -1397572329,
+      -9101436
+    ],
+    "seed": 7766882909165243962,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/9d/9d5877f1-3065-4bec-acb2-bd17ff751f84",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -3338,
+      109,
+      -330
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ]
+    ],
+    "table": "structory:library/high"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

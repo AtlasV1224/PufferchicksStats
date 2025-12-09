@@ -1,0 +1,432 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ],
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 8,
+              "id": "minecraft:gilded_blackstone"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "ars_nouveau:mana_boost": 1
+                  }
+                },
+                "minecraft:damage": 51
+              },
+              "id": "minecraft:diamond_helmet"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "ars_nouveau:mana_regen": 1
+                  }
+                },
+                "minecraft:damage": 12
+              },
+              "id": "minecraft:diamond_chestplate"
+            },
+            {
+              "Slot": 4,
+              "count": 16,
+              "id": "minecraft:spectral_arrow"
+            },
+            {
+              "Slot": 5,
+              "count": 6,
+              "id": "minecraft:iron_ingot"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 8,
+              "id": "minecraft:gilded_blackstone"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:frost_walker": 1
+                  }
+                },
+                "minecraft:damage": 20
+              },
+              "id": "minecraft:diamond_boots"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:gilded_blackstone"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Pixie Pummel\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Their Friends are their power!",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {
+                        "pitch": 1.899999976158142
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_summon_vex",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Pixie Pummel"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:gilded_blackstone"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:thorns": 2
+                  }
+                },
+                "minecraft:damage": 58
+              },
+              "id": "minecraft:diamond_boots"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:diamond_chestplate"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "apothic_enchanting:life_mending": 3
+                  }
+                },
+                "minecraft:damage": 13
+              },
+              "id": "minecraft:diamond_helmet"
+            },
+            {
+              "Slot": 2,
+              "count": 21,
+              "id": "minecraft:spectral_arrow"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 4,
+              "count": 4,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 5,
+              "count": 8,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 9,
+              "count": 2,
+              "id": "silentgear:crimson_iron_ingot"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "ars_nouveau:alakarkinos_token"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -1678841899,
+          1864648116,
+          -1393378093,
+          -894335838
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "sauce:school_tome_caster": {
+                  "flavor_text": "Summon a Camel for a short time.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 50,
+                        "g": 250,
+                        "id": "ars_nouveau:constant",
+                        "b": 55
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_summon_steed",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Humpday"
+                    }
+                  }
+                },
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Humpday\"}"
+              },
+              "id": "ars_elemental:earth_caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:diamond_boots"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:diamond"
+            },
+            {
+              "Slot": 3,
+              "count": 22,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 4,
+              "count": 9,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 6,
+              "count": 5,
+              "id": "minecraft:magma_cream"
+            },
+            {
+              "Slot": 9,
+              "count": 4,
+              "id": "silentgear:blaze_gold_ingot"
+            },
+            {
+              "Slot": 10,
+              "count": 10,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "ars_nouveau:wixie_shards"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      -814538652,
+      -974895608,
+      -1893813032,
+      -1805920623
+    ],
+    "seed": -4409478551926312562,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/c/cf/cf732064-c5e4-4608-8f1e-b4d8945bd691",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1733,
+      44,
+      -284
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ],
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

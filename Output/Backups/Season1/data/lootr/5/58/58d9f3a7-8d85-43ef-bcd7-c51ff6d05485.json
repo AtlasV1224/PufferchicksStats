@@ -1,0 +1,202 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 9,
+              "id": "minecraft:emerald"
+            },
+            {
+              "Slot": 1,
+              "count": 24,
+              "id": "minecraft:iron_nugget"
+            },
+            {
+              "Slot": 2,
+              "count": 11,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "rage": {
+                        "stats": {
+                          "incoming_damage": {
+                            "initialValue": 0.03186
+                          },
+                          "dealt_damage": {
+                            "initialValue": 0.05203
+                          },
+                          "duration": {
+                            "initialValue": 2.34019
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "phlebotomy": {
+                        "stats": {
+                          "attack_speed": {
+                            "initialValue": 0.00899
+                          },
+                          "movement_speed": {
+                            "initialValue": 0.01828
+                          },
+                          "heal": {
+                            "initialValue": 0.00021
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "spurt": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 6.40403
+                          },
+                          "cooldown": {
+                            "initialValue": 18.23967
+                          },
+                          "damage": {
+                            "initialValue": 0.23876
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:rage_glove"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "supplementaries:globe"
+            },
+            {
+              "Slot": 5,
+              "count": 2,
+              "id": "extradelight:curry_powder"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1490678695,
+      -1920646161,
+      -1126709985,
+      -154119035
+    ],
+    "seed": 1942872857531214175,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/5/58/58d9f3a7-8d85-43ef-bcd7-c51ff6d05485",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -490,
+      88,
+      -2211
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/shipwreck_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

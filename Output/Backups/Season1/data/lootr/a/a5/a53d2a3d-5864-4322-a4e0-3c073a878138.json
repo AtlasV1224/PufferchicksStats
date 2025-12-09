@@ -1,0 +1,165 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:unbreaking": 1
+                  }
+                },
+                "minecraft:damage": 7
+              },
+              "id": "minecraft:fishing_rod"
+            },
+            {
+              "Slot": 1,
+              "count": 5,
+              "id": "minecraft:cooked_cod"
+            },
+            {
+              "Slot": 2,
+              "count": 4,
+              "id": "minecraft:salmon"
+            },
+            {
+              "Slot": 3,
+              "count": 3,
+              "id": "minecraft:cooked_salmon"
+            },
+            {
+              "Slot": 4,
+              "count": 3,
+              "id": "minecraft:turtle_scute"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:unbreaking": 1
+                  }
+                },
+                "minecraft:damage": 8
+              },
+              "id": "minecraft:fishing_rod"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "slots": {
+                        "stats": {
+                          "charm": {
+                            "initialValue": 2.39506
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:leather_belt"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1522718147,
+      1482965794,
+      -1528808441,
+      981958968
+    ],
+    "seed": -6285116228453294237,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/a/a5/a53d2a3d-5864-4322-a4e0-3c073a878138",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1121,
+      104,
+      3059
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "nova_structures:chests/illager_hideout_fishing"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

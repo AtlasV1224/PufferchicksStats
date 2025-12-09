@@ -1,0 +1,155 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 7,
+              "id": "minecraft:beetroot"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:cookie"
+            }
+          ]
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:sweet_berries"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:suspicious_stew_effects": [
+                  {
+                    "id": "minecraft:poison",
+                    "duration": 360
+                  }
+                ]
+              },
+              "id": "minecraft:suspicious_stew"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "push": {
+                        "stats": {
+                          "radius": {
+                            "initialValue": 4.03104
+                          },
+                          "chance": {
+                            "initialValue": 0.32223
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:whoopee_cushion"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      }
+    ],
+    "uuid": [
+      -1991527176,
+      815154229,
+      -1544260323,
+      939922848
+    ],
+    "seed": -4292041559282264006,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/8/89/894bb4f8-3096-4435-a3f4-751d380615a0",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1085,
+      119,
+      3017
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/kitchen"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,125 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:salmon"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "overlord": {
+                        "stats": {
+                          "time": {
+                            "initialValue": 2.64189
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "cowboy": {
+                        "stats": {
+                          "speed": {
+                            "initialValue": 0.28874
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:cowboy_hat"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:salmon"
+            }
+          ]
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      }
+    ],
+    "uuid": [
+      -35041303,
+      1507475483,
+      -1228123578,
+      -866091491
+    ],
+    "seed": -1636485033856402618,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/f/fd/fde94fe9-59da-401b-b6cc-5246cc607e1d",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      2156,
+      90,
+      -1796
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ]
+    ],
+    "table": "minecraft:chests/village/village_fisher"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

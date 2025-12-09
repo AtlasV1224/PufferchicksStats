@@ -1,0 +1,110 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:terracotta"
+            },
+            {
+              "Slot": 1,
+              "count": 4,
+              "id": "pastel:slush"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "pastel:brewers_handbook"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hold": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 3.91307
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:bunny_hoppers"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      1425680603,
+      -1280030577,
+      -1166680763,
+      948876332
+    ],
+    "seed": 548536901163109588,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/5/54/54fa28db-b3b4-488f-ba75-dd45388eb42c",
+    "dimension": "pastel:deeper_down",
+    "hasBeenOpened": 1,
+    "position": [
+      -2580,
+      -284,
+      -3763
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "pastel:chests/city_below/terrace_house_cellar"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

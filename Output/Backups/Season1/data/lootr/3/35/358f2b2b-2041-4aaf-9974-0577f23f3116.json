@@ -1,0 +1,171 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "slots": {
+                        "stats": {
+                          "charm": {
+                            "initialValue": 2.41317
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:leather_belt"
+            }
+          ]
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:suspicious_stew_effects": [
+                  {
+                    "id": "minecraft:poison",
+                    "duration": 260
+                  }
+                ]
+              },
+              "id": "minecraft:suspicious_stew"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "devouring": {
+                        "stats": {
+                          "frequency": {
+                            "initialValue": 123.3071
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:rooted_boots"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      898575147,
+      541149871,
+      -1720449673,
+      -230739690
+    ],
+    "seed": -714493353728445748,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/3/35/358f2b2b-2041-4aaf-9974-0577f23f3116",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1079,
+      120,
+      3000
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/generic"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

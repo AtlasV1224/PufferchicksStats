@@ -1,0 +1,468 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ],
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Gobute's Humble Tunnel\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Leave the riches untouched. Seek only to carve the earth.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 128,
+                        "id": "ars_nouveau:constant",
+                        "b": 1
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_touch",
+                        "ars_nouveau:glyph_break",
+                        "ars_nouveau:glyph_dampen",
+                        "ars_nouveau:glyph_dampen",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Gobute's Humble Tunnel"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 4,
+              "count": 9,
+              "id": "minecraft:iron_ingot"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:diamond_leggings"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:binding_curse": 1
+                  }
+                },
+                "minecraft:damage": 87
+              },
+              "id": "minecraft:diamond_chestplate"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "apothic_enchanting:knowledge_of_the_ages": 2
+                  }
+                },
+                "minecraft:damage": 51
+              },
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 3,
+              "count": 12,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 4,
+              "count": 5,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 8,
+              "count": 7,
+              "id": "silentgear:crimson_iron_ingot"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "ars_nouveau:whirlisprig_shards"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -1678841899,
+          1864648116,
+          -1393378093,
+          -894335838
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Mysti's Gravely Dig\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Be careful About digging straight down, People say its like digging your own grave",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 128,
+                        "id": "ars_nouveau:constant",
+                        "b": 1
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:fire_family_2"
+                        },
+                        "volume": 0.27000001072883606
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_underfoot",
+                        "ars_nouveau:glyph_linger",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_intangible",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Mysti's Gravely Dig"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 7,
+              "id": "minecraft:crying_obsidian"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:fire_protection": 3
+                  }
+                },
+                "minecraft:damage": 44
+              },
+              "id": "minecraft:diamond_helmet"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:diamond_helmet"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:diamond_boots"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 7,
+              "count": 5,
+              "id": "minecraft:magma_cream"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "sophisticatedbackpacks:iron_backpack"
+            },
+            {
+              "Slot": 11,
+              "count": 3,
+              "id": "silentgear:crimson_iron_ingot"
+            },
+            {
+              "Slot": 12,
+              "count": 10,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 13,
+              "count": 2,
+              "id": "silentgear:crimson_steel_dust"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "farmersdelight:diamond_knife"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:binding_curse": 1
+                  }
+                },
+                "minecraft:damage": 52
+              },
+              "id": "minecraft:diamond_leggings"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "runner": {
+                        "stats": {
+                          "speed": {
+                            "initialValue": 0.75471
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:running_shoes"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      -653390623,
+      1042369341,
+      -1106484051,
+      1393721208
+    ],
+    "seed": -5559055258990300129,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/d9/d90e0ce1-3e21-4b3d-be0c-64ad53127f78",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1739,
+      42,
+      -272
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ],
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

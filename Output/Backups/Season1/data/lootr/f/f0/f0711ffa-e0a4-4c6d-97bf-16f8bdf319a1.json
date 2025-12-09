@@ -1,0 +1,96 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:density": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:breach": 2,
+                    "minecraft:piercing": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:writable_book"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:paper"
+            }
+          ]
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      }
+    ],
+    "uuid": [
+      -261021702,
+      -526103443,
+      -1749084424,
+      -1108141663
+    ],
+    "seed": -8298664942639470561,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/f/f0/f0711ffa-e0a4-4c6d-97bf-16f8bdf319a1",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      2165,
+      87,
+      -1792
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ]
+    ],
+    "table": "ctov:chests/village/village_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

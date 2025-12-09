@@ -1,0 +1,135 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:gold_block"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:soul_speed": 1
+                  }
+                }
+              },
+              "id": "minecraft:golden_boots"
+            },
+            {
+              "Slot": 3,
+              "count": 17,
+              "id": "minecraft:golden_carrot"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:cooked_porkchop"
+            },
+            {
+              "Slot": 5,
+              "count": 6,
+              "id": "minecraft:magma_cream"
+            },
+            {
+              "Slot": 6,
+              "count": 2,
+              "id": "silentgear:netherwood_sapling"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "dissection": {
+                        "stats": {
+                          "time": {
+                            "initialValue": 6.07856
+                          },
+                          "distance": {
+                            "initialValue": 24.97113
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:space_dissector"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      303337018,
+      2087469261,
+      -1436530785,
+      -1597890683
+    ],
+    "seed": 3939541703667099814,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/1/12/12148e3a-7c6c-40cd-aa60-479fa0c21f85",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      73,
+      73,
+      -2014
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/bastion_other"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:awkward"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:harming"
+                }
+              },
+              "id": "minecraft:splash_potion"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "push": {
+                        "stats": {
+                          "radius": {
+                            "initialValue": 3.45428
+                          },
+                          "chance": {
+                            "initialValue": 0.21517
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:whoopee_cushion"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      573346814,
+      -727367348,
+      -1809020734,
+      564573919
+    ],
+    "seed": 3300188820566089007,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/2/22/222c93fe-d4a5-414c-942c-88c221a6b6df",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2097,
+      85,
+      489
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/witch_chest"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

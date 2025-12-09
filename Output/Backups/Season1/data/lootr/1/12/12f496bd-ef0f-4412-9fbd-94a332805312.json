@@ -1,0 +1,110 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "ars_additions:structure_lookup_data": [
+                  122455447,
+                  -1708504473,
+                  -1544953950,
+                  -149574445
+                ],
+                "ars_additions:exploration_scroll_data": {
+                  "pos": [
+                    -444.5,
+                    201.5,
+                    948.5
+                  ],
+                  "search_radius": 100
+                }
+              },
+              "id": "ars_additions:exploration_warp_scroll"
+            }
+          ]
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      318019261,
+      -284212206,
+      -1614965597,
+      847270674
+    ],
+    "seed": 3086189205428167400,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/1/12/12f496bd-ef0f-4412-9fbd-94a332805312",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -445,
+      201,
+      948
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "table": "ars_additions:chests/ruined_portal"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

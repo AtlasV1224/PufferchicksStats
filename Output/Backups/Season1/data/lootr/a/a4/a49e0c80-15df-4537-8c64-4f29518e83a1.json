@@ -1,0 +1,213 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:torch"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:stick"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "panic": {
+                        "stats": {
+                          "movement": {
+                            "initialValue": 0.12902
+                          },
+                          "radius": {
+                            "initialValue": 7.68307
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:panic_necklace"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/stronghold/corridor_3.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/stronghold/corridor_3.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/stronghold/corridor_4.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:torch"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 16,
+              "count": 2,
+              "id": "minecraft:torch"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:torch"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1533145984,
+      366953783,
+      -1939583191,
+      1368294305
+    ],
+    "seed": 7723195976572709202,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/a/a4/a49e0c80-15df-4537-8c64-4f29518e83a1",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      2780,
+      -16,
+      -3824
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "betterstrongholds:chests/common"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "fire": {
+                        "stats": {
+                          "time": {
+                            "initialValue": 2.89455
+                          },
+                          "chance": {
+                            "initialValue": 0.28222
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:flame_pendant"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 25
+              },
+              "id": "minecraft:leather_leggings"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:string"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -260031741,
+      1174029541,
+      -1283956511,
+      -91333385
+    ],
+    "seed": -6305348593878148101,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/f/f0/f0803b03-45fa-44e5-b378-60e1fa8e5cf7",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      4422,
+      108,
+      2083
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "rage": {
+                        "stats": {
+                          "incoming_damage": {
+                            "initialValue": 0.0388
+                          },
+                          "dealt_damage": {
+                            "initialValue": 0.02676
+                          },
+                          "duration": {
+                            "initialValue": 2.34929
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "phlebotomy": {
+                        "stats": {
+                          "attack_speed": {
+                            "initialValue": 0.00515
+                          },
+                          "movement_speed": {
+                            "initialValue": 0.02145
+                          },
+                          "heal": {
+                            "initialValue": 0.00019
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "spurt": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 4.86205
+                          },
+                          "cooldown": {
+                            "initialValue": 17.97896
+                          },
+                          "damage": {
+                            "initialValue": 0.16246
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:rage_glove"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:string"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1589379832,
+      513494484,
+      -1277533373,
+      -193773971
+    ],
+    "seed": 3965816688636359932,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/5/5e/5ebc02f8-1e9b-4dd4-b3da-6343f4733e6d",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      4934,
+      105,
+      -1789
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

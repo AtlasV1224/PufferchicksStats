@@ -1,0 +1,233 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 6,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 1,
+              "count": 5,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "passive": {
+                        "stats": {},
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "withered": {
+                        "stats": {
+                          "time": {
+                            "initialValue": 2.76926
+                          },
+                          "chance": {
+                            "initialValue": 0.27168
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:withered_bracelet"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 9,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 1,
+              "count": 9,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "apothic_enchanting:chromatic": 1,
+                    "minecraft:efficiency": 4
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 4,
+              "count": 5,
+              "id": "ars_nouveau:source_gem"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "boost": {
+                        "stats": {
+                          "capacity": {
+                            "initialValue": 66.08961
+                          },
+                          "speed": {
+                            "initialValue": 1.11057
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:elytra_booster"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1312446649,
+      762988150,
+      -1124576025,
+      841406292
+    ],
+    "seed": -7709288321351139239,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/b/b1/b1c5a747-2d7a-4676-bcf8-54e73226d754",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -484,
+      88,
+      -2211
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

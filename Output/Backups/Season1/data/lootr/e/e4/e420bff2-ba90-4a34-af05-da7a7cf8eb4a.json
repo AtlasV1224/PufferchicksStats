@@ -1,0 +1,210 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "passive": {
+                        "stats": {},
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "discount": {
+                        "stats": {
+                          "multiplier": {
+                            "initialValue": 19.43023
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:villager_hat"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:piercing": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:sharpness": 1,
+                    "minecraft:knockback": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:writable_book"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:paper"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:power": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:fire_aspect": 1,
+                    "ars_nouveau:mana_boost": 2
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:writable_book"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      -467615758,
+      -1164948940,
+      -1358570886,
+      2096687946
+    ],
+    "seed": -7050211214131985638,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/e/e4/e420bff2-ba90-4a34-af05-da7a7cf8eb4a",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -212,
+      92,
+      -439
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "ctov:chests/village/village_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

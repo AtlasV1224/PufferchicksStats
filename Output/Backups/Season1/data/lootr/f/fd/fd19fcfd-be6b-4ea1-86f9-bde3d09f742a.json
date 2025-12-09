@@ -1,0 +1,149 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Mysti's Gravely Dig\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Be careful About digging straight down, People say its like digging your own grave",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 128,
+                        "id": "ars_nouveau:constant",
+                        "b": 1
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:fire_family_2"
+                        },
+                        "volume": 0.27000001072883606
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_underfoot",
+                        "ars_nouveau:glyph_linger",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_intangible",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Mysti's Gravely Dig"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 3,
+              "count": 3,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "exposure_expanded:wobble_filter"
+            },
+            {
+              "Slot": 6,
+              "count": 3,
+              "id": "ars_nouveau:wilden_spike"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "apothic_spawners:capturing": 3
+                  }
+                }
+              },
+              "id": "farmersdelight:iron_knife"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      -48628483,
+      -1100263775,
+      -2030453277,
+      -794856406
+    ],
+    "seed": -3175535162937567672,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/f/fd/fd19fcfd-be6b-4ea1-86f9-bde3d09f742a",
+    "dimension": "minecraft:the_end",
+    "hasBeenOpened": 1,
+    "position": [
+      -321,
+      149,
+      -1609
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/end_city_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

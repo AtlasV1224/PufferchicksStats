@@ -1,0 +1,154 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "interaction": {
+                        "stats": {
+                          "range": {
+                            "initialValue": 0.20818
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "discarding": {
+                        "stats": {
+                          "interaction": {
+                            "initialValue": 0.35035
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:pocket_piston"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:writable_book"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:bane_of_arthropods": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:bane_of_arthropods": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      288909283,
+      1806320151,
+      -1681671139,
+      495702937
+    ],
+    "seed": -5320946793438295730,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/1/11/113867e3-6baa-4217-9bc3-bc1d1d8bd399",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -428,
+      150,
+      3476
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "ctov:chests/village/village_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

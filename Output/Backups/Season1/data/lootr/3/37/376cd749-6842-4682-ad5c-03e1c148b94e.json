@@ -1,0 +1,147 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:diamond_horse_armor"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "panic": {
+                        "stats": {
+                          "movement": {
+                            "initialValue": 0.12789
+                          },
+                          "radius": {
+                            "initialValue": 6.3211
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:panic_necklace"
+            },
+            {
+              "Slot": 19,
+              "count": 2,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:apple"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 6,
+              "id": "minecraft:cobweb"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:apple"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      929879881,
+      1749173890,
+      -1386478623,
+      -1052198578
+    ],
+    "seed": 4973312844592773401,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/3/37/376cd749-6842-4682-ad5c-03e1c148b94e",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      2753,
+      -17,
+      -3856
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "betterstrongholds:chests/common"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

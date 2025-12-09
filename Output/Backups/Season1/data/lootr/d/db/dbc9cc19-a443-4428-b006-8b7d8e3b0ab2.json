@@ -1,0 +1,135 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 1,
+              "count": 8,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "interaction": {
+                        "stats": {
+                          "range": {
+                            "initialValue": 0.35375
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "discarding": {
+                        "stats": {
+                          "interaction": {
+                            "initialValue": 0.2481
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:pocket_piston"
+            },
+            {
+              "Slot": 4,
+              "count": 3,
+              "id": "farmersdelight:onion"
+            }
+          ]
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      }
+    ],
+    "uuid": [
+      -607532007,
+      -1539095512,
+      -1341748355,
+      -1908733262
+    ],
+    "seed": -4034045771174598278,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/db/dbc9cc19-a443-4428-b006-8b7d8e3b0ab2",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -937,
+      85,
+      4535
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "table": "minecraft:chests/village/village_plains_house"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

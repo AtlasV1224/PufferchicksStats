@@ -1,0 +1,126 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:poison"
+                }
+              },
+              "id": "minecraft:tipped_arrow"
+            },
+            {
+              "Slot": 1,
+              "count": 6,
+              "id": "minecraft:emerald"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "passive": {
+                        "stats": {},
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "speed": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.29276
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:snowshoes"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      549281423,
+      -1774959639,
+      -1159705737,
+      -1817009732
+    ],
+    "seed": 402278792006154603,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/2/20/20bd5e8f-9634-43e9-bae0-4b7793b2a1bc",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -319,
+      -15,
+      -856
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/trial_chambers/reward"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

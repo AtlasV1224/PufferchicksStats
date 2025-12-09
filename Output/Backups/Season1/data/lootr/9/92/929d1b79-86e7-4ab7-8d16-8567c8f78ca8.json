@@ -1,0 +1,134 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 1,
+              "count": 5,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "vision": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.13372
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:night_vision_goggles"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 7,
+              "id": "minecraft:redstone"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1835197575,
+      -2031662409,
+      -1927903897,
+      -923300696
+    ],
+    "seed": 7005969831772476412,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/9/92/929d1b79-86e7-4ab7-8d16-8567c8f78ca8",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      2806,
+      -8,
+      -3880
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_crossing"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

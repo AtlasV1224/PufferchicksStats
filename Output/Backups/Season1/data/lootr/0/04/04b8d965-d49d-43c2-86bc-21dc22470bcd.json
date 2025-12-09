@@ -1,0 +1,217 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "extradelight:pestle_amethyst"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "ars_nouveau:source_gem"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "ars_nouveau:source_gem"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 6,
+              "count": 2,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 8,
+              "count": 4,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:golden_apple"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "ars_nouveau:warp_scroll"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Rift's Blink Strike\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Just like that one guy, from that one thing! This spell will put you right in the enemy's face, so be ready for some swordplay!",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 120,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 255
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_harm",
+                        "ars_nouveau:glyph_blink"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Rift's Blink Strike"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 14,
+              "count": 4,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 15,
+              "count": 3,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:music_disc_cat"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "ars_nouveau:warp_scroll"
+            },
+            {
+              "Slot": 19,
+              "count": 2,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 22,
+              "count": 4,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 24,
+              "count": 6,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      79223141,
+      -727891006,
+      -2034490916,
+      575081421
+    ],
+    "seed": -6284075818362599220,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/0/04/04b8d965-d49d-43c2-86bc-21dc22470bcd",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -468,
+      -41,
+      689
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,128 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 4,
+              "count": 3,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "teleport": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 580.92891
+                          },
+                          "cooldown": {
+                            "initialValue": 68.73746
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:magic_mirror"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:redstone"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      520918248,
+      -225689032,
+      -1808788116,
+      -126714016
+    ],
+    "seed": 1513566212929824820,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/1/1f/1f0c94e8-f28c-4238-9430-156cf8727f60",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2565,
+      -1,
+      358
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "betterstrongholds:chests/common"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

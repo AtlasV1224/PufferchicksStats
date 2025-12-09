@@ -1,0 +1,122 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "ars_nouveau:sourcestone"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "ars_nouveau:wilden_spike"
+            },
+            {
+              "Slot": 6,
+              "count": 12,
+              "id": "ars_nouveau:sourcestone"
+            },
+            {
+              "Slot": 9,
+              "count": 2,
+              "id": "ars_nouveau:sourcestone"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "components": {
+                "ars_additions:structure_lookup_data": [
+                  855563440,
+                  1808025987,
+                  -1280226878,
+                  -858022928
+                ],
+                "ars_additions:exploration_scroll_data": {
+                  "pos": [
+                    -2203.5,
+                    68.5,
+                    -3538.5
+                  ],
+                  "search_radius": 100
+                }
+              },
+              "id": "ars_additions:exploration_warp_scroll"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 16,
+              "count": 23,
+              "id": "ars_nouveau:sourcestone"
+            },
+            {
+              "Slot": 24,
+              "count": 2,
+              "id": "ars_nouveau:wilden_wing"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "ars_nouveau:wilden_wing"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -1114949551,
+      1321091557,
+      -1568880587,
+      145145800
+    ],
+    "seed": 3387664111838987931,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/b/bd/bd8b3851-4ebe-41e5-a27c-c83508a6bfc8",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2204,
+      68,
+      -3539
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "ars_additions:chests/ruined_portal"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,113 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:fire_protection": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:writable_book"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:sharpness": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      676492282,
+      -1851044745,
+      -1949525295,
+      755834059
+    ],
+    "seed": -7596118258942874879,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/2/28/285273fa-91ab-4c77-8bcc-9ad12d0d1ccb",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1966,
+      151,
+      -4752
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "table": "ctov:chests/village/village_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

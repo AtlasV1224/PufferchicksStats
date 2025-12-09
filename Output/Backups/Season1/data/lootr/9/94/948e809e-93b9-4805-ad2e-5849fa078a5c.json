@@ -1,0 +1,185 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 54
+              },
+              "id": "minecraft:leather_leggings"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:frost_walker": 2,
+                    "ars_nouveau:mana_regen": 3
+                  }
+                },
+                "minecraft:damage": 68
+              },
+              "id": "minecraft:golden_boots"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "rage": {
+                        "stats": {
+                          "incoming_damage": {
+                            "initialValue": 0.03557
+                          },
+                          "dealt_damage": {
+                            "initialValue": 0.0493
+                          },
+                          "duration": {
+                            "initialValue": 3.83225
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "phlebotomy": {
+                        "stats": {
+                          "attack_speed": {
+                            "initialValue": 0.00927
+                          },
+                          "movement_speed": {
+                            "initialValue": 0.0232
+                          },
+                          "heal": {
+                            "initialValue": 0.00015
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "spurt": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 7.89147
+                          },
+                          "cooldown": {
+                            "initialValue": 17.20819
+                          },
+                          "damage": {
+                            "initialValue": 0.24438
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:rage_glove"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1802600290,
+      -1816573947,
+      -1389471671,
+      -100169124
+    ],
+    "seed": -4486343452447268876,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/9/94/948e809e-93b9-4805-ad2e-5849fa078a5c",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      3907,
+      96,
+      4937
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,1002 @@
+{
+  "Equipment": [
+    {
+      "id": "silentgear:mace",
+      "count": 1,
+      "components": {
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:mace_core",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:diamond",
+                      "item": {
+                        "id": "minecraft:diamond",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:diamond",
+                      "item": {
+                        "id": "minecraft:diamond",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:diamond",
+                      "item": {
+                        "id": "minecraft:diamond",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:mace_core"
+            },
+            {
+              "item": {
+                "id": "silentgear:rod",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:blaze_rod"
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:rod"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "!minecraft:attribute_modifiers": {},
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.mace.nameProper\",\"with\":[{\"translate\":\"material.silentgear.diamond\"}]}",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 1.100000023841858,
+          "silentgear:draw_speed": -0.20000000298023224,
+          "silentgear:durability": 3122.0,
+          "silentgear:repair_efficiency": 1.0,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "silentgear:incorrect_for_diamond_tools",
+            "level_hint": "3",
+            "name": "diamond"
+          },
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:projectile_speed": 0.8999999761581421,
+          "silentgear:magic_damage": 1.0,
+          "silentgear:armor_toughness": 8.0,
+          "silentgear:attack_speed": 0.6000000238418579,
+          "silentgear:repair_value": 0.0,
+          "silentgear:magic_armor": 4.0,
+          "silentgear:attack_damage": 6.600000381469727,
+          "silentgear:armor_durability": 33.0,
+          "silentgear:harvest_speed": 8.800000190734863,
+          "silentgear:rarity": 70.0,
+          "silentgear:ranged_damage": 2.200000047683716,
+          "silentgear:enchantment_value": 10.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:brittle",
+              "level": 2
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 4
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:reach",
+              "level": 1
+            }
+          ],
+          "silentgear:block_reach": 0.0,
+          "silentgear:armor": 20.0,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:charging_value": 0.8000000715255737
+        },
+        "silentgear:model_key": "mace:mace_core{diamond},rod{blaze_rod},",
+        "silentgear:model_index": 3,
+        "minecraft:tool": {
+          "damage_per_block": 2,
+          "rules": []
+        }
+      }
+    },
+    {
+      "id": "minecraft:netherite_boots",
+      "count": 1,
+      "components": {
+        "minecraft:repair_cost": 3,
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:feather_falling": 11,
+            "pastel:indestructible": 1
+          }
+        },
+        "minecraft:damage": 266
+      }
+    },
+    {
+      "id": "minecraft:netherite_leggings",
+      "count": 1,
+      "components": {
+        "minecraft:repair_cost": 1,
+        "minecraft:enchantments": {
+          "levels": {
+            "pastel:indestructible": 1,
+            "minecraft:blast_protection": 3,
+            "ars_nouveau:mana_regen": 3,
+            "ars_nouveau:mana_boost": 3
+          }
+        },
+        "minecraft:damage": 255
+      }
+    },
+    {
+      "id": "create_jetpack:netherite_jetpack",
+      "count": 1,
+      "components": {
+        "minecraft:rarity": "common",
+        "minecraft:repair_cost": 7,
+        "create:banktank_air": 2098,
+        "minecraft:enchantments": {
+          "levels": {
+            "ars_elemental:soulbound": 1,
+            "create:capacity": 6,
+            "pastel:indestructible": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "create:netherite_diving_helmet",
+      "count": 1,
+      "components": {
+        "minecraft:repair_cost": 1,
+        "minecraft:enchantments": {
+          "levels": {
+            "pastel:indestructible": 1
+          }
+        },
+        "minecraft:damage": 166
+      }
+    }
+  ],
+  "Model": 127,
+  "PlayerName": "AtlasV1224",
+  "PosZ": -3232.850196898813,
+  "Id": [
+    -72034307,
+    1072253476,
+    -2017584547,
+    -840392057
+  ],
+  "PosY": 124.77478786070269,
+  "PosX": -4578.791882166308,
+  "Dimension": "minecraft:overworld",
+  "ArmorInventory": [
+    {
+      "count": 1,
+      "Slot": 0,
+      "components": {
+        "minecraft:repair_cost": 3,
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:feather_falling": 11,
+            "pastel:indestructible": 1
+          }
+        },
+        "minecraft:damage": 266
+      },
+      "id": "minecraft:netherite_boots"
+    },
+    {
+      "count": 1,
+      "Slot": 1,
+      "components": {
+        "minecraft:repair_cost": 1,
+        "minecraft:enchantments": {
+          "levels": {
+            "pastel:indestructible": 1,
+            "minecraft:blast_protection": 3,
+            "ars_nouveau:mana_regen": 3,
+            "ars_nouveau:mana_boost": 3
+          }
+        },
+        "minecraft:damage": 255
+      },
+      "id": "minecraft:netherite_leggings"
+    },
+    {
+      "count": 1,
+      "Slot": 3,
+      "components": {
+        "minecraft:repair_cost": 1,
+        "minecraft:enchantments": {
+          "levels": {
+            "pastel:indestructible": 1
+          }
+        },
+        "minecraft:damage": 166
+      },
+      "id": "create:netherite_diving_helmet"
+    }
+  ],
+  "Timestamp": 1759053691601,
+  "MainInventory": [
+    {
+      "count": 1,
+      "Slot": 0,
+      "components": {
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:katana_blade",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:diamond",
+                      "item": {
+                        "id": "minecraft:diamond",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:diamond",
+                      "item": {
+                        "id": "minecraft:diamond",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:diamond",
+                      "item": {
+                        "id": "minecraft:diamond",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:katana_blade"
+            },
+            {
+              "item": {
+                "id": "silentgear:rod",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:wood",
+                      "item": {
+                        "id": "minecraft:oak_planks",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:rod"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "!minecraft:attribute_modifiers": {},
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.katana.nameProper\",\"with\":[{\"translate\":\"material.silentgear.diamond\"}]}",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 1.100000023841858,
+          "silentgear:draw_speed": -0.20000000298023224,
+          "silentgear:magic_armor": 4.0,
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:armor_toughness": 8.0,
+          "silentgear:projectile_speed": 0.8999999761581421,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "silentgear:incorrect_for_diamond_tools",
+            "level_hint": "3",
+            "name": "diamond"
+          },
+          "silentgear:magic_damage": 1.0,
+          "silentgear:attack_speed": 1.399999976158142,
+          "silentgear:repair_value": 0.0,
+          "silentgear:repair_efficiency": 1.0,
+          "silentgear:durability": 1756.125,
+          "silentgear:attack_damage": 7.0,
+          "silentgear:harvest_speed": 8.0,
+          "silentgear:armor_durability": 33.0,
+          "silentgear:rarity": 70.0,
+          "silentgear:ranged_damage": 2.0,
+          "silentgear:enchantment_value": 9.0,
+          "silentgear:armor": 20.0,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:block_reach": 0.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:brittle",
+              "level": 2
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 2
+            }
+          ],
+          "silentgear:charging_value": 0.8000000715255737
+        },
+        "silentgear:model_key": "katana:katana_blade{diamond},rod{wood},",
+        "minecraft:repair_cost": 1,
+        "silentgear:model_index": 3,
+        "minecraft:enchantments": {
+          "levels": {
+            "pastel:indestructible": 1,
+            "minecraft:sweeping_edge": 8,
+            "apothic_spawners:capturing": 7,
+            "pastel:tight_grip": 7,
+            "minecraft:looting": 8,
+            "minecraft:sharpness": 9
+          }
+        },
+        "minecraft:tool": {
+          "damage_per_block": 2,
+          "rules": [
+            {
+              "speed": 15.0,
+              "blocks": "minecraft:cobweb",
+              "correct_for_drops": 1
+            },
+            {
+              "speed": 1.5,
+              "blocks": "#minecraft:sword_efficient"
+            }
+          ]
+        }
+      },
+      "id": "silentgear:katana"
+    },
+    {
+      "count": 1,
+      "Slot": 8,
+      "components": {
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:mace_core",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:diamond",
+                      "item": {
+                        "id": "minecraft:diamond",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:diamond",
+                      "item": {
+                        "id": "minecraft:diamond",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:diamond",
+                      "item": {
+                        "id": "minecraft:diamond",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:mace_core"
+            },
+            {
+              "item": {
+                "id": "silentgear:rod",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:blaze_rod"
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:rod"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "!minecraft:attribute_modifiers": {},
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.mace.nameProper\",\"with\":[{\"translate\":\"material.silentgear.diamond\"}]}",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 1.100000023841858,
+          "silentgear:draw_speed": -0.20000000298023224,
+          "silentgear:durability": 3122.0,
+          "silentgear:repair_efficiency": 1.0,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "silentgear:incorrect_for_diamond_tools",
+            "level_hint": "3",
+            "name": "diamond"
+          },
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:projectile_speed": 0.8999999761581421,
+          "silentgear:magic_damage": 1.0,
+          "silentgear:armor_toughness": 8.0,
+          "silentgear:attack_speed": 0.6000000238418579,
+          "silentgear:repair_value": 0.0,
+          "silentgear:magic_armor": 4.0,
+          "silentgear:attack_damage": 6.600000381469727,
+          "silentgear:armor_durability": 33.0,
+          "silentgear:harvest_speed": 8.800000190734863,
+          "silentgear:rarity": 70.0,
+          "silentgear:ranged_damage": 2.200000047683716,
+          "silentgear:enchantment_value": 10.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:brittle",
+              "level": 2
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 4
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:reach",
+              "level": 1
+            }
+          ],
+          "silentgear:block_reach": 0.0,
+          "silentgear:armor": 20.0,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:charging_value": 0.8000000715255737
+        },
+        "silentgear:model_key": "mace:mace_core{diamond},rod{blaze_rod},",
+        "silentgear:model_index": 3,
+        "minecraft:tool": {
+          "damage_per_block": 2,
+          "rules": []
+        }
+      },
+      "id": "silentgear:mace"
+    }
+  ],
+  "Experience": 13,
+  "PlayerUuid": [
+    2088048874,
+    -679722978,
+    -2141306900,
+    -1177290616
+  ],
+  "Items": [
+    {
+      "id": "create:goggles",
+      "count": 1,
+      "components": {
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "head",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:lucky_scarf",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 4,
+            "experience": 104,
+            "level": 5
+          },
+          "abilities": {
+            "abilities": {
+              "luck": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 1,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "3": [
+                      1,
+                      5,
+                      4
+                    ],
+                    "2": [
+                      3
+                    ],
+                    "1": [
+                      0
+                    ],
+                    "0": [
+                      2
+                    ],
+                    "6": [
+                      3
+                    ]
+                  }
+                },
+                "stats": {
+                  "chance": {
+                    "initialValue": 0.19818
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "necklace",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:withered_bracelet",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 5,
+            "experience": 169,
+            "level": 5
+          },
+          "abilities": {
+            "abilities": {
+              "passive": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {}
+              },
+              "withered": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "8": [
+                      9
+                    ],
+                    "1": [
+                      3,
+                      2,
+                      4
+                    ],
+                    "0": [
+                      1
+                    ],
+                    "6": [
+                      7,
+                      4
+                    ],
+                    "7": [
+                      9
+                    ],
+                    "5": [
+                      4,
+                      8,
+                      6,
+                      7
+                    ],
+                    "4": [
+                      8
+                    ],
+                    "9": [
+                      5
+                    ]
+                  }
+                },
+                "stats": {
+                  "chance": {
+                    "initialValue": 0.35761
+                  },
+                  "time": {
+                    "initialValue": 2.27888
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "bracelet",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:vampiric_glove",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 5,
+            "experience": 231,
+            "level": 8
+          },
+          "abilities": {
+            "abilities": {
+              "vampire": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 3,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "2": [
+                      1
+                    ],
+                    "1": [
+                      4,
+                      0,
+                      5
+                    ],
+                    "3": [
+                      2
+                    ]
+                  }
+                },
+                "stats": {
+                  "amount": {
+                    "initialValue": 0.15896
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "hands",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:power_glove",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 5,
+            "experience": 118,
+            "level": 5
+          },
+          "abilities": {
+            "abilities": {
+              "power": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "0": [
+                      1
+                    ],
+                    "1": [
+                      2
+                    ],
+                    "3": [
+                      2
+                    ],
+                    "6": [
+                      5
+                    ],
+                    "7": [
+                      6,
+                      8
+                    ],
+                    "5": [
+                      4
+                    ],
+                    "4": [
+                      3
+                    ],
+                    "9": [
+                      8
+                    ]
+                  }
+                },
+                "stats": {
+                  "amount": {
+                    "initialValue": 0.96661
+                  }
+                }
+              }
+            }
+          }
+        },
+        "relics:time": 6,
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "hands",
+          "wasEquipped": 1,
+          "slotIndex": 1
+        }
+      }
+    },
+    {
+      "id": "artifacts:running_shoes",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 4,
+            "experience": 0,
+            "level": 10
+          },
+          "abilities": {
+            "abilities": {
+              "runner": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 6,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "8": [
+                      0
+                    ],
+                    "3": [
+                      4
+                    ],
+                    "2": [
+                      3
+                    ],
+                    "1": [
+                      2
+                    ],
+                    "0": [
+                      1
+                    ],
+                    "6": [
+                      7
+                    ],
+                    "7": [
+                      8
+                    ],
+                    "5": [
+                      6
+                    ],
+                    "4": [
+                      5
+                    ]
+                  }
+                },
+                "stats": {
+                  "speed": {
+                    "initialValue": 0.79322
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "feet",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "relics:phantom_boot",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 7,
+            "experience": 936,
+            "level": 9
+          },
+          "abilities": {
+            "abilities": {
+              "bridge": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 2,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "0": [
+                      1,
+                      2,
+                      3
+                    ],
+                    "5": [
+                      4,
+                      3
+                    ],
+                    "4": [
+                      3
+                    ]
+                  }
+                },
+                "stats": {
+                  "duration": {
+                    "initialValue": 0.75963
+                  }
+                }
+              }
+            }
+          }
+        },
+        "relics:time": 0,
+        "relics:toggled": 1,
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "feet",
+          "wasEquipped": 1,
+          "slotIndex": 1
+        }
+      }
+    },
+    {
+      "id": "artifacts:warp_drive",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 3,
+            "experience": 338,
+            "level": 6
+          },
+          "abilities": {
+            "abilities": {
+              "teleport": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 64
+                },
+                "points": 3,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "8": [
+                      10
+                    ],
+                    "0": [
+                      7,
+                      8
+                    ],
+                    "1": [
+                      0
+                    ],
+                    "2": [
+                      1
+                    ],
+                    "3": [
+                      2
+                    ],
+                    "6": [
+                      5
+                    ],
+                    "7": [
+                      6
+                    ],
+                    "5": [
+                      4
+                    ],
+                    "4": [
+                      3
+                    ],
+                    "9": [
+                      8
+                    ]
+                  }
+                },
+                "stats": {
+                  "distance": {
+                    "initialValue": 8.8473
+                  },
+                  "cooldown": {
+                    "initialValue": 83.00552
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "charm",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "hooked:redstone_hook",
+      "count": 1,
+      "components": {
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "hooked_hook",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    }
+  ],
+  "OffHandInventory": []
+}

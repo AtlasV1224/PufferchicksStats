@@ -1,0 +1,203 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 9,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 1,
+              "count": 5,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 8,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 4,
+              "count": 5,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 6,
+              "count": 8,
+              "id": "farmersdelight:onion"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Arcane Smelt\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Enough heat to melt a mountain or evaporate oceans.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 139,
+                        "g": 1,
+                        "id": "ars_nouveau:constant",
+                        "b": 1
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_touch",
+                        "ars_nouveau:glyph_rune",
+                        "ars_nouveau:glyph_smelt",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Arcane Smelt"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 5,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 2,
+              "count": 6,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 3,
+              "count": 5,
+              "id": "minecraft:tripwire_hook"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 5,
+              "count": 7,
+              "id": "minecraft:arrow"
+            },
+            {
+              "Slot": 6,
+              "count": 4,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 8,
+              "count": 3,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 10,
+              "count": 12,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "extradelight:sweet_berry_pie_slice"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "extradelight:glow_berry_cookie"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "extradelight:mashed_potato_gravy"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "extradelight:haggis"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      1861421111,
+      1129598331,
+      -1600138417,
+      785067249
+    ],
+    "seed": -6703099929585212763,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/6/6e/6ef30837-4354-4d7b-a09f-d34f2ecb2cf1",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      841,
+      196,
+      -294
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "minecraft:chests/pillager_outpost"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

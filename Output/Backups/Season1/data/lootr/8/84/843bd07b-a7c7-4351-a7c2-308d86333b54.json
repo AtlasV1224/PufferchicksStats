@@ -1,0 +1,150 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 5,
+              "id": "minecraft:crying_obsidian"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:diamond_chestplate"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:netherite_upgrade_smithing_template"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "vampire": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.10292
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:vampiric_glove"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "create_dragons_plus:blaze_upgrade_smithing_template"
+            },
+            {
+              "Slot": 11,
+              "count": 5,
+              "id": "silentgear:blaze_gold_ingot"
+            },
+            {
+              "Slot": 12,
+              "count": 19,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 13,
+              "count": 3,
+              "id": "ars_nouveau:sourceberry_bush"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "farmersdelight:diamond_knife"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -2076454789,
+      -1480113327,
+      -1480445811,
+      -2043462828
+    ],
+    "seed": 4682453085500189219,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/8/84/843bd07b-a7c7-4351-a7c2-308d86333b54",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      2615,
+      89,
+      -244
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ],
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "vampire": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.12943
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:vampiric_glove"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 84
+              },
+              "id": "minecraft:stone_sword"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:string"
+            }
+          ]
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 46
+              },
+              "id": "minecraft:leather_chestplate"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:bane_of_arthropods": 5,
+                    "minecraft:sharpness": 4,
+                    "minecraft:unbreaking": 3
+                  }
+                },
+                "minecraft:damage": 22
+              },
+              "id": "minecraft:golden_sword"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 8,
+              "count": 2,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:coal"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      1678777699,
+      -573553304,
+      -1734117248,
+      1572913352
+    ],
+    "seed": 942404636090461329,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/6/64/64101d63-ddd0-4568-98a3-78805dc0c0c8",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -429,
+      109,
+      501
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ],
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

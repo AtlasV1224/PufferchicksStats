@@ -1,0 +1,116 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 117
+              },
+              "id": "minecraft:stone_sword"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 91
+              },
+              "id": "minecraft:golden_chestplate"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "vampire": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.19547
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:vampiric_glove"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -704871249,
+      -613793402,
+      -1200275609,
+      -2089418857
+    ],
+    "seed": -8171636126561021220,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/d/d5/d5fc84af-db6a-4186-b875-3f678375ff97",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      4953,
+      96,
+      -432
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

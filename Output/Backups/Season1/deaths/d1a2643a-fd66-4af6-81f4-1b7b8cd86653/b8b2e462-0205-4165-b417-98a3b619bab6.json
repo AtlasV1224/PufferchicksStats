@@ -1,0 +1,1869 @@
+{
+  "Equipment": [
+    {
+      "id": "silentgear:sword",
+      "count": 1,
+      "components": {
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:sword_blade",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:sword_blade"
+            },
+            {
+              "item": {
+                "id": "silentgear:rod",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:netherwood",
+                      "item": {
+                        "id": "silentgear:netherwood_planks",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:rod"
+            },
+            {
+              "item": {
+                "id": "silentgear:tip",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:redstone",
+                      "item": {
+                        "id": "minecraft:redstone",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:tip"
+            },
+            {
+              "item": {
+                "id": "silentgear:grip",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:phantom_membrane",
+                      "item": {
+                        "id": "minecraft:phantom_membrane",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:grip"
+            },
+            {
+              "item": {
+                "id": "silentgear:binding",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:fine_silk",
+                      "item": {
+                        "id": "silentgear:fine_silk",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:binding"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "!minecraft:attribute_modifiers": {},
+        "silentgear:model_key": "sword:sword_blade{metal_alloy[tyrian_steel,crimson_steel]},rod{netherwood},tip{redstone},grip{phantom_membrane},binding{fine_silk},",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 1.2030303478240967,
+          "silentgear:draw_speed": -0.04871794581413269,
+          "silentgear:magic_armor": 25.658729553222656,
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:armor_toughness": 23.658729553222656,
+          "silentgear:projectile_speed": 1.291286587715149,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "silentgear:incorrect_for_tyrian_steel_tools",
+            "level_hint": "4",
+            "name": "tyrian_steel"
+          },
+          "silentgear:magic_damage": 12.594846725463867,
+          "silentgear:attack_speed": 2.0512821674346924,
+          "silentgear:repair_value": 0.5,
+          "silentgear:repair_efficiency": 1.149999976158142,
+          "silentgear:durability": 9645.517578125,
+          "silentgear:attack_damage": 19.792221069335938,
+          "silentgear:harvest_speed": 53.8052978515625,
+          "silentgear:armor_durability": 136.52830505371094,
+          "silentgear:rarity": 101.87532043457031,
+          "silentgear:ranged_damage": 9.143173217773438,
+          "silentgear:enchantment_value": 37.38356399536133,
+          "silentgear:armor": 43.633880615234375,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:block_reach": 0.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:sturdy",
+              "level": 3
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:malleable",
+              "level": 5
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:tool"
+                }
+              ],
+              "trait": "silentgear:hard",
+              "level": 3
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 3
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:tool"
+                }
+              ],
+              "trait": "silentgear:ancient",
+              "level": 2
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:lucky",
+              "level": 1
+            }
+          ],
+          "silentgear:charging_value": 0.0
+        },
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.sword.nameProper\",\"with\":[{\"translate\":\"item.silentgear.alloy_ingot\",\"with\":[{\"translate\":\"material.silentgear.tyrian_steel\"}]}]}",
+        "minecraft:repair_cost": 63,
+        "silentgear:model_index": 15,
+        "minecraft:enchantments": {
+          "levels": {
+            "ars_elemental:soulbound": 1,
+            "minecraft:sharpness": 10,
+            "apothic_spawners:capturing": 7,
+            "cardiac:lifesteal": 5,
+            "the_bumblezone:comb_cutter": 3,
+            "pastel:steadfast": 1,
+            "pastel:exuberance": 5,
+            "betterarcheology:penetrating_strike": 1,
+            "pastel:tight_grip": 7,
+            "minecraft:sweeping_edge": 8,
+            "minecraft:bane_of_arthropods": 10,
+            "pastel:improved_critical": 7,
+            "pastel:indestructible": 1,
+            "minecraft:looting": 8,
+            "apothic_enchanting:scavenger": 8,
+            "minecraft:smite": 10,
+            "pastel:first_strike": 7
+          }
+        },
+        "minecraft:tool": {
+          "damage_per_block": 2,
+          "rules": [
+            {
+              "speed": 15.0,
+              "blocks": "minecraft:cobweb",
+              "correct_for_drops": 1
+            },
+            {
+              "speed": 1.5,
+              "blocks": "#minecraft:sword_efficient"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "minecraft:torch",
+      "count": 26
+    },
+    {
+      "id": "silentgear:boots",
+      "count": 1,
+      "components": {
+        "minecraft:dyed_color": {
+          "show_in_tooltip": 0,
+          "rgb": -3796386
+        },
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:boot_plates",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:boot_plates"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "!minecraft:attribute_modifiers": {},
+        "silentgear:model_key": "boots:boot_plates{metal_alloy[tyrian_steel,crimson_steel]},",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 1.2030303478240967,
+          "silentgear:draw_speed": -0.04871794581413269,
+          "silentgear:magic_armor": 23.658729553222656,
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:armor_toughness": 23.658729553222656,
+          "silentgear:projectile_speed": 1.291286587715149,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "silentgear:incorrect_for_tyrian_steel_tools",
+            "level_hint": "4",
+            "name": "tyrian_steel"
+          },
+          "silentgear:magic_damage": 12.594846725463867,
+          "silentgear:attack_speed": -0.04871794581413269,
+          "silentgear:repair_value": 0.5,
+          "silentgear:repair_efficiency": 1.0,
+          "silentgear:durability": 9645.517578125,
+          "silentgear:attack_damage": 14.292221069335938,
+          "silentgear:harvest_speed": 40.00401306152344,
+          "silentgear:armor_durability": 136.52830505371094,
+          "silentgear:rarity": 91.87532043457031,
+          "silentgear:ranged_damage": 7.1431732177734375,
+          "silentgear:enchantment_value": 37.38356399536133,
+          "silentgear:armor": 12.409467697143555,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:block_reach": 0.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:sturdy",
+              "level": 3
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:armor"
+                }
+              ],
+              "trait": "silentgear:void_ward",
+              "level": 1
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:malleable",
+              "level": 5
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:armor"
+                }
+              ],
+              "trait": "silentgear:flame_ward",
+              "level": 1
+            }
+          ],
+          "silentgear:charging_value": 0.0
+        },
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.boots.nameProper\",\"with\":[{\"translate\":\"item.silentgear.alloy_ingot\",\"with\":[{\"translate\":\"material.silentgear.tyrian_steel\"}]}]}",
+        "minecraft:repair_cost": 3,
+        "silentgear:model_index": 3,
+        "minecraft:enchantments": {
+          "levels": {
+            "ars_elemental:soulbound": 1,
+            "apothic_enchanting:stable_footing": 1,
+            "ars_nouveau:mana_regen": 7,
+            "minecraft:feather_falling": 11,
+            "minecraft:fire_protection": 9,
+            "minecraft:protection": 8,
+            "minecraft:depth_strider": 7,
+            "minecraft:unbreaking": 8,
+            "minecraft:mending": 1,
+            "ars_nouveau:mana_boost": 7
+          }
+        },
+        "minecraft:damage": 137
+      }
+    },
+    {
+      "id": "silentgear:leggings",
+      "count": 1,
+      "components": {
+        "minecraft:dyed_color": {
+          "show_in_tooltip": 0,
+          "rgb": -3796386
+        },
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:legging_plates",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:legging_plates"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "!minecraft:attribute_modifiers": {},
+        "silentgear:model_key": "leggings:legging_plates{metal_alloy[tyrian_steel,crimson_steel]},",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 1.2030305862426758,
+          "silentgear:draw_speed": -0.048717934638261795,
+          "silentgear:magic_armor": 23.65873146057129,
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:armor_toughness": 23.65873146057129,
+          "silentgear:projectile_speed": 1.291286587715149,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "silentgear:incorrect_for_tyrian_steel_tools",
+            "level_hint": "4",
+            "name": "tyrian_steel"
+          },
+          "silentgear:magic_damage": 12.594844818115234,
+          "silentgear:attack_speed": -0.048717934638261795,
+          "silentgear:repair_value": 0.5,
+          "silentgear:repair_efficiency": 1.0,
+          "silentgear:durability": 9645.517578125,
+          "silentgear:attack_damage": 14.292221069335938,
+          "silentgear:harvest_speed": 40.00400924682617,
+          "silentgear:armor_durability": 136.52828979492188,
+          "silentgear:rarity": 91.87532043457031,
+          "silentgear:ranged_damage": 7.143173694610596,
+          "silentgear:enchantment_value": 37.38356018066406,
+          "silentgear:armor": 16.430831909179688,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:block_reach": 0.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:sturdy",
+              "level": 3
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:armor"
+                }
+              ],
+              "trait": "silentgear:void_ward",
+              "level": 1
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:malleable",
+              "level": 5
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:armor"
+                }
+              ],
+              "trait": "silentgear:flame_ward",
+              "level": 1
+            }
+          ],
+          "silentgear:charging_value": 0.0
+        },
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.leggings.nameProper\",\"with\":[{\"translate\":\"item.silentgear.alloy_ingot\",\"with\":[{\"translate\":\"material.silentgear.tyrian_steel\"}]}]}",
+        "minecraft:repair_cost": 7,
+        "silentgear:model_index": 3,
+        "minecraft:enchantments": {
+          "levels": {
+            "ars_elemental:soulbound": 1,
+            "minecraft:blast_protection": 9,
+            "minecraft:swift_sneak": 4,
+            "minecraft:protection": 8,
+            "ars_nouveau:mana_regen": 7,
+            "minecraft:unbreaking": 8,
+            "minecraft:mending": 1,
+            "ars_nouveau:mana_boost": 7
+          }
+        },
+        "minecraft:damage": 147
+      }
+    },
+    {
+      "id": "silentgear:chestplate",
+      "count": 1,
+      "components": {
+        "minecraft:dyed_color": {
+          "show_in_tooltip": 0,
+          "rgb": -3796386
+        },
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:chestplate_plates",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:chestplate_plates"
+            },
+            {
+              "item": {
+                "id": "silentgear:lining",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:fine_silk_cloth",
+                      "item": {
+                        "id": "silentgear:fine_silk_cloth",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:lining"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "!minecraft:attribute_modifiers": {},
+        "silentgear:model_key": "chestplate:chestplate_plates{metal_alloy[tyrian_steel,crimson_steel]},lining{fine_silk_cloth},",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 1.2030305862426758,
+          "silentgear:draw_speed": -0.048717934638261795,
+          "silentgear:magic_armor": 25.658729553222656,
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:armor_toughness": 23.658729553222656,
+          "silentgear:projectile_speed": 1.2912864685058594,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "silentgear:incorrect_for_tyrian_steel_tools",
+            "level_hint": "4",
+            "name": "tyrian_steel"
+          },
+          "silentgear:magic_damage": 12.594844818115234,
+          "silentgear:attack_speed": -0.048717934638261795,
+          "silentgear:repair_value": 0.5,
+          "silentgear:repair_efficiency": 1.0,
+          "silentgear:durability": 9645.517578125,
+          "silentgear:attack_damage": 14.292222023010254,
+          "silentgear:harvest_speed": 40.00400924682617,
+          "silentgear:armor_durability": 136.52828979492188,
+          "silentgear:rarity": 91.87532043457031,
+          "silentgear:ranged_damage": 7.143173694610596,
+          "silentgear:enchantment_value": 37.38356399536133,
+          "silentgear:armor": 19.619930267333984,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:block_reach": 0.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:sturdy",
+              "level": 3
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:armor"
+                }
+              ],
+              "trait": "silentgear:void_ward",
+              "level": 1
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:malleable",
+              "level": 5
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:armor"
+                }
+              ],
+              "trait": "silentgear:flame_ward",
+              "level": 1
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 4
+            }
+          ],
+          "silentgear:charging_value": 0.0
+        },
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.chestplate.nameProper\",\"with\":[{\"translate\":\"item.silentgear.alloy_ingot\",\"with\":[{\"translate\":\"material.silentgear.tyrian_steel\"}]}]}",
+        "minecraft:repair_cost": 3,
+        "silentgear:model_index": 3,
+        "minecraft:enchantments": {
+          "levels": {
+            "ars_elemental:soulbound": 1,
+            "minecraft:blast_protection": 9,
+            "ars_nouveau:mana_regen": 7,
+            "minecraft:protection": 8,
+            "apothic_enchanting:icy_thorns": 5,
+            "minecraft:unbreaking": 8,
+            "minecraft:mending": 1,
+            "ars_nouveau:mana_boost": 7
+          }
+        },
+        "minecraft:damage": 137
+      }
+    },
+    {
+      "id": "silentgear:helmet",
+      "count": 1,
+      "components": {
+        "minecraft:dyed_color": {
+          "show_in_tooltip": 0,
+          "rgb": -3796386
+        },
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:helmet_plates",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:crimson_steel",
+                              "item": {
+                                "id": "silentgear:crimson_steel_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:helmet_plates"
+            },
+            {
+              "item": {
+                "id": "silentgear:lining",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:fine_silk_cloth",
+                      "item": {
+                        "id": "silentgear:fine_silk_cloth",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:lining"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "!minecraft:attribute_modifiers": {},
+        "silentgear:model_key": "helmet:helmet_plates{metal_alloy[tyrian_steel,crimson_steel]},lining{fine_silk_cloth},",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 1.2030304670333862,
+          "silentgear:draw_speed": -0.04871794208884239,
+          "silentgear:magic_armor": 25.65873146057129,
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:armor_toughness": 23.65873146057129,
+          "silentgear:projectile_speed": 1.291286587715149,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "silentgear:incorrect_for_tyrian_steel_tools",
+            "level_hint": "4",
+            "name": "tyrian_steel"
+          },
+          "silentgear:magic_damage": 12.594846725463867,
+          "silentgear:attack_speed": -0.04871794208884239,
+          "silentgear:repair_value": 0.5,
+          "silentgear:repair_efficiency": 1.0,
+          "silentgear:durability": 9645.517578125,
+          "silentgear:attack_damage": 14.292221069335938,
+          "silentgear:harvest_speed": 40.00401306152344,
+          "silentgear:armor_durability": 136.52828979492188,
+          "silentgear:rarity": 91.87532806396484,
+          "silentgear:ranged_damage": 7.1431732177734375,
+          "silentgear:enchantment_value": 37.38356399536133,
+          "silentgear:armor": 13.246268272399902,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:block_reach": 0.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:sturdy",
+              "level": 3
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:armor"
+                }
+              ],
+              "trait": "silentgear:void_ward",
+              "level": 1
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:malleable",
+              "level": 5
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:armor"
+                }
+              ],
+              "trait": "silentgear:flame_ward",
+              "level": 1
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 4
+            }
+          ],
+          "silentgear:charging_value": 0.0
+        },
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.helmet.nameProper\",\"with\":[{\"translate\":\"item.silentgear.alloy_ingot\",\"with\":[{\"translate\":\"material.silentgear.tyrian_steel\"}]}]}",
+        "minecraft:repair_cost": 3,
+        "silentgear:model_index": 3,
+        "minecraft:enchantments": {
+          "levels": {
+            "ars_elemental:soulbound": 1,
+            "minecraft:aqua_affinity": 1,
+            "minecraft:projectile_protection": 11,
+            "minecraft:respiration": 7,
+            "minecraft:protection": 8,
+            "ars_nouveau:mana_regen": 7,
+            "minecraft:unbreaking": 8,
+            "minecraft:mending": 1,
+            "ars_nouveau:mana_boost": 7
+          }
+        },
+        "minecraft:damage": 155
+      }
+    }
+  ],
+  "Model": 127,
+  "PlayerName": "ScarletCraft",
+  "PosZ": 34.30000001192093,
+  "Id": [
+    -1196235678,
+    33898853,
+    -1273522013,
+    -1239827786
+  ],
+  "PosY": 93.11460788968542,
+  "PosX": 41.635531164773354,
+  "Dimension": "minecraft:the_end",
+  "ArmorInventory": [],
+  "Timestamp": 1755976806401,
+  "MainInventory": [
+    {
+      "count": 18,
+      "Slot": 8,
+      "id": "minecraft:ender_eye"
+    }
+  ],
+  "Experience": 199,
+  "PlayerUuid": [
+    -777886662,
+    -43627786,
+    -2114708613,
+    -1931975085
+  ],
+  "Items": [
+    {
+      "id": "pastel:glow_vision_goggles",
+      "count": 1,
+      "components": {
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "face",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:superstitious_hat",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 81,
+            "points": 0,
+            "experience": 0,
+            "level": 10
+          },
+          "abilities": {
+            "abilities": {
+              "looting": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 10,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "8": [
+                      9
+                    ],
+                    "3": [
+                      4
+                    ],
+                    "2": [
+                      3,
+                      10,
+                      6,
+                      5,
+                      4,
+                      11,
+                      8
+                    ],
+                    "1": [
+                      2
+                    ],
+                    "0": [
+                      1,
+                      2
+                    ],
+                    "10": [
+                      11
+                    ],
+                    "7": [
+                      8,
+                      9
+                    ],
+                    "5": [
+                      6
+                    ]
+                  }
+                },
+                "stats": {
+                  "chance": {
+                    "initialValue": 0.2
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "head",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:lucky_scarf",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 67,
+            "points": 0,
+            "experience": 0,
+            "level": 10
+          },
+          "abilities": {
+            "abilities": {
+              "luck": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 10,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "3": [
+                      4,
+                      5,
+                      6
+                    ],
+                    "2": [
+                      3
+                    ],
+                    "1": [
+                      3
+                    ],
+                    "0": [
+                      1,
+                      2
+                    ]
+                  }
+                },
+                "stats": {
+                  "chance": {
+                    "initialValue": 0.2
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "necklace",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "hooked:ender_hook",
+      "count": 1,
+      "components": {
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "hooked_hook",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    }
+  ],
+  "OffHandInventory": [
+    {
+      "count": 26,
+      "Slot": 0,
+      "id": "minecraft:torch"
+    }
+  ]
+}

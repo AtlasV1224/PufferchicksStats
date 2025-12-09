@@ -1,0 +1,115 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:black_wool"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:brown_wool"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:shears"
+            },
+            {
+              "Slot": 3,
+              "count": 5,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "claws": {
+                        "stats": {
+                          "modifier": {
+                            "initialValue": 0.12229
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:feral_claws"
+            }
+          ]
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      }
+    ],
+    "uuid": [
+      -693459642,
+      1242383530,
+      -1199185015,
+      749473642
+    ],
+    "seed": 3905255787431110473,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/d6/d6aaa546-4a0d-44aa-b885-e3892cac0f6a",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -936,
+      87,
+      4554
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "table": "minecraft:chests/village/village_shepherd"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

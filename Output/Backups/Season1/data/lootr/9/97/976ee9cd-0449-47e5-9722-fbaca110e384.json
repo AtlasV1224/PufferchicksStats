@@ -1,0 +1,184 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "catch": {
+                        "stats": {
+                          "chance": {
+                            "initialValue": 0.13721
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:anglers_hat"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:emerald"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:emerald"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:carrot"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:beetroot"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:beetroot"
+            }
+          ]
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      }
+    ],
+    "uuid": [
+      -1754338867,
+      71911397,
+      -1759315028,
+      -1592728700
+    ],
+    "seed": 2852970130429088857,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/97/976ee9cd-0449-47e5-9722-fbaca110e384",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1375,
+      73,
+      1146
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "table": "ctov:chests/village/village_farm"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

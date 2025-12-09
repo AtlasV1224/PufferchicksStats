@@ -1,0 +1,123 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "shield": {
+                        "stats": {
+                          "knockback": {
+                            "initialValue": 1.18396
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "glider": {
+                        "stats": {
+                          "count": {
+                            "initialValue": 1.86657
+                          },
+                          "cooldown": {
+                            "initialValue": 1.96532
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:umbrella"
+            }
+          ]
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      }
+    ],
+    "uuid": [
+      2073067234,
+      -1628224990,
+      -1315226973,
+      2013838126
+    ],
+    "seed": -5431584454250559593,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/7/7b/7b907ee2-9ef3-4222-b19b-3aa37808bb2e",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -4537,
+      71,
+      -2602
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "table": "minecraft:chests/village/village_tannery"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

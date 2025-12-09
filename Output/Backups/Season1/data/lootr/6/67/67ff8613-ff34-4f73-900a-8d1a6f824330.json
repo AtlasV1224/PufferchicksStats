@@ -1,0 +1,169 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:efficiency": 3,
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:iron_pickaxe"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:bane_of_arthropods": 4,
+                    "minecraft:looting": 2,
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:iron_sword"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:vanishing_curse": 1
+                  }
+                }
+              },
+              "id": "minecraft:diamond_leggings"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:diamond_horse_armor"
+            },
+            {
+              "Slot": 4,
+              "count": 8,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 5,
+              "count": 5,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "supplementaries:stasis": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 7,
+              "count": 3,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "boost": {
+                        "stats": {
+                          "capacity": {
+                            "initialValue": 55.52206
+                          },
+                          "speed": {
+                            "initialValue": 1.21969
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:elytra_booster"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1744799251,
+      -13349005,
+      -1878356710,
+      1870807856
+    ],
+    "seed": -228211349091265443,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/6/67/67ff8613-ff34-4f73-900a-8d1a6f824330",
+    "dimension": "minecraft:the_end",
+    "hasBeenOpened": 1,
+    "position": [
+      522,
+      138,
+      -3654
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/end_city_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

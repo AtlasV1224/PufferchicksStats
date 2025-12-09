@@ -1,0 +1,134 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Bailey's Bovine Rocket\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "To the MOOn",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_delay",
+                        "ars_nouveau:glyph_explosion",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Bailey's Bovine Rocket"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:knockback": 2
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -1678841899,
+          1864648116,
+          -1393378093,
+          -894335838
+        ]
+      }
+    ],
+    "uuid": [
+      -599690595,
+      -1532344821,
+      -1141970704,
+      -1394818955
+    ],
+    "seed": 1286983938537998786,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/dc/dc41729d-a4aa-460b-bbee-e8f0acdcc075",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1887,
+      193,
+      3513
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

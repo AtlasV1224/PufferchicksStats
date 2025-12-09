@@ -1,0 +1,304 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 8,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 5,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "exposure_expanded:antialias_filter"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:music_disc_otherside"
+            },
+            {
+              "Slot": 8,
+              "count": 4,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:golden_horse_armor"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Xacris's Firework Display\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Light up the sky",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 25,
+                        "g": 255,
+                        "id": "ars_nouveau:constant",
+                        "b": 255
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_wall",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_firework",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Xacris's Firework Display"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 19,
+              "count": 2,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "riptide": {
+                        "stats": {
+                          "cooldown": {
+                            "initialValue": 9.15514
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "anchor": {
+                        "stats": {
+                          "sinking": {
+                            "initialValue": 3.61259
+                          },
+                          "slowness": {
+                            "initialValue": 0.36918
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "slots": {
+                        "stats": {
+                          "charm": {
+                            "initialValue": 0.01207
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "pressure": {
+                        "stats": {
+                          "damage": {
+                            "initialValue": 1.81373
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:drowned_belt"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 26,
+              "count": 5,
+              "id": "minecraft:string"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      -2072170268,
+      -1409135738,
+      -1168505830,
+      1055134856
+    ],
+    "seed": 2752110704916502290,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/8/84/847d30e4-ac02-4b86-ba5a-041a3ee41488",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      488,
+      187,
+      -297
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

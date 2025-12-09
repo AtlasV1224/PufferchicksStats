@@ -1,0 +1,172 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 1,
+              "count": 8,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 2,
+              "count": 7,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:quick_charge": 2,
+                    "minecraft:protection": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:protection": 3,
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "vanish": {
+                        "stats": {
+                          "light": {
+                            "initialValue": 1.87036
+                          },
+                          "speed": {
+                            "initialValue": 0.10552
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "backstab": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 16.63727
+                          },
+                          "damage": {
+                            "initialValue": 1.64589
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:midnight_robe"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      2024565442,
+      1316896807,
+      -1579328994,
+      -1889377367
+    ],
+    "seed": 1841443503882669333,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/7/78/78ac6ac2-4e7e-4027-a1dd-5a1e8f6263a9",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      2943,
+      76,
+      4140
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

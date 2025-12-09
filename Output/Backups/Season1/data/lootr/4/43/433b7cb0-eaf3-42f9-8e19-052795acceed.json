@@ -1,0 +1,117 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "supplementaries:bomb"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:bread"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 1,
+              "count": 5,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/stronghold/corridor_2.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1127972016,
+      -353156359,
+      -1910962905,
+      -1783836947
+    ],
+    "seed": 8491599166056367805,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/4/43/433b7cb0-eaf3-42f9-8e19-052795acceed",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      2755,
+      -17,
+      -3831
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_crossing"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

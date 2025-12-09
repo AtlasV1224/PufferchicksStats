@@ -1,0 +1,206 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:poisonous_potato"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:suspicious_stew_effects": [
+                  {
+                    "id": "minecraft:slowness",
+                    "duration": 240
+                  }
+                ]
+              },
+              "id": "minecraft:suspicious_stew"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_poison"
+                }
+              },
+              "id": "minecraft:tipped_arrow"
+            },
+            {
+              "Slot": 4,
+              "count": 4,
+              "id": "minecraft:glass_bottle"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:suspicious_stew_effects": [
+                  {
+                    "id": "minecraft:blindness"
+                  }
+                ]
+              },
+              "id": "minecraft:suspicious_stew"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:slow_falling"
+                }
+              },
+              "id": "minecraft:potion"
+            }
+          ]
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:suspicious_stew_effects": [
+                  {
+                    "id": "minecraft:haste"
+                  }
+                ]
+              },
+              "id": "minecraft:suspicious_stew"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:regeneration"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:swiftness"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 3,
+              "count": 8,
+              "id": "minecraft:glass_bottle"
+            },
+            {
+              "Slot": 4,
+              "count": 5,
+              "id": "minecraft:glowstone_dust"
+            },
+            {
+              "Slot": 5,
+              "count": 5,
+              "id": "minecraft:gunpowder"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -624373169,
+      215630701,
+      -2103335294,
+      -1747603791
+    ],
+    "seed": 9071127959750361623,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/da/dac8d24f-0cda-436d-82a1-a68297d5aeb1",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2450,
+      79,
+      -882
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "table": "betterarcheology:archeology/chest_catacombs_potion"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

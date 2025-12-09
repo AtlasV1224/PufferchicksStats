@@ -1,0 +1,194 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "teleport": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 845.22112
+                          },
+                          "cooldown": {
+                            "initialValue": 83.34261
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:magic_mirror"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "panic": {
+                        "stats": {
+                          "movement": {
+                            "initialValue": 0.1067
+                          },
+                          "radius": {
+                            "initialValue": 7.85188
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:panic_necklace"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:stick"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 22,
+              "count": 2,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:stick"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -120006733,
+      -332250165,
+      -1750510460,
+      -1334473631
+    ],
+    "seed": -1325824273650328568,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/f/f8/f8d8d7b3-ec32-43cb-97a9-5484b0758c61",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      2778,
+      -17,
+      -3819
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "betterstrongholds:chests/common"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

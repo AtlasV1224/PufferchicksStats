@@ -1,0 +1,141 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Knocked out of Orbit\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Summons orbiting projectiles that will launch nearby enemies.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_orbit",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_delay",
+                        "ars_nouveau:glyph_gust",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Knocked out of Orbit"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 6,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 3,
+              "count": 8,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "minecraft:experience_bottle"
+            },
+            {
+              "Slot": 5,
+              "count": 2,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "ars_nouveau:wixie_shards"
+            },
+            {
+              "Slot": 7,
+              "count": 27,
+              "id": "ars_nouveau:split_arrow"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "ars_nouveau:music_disc_aria_biblio"
+            },
+            {
+              "Slot": 9,
+              "count": 8,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      845280759,
+      -1861268281,
+      -1985015740,
+      1066870337
+    ],
+    "seed": -9180664472233511585,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/3/32/3261f5f7-910f-4cc7-89af-10443f972641",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -839,
+      188,
+      -2209
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/pillager_outpost"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

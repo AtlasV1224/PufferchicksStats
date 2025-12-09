@@ -1,0 +1,118 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:sand"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:lapis_lazuli"
+            },
+            {
+              "Slot": 2,
+              "count": 5,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 3,
+              "count": 4,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "heater": {
+                        "stats": {
+                          "capacity": {
+                            "initialValue": 21.82557
+                          },
+                          "duration": {
+                            "initialValue": 135.64489
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:pickaxe_heater"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1201185850,
+      -2058010071,
+      -2035556721,
+      1073130977
+    ],
+    "seed": 6504921977531349426,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/4/47/4798a43a-8555-4229-86ab-de8f3ff6ade1",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      130,
+      48,
+      -400
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "betterdeserttemples:chests/storage"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

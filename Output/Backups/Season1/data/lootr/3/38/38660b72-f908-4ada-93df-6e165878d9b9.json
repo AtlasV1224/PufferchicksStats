@@ -1,0 +1,79 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:pink_candle"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:fire_protection": 1
+                  }
+                },
+                "minecraft:dyed_color": {
+                  "rgb": 16701501,
+                  "show_in_tooltip": 0
+                }
+              },
+              "id": "minecraft:leather_leggings"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "soulbound:soulbound": 1
+                  }
+                },
+                "minecraft:dyed_color": {
+                  "rgb": 16701501,
+                  "show_in_tooltip": 0
+                }
+              },
+              "id": "minecraft:leather_boots"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      946211698,
+      -116897062,
+      -1814073834,
+      1484315065
+    ],
+    "seed": -24886920802481629,
+    "name": "{\"translate\":\"container.the_bumblezone.honey_cocoon\"}",
+    "blockType": 0,
+    "key": "lootr/3/38/38660b72-f908-4ada-93df-6e165878d9b9",
+    "dimension": "the_bumblezone:the_bumblezone",
+    "hasBeenOpened": 1,
+    "position": [
+      -589,
+      42,
+      -1236
+    ],
+    "size": 18,
+    "actualOpeners": [],
+    "table": "the_bumblezone:structures/cell_maze/rare"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

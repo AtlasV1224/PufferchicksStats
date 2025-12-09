@@ -1,0 +1,156 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:leather_helmet"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:leather_helmet"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "regeneration": {
+                        "stats": {
+                          "cooldown": {
+                            "initialValue": 15.79179
+                          },
+                          "feed": {
+                            "initialValue": 1.92054
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "marinade": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 1.72563
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "meat_bat": {
+                        "stats": {
+                          "stun": {
+                            "initialValue": 0.14965
+                          },
+                          "damage": {
+                            "initialValue": 1.06197
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:infinity_ham"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -229638218,
+      1018579348,
+      -1100857028,
+      1951698757
+    ],
+    "seed": 8743153078564263559,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/f/f2/f24fffb6-3cb6-4994-be62-413c74548f45",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      1360,
+      67,
+      -4096
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/village/village_tannery"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,154 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:coal"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 16,
+              "count": 2,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "vision": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.10934
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:night_vision_goggles"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:wooden_pickaxe"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:apple"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -964793945,
+      -1981134091,
+      -1992393127,
+      147961595
+    ],
+    "seed": 1813102306910844096,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/c/c6/c67e69a7-89ea-4af5-893e-7e5908d1b6fb",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2546,
+      -10,
+      347
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "betterstrongholds:chests/common"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:binding_curse": 1
+                  }
+                },
+                "minecraft:damage": 63
+              },
+              "id": "minecraft:diamond_boots"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:diamond_boots"
+            },
+            {
+              "Slot": 4,
+              "count": 20,
+              "id": "minecraft:spectral_arrow"
+            },
+            {
+              "Slot": 5,
+              "count": 23,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hell": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 55.17071
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:obsidian_skull"
+            },
+            {
+              "Slot": 9,
+              "count": 6,
+              "id": "silentgear:crimson_iron_ingot"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "silentgear:crimson_steel_dust"
+            },
+            {
+              "Slot": 11,
+              "count": 31,
+              "id": "ars_nouveau:pierce_arrow"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "apothic_enchanting:rebounding": 2
+                  }
+                },
+                "minecraft:damage": 70
+              },
+              "id": "minecraft:diamond_leggings"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1536129916,
+      577652137,
+      -1350740119,
+      -1215800745
+    ],
+    "seed": 7299453177627080182,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/5/5b/5b8f7b7c-226e-45a9-af7d-5769b7885a57",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      2470,
+      99,
+      -4909
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

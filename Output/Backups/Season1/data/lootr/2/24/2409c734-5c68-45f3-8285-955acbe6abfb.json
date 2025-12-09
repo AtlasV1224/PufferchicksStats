@@ -1,0 +1,172 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:iron_horse_armor"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 6,
+              "count": 4,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/dungeon/skull_on_fire.png"
+                  }
+                }
+              },
+              "id": "exposure:photograph"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "slots": {
+                        "stats": {
+                          "charm": {
+                            "initialValue": 1.3853
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "training": {
+                        "stats": {
+                          "damage": {
+                            "initialValue": 1.34658
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:hunter_belt"
+            },
+            {
+              "Slot": 12,
+              "count": 4,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 13,
+              "count": 3,
+              "id": "farmersdelight:cabbage_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      604620596,
+      1550337523,
+      -2105174694,
+      -874075141
+    ],
+    "seed": -2663744939301936933,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/2/24/2409c734-5c68-45f3-8285-955acbe6abfb",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      2517,
+      117,
+      -640
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

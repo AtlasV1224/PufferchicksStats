@@ -1,0 +1,181 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 14,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 1,
+              "count": 16,
+              "id": "minecraft:book"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "sauce:school_tome_caster": {
+                  "flavor_text": "Way worse than being shulked, wind feels sharp today.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 255,
+                        "id": "ars_nouveau:constant",
+                        "b": 26
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_delay",
+                        "ars_nouveau:glyph_wind_shear",
+                        "ars_nouveau:glyph_delay",
+                        "ars_nouveau:glyph_wind_shear"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Shulkium Leviosa"
+                    }
+                  }
+                },
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Shulkium Leviosa\"}"
+              },
+              "id": "ars_elemental:air_caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 25,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "ars_nouveau:wixie_shards"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "blink": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 23.7788
+                          },
+                          "cooldown": {
+                            "initialValue": 9.08757
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:chorus_inhibitor"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1323564284,
+      1959284361,
+      -1851416637,
+      -1197183069
+    ],
+    "seed": 2662622830630522499,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/b/b1/b11c0304-74c8-4e89-91a5-9fc3b8a46fa3",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      424,
+      205,
+      -433
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

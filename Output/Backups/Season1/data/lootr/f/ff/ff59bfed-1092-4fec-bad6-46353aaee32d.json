@@ -1,0 +1,152 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hold": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 4.69835
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:bunny_hoppers"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 9,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 3,
+              "count": 3,
+              "id": "minecraft:paper"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -10895379,
+      278024172,
+      -1160362443,
+      984539949
+    ],
+    "seed": -5930102086846160444,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/f/ff/ff59bfed-1092-4fec-bad6-46353aaee32d",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -866,
+      -16,
+      -758
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "artifacts:chests/campsite_barrel"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

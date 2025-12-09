@@ -1,0 +1,202 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/stronghold/corridor_1.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "vanish": {
+                        "stats": {
+                          "light": {
+                            "initialValue": 1.48774
+                          },
+                          "speed": {
+                            "initialValue": 0.16594
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "backstab": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 18.70038
+                          },
+                          "damage": {
+                            "initialValue": 1.5071
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:midnight_robe"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 13,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 4,
+              "count": 30,
+              "id": "ars_nouveau:amplify_arrow"
+            },
+            {
+              "Slot": 5,
+              "count": 2,
+              "id": "ars_nouveau:sourceberry_bush"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -2052125145,
+      -1861922976,
+      -1435771140,
+      142347999
+    ],
+    "seed": 2591273444552618213,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/8/85/85af0e27-9105-4f60-aa6b-defc087c0edf",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      2753,
+      -17,
+      -3857
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_crossing"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

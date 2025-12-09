@@ -1,0 +1,135 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 13,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "supplementaries:quiver_content": {
+                  "items": [
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 3,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "apothic_attributes:strong_wither"
+                        }
+                      }
+                    },
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 1,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "ars_nouveau:blasting_potion_long"
+                        }
+                      }
+                    },
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "selected_slot": 0
+                }
+              },
+              "id": "supplementaries:quiver"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 5,
+              "count": 4,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 7,
+              "count": 4,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 12,
+              "count": 4,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1021461777,
+      1005275751,
+      -1949850192,
+      -1552101698
+    ],
+    "seed": 3113497202610428939,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/c/c3/c31dbaef-3beb-4a67-8bc7-a5b0a37ccebe",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      180,
+      -6,
+      -926
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:bucket"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:music_disc_cat"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "supplementaries:quiver_content": {
+                  "items": [
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 6,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "ars_elemental:shock_potion"
+                        }
+                      }
+                    },
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 3,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "apothic_attributes:levitation"
+                        }
+                      }
+                    },
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 1,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "minecraft:harming"
+                        }
+                      }
+                    },
+                    {},
+                    {},
+                    {}
+                  ],
+                  "selected_slot": 0
+                }
+              },
+              "id": "supplementaries:quiver"
+            },
+            {
+              "Slot": 5,
+              "count": 14,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 6,
+              "count": 4,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "passive": {
+                        "stats": {},
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "resistance": {
+                        "stats": {
+                          "modifier": {
+                            "initialValue": 0.28089
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:steadfast_spikes"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "ars_nouveau:sourceberry_bush"
+            },
+            {
+              "Slot": 11,
+              "count": 6,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 12,
+              "count": 2,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 13,
+              "count": 36,
+              "id": "extradelight:bad_food"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -422205855,
+      1017725197,
+      -1353018979,
+      -446033121
+    ],
+    "seed": 4625875574111279530,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/e/e6/e6d5a661-3ca9-410d-af5a-919de56a131f",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      0,
+      0,
+      -109
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:respiration": 3,
+                    "minecraft:protection": 3
+                  }
+                },
+                "minecraft:damage": 62
+              },
+              "id": "minecraft:golden_helmet"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "bonfire": {
+                        "stats": {
+                          "height": {
+                            "initialValue": 4.79208
+                          },
+                          "step": {
+                            "initialValue": 2.20599
+                          },
+                          "speed": {
+                            "initialValue": 0.01921
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:blazing_flask"
+            },
+            {
+              "Slot": 20,
+              "count": 2,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:string"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1193746070,
+      -1623179119,
+      -1941526823,
+      -1555200463
+    ],
+    "seed": 7402432423054706175,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/4/47/47271e96-9f40-4091-8c46-a6d9a34d8631",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      4423,
+      108,
+      2083
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

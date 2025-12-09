@@ -1,0 +1,110 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:cooked_salmon"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:pumpkin_pie"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "claws": {
+                        "stats": {
+                          "modifier": {
+                            "initialValue": 0.11605
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:feral_claws"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -758764730,
+      -625194283,
+      -1319640073,
+      1004277201
+    ],
+    "seed": -4783896495148411752,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/d2/d2c62b46-dabc-4ad5-b157-e3f73bdc0dd1",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2003,
+      79,
+      541
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/kitchen"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

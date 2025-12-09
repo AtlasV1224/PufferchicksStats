@@ -1,0 +1,140 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:iron_horse_armor"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 4,
+              "count": 9,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "attractor": {
+                        "stats": {
+                          "radius": {
+                            "initialValue": 3.65934
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:universal_attractor"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "ars_nouveau:wilden_wing"
+            },
+            {
+              "Slot": 10,
+              "count": 3,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 11,
+              "count": 33,
+              "id": "extradelight:bad_food"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      -1746487872,
+      -1939911015,
+      -1910029966,
+      -769694274
+    ],
+    "seed": 8584764958335609380,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/97/97e6b5c0-8c5f-4e99-8e27-4172d21f65be",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -3757,
+      227,
+      -768
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

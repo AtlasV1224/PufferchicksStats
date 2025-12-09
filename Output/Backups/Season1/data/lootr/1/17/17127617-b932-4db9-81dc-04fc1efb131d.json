@@ -1,0 +1,185 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Self Atomic\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "WARNING: ONLY TO BE USED AS A LAST RESORT!!",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 1,
+                        "id": "ars_nouveau:constant",
+                        "b": 1
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:gaia_family"
+                        }
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_explosion",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Self Atomic"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 5,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:bucket"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:music_disc_13"
+            },
+            {
+              "Slot": 6,
+              "count": 7,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 7,
+              "count": 5,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "invulnerability": {
+                        "stats": {
+                          "modifier": {
+                            "initialValue": 0.44209
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:cross_necklace"
+            },
+            {
+              "Slot": 9,
+              "count": 26,
+              "id": "ars_nouveau:amplify_arrow"
+            },
+            {
+              "Slot": 10,
+              "count": 2,
+              "id": "ars_nouveau:sourceberry_bush"
+            },
+            {
+              "Slot": 11,
+              "count": 3,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      387085847,
+      -1187885639,
+      -2116287236,
+      519770909
+    ],
+    "seed": 2617038359755482595,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/1/17/17127617-b932-4db9-81dc-04fc1efb131d",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      375,
+      62,
+      1032
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,122 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 58
+              },
+              "id": "minecraft:golden_leggings"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 65
+              },
+              "id": "minecraft:leather_leggings"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "caster": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 39.4381
+                          },
+                          "damage": {
+                            "initialValue": 0.06203
+                          },
+                          "chance": {
+                            "initialValue": 0.29719
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:fire_gauntlet"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -1716867167,
+      -1609217407,
+      -1443773794,
+      1522451860
+    ],
+    "seed": 3988733013628565586,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/9/99/99aaafa1-a015-4a81-a9f1-c29e5abec594",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      99,
+      106,
+      -825
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

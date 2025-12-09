@@ -1,0 +1,103 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 7,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 3,
+              "count": 7,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/stronghold/corridor_1.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "ars_nouveau:music_disc_thistle_the_sound_of_glass"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      }
+    ],
+    "uuid": [
+      1796626780,
+      120934251,
+      -1492684227,
+      -1546291202
+    ],
+    "seed": -690414418746333623,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/6/6b/6b16595c-0735-4f6b-a707-723da3d577fe",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2637,
+      -10,
+      352
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_crossing"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

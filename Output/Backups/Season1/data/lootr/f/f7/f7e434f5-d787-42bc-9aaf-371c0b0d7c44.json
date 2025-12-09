@@ -1,0 +1,158 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:piercing": 4,
+                    "ars_nouveau:mana_regen": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Vault\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Sometimes you just need to get over that wall.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_delay",
+                        "ars_nouveau:glyph_leap",
+                        "ars_nouveau:glyph_slowfall"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Vault"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "create:capacity": 2,
+                    "minecraft:protection": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 22,
+              "count": 2,
+              "id": "minecraft:book"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -136039179,
+      -679001412,
+      -1699793124,
+      185433156
+    ],
+    "seed": 2175670127678263558,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/f/f7/f7e434f5-d787-42bc-9aaf-371c0b0d7c44",
+    "dimension": "resource_world:resource",
+    "hasBeenOpened": 1,
+    "position": [
+      -839,
+      189,
+      -2209
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

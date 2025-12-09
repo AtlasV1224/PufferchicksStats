@@ -1,0 +1,113 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 3,
+              "count": 4,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:power": 3,
+                    "minecraft:respiration": 2
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:writable_book"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:writable_book"
+            }
+          ]
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      }
+    ],
+    "uuid": [
+      -1583471043,
+      1057701976,
+      -1786074594,
+      -2088318020
+    ],
+    "seed": -640333976926539778,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/a/a1/a19e263d-3f0b-4058-958a-aa1e8386cbbc",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2437,
+      61,
+      -828
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "table": "betterarcheology:archeology/chest_catacombs_generic"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

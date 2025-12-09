@@ -1,0 +1,133 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:red_candle"
+            },
+            {
+              "Slot": 1,
+              "count": 5,
+              "id": "minecraft:emerald"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:amethyst_shard"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hold": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 3.013
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:bunny_hoppers"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1582982935,
+      342116452,
+      -1683415851,
+      704415549
+    ],
+    "seed": 8882794921786791742,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/5/5e/5e5a6717-1464-4864-9ba9-1cd529fc873d",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      4627,
+      73,
+      -357
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/generic"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,112 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:piercing": 3
+                  }
+                }
+              },
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "pastel:multitool"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hold": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 4.29577
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:bunny_hoppers"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      }
+    ],
+    "uuid": [
+      -1163069663,
+      -1203549096,
+      -1189508434,
+      129575933
+    ],
+    "seed": 3309082332908018519,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/b/ba/baacf721-b843-4c58-b919-8aae07b92bfd",
+    "dimension": "pastel:deeper_down",
+    "hasBeenOpened": 1,
+    "position": [
+      -4567,
+      -276,
+      -2606
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "table": "pastel:chests/city_below/terrace_house_upper"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

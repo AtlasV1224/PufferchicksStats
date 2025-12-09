@@ -1,0 +1,105 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:bamboo_planks"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:bamboo_planks"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "attractor": {
+                        "stats": {
+                          "radius": {
+                            "initialValue": 3.71392
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:universal_attractor"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      }
+    ],
+    "uuid": [
+      -381743322,
+      675761997,
+      -1317049445,
+      1033496062
+    ],
+    "seed": 2747052960074558761,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/e/e9/e93f0f26-2847-4f4d-b17f-6b9b3d99e5fe",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -386,
+      -29,
+      125
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "table": "minecraft:chests/trial_chambers/intersection_barrel"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

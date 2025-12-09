@@ -1,0 +1,228 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1897521421,
+        518932583,
+        -1765357074,
+        1888276970
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ],
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "nutrition": {
+                        "stats": {
+                          "hunger": {
+                            "initialValue": 1.69174
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "drinking": {
+                        "stats": {
+                          "speed": {
+                            "initialValue": 0.318
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:novelty_drinking_hat"
+            }
+          ]
+        },
+        "uuid": [
+          -1897521421,
+          518932583,
+          -1765357074,
+          1888276970
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:beetroot"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 8,
+              "count": 2,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 12,
+              "count": 2,
+              "id": "minecraft:beetroot"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:pumpkin_pie"
+            }
+          ]
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:beetroot"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      }
+    ],
+    "uuid": [
+      477007165,
+      809193226,
+      -2039269655,
+      -1353669623
+    ],
+    "seed": 428506376251731998,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/1/1c/1c6e8d3d-303b-4f0a-8673-36e9af50a409",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1802,
+      78,
+      -1285
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1897521421,
+        518932583,
+        -1765357074,
+        1888276970
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ],
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ]
+    ],
+    "table": "ctov:chests/village/village_farm"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

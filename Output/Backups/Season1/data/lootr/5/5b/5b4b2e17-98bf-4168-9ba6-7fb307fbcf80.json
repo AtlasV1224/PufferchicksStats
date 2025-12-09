@@ -1,0 +1,162 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "the_bumblezone:comb_cutter": 1
+                  }
+                },
+                "minecraft:damage": 122
+              },
+              "id": "minecraft:iron_sword"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:golden_sword"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:unbreaking": 1
+                  }
+                },
+                "minecraft:damage": 394
+              },
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 4,
+              "count": 6,
+              "id": "minecraft:arrow"
+            },
+            {
+              "Slot": 5,
+              "count": 2,
+              "id": "minecraft:magma_cream"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "silentgear:netherwood_sapling"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "trade": {
+                        "stats": {
+                          "rolls": {
+                            "initialValue": 0.5273
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "compass": {
+                        "stats": {},
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:bastion_ring"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      1531653655,
+      -1732296344,
+      -1683587149,
+      133943168
+    ],
+    "seed": 235612904445964571,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/5/5b/5b4b2e17-98bf-4168-9ba6-7fb307fbcf80",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      73,
+      73,
+      -2030
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/bastion_other"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

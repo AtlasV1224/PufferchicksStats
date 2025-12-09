@@ -1,0 +1,155 @@
+{
+  "data": {
+    "type": 1,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:pumpkin_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:glow_berries"
+            },
+            {
+              "Slot": 3,
+              "count": 8,
+              "id": "supplementaries:rope"
+            },
+            {
+              "Slot": 4,
+              "count": 15,
+              "id": "minecraft:rail"
+            },
+            {
+              "Slot": 5,
+              "count": 2,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:looting": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "panic": {
+                        "stats": {
+                          "movement": {
+                            "initialValue": 0.11133
+                          },
+                          "radius": {
+                            "initialValue": 7.28114
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:panic_necklace"
+            },
+            {
+              "Slot": 8,
+              "count": 4,
+              "id": "ars_nouveau:source_gem"
+            },
+            {
+              "Slot": 9,
+              "count": 16,
+              "id": "ars_nouveau:split_arrow"
+            },
+            {
+              "Slot": 10,
+              "count": 2,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1932337256,
+      852443425,
+      -1370806521,
+      -1550526765
+    ],
+    "seed": 7348573470492486377,
+    "name": "{\"translate\":\"entity.lootr.lootr_minecart\",\"hoverEvent\":{\"contents\":{\"type\":\"lootr:lootr_minecart\",\"id\":[1932337256,852443425,-1370806521,-1550526765],\"name\":{\"translate\":\"entity.lootr.lootr_minecart\"}},\"action\":\"show_entity\"},\"insertion\":\"732d2068-32cf-4121-ae4b-2707a394d6d3\"}",
+    "blockType": 5,
+    "key": "lootr/7/73/732d2068-32cf-4121-ae4b-2707a394d6d3",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -637,
+      -1,
+      800
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/abandoned_mineshaft"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:egg"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:writable_book"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "apothic_enchanting:reflective_defenses": 1,
+                    "minecraft:piercing": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "create:capacity": 1,
+                    "minecraft:sweeping_edge": 2,
+                    "minecraft:piercing": 2
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      }
+    ],
+    "uuid": [
+      341566499,
+      -105103041,
+      -1581044029,
+      -852457457
+    ],
+    "seed": -7760368949640825790,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/1/14/145be423-f9bc-413f-a1c3-2ec3cd30880f",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2106,
+      117,
+      -900
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "table": "ctov:chests/village/village_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

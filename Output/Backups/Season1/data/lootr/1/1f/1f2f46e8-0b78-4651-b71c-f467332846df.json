@@ -1,0 +1,172 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "devouring": {
+                        "stats": {
+                          "frequency": {
+                            "initialValue": 124.72843
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:rooted_boots"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:beetroot_soup"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:pumpkin_pie"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:cooked_salmon"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:cooked_salmon"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:beetroot_soup"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:pumpkin_pie"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:pumpkin_pie"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 5,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:suspicious_stew_effects": [
+                  {
+                    "id": "minecraft:night_vision",
+                    "duration": 200
+                  }
+                ]
+              },
+              "id": "minecraft:suspicious_stew"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      523192040,
+      192431697,
+      -1222839193,
+      858277599
+    ],
+    "seed": 9037459821859627797,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/1/1f/1f2f46e8-0b78-4651-b71c-f467332846df",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      4637,
+      72,
+      -347
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/kitchen"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

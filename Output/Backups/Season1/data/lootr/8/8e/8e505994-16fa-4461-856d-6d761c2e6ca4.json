@@ -1,0 +1,137 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:oak_sapling"
+            },
+            {
+              "Slot": 1,
+              "count": 5,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/village/village_4.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "claws": {
+                        "stats": {
+                          "modifier": {
+                            "initialValue": 0.06487
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:feral_claws"
+            },
+            {
+              "Slot": 7,
+              "count": 5,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 8,
+              "count": 2,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1907336812,
+      385500257,
+      -2056426122,
+      472804516
+    ],
+    "seed": -3788744706497728450,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/8/8e/8e505994-16fa-4461-856d-6d761c2e6ca4",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      1774,
+      67,
+      -4713
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/village/village_plains_house"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

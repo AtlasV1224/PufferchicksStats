@@ -1,0 +1,175 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:emerald"
+            },
+            {
+              "Slot": 1,
+              "count": 9,
+              "id": "minecraft:lapis_lazuli"
+            },
+            {
+              "Slot": 2,
+              "count": 9,
+              "id": "minecraft:iron_nugget"
+            },
+            {
+              "Slot": 3,
+              "count": 7,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:experience_bottle"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:emerald"
+            },
+            {
+              "Slot": 1,
+              "count": 10,
+              "id": "minecraft:iron_nugget"
+            },
+            {
+              "Slot": 2,
+              "count": 10,
+              "id": "minecraft:gold_nugget"
+            },
+            {
+              "Slot": 3,
+              "count": 7,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "caster": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 45.41072
+                          },
+                          "damage": {
+                            "initialValue": 0.06026
+                          },
+                          "chance": {
+                            "initialValue": 0.28569
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:fire_gauntlet"
+            },
+            {
+              "Slot": 5,
+              "count": 4,
+              "id": "extradelight:curry_powder"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1962986417,
+      -1380366495,
+      -1094456494,
+      1185375423
+    ],
+    "seed": -7033011332807552172,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/7/75/7500cbb1-adb9-4761-bec3-eb5246a764bf",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      2457,
+      94,
+      -4925
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/shipwreck_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

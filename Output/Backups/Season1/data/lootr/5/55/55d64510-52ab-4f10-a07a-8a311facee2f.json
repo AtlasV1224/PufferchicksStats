@@ -1,0 +1,150 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 10,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "panic": {
+                        "stats": {
+                          "movement": {
+                            "initialValue": 0.11572
+                          },
+                          "radius": {
+                            "initialValue": 7.38928
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:panic_necklace"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:leather_boots"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:leather_chestplate"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:iron_boots"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "ars_nouveau:mana_boost": 2,
+                    "ars_nouveau:mana_regen": 2
+                  }
+                }
+              },
+              "id": "minecraft:iron_boots"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1440105744,
+      1386958608,
+      -1602581967,
+      531426863
+    ],
+    "seed": -5328440890628845638,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/5/55/55d64510-52ab-4f10-a07a-8a311facee2f",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      2734,
+      -9,
+      -3821
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "betterstrongholds:chests/armoury"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

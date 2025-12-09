@@ -1,0 +1,126 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:beetroot"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:suspicious_stew_effects": [
+                  {
+                    "id": "minecraft:night_vision",
+                    "duration": 140
+                  }
+                ]
+              },
+              "id": "minecraft:suspicious_stew"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:emerald"
+            },
+            {
+              "Slot": 3,
+              "count": 3,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "skating": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 23.60368
+                          },
+                          "speed": {
+                            "initialValue": 0.00255
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:roller_skates"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1010047038,
+      -1739502314,
+      -1888154162,
+      -1602211662
+    ],
+    "seed": -6129035125792657504,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/3/3c/3c34183e-9851-4d16-8f75-0dcea08030b2",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2172,
+      80,
+      559
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/generic"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

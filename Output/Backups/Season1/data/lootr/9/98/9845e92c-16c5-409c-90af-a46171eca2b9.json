@@ -1,0 +1,221 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:fire_aspect": 2
+                  }
+                },
+                "minecraft:damage": 204
+              },
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 4
+                  }
+                },
+                "minecraft:damage": 8
+              },
+              "id": "minecraft:diamond_leggings"
+            },
+            {
+              "Slot": 3,
+              "count": 19,
+              "id": "minecraft:spectral_arrow"
+            },
+            {
+              "Slot": 4,
+              "count": 22,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:netherite_upgrade_smithing_template"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "create_dragons_plus:blaze_upgrade_smithing_template"
+            },
+            {
+              "Slot": 9,
+              "count": 3,
+              "id": "silentgear:crimson_iron_ingot"
+            },
+            {
+              "Slot": 10,
+              "count": 2,
+              "id": "silentgear:blaze_gold_ingot"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "ars_nouveau:drygmy_shard"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:unbreaking": 1
+                  }
+                },
+                "minecraft:damage": 14
+              },
+              "id": "minecraft:diamond_chestplate"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:depth_strider": 2
+                  }
+                },
+                "minecraft:damage": 7
+              },
+              "id": "minecraft:diamond_boots"
+            },
+            {
+              "Slot": 4,
+              "count": 19,
+              "id": "minecraft:spectral_arrow"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "vampire": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.18098
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:vampiric_glove"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      -1740248788,
+      382025884,
+      -1867537311,
+      1911333561
+    ],
+    "seed": -5661471448236419971,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/98/9845e92c-16c5-409c-90af-a46171eca2b9",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      104,
+      81,
+      1155
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

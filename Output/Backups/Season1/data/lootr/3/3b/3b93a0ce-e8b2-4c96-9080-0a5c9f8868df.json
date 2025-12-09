@@ -1,0 +1,178 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 3,
+              "count": 25,
+              "id": "ars_nouveau:amplify_arrow"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Chosen's Chaotic Shift\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "In a flash of magic, the world twists, and what was once here is now there.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 114,
+                        "id": "ars_nouveau:constant",
+                        "b": 32
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:gaia_family"
+                        },
+                        "pitch": 2.0,
+                        "volume": 0.550000011920929
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_exchange",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_randomize",
+                        "ars_nouveau:glyph_pickup"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Chosen's Chaotic Shift"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 7,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:bane_of_arthropods": 4,
+                    "create:potato_recovery": 2
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:lure": 3,
+                    "minecraft:knockback": 2
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      999530702,
+      -390968170,
+      -1870656932,
+      -1618450209
+    ],
+    "seed": -3470676104758987483,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/3/3b/3b93a0ce-e8b2-4c96-9080-0a5c9f8868df",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      424,
+      204,
+      -425
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

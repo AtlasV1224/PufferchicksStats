@@ -1,0 +1,129 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:knockback": 2
+                  }
+                },
+                "minecraft:damage": 93
+              },
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 1,
+              "count": 11,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "ars_nouveau:wilden_spike"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "bonfire": {
+                        "stats": {
+                          "height": {
+                            "initialValue": 4.36164
+                          },
+                          "step": {
+                            "initialValue": 2.01036
+                          },
+                          "speed": {
+                            "initialValue": 0.04409
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:blazing_flask"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -291651527,
+      -1837678083,
+      -1898075929,
+      -1827148775
+    ],
+    "seed": 7158049623970752848,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/e/ee/ee9dc039-9277-41fd-8edd-a8e79317ec19",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -4503,
+      108,
+      -1321
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

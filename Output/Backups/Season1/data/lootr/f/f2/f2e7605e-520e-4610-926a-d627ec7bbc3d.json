@@ -1,0 +1,135 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Shulkium Leviosa\"}",
+                "ars_elemental:elemental_tome_caster": {
+                  "flavor_text": "Way worse than being shulked, wind feels sharp today.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 255,
+                        "id": "ars_nouveau:constant",
+                        "b": 26
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_delay",
+                        "ars_nouveau:glyph_wind_shear",
+                        "ars_nouveau:glyph_delay",
+                        "ars_nouveau:glyph_wind_shear"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Shulkium Leviosa"
+                    }
+                  }
+                }
+              },
+              "id": "ars_elemental:air_caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 6,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:music_disc_cat"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 4,
+              "count": 4,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 5,
+              "count": 4,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 6,
+              "count": 12,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 8,
+              "count": 3,
+              "id": "ars_nouveau:sourceberry_bush"
+            },
+            {
+              "Slot": 9,
+              "count": 9,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 10,
+              "count": 4,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      }
+    ],
+    "uuid": [
+      -219717538,
+      1376667152,
+      -1838492121,
+      -327435203
+    ],
+    "seed": -3008635001109921334,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/f/f2/f2e7605e-520e-4610-926a-d627ec7bbc3d",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -739,
+      -1,
+      210
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

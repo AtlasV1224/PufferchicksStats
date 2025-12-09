@@ -1,0 +1,104 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 4,
+              "count": 6,
+              "id": "minecraft:bone"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:quick_charge": 1,
+                    "minecraft:piercing": 3,
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:crossbow"
+            }
+          ]
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      }
+    ],
+    "uuid": [
+      -1906405383,
+      354959680,
+      -1768357598,
+      -108544207
+    ],
+    "seed": -2639138023981466397,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/8/8e/8e5e8ff9-1528-4140-9699-0122f987bf31",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2392,
+      57,
+      -837
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "table": "betterarcheology:archeology/chest_catacombs_combat"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

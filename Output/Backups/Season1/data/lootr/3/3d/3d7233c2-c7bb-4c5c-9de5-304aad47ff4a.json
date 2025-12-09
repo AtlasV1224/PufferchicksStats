@@ -1,0 +1,216 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:efficiency": 3
+                  }
+                }
+              },
+              "id": "minecraft:iron_pickaxe"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:sharpness": 4,
+                    "minecraft:fire_aspect": 2
+                  }
+                }
+              },
+              "id": "minecraft:iron_sword"
+            },
+            {
+              "Slot": 8,
+              "count": 3,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "teleport": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 10.18943
+                          },
+                          "cooldown": {
+                            "initialValue": 92.46894
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:warp_drive"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:fortune": 1
+                  }
+                }
+              },
+              "id": "minecraft:iron_shovel"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:fire_protection": 4,
+                    "minecraft:protection": 4,
+                    "ars_nouveau:mana_boost": 3,
+                    "ars_nouveau:mana_regen": 3
+                  }
+                }
+              },
+              "id": "minecraft:iron_helmet"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 3,
+                    "minecraft:unbreaking": 3,
+                    "ars_nouveau:mana_regen": 3
+                  }
+                }
+              },
+              "id": "minecraft:iron_helmet"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:fire_protection": 3,
+                    "minecraft:protection": 3
+                  }
+                }
+              },
+              "id": "minecraft:iron_chestplate"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      1030894530,
+      -944026532,
+      -1645924278,
+      -1387790518
+    ],
+    "seed": 4099219754407759453,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/3/3d/3d7233c2-c7bb-4c5c-9de5-304aad47ff4a",
+    "dimension": "minecraft:the_end",
+    "hasBeenOpened": 1,
+    "position": [
+      -4114,
+      223,
+      868
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/end_city_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

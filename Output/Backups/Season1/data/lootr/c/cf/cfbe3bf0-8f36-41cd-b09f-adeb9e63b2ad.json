@@ -1,0 +1,130 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 4,
+              "count": 6,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 5,
+              "count": 4,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 7,
+              "count": 2,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "claws": {
+                        "stats": {
+                          "modifier": {
+                            "initialValue": 0.09937
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:feral_claws"
+            },
+            {
+              "Slot": 9,
+              "count": 29,
+              "id": "ars_nouveau:pierce_arrow"
+            },
+            {
+              "Slot": 10,
+              "count": 7,
+              "id": "farmersdelight:cabbage_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      -809616400,
+      -1892269619,
+      -1331712533,
+      -1637633363
+    ],
+    "seed": -1201502586312548743,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/c/cf/cfbe3bf0-8f36-41cd-b09f-adeb9e63b2ad",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -3835,
+      64,
+      2512
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

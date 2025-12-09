@@ -1,0 +1,115 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 1,
+              "count": 4,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:gold_nugget"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "catch": {
+                        "stats": {
+                          "chance": {
+                            "initialValue": 0.18795
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:anglers_hat"
+            },
+            {
+              "Slot": 6,
+              "count": 4,
+              "id": "farmersdelight:onion"
+            }
+          ]
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      }
+    ],
+    "uuid": [
+      -330153716,
+      -927644919,
+      -2117155643,
+      367513699
+    ],
+    "seed": -4758832775050680879,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/e/ec/ec52410c-c8b5-4309-81ce-c4c515e7d063",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -994,
+      102,
+      4559
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "table": "minecraft:chests/village/village_plains_house"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 2,
+              "count": 5,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 3,
+              "count": 7,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 5,
+              "count": 2,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 6,
+              "count": 5,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 9,
+              "count": 3,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 11,
+              "count": 12,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 12,
+              "count": 4,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 16,
+              "count": 9,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 19,
+              "count": 2,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 20,
+              "count": 5,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 21,
+              "count": 7,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#44FF00\",\"fallback\":\"Hazmat Helmet\",\"italic\":false,\"translate\":\"incendium.item.hazmat.helmet.name\"}",
+                "minecraft:dyed_color": {
+                  "rgb": 6219030
+                },
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:generic.armor",
+                      "amount": 2.665860414505005,
+                      "operation": "add_value",
+                      "id": "minecraft:armor",
+                      "slot": "head"
+                    }
+                  ]
+                },
+                "minecraft:custom_data": {
+                  "incendium": {
+                    "item": "hazmat_suit"
+                  }
+                },
+                "minecraft:lore": [
+                  "{\"color\":\"#77CC00\",\"fallback\":\"Protects the wearer from poison\",\"italic\":true,\"strikethrough\":false,\"translate\":\"incendium.item.hazmat.suit.desc1\"}",
+                  "{\"strikethrough\":false,\"text\":\"\"}",
+                  "{\"color\":\"#FF8000\",\"fallback\":\"Incendium\",\"italic\":true,\"strikethrough\":false,\"translate\":\"incendium\"}"
+                ],
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 4,
+                    "minecraft:fire_protection": 4,
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:leather_helmet"
+            },
+            {
+              "Slot": 25,
+              "count": 5,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 26,
+              "count": 8,
+              "id": "minecraft:polished_basalt"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      407097444,
+      1346651957,
+      -1802673741,
+      -899400889
+    ],
+    "seed": 120180339399545838,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/1/18/1843d064-5044-4735-948d-61b3ca643b47",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      102,
+      55,
+      -4613
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "incendium:reactor/waste"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

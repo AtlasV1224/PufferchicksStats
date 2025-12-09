@@ -1,0 +1,250 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "heater": {
+                        "stats": {
+                          "capacity": {
+                            "initialValue": 21.78376
+                          },
+                          "duration": {
+                            "initialValue": 122.72975
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:pickaxe_heater"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 18,
+              "count": 2,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:redstone"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:wooden_pickaxe"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 4,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "vision": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.14453
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:night_vision_goggles"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 24,
+              "count": 5,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 25,
+              "count": 2,
+              "id": "minecraft:apple"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      1448407373,
+      -207927397,
+      -1513377692,
+      -805400848
+    ],
+    "seed": -6577499704489877271,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/5/56/5654f14d-f39b-479b-a5cb-b064cffe8ef0",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -4048,
+      -24,
+      -4065
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "betterstrongholds:chests/common"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

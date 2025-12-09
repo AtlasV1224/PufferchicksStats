@@ -1,0 +1,97 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 1,
+              "count": 8,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:iron_horse_armor"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "supplementaries:quiver_content": {
+                  "items": [
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 4,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "ars_nouveau:blasting_potion"
+                        }
+                      }
+                    },
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "selected_slot": 0
+                }
+              },
+              "id": "supplementaries:quiver"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      1975760890,
+      -2145368045,
+      -1593096807,
+      -506352042
+    ],
+    "seed": 1389040863338592408,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/7/75/75c3b7fa-8020-4813-a10b-4599e1d1ae56",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -941,
+      -44,
+      -448
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

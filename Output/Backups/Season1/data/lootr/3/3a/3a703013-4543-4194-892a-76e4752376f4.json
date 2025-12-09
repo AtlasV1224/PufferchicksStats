@@ -1,0 +1,231 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:music_disc_cat"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 6,
+              "count": 3,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:pumpkin_seeds"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 11,
+              "count": 5,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 14,
+              "count": 17,
+              "id": "ars_nouveau:pierce_arrow"
+            },
+            {
+              "Slot": 15,
+              "count": 2,
+              "id": "ars_nouveau:pierce_arrow"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Poseidon's Refuge\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Fire at a body of water to create a Ice bubble in the depths.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 1,
+                        "g": 1,
+                        "id": "ars_nouveau:constant",
+                        "b": 255
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:tempestry_family"
+                        }
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_light",
+                        "ars_nouveau:glyph_burst",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_freeze",
+                        "ars_nouveau:glyph_break",
+                        "ars_nouveau:glyph_freeze"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Poseidon's Refuge"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:pumpkin_seeds"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 25,
+              "count": 2,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 26,
+              "count": 3,
+              "id": "minecraft:gunpowder"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      }
+    ],
+    "uuid": [
+      980430867,
+      1162035604,
+      -1993705756,
+      1965258484
+    ],
+    "seed": -6318134090268761132,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/3/3a/3a703013-4543-4194-892a-76e4752376f4",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -128,
+      -10,
+      -771
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

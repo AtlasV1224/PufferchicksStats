@@ -1,0 +1,192 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 5,
+              "count": 2,
+              "id": "ars_nouveau:sourceberry_bush"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "sauce:school_tome_caster": {
+                  "flavor_text": "Creates a gravity center that also attract nearby blocks.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 50,
+                        "g": 250,
+                        "id": "ars_nouveau:constant",
+                        "b": 55
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_elemental:glyph_arc_projectile",
+                        "ars_nouveau:glyph_gravity",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_linger",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_dampen"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Gravity Well"
+                    }
+                  }
+                },
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Gravity Well\"}"
+              },
+              "id": "ars_elemental:earth_caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 27,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 2,
+              "count": 7,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "flying": {
+                        "stats": {
+                          "time": {
+                            "initialValue": 4.39465
+                          },
+                          "speed": {
+                            "initialValue": 0.20718
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:helium_flamingo"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1293967226,
+      -149535294,
+      -2026948526,
+      -384713028
+    ],
+    "seed": -3570012542296569287,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/4/4d/4d205f7a-f716-45c2-872f-3852e911bebc",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -3833,
+      195,
+      -4712
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:golden_horse_armor"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            }
+          ]
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 5,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:efficiency": 4
+                  }
+                }
+              },
+              "id": "minecraft:diamond_shovel"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:bane_of_arthropods": 3,
+                    "minecraft:sharpness": 3,
+                    "minecraft:knockback": 2,
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:iron_horse_armor"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Knocked out of Orbit\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Summons orbiting projectiles that will launch nearby enemies.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_orbit",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_delay",
+                        "ars_nouveau:glyph_gust",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Knocked out of Orbit"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:efficiency": 3
+                  }
+                }
+              },
+              "id": "minecraft:diamond_shovel"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:bane_of_arthropods": 3
+                  }
+                }
+              },
+              "id": "minecraft:iron_sword"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:iron_sword"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:iron_sword"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "ars_nouveau:sourceberry_bush"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:bane_of_arthropods": 4,
+                    "pastel:steadfast": 1,
+                    "minecraft:efficiency": 4
+                  }
+                }
+              },
+              "id": "farmersdelight:diamond_knife"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      148507635,
+      -563264889,
+      -1868284353,
+      1465748618
+    ],
+    "seed": 4819942979511899359,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/0/08/08da0bf3-de6d-4287-90a4-3e3f575d8c8a",
+    "dimension": "minecraft:the_end",
+    "hasBeenOpened": 1,
+    "position": [
+      -807,
+      120,
+      -1616
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "table": "minecraft:chests/end_city_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -1678841899,
+          1864648116,
+          -1393378093,
+          -894335838
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "passive": {
+                        "stats": {},
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "fast_mining": {
+                        "stats": {
+                          "modifier": {
+                            "initialValue": 0.22118
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:digging_claws"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:wooden_sword"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "cardiac:lifesteal": 1,
+                    "minecraft:looting": 1
+                  }
+                }
+              },
+              "id": "minecraft:wooden_sword"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "skating": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 15.33663
+                          },
+                          "speed": {
+                            "initialValue": 0.00145
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:roller_skates"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1470628905,
+      -1103870456,
+      -1890367182,
+      -79881304
+    ],
+    "seed": -2506483057192607415,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/a/a8/a857fbd7-be34-4608-8f53-4932fb3d1ba8",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -3735,
+      -26,
+      2710
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "betterstrongholds:chests/armoury"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,937 @@
+{
+  "Equipment": [
+    {
+      "id": "minecraft:firework_rocket",
+      "count": 43
+    },
+    {
+      "id": "minecraft:netherite_chestplate",
+      "count": 1,
+      "components": {
+        "minecraft:repair_cost": 31,
+        "minecraft:enchantments": {
+          "levels": {
+            "ars_elemental:soulbound": 1,
+            "minecraft:blast_protection": 9,
+            "minecraft:projectile_protection": 9,
+            "pastel:indestructible": 1,
+            "minecraft:protection": 9,
+            "minecraft:fire_protection": 9,
+            "ars_nouveau:mana_regen": 7,
+            "ars_nouveau:mana_boost": 7
+          }
+        }
+      }
+    },
+    {
+      "id": "minecraft:golden_helmet",
+      "count": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:projectile_protection": 2
+          }
+        },
+        "minecraft:damage": 49
+      }
+    }
+  ],
+  "Model": 127,
+  "PlayerName": "DecidedlyHuman",
+  "PosZ": -1996.7345978429792,
+  "Id": [
+    1232919946,
+    1668697149,
+    -2049881931,
+    792362857
+  ],
+  "PosY": 71.0,
+  "PosX": -3230.9174976315107,
+  "Dimension": "minecraft:overworld",
+  "ArmorInventory": [
+    {
+      "count": 1,
+      "Slot": 3,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:projectile_protection": 2
+          }
+        },
+        "minecraft:damage": 49
+      },
+      "id": "minecraft:golden_helmet"
+    }
+  ],
+  "Timestamp": 1758726240399,
+  "MainInventory": [
+    {
+      "count": 1,
+      "Slot": 0,
+      "components": {
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:sword_blade",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:iron",
+                      "item": {
+                        "id": "minecraft:iron_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:iron",
+                      "item": {
+                        "id": "minecraft:iron_ingot",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:sword_blade"
+            },
+            {
+              "item": {
+                "id": "silentgear:rod",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:iron",
+                      "item": {
+                        "id": "minecraft:iron_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:iron",
+                      "item": {
+                        "id": "minecraft:iron_ingot",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:rod"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "!minecraft:attribute_modifiers": {},
+        "silentgear:model_key": "sword:sword_blade{iron},rod{iron},",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 1.100000023841858,
+          "silentgear:draw_speed": 0.10000000149011612,
+          "silentgear:magic_armor": 6.0,
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:armor_toughness": 0.0,
+          "silentgear:projectile_speed": 1.0,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "silentgear:incorrect_for_iron_tools",
+            "level_hint": "2",
+            "name": "iron"
+          },
+          "silentgear:magic_damage": 1.0,
+          "silentgear:attack_speed": 1.6000001430511475,
+          "silentgear:repair_value": 0.0,
+          "silentgear:repair_efficiency": 1.0,
+          "silentgear:durability": 250.0,
+          "silentgear:attack_damage": 5.0,
+          "silentgear:harvest_speed": 6.0,
+          "silentgear:armor_durability": 15.0,
+          "silentgear:rarity": 20.0,
+          "silentgear:ranged_damage": 1.0,
+          "silentgear:enchantment_value": 14.0,
+          "silentgear:armor": 15.0,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:block_reach": 0.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:malleable",
+              "level": 3
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 2
+            }
+          ],
+          "silentgear:charging_value": 0.699999988079071
+        },
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.sword.nameProper\",\"with\":[{\"translate\":\"material.silentgear.iron\"}]}",
+        "silentgear:model_index": 3,
+        "minecraft:tool": {
+          "damage_per_block": 2,
+          "rules": [
+            {
+              "speed": 15.0,
+              "blocks": "minecraft:cobweb",
+              "correct_for_drops": 1
+            },
+            {
+              "speed": 1.5,
+              "blocks": "#minecraft:sword_efficient"
+            }
+          ]
+        },
+        "minecraft:damage": 2
+      },
+      "id": "silentgear:sword"
+    },
+    {
+      "count": 1,
+      "Slot": 1,
+      "components": {
+        "ars_nouveau:spell_caster": {
+          "max_slots": 10,
+          "spells": {
+            "0": {
+              "particleTimeline": {},
+              "recipe": [
+                "ars_nouveau:glyph_touch",
+                "ars_nouveau:glyph_break"
+              ],
+              "color": {
+                "g": 25,
+                "r": 255,
+                "b": 180,
+                "id": "ars_nouveau:constant"
+              },
+              "name": "Diggy Diggy",
+              "sound": {}
+            }
+          }
+        }
+      },
+      "id": "ars_nouveau:novice_spell_book"
+    },
+    {
+      "count": 64,
+      "Slot": 2,
+      "id": "minecraft:torch"
+    },
+    {
+      "count": 16,
+      "Slot": 4,
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "count": 1,
+      "Slot": 5,
+      "id": "minecraft:water_bucket"
+    },
+    {
+      "count": 43,
+      "Slot": 6,
+      "id": "minecraft:firework_rocket"
+    },
+    {
+      "count": 1,
+      "Slot": 7,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 1,
+            "experience": 34,
+            "level": 1
+          },
+          "abilities": {
+            "abilities": {
+              "marinade": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 0
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "duration": {
+                    "initialValue": 2.54877
+                  }
+                }
+              },
+              "regeneration": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "3": [
+                      1
+                    ],
+                    "2": [
+                      3
+                    ],
+                    "0": [
+                      3
+                    ],
+                    "5": [
+                      3
+                    ],
+                    "4": [
+                      3
+                    ]
+                  }
+                },
+                "stats": {
+                  "feed": {
+                    "initialValue": 1.01303
+                  },
+                  "cooldown": {
+                    "initialValue": 28.80043
+                  }
+                }
+              },
+              "meat_bat": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 0
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "damage": {
+                    "initialValue": 1.69308
+                  },
+                  "stun": {
+                    "initialValue": 0.06983
+                  }
+                }
+              }
+            }
+          }
+        },
+        "relics:charge": 6
+      },
+      "id": "relics:infinity_ham"
+    },
+    {
+      "count": 1,
+      "Slot": 8,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 1,
+            "experience": 28,
+            "level": 1
+          },
+          "abilities": {
+            "abilities": {
+              "marinade": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 0
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "duration": {
+                    "initialValue": 1.31406
+                  }
+                }
+              },
+              "regeneration": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "0": [
+                      3
+                    ],
+                    "2": [
+                      3
+                    ],
+                    "3": [
+                      1
+                    ],
+                    "5": [
+                      3
+                    ],
+                    "4": [
+                      3
+                    ]
+                  }
+                },
+                "stats": {
+                  "feed": {
+                    "initialValue": 1.87645
+                  },
+                  "cooldown": {
+                    "initialValue": 19.72141
+                  }
+                }
+              },
+              "meat_bat": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 0
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "damage": {
+                    "initialValue": 1.24937
+                  },
+                  "stun": {
+                    "initialValue": 0.21966
+                  }
+                }
+              }
+            }
+          }
+        },
+        "relics:charge": 6
+      },
+      "id": "relics:infinity_ham"
+    },
+    {
+      "count": 16,
+      "Slot": 9,
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "count": 15,
+      "Slot": 10,
+      "id": "puffercoin:coin_1"
+    },
+    {
+      "count": 16,
+      "Slot": 11,
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "count": 16,
+      "Slot": 12,
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "count": 36,
+      "Slot": 13,
+      "id": "minecraft:diamond"
+    },
+    {
+      "count": 1,
+      "Slot": 14,
+      "id": "minecraft:wheat_seeds"
+    },
+    {
+      "count": 49,
+      "Slot": 15,
+      "id": "minecraft:obsidian"
+    },
+    {
+      "count": 1,
+      "Slot": 16,
+      "id": "minecraft:poppy"
+    },
+    {
+      "count": 64,
+      "Slot": 17,
+      "id": "minecraft:firework_rocket"
+    },
+    {
+      "count": 1,
+      "Slot": 25,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 0,
+            "experience": 14,
+            "level": 2
+          },
+          "abilities": {
+            "abilities": {
+              "glider": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 1,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "8": [
+                      2
+                    ],
+                    "3": [
+                      8
+                    ],
+                    "2": [
+                      7
+                    ],
+                    "1": [
+                      7,
+                      8
+                    ],
+                    "0": [
+                      8
+                    ],
+                    "6": [
+                      1,
+                      0
+                    ],
+                    "5": [
+                      3
+                    ],
+                    "4": [
+                      5
+                    ]
+                  }
+                },
+                "stats": {
+                  "cooldown": {
+                    "initialValue": 1.62913
+                  },
+                  "count": {
+                    "initialValue": 2.16847
+                  }
+                }
+              },
+              "shield": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 0
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "knockback": {
+                    "initialValue": 2.48044
+                  }
+                }
+              }
+            }
+          }
+        },
+        "relics:charge": 3
+      },
+      "id": "artifacts:umbrella"
+    },
+    {
+      "count": 1,
+      "Slot": 27,
+      "components": {
+        "minecraft:damage": 8
+      },
+      "id": "minecraft:stone_axe"
+    },
+    {
+      "count": 64,
+      "Slot": 28,
+      "id": "minecraft:string"
+    },
+    {
+      "count": 35,
+      "Slot": 29,
+      "id": "minecraft:torch"
+    },
+    {
+      "count": 7,
+      "Slot": 30,
+      "id": "minecraft:flint"
+    },
+    {
+      "count": 1,
+      "Slot": 31,
+      "id": "comforts:sleeping_bag_white"
+    },
+    {
+      "count": 64,
+      "Slot": 32,
+      "id": "minecraft:string"
+    },
+    {
+      "count": 64,
+      "Slot": 33,
+      "id": "minecraft:string"
+    },
+    {
+      "count": 64,
+      "Slot": 34,
+      "id": "minecraft:firework_rocket"
+    },
+    {
+      "count": 64,
+      "Slot": 35,
+      "id": "minecraft:firework_rocket"
+    }
+  ],
+  "Experience": 57,
+  "PlayerUuid": [
+    -2083853256,
+    1488473380,
+    -1779687266,
+    -272052621
+  ],
+  "Items": [
+    {
+      "id": "artifacts:charm_of_sinking",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 1,
+            "experience": 57,
+            "level": 1
+          },
+          "abilities": {
+            "abilities": {
+              "dive": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "8": [
+                      5
+                    ],
+                    "3": [
+                      1
+                    ],
+                    "2": [
+                      0
+                    ],
+                    "1": [
+                      2
+                    ],
+                    "0": [
+                      3
+                    ],
+                    "6": [
+                      5
+                    ],
+                    "7": [
+                      6
+                    ],
+                    "5": [
+                      4
+                    ],
+                    "4": [
+                      1,
+                      10,
+                      11
+                    ],
+                    "9": [
+                      8
+                    ]
+                  }
+                },
+                "stats": {}
+              },
+              "dipping": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "2": [
+                      1
+                    ],
+                    "1": [
+                      3
+                    ],
+                    "0": [
+                      1
+                    ],
+                    "5": [
+                      3
+                    ],
+                    "4": [
+                      3
+                    ]
+                  }
+                },
+                "stats": {
+                  "air": {
+                    "initialValue": 0.32027
+                  }
+                }
+              }
+            }
+          }
+        },
+        "relics:toggled": 1,
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "necklace",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:power_glove",
+      "count": 1,
+      "components": {
+        "relics:time": 6,
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 0,
+            "experience": 42,
+            "level": 1
+          },
+          "abilities": {
+            "abilities": {
+              "power": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 1,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "3": [
+                      4
+                    ],
+                    "2": [
+                      3
+                    ],
+                    "1": [
+                      2
+                    ],
+                    "0": [
+                      1
+                    ],
+                    "6": [
+                      7,
+                      5
+                    ],
+                    "7": [
+                      8
+                    ],
+                    "5": [
+                      4
+                    ],
+                    "9": [
+                      8
+                    ]
+                  }
+                },
+                "stats": {
+                  "amount": {
+                    "initialValue": 0.81753
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "hands",
+          "wasEquipped": 1,
+          "slotIndex": 1
+        }
+      }
+    },
+    {
+      "id": "relics:aqua_walker",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 0,
+            "experience": 43,
+            "level": 1
+          },
+          "abilities": {
+            "abilities": {
+              "walking": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 1,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "time": {
+                    "initialValue": 58.29059
+                  }
+                }
+              }
+            }
+          }
+        },
+        "relics:charge": 0,
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "feet",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:running_shoes",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 0,
+            "experience": 181,
+            "level": 3
+          },
+          "abilities": {
+            "abilities": {
+              "runner": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 3,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "8": [
+                      0,
+                      7
+                    ],
+                    "2": [
+                      3,
+                      1
+                    ],
+                    "1": [
+                      0
+                    ],
+                    "3": [
+                      4
+                    ],
+                    "7": [
+                      6
+                    ],
+                    "5": [
+                      6
+                    ],
+                    "4": [
+                      5
+                    ]
+                  }
+                },
+                "stats": {
+                  "speed": {
+                    "initialValue": 0.68347
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "feet",
+          "wasEquipped": 1,
+          "slotIndex": 1
+        }
+      }
+    },
+    {
+      "id": "hooked:diamond_hook",
+      "count": 1,
+      "components": {
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "hooked_hook",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    }
+  ],
+  "OffHandInventory": []
+}

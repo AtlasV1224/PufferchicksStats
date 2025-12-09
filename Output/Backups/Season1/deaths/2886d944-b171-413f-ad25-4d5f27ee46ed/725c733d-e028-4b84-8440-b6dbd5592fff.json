@@ -1,0 +1,784 @@
+{
+  "Equipment": [
+    {
+      "id": "minecraft:diamond_sword",
+      "count": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:fire_aspect": 2,
+            "minecraft:sharpness": 3,
+            "minecraft:knockback": 2
+          }
+        },
+        "minecraft:damage": 29
+      }
+    },
+    {
+      "id": "minecraft:golden_boots",
+      "count": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "apothic_enchanting:life_mending": 2
+          }
+        },
+        "minecraft:damage": 2
+      }
+    },
+    {
+      "id": "silentgear:elytra",
+      "count": 1,
+      "components": {
+        "minecraft:dyed_color": {
+          "show_in_tooltip": 0,
+          "rgb": -1446676
+        },
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:elytra_wings",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:wool/white",
+                      "item": {
+                        "id": "minecraft:white_wool",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:wool/white",
+                      "item": {
+                        "id": "minecraft:white_wool",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:wool/white",
+                      "item": {
+                        "id": "minecraft:white_wool",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:wool/white",
+                      "item": {
+                        "id": "minecraft:white_wool",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:wool/white",
+                      "item": {
+                        "id": "minecraft:white_wool",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:wool/white",
+                      "item": {
+                        "id": "minecraft:white_wool",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:elytra_wings"
+            },
+            {
+              "item": {
+                "id": "silentgear:binding",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:string",
+                      "item": {
+                        "id": "minecraft:string",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:binding"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "!minecraft:attribute_modifiers": {},
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.elytra.nameProper\",\"with\":[{\"translate\":\"material.silentgear.wool.white\"}]}",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 0.0,
+          "silentgear:draw_speed": 0.0,
+          "silentgear:magic_armor": 4.0,
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:armor_toughness": 0.0,
+          "silentgear:projectile_speed": 0.0,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "minecraft:incorrect_for_wooden_tool",
+            "level_hint": "0",
+            "name": "wood"
+          },
+          "silentgear:magic_damage": 0.0,
+          "silentgear:attack_speed": 0.0,
+          "silentgear:repair_value": 0.0,
+          "silentgear:repair_efficiency": 1.0499999523162842,
+          "silentgear:durability": 0.0,
+          "silentgear:attack_damage": 0.0,
+          "silentgear:harvest_speed": 0.0,
+          "silentgear:armor_durability": 4.0,
+          "silentgear:rarity": 7.0,
+          "silentgear:ranged_damage": 0.0,
+          "silentgear:enchantment_value": 7.0,
+          "silentgear:armor": 0.0,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:block_reach": 0.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:snow_walker",
+              "level": 1
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 1
+            }
+          ],
+          "silentgear:charging_value": 0.7000000476837158
+        },
+        "silentgear:model_key": "elytra:elytra_wings{wool/white},binding{string},",
+        "minecraft:repair_cost": 1,
+        "silentgear:model_index": 2,
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:unbreaking": 4
+          }
+        },
+        "minecraft:damage": 0
+      }
+    },
+    {
+      "id": "minecraft:golden_helmet",
+      "count": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "ars_nouveau:mana_boost": 2
+          }
+        },
+        "minecraft:damage": 27
+      }
+    }
+  ],
+  "Model": 127,
+  "PlayerName": "Super_MrSpring",
+  "PosZ": -45.38614035354379,
+  "Id": [
+    1918661437,
+    -534230140,
+    -2076133669,
+    -715575297
+  ],
+  "PosY": 93.0,
+  "PosX": -318.7102174194501,
+  "Dimension": "amplidim:overworld",
+  "ArmorInventory": [
+    {
+      "count": 1,
+      "Slot": 0,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "apothic_enchanting:life_mending": 2
+          }
+        },
+        "minecraft:damage": 2
+      },
+      "id": "minecraft:golden_boots"
+    },
+    {
+      "count": 1,
+      "Slot": 2,
+      "components": {
+        "minecraft:dyed_color": {
+          "show_in_tooltip": 0,
+          "rgb": -1446676
+        },
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:elytra_wings",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:wool/white",
+                      "item": {
+                        "id": "minecraft:white_wool",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:wool/white",
+                      "item": {
+                        "id": "minecraft:white_wool",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:wool/white",
+                      "item": {
+                        "id": "minecraft:white_wool",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:wool/white",
+                      "item": {
+                        "id": "minecraft:white_wool",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:wool/white",
+                      "item": {
+                        "id": "minecraft:white_wool",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:wool/white",
+                      "item": {
+                        "id": "minecraft:white_wool",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:elytra_wings"
+            },
+            {
+              "item": {
+                "id": "silentgear:binding",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:string",
+                      "item": {
+                        "id": "minecraft:string",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:binding"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "!minecraft:attribute_modifiers": {},
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.elytra.nameProper\",\"with\":[{\"translate\":\"material.silentgear.wool.white\"}]}",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 0.0,
+          "silentgear:draw_speed": 0.0,
+          "silentgear:magic_armor": 4.0,
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:armor_toughness": 0.0,
+          "silentgear:projectile_speed": 0.0,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "minecraft:incorrect_for_wooden_tool",
+            "level_hint": "0",
+            "name": "wood"
+          },
+          "silentgear:magic_damage": 0.0,
+          "silentgear:attack_speed": 0.0,
+          "silentgear:repair_value": 0.0,
+          "silentgear:repair_efficiency": 1.0499999523162842,
+          "silentgear:durability": 0.0,
+          "silentgear:attack_damage": 0.0,
+          "silentgear:harvest_speed": 0.0,
+          "silentgear:armor_durability": 4.0,
+          "silentgear:rarity": 7.0,
+          "silentgear:ranged_damage": 0.0,
+          "silentgear:enchantment_value": 7.0,
+          "silentgear:armor": 0.0,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:block_reach": 0.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:snow_walker",
+              "level": 1
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 1
+            }
+          ],
+          "silentgear:charging_value": 0.7000000476837158
+        },
+        "silentgear:model_key": "elytra:elytra_wings{wool/white},binding{string},",
+        "minecraft:repair_cost": 1,
+        "silentgear:model_index": 2,
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:unbreaking": 4
+          }
+        },
+        "minecraft:damage": 0
+      },
+      "id": "silentgear:elytra"
+    },
+    {
+      "count": 1,
+      "Slot": 3,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "ars_nouveau:mana_boost": 2
+          }
+        },
+        "minecraft:damage": 27
+      },
+      "id": "minecraft:golden_helmet"
+    }
+  ],
+  "Timestamp": 1762207528748,
+  "MainInventory": [
+    {
+      "count": 1,
+      "Slot": 0,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:fire_aspect": 2,
+            "minecraft:sharpness": 3,
+            "minecraft:knockback": 2
+          }
+        },
+        "minecraft:damage": 29
+      },
+      "id": "minecraft:diamond_sword"
+    },
+    {
+      "count": 1,
+      "Slot": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:unbreaking": 3,
+            "minecraft:fortune": 2,
+            "minecraft:efficiency": 3
+          }
+        },
+        "minecraft:damage": 507
+      },
+      "id": "minecraft:diamond_pickaxe"
+    },
+    {
+      "count": 1,
+      "Slot": 2,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:efficiency": 3
+          }
+        },
+        "minecraft:damage": 168
+      },
+      "id": "minecraft:diamond_axe"
+    },
+    {
+      "count": 7,
+      "Slot": 3,
+      "id": "minecraft:packed_mud"
+    },
+    {
+      "count": 51,
+      "Slot": 4,
+      "id": "minecraft:raw_copper"
+    },
+    {
+      "count": 64,
+      "Slot": 5,
+      "id": "minecraft:coal"
+    },
+    {
+      "count": 31,
+      "Slot": 6,
+      "id": "minecraft:firework_rocket"
+    },
+    {
+      "count": 31,
+      "Slot": 7,
+      "id": "minecraft:torch"
+    },
+    {
+      "count": 1,
+      "Slot": 8,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 34,
+            "points": 0,
+            "experience": 36,
+            "level": 0
+          },
+          "abilities": {
+            "abilities": {
+              "marinade": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 0
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "duration": {
+                    "initialValue": 1.68705
+                  }
+                }
+              },
+              "regeneration": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "2": [
+                      3
+                    ],
+                    "3": [
+                      1,
+                      0,
+                      5
+                    ],
+                    "4": [
+                      3
+                    ]
+                  }
+                },
+                "stats": {
+                  "feed": {
+                    "initialValue": 2.6
+                  },
+                  "cooldown": {
+                    "initialValue": 15.0
+                  }
+                }
+              },
+              "meat_bat": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 0
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "damage": {
+                    "initialValue": 1.21941
+                  },
+                  "stun": {
+                    "initialValue": 0.15857
+                  }
+                }
+              }
+            }
+          }
+        },
+        "relics:charge": 6
+      },
+      "id": "relics:infinity_ham"
+    },
+    {
+      "count": 9,
+      "Slot": 9,
+      "id": "minecraft:coal"
+    }
+  ],
+  "Experience": 33,
+  "PlayerUuid": [
+    679926084,
+    -1317977793,
+    -1390064289,
+    669927149
+  ],
+  "Items": [
+    {
+      "id": "artifacts:cowboy_hat",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 0,
+            "experience": 3,
+            "level": 0
+          },
+          "abilities": {
+            "abilities": {
+              "cowboy": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "speed": {
+                    "initialValue": 0.28128
+                  }
+                }
+              },
+              "overlord": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 0
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "time": {
+                    "initialValue": 3.31751
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "head",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "sophisticatedbackpacks:copper_backpack",
+      "count": 1,
+      "components": {
+        "sophisticatedcore:number_of_upgrade_slots": 1,
+        "sophisticatedcore:number_of_inventory_slots": 45,
+        "sophisticatedcore:storage_uuid": [
+          699531657,
+          824919197,
+          -2089553327,
+          -1375620100
+        ],
+        "sophisticatedcore:render_info_tag": {
+          "upgradeItems": [
+            {}
+          ]
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "back",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:pocket_piston",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 0,
+            "experience": 3,
+            "level": 0
+          },
+          "abilities": {
+            "abilities": {
+              "discarding": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "interaction": {
+                    "initialValue": 0.21948
+                  }
+                }
+              },
+              "interaction": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 0
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "range": {
+                    "initialValue": 0.24374
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "hands",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:helium_flamingo",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 0,
+            "experience": 6,
+            "level": 0
+          },
+          "abilities": {
+            "abilities": {
+              "flying": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "speed": {
+                    "initialValue": 0.29945
+                  },
+                  "time": {
+                    "initialValue": 4.41752
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "belt",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:running_shoes",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 0,
+            "experience": 7,
+            "level": 0
+          },
+          "abilities": {
+            "abilities": {
+              "runner": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "speed": {
+                    "initialValue": 0.79247
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "feet",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    }
+  ],
+  "OffHandInventory": []
+}

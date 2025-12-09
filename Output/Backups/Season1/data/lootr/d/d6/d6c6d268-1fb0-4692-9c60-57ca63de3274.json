@@ -1,0 +1,83 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:map"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:unbreaking": 1
+                  }
+                }
+              },
+              "id": "minecraft:shield"
+            },
+            {
+              "Slot": 2,
+              "count": 10,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:poison"
+                }
+              },
+              "id": "minecraft:tipped_arrow"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      -691613080,
+      531646098,
+      -1671407670,
+      1675506292
+    ],
+    "seed": -4640160147752112310,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/d6/d6c6d268-1fb0-4692-9c60-57ca63de3274",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -3893,
+      140,
+      -1910
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "betterarcheology:archeology/chest_jungle_temple_equip"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

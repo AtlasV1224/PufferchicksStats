@@ -1,0 +1,130 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 5,
+              "id": "minecraft:acacia_sapling"
+            },
+            {
+              "Slot": 1,
+              "count": 5,
+              "id": "minecraft:wheat_seeds"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "nutrition": {
+                        "stats": {
+                          "hunger": {
+                            "initialValue": 2.24239
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "drinking": {
+                        "stats": {
+                          "speed": {
+                            "initialValue": 0.38319
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:novelty_drinking_hat"
+            },
+            {
+              "Slot": 4,
+              "count": 3,
+              "id": "farmersdelight:cabbage_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      524954830,
+      -1306967894,
+      -1804244392,
+      736788254
+    ],
+    "seed": 950057342280077899,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/1/1f/1f4a2cce-b219-40aa-9475-6a582bea7f1e",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1272,
+      68,
+      -880
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/village/village_savanna_house"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

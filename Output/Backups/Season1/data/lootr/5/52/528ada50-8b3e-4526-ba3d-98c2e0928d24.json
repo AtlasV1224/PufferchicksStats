@@ -1,0 +1,208 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 26,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 1,
+              "count": 7,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"The Yellow Sun\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Along the shore the cloud waves break, The twin suns sink beneath the lake, The shadows lengthen. In Carcosa",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 204,
+                        "g": 153,
+                        "id": "ars_nouveau:constant",
+                        "b": 1
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_touch",
+                        "ars_nouveau:glyph_rune",
+                        "ars_nouveau:glyph_hex",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_wither",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "The Yellow Sun"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:map"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:depth_strider": 3,
+                    "create:capacity": 2
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:power": 4
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:quick_charge": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 10,
+              "count": 25,
+              "id": "ars_nouveau:split_arrow"
+            },
+            {
+              "Slot": 11,
+              "count": 2,
+              "id": "ars_nouveau:wilden_spike"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "ars_nouveau:sourceberry_bush"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1384831568,
+      -1958853338,
+      -1170368318,
+      -527266524
+    ],
+    "seed": -8883816703218595558,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/5/52/528ada50-8b3e-4526-ba3d-98c2e0928d24",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -3338,
+      88,
+      -3995
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "ars_nouveau:whirlisprig_shards"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "supplementaries:bomb"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:iron_pickaxe"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "swimmer": {
+                        "stats": {
+                          "modifier": {
+                            "initialValue": 0.35642
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:flippers"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "supplementaries:bomb"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Chem's Scientific Repulsion Runes\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Smothers an area with runes that launch entities upward. Do NOT get covered in the Repulsion Runes.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 61,
+                        "g": 207,
+                        "id": "ars_nouveau:constant",
+                        "b": 248
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_linger",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_rune",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_launch"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Chem's Scientific Repulsion Runes"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      642298534,
+      -584499138,
+      -1355241917,
+      676245252
+    ],
+    "seed": -1045781733171771877,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/2/26/2648b2a6-dd29-403e-af38-a643284eaf04",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -3710,
+      -18,
+      2801
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_crossing"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

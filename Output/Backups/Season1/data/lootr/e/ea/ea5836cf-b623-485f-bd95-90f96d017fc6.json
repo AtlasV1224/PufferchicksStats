@@ -1,0 +1,154 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:bucket"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:music_disc_otherside"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "supplementaries:quiver_content": {
+                  "items": [
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 3,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "minecraft:wind_charged"
+                        }
+                      }
+                    },
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "selected_slot": 0
+                }
+              },
+              "id": "supplementaries:quiver"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 6,
+              "count": 2,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 7,
+              "count": 8,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 8,
+              "count": 9,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "ars_nouveau:mana_boost": 2
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "ars_nouveau:whirlisprig_shards"
+            },
+            {
+              "Slot": 12,
+              "count": 2,
+              "id": "farmersdelight:rope"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -363317553,
+      -1239201697,
+      -1114271495,
+      1828814790
+    ],
+    "seed": -1619651748190672842,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/e/ea/ea5836cf-b623-485f-bd95-90f96d017fc6",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      532,
+      15,
+      -785
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

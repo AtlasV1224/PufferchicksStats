@@ -1,0 +1,312 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:iron_horse_armor"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 4,
+              "count": 8,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 7,
+              "count": 3,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "exposure_expanded:antialias_filter"
+            },
+            {
+              "Slot": 13,
+              "count": 8,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 14,
+              "count": 36,
+              "id": "extradelight:bad_food"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Darkfira's Flash Freeze\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Encases your enemies or friends in a tomb of ice. Guaranteed to leave them shocked and confused.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 25,
+                        "g": 255,
+                        "id": "ars_nouveau:constant",
+                        "b": 255
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:tempestry_family"
+                        },
+                        "pitch": 1.899999976158142,
+                        "volume": 1.690000057220459
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_burst",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_conjure_water",
+                        "ars_nouveau:glyph_freeze",
+                        "ars_nouveau:glyph_lightning",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Darkfira's Flash Freeze"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "ars_nouveau:source_gem"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 9,
+              "count": 2,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 12,
+              "count": 6,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:golden_apple"
+            },
+            {
+              "Slot": 17,
+              "count": 3,
+              "id": "extradelight:bad_food"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 20,
+              "count": 2,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 21,
+              "count": 2,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 22,
+              "count": 3,
+              "id": "minecraft:pumpkin_seeds"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "ars_nouveau:source_gem"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      512003048,
+      -1429450919,
+      -1738626838,
+      1639404341
+    ],
+    "seed": 1268480545573271530,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/1/1e/1e848be8-aacc-4f59-985e-a8ea61b75335",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2809,
+      216,
+      -2847
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

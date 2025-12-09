@@ -1,0 +1,159 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 7,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 1,
+              "count": 7,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "looting": {
+                        "stats": {
+                          "chance": {
+                            "initialValue": 0.13448
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:superstitious_hat"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 11,
+              "count": 3,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 16,
+              "count": 2,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:string"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      }
+    ],
+    "uuid": [
+      -1419486366,
+      -1988016142,
+      -1130712510,
+      1078808072
+    ],
+    "seed": -5196760992337377677,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/a/ab/ab645b62-8981-47f2-bc9a-b242404d4e08",
+    "dimension": "pastel:deeper_down",
+    "hasBeenOpened": 1,
+    "position": [
+      2796,
+      -283,
+      1294
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "table": "pastel:chests/undergrowth_manor/basement_astrologer_chamber"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

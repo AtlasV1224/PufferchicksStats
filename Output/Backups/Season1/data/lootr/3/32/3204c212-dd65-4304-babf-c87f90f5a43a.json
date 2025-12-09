@@ -1,0 +1,238 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:bane_of_arthropods": 1,
+                    "minecraft:knockback": 1,
+                    "minecraft:unbreaking": 1
+                  }
+                },
+                "minecraft:damage": 44
+              },
+              "id": "minecraft:stone_sword"
+            }
+          ]
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:unbreaking": 2
+                  }
+                },
+                "minecraft:damage": 23
+              },
+              "id": "minecraft:leather_helmet"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 2
+                  }
+                },
+                "minecraft:damage": 124
+              },
+              "id": "minecraft:chainmail_helmet"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 23,
+              "count": 2,
+              "id": "cardiac:life_bottle"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "cardiac:lifesteal": 1,
+                    "minecraft:bane_of_arthropods": 1
+                  }
+                },
+                "minecraft:damage": 64
+              },
+              "id": "minecraft:stone_sword"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hell": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 40.99764
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:obsidian_skull"
+            },
+            {
+              "Slot": 9,
+              "count": 2,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 12,
+              "count": 2,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:string"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      839172626,
+      -580566268,
+      -1161836417,
+      -1862949830
+    ],
+    "seed": 6588328319461260696,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/3/32/3204c212-dd65-4304-babf-c87f90f5a43a",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      54,
+      101,
+      96
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

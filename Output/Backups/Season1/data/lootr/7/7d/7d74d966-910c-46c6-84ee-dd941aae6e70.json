@@ -1,0 +1,139 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:leather_helmet"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:leather_chestplate"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "heart": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 4.05014
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:crystal_heart"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:iron_boots"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:iron_helmet"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      2104809830,
+      -1861466426,
+      -2064720492,
+      447639152
+    ],
+    "seed": -537254046562716274,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/7/7d/7d74d966-910c-46c6-84ee-dd941aae6e70",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      2744,
+      -9,
+      -3825
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "betterstrongholds:chests/armoury"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

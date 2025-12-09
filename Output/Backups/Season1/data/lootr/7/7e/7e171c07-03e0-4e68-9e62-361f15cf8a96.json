@@ -1,0 +1,126 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "explode": {
+                        "stats": {
+                          "capacity": {
+                            "initialValue": 39.0541
+                          },
+                          "stun": {
+                            "initialValue": 0.1225
+                          },
+                          "damage": {
+                            "initialValue": 0.25742
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:reflection_necklace"
+            },
+            {
+              "Slot": 21,
+              "count": 2,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:quartz"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      2115443719,
+      65031784,
+      -1637730785,
+      365922966
+    ],
+    "seed": 5640037558917151548,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/7/7e/7e171c07-03e0-4e68-9e62-361f15cf8a96",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -446,
+      15,
+      1586
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "betterfortresses:chests/storage"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

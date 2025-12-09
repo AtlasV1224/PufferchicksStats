@@ -1,0 +1,147 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:sharpness": 1,
+                    "minecraft:knockback": 1
+                  }
+                },
+                "minecraft:damage": 76
+              },
+              "id": "minecraft:stone_sword"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 7,
+              "count": 2,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 49
+              },
+              "id": "minecraft:stone_sword"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 3,
+                    "minecraft:fire_protection": 2
+                  }
+                },
+                "minecraft:damage": 154
+              },
+              "id": "minecraft:chainmail_chestplate"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "explode": {
+                        "stats": {
+                          "capacity": {
+                            "initialValue": 59.68835
+                          },
+                          "stun": {
+                            "initialValue": 0.22006
+                          },
+                          "damage": {
+                            "initialValue": 0.34791
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:reflection_necklace"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -1359446763,
+      -320386898,
+      -1985000924,
+      1697811041
+    ],
+    "seed": 7309837884806910102,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/a/ae/aef87d15-ece7-48ae-89af-4a2465328a61",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -467,
+      102,
+      -383
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

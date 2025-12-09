@@ -1,0 +1,244 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:smite": 3
+                  }
+                }
+              },
+              "id": "farmersdelight:iron_knife"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:beetroot_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Self Atomic\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "WARNING: ONLY TO BE USED AS A LAST RESORT!!",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 1,
+                        "id": "ars_nouveau:constant",
+                        "b": 1
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:gaia_family"
+                        }
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_explosion",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Self Atomic"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:mending": 1,
+                    "minecraft:vanishing_curse": 1,
+                    "minecraft:efficiency": 4
+                  }
+                }
+              },
+              "id": "minecraft:iron_shovel"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:depth_strider": 3,
+                    "minecraft:vanishing_curse": 1,
+                    "minecraft:blast_protection": 4
+                  }
+                }
+              },
+              "id": "minecraft:iron_boots"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:respiration": 3,
+                    "minecraft:protection": 4
+                  }
+                }
+              },
+              "id": "minecraft:diamond_helmet"
+            },
+            {
+              "Slot": 4,
+              "count": 5,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "supplementaries:stasis": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "jump": {
+                        "stats": {
+                          "count": {
+                            "initialValue": 1.00406
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:cloud_in_a_bottle"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -116114811,
+      -171357119,
+      -1655719743,
+      -677638350
+    ],
+    "seed": 1347149985941494852,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/f/f9/f9143a85-f5c9-4c41-9d4f-b8c1d79c0f32",
+    "dimension": "minecraft:the_end",
+    "hasBeenOpened": 1,
+    "position": [
+      2979,
+      162,
+      427
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/end_city_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

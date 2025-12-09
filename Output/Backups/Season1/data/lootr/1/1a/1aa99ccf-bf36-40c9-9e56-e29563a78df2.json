@@ -1,0 +1,128 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 12,
+              "id": "minecraft:lapis_lazuli"
+            },
+            {
+              "Slot": 1,
+              "count": 10,
+              "id": "minecraft:iron_nugget"
+            },
+            {
+              "Slot": 2,
+              "count": 6,
+              "id": "minecraft:gold_nugget"
+            },
+            {
+              "Slot": 3,
+              "count": 10,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "minecraft:coast_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "fire": {
+                        "stats": {
+                          "time": {
+                            "initialValue": 2.50523
+                          },
+                          "chance": {
+                            "initialValue": 0.26393
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:flame_pendant"
+            },
+            {
+              "Slot": 7,
+              "count": 4,
+              "id": "extradelight:curry_powder"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      447323343,
+      -1086963511,
+      -1638473067,
+      1671925234
+    ],
+    "seed": 1019570409054057596,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/1/1a/1aa99ccf-bf36-40c9-9e56-e29563a78df2",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      2937,
+      59,
+      4136
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/shipwreck_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

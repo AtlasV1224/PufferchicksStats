@@ -1,0 +1,301 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:tripwire_hook"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 4,
+              "count": 3,
+              "id": "minecraft:arrow"
+            },
+            {
+              "Slot": 5,
+              "count": 7,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 6,
+              "count": 2,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 9,
+              "count": 3,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 11,
+              "count": 2,
+              "id": "farmersdelight:onion_crate"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Vault\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Sometimes you just need to get over that wall.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_delay",
+                        "ars_nouveau:glyph_leap",
+                        "ars_nouveau:glyph_slowfall"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Vault"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 2,
+              "count": 4,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 3,
+              "count": 3,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:instrument": "minecraft:ponder_goat_horn"
+              },
+              "id": "minecraft:goat_horn"
+            },
+            {
+              "Slot": 5,
+              "count": 7,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 7,
+              "count": 5,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:experience_bottle"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "exposure_expanded:scan_pincushion_filter"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "shield": {
+                        "stats": {
+                          "knockback": {
+                            "initialValue": 2.63081
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "glider": {
+                        "stats": {
+                          "count": {
+                            "initialValue": 1.22309
+                          },
+                          "cooldown": {
+                            "initialValue": 1.89032
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:umbrella"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "ars_nouveau:starbuncle_shards"
+            },
+            {
+              "Slot": 14,
+              "count": 2,
+              "id": "ars_nouveau:wilden_spike"
+            },
+            {
+              "Slot": 15,
+              "count": 16,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "extradelight:ketchup_jar_item"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "extradelight:meat_pie_slice"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "extradelight:jelly_yellow_block_item"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -310490608,
+      -773633229,
+      -1291657167,
+      1047590765
+    ],
+    "seed": 8407258580763850564,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/e/ed/ed7e4a10-d1e3-4b33-b302-e0313e70f76d",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -3835,
+      192,
+      -4711
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/pillager_outpost"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

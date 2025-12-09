@@ -1,0 +1,257 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 21,
+              "count": 2,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 24,
+              "count": 2,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:bread"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 7,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 1,
+              "count": 14,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 2,
+              "count": 5,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/village/village_2.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "regeneration": {
+                        "stats": {
+                          "cooldown": {
+                            "initialValue": 24.35512
+                          },
+                          "feed": {
+                            "initialValue": 1.82025
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "marinade": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 1.37458
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "meat_bat": {
+                        "stats": {
+                          "stun": {
+                            "initialValue": 0.21044
+                          },
+                          "damage": {
+                            "initialValue": 1.65857
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:infinity_ham"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -2091989841,
+      826228740,
+      -2039107116,
+      -1744752166
+    ],
+    "seed": -8763509423219995044,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/8/83/834ec4af-313f-4004-8675-b1d4980131da",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2537,
+      81,
+      -1517
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "minecraft:chests/village/village_plains_house"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

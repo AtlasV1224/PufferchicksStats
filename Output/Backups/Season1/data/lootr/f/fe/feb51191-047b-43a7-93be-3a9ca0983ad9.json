@@ -1,0 +1,209 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hold": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 4.99091
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:bunny_hoppers"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 22,
+              "count": 2,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "ars_nouveau:music_disc_thistle_the_sound_of_glass"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 1,
+              "count": 29,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "ars_nouveau:drygmy_shard"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -21687919,
+      75187111,
+      -1816249700,
+      -1600636199
+    ],
+    "seed": -2238489391577745210,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/f/fe/feb51191-047b-43a7-93be-3a9ca0983ad9",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -3839,
+      192,
+      -4710
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:bucket"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "supplementaries:quiver_content": {
+                  "items": [
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 2,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "ars_nouveau:blasting_potion"
+                        }
+                      }
+                    },
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 2,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "apothic_attributes:long_fatigue"
+                        }
+                      }
+                    },
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "selected_slot": 0
+                }
+              },
+              "id": "supplementaries:quiver"
+            },
+            {
+              "Slot": 4,
+              "count": 8,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 5,
+              "count": 5,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 9,
+              "count": 10,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -1833138717,
+      -1826338234,
+      -2026695233,
+      -2039516820
+    ],
+    "seed": 8546288348421630789,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/92/92bc85e3-9324-4a46-8733-15bf866f716c",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      1161,
+      198,
+      -4599
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

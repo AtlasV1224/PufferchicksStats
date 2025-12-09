@@ -1,0 +1,136 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"KirinDave's Sinister Switch\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Heroes are so straightforward, so easily befuddled...",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 25,
+                        "g": 255,
+                        "id": "ars_nouveau:constant",
+                        "b": 255
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_summon_decoy",
+                        "ars_nouveau:glyph_blink",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "KirinDave's Sinister Switch"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:pumpkin_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 11,
+              "id": "minecraft:torch"
+            },
+            {
+              "Slot": 3,
+              "count": 7,
+              "id": "minecraft:rail"
+            },
+            {
+              "Slot": 4,
+              "count": 3,
+              "id": "minecraft:detector_rail"
+            },
+            {
+              "Slot": 6,
+              "count": 3,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 8,
+              "count": 3,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 10,
+              "count": 7,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 11,
+              "count": 3,
+              "id": "farmersdelight:rice"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -359639551,
+      -2000994129,
+      -1104060830,
+      1470068715
+    ],
+    "seed": -7501984243050849255,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/e/ea/ea905601-88bb-40af-be31-5e62579f77eb",
+    "dimension": "resource_world:resource",
+    "hasBeenOpened": 1,
+    "position": [
+      -469,
+      -17,
+      814
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/abandoned_mineshaft"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

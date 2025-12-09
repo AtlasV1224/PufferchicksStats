@@ -1,0 +1,159 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 11,
+              "count": 3,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "attractor": {
+                        "stats": {
+                          "radius": {
+                            "initialValue": 4.31882
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:universal_attractor"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:bread"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 14,
+              "count": 3,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:potato"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      719015429,
+      2080917522,
+      -2089114490,
+      1400112031
+    ],
+    "seed": -3316062490542207461,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/2/2a/2adb4e05-7c08-4812-837a-a4865374039f",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      2806,
+      -8,
+      -3886
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "betterstrongholds:chests/common"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

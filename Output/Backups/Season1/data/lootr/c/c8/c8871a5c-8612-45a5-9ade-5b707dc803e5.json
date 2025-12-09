@@ -1,0 +1,146 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 9
+              },
+              "id": "minecraft:golden_sword"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:flint"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:unbreaking": 2,
+                    "ars_nouveau:mana_regen": 2
+                  }
+                },
+                "minecraft:damage": 166
+              },
+              "id": "minecraft:chainmail_leggings"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:mending": 1,
+                    "ars_nouveau:mana_regen": 3
+                  }
+                },
+                "minecraft:damage": 72
+              },
+              "id": "minecraft:chainmail_chestplate"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -930669988,
+      -2045622875,
+      -1696703632,
+      2110260197
+    ],
+    "seed": 3237715913682087518,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/c/c8/c8871a5c-8612-45a5-9ade-5b707dc803e5",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -375,
+      103,
+      1565
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

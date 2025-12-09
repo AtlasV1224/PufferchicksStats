@@ -1,0 +1,236 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "supplementaries:bomb"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 4,
+              "count": 3,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 5,
+              "count": 2,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 7,
+              "count": 3,
+              "id": "ars_nouveau:source_gem"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 11,
+              "count": 2,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "panic": {
+                        "stats": {
+                          "movement": {
+                            "initialValue": 0.13362
+                          },
+                          "radius": {
+                            "initialValue": 6.55543
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:panic_necklace"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 20,
+              "count": 4,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:redstone"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      206442847,
+      -1459663545,
+      -1301392663,
+      690184752
+    ],
+    "seed": -7756458311807452653,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/0/0c/0c4e115f-a8ff-4d47-b26e-52e929236230",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -4044,
+      -24,
+      -4067
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_crossing"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

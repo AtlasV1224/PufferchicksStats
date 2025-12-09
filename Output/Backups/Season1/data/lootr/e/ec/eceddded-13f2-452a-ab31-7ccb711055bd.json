@@ -1,0 +1,163 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:cookie"
+            },
+            {
+              "Slot": 3,
+              "count": 4,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:cookie"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "overlord": {
+                        "stats": {
+                          "time": {
+                            "initialValue": 3.56091
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "cowboy": {
+                        "stats": {
+                          "speed": {
+                            "initialValue": 0.2691
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:cowboy_hat"
+            },
+            {
+              "Slot": 21,
+              "count": 3,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 22,
+              "count": 2,
+              "id": "minecraft:cookie"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      }
+    ],
+    "uuid": [
+      -319955475,
+      334644522,
+      -1422820149,
+      1896895933
+    ],
+    "seed": 5350302116942546510,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/e/ec/eceddded-13f2-452a-ab31-7ccb711055bd",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2061,
+      65,
+      -835
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "table": "ctov:chests/village/village_jungle_house"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

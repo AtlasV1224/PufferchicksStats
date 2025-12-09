@@ -1,0 +1,124 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Xacris's Firework Display\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Light up the sky",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 25,
+                        "g": 255,
+                        "id": "ars_nouveau:constant",
+                        "b": 255
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_wall",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_firework",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Xacris's Firework Display"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 4,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 2,
+              "count": 9,
+              "id": "minecraft:gold_nugget"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:density": 4
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 5,
+              "count": 4,
+              "id": "ars_nouveau:source_gem"
+            },
+            {
+              "Slot": 6,
+              "count": 2,
+              "id": "ars_nouveau:sourceberry_bush"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -2095692129,
+      -925220263,
+      -1819817999,
+      83231048
+    ],
+    "seed": 8961999000106150403,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/8/83/8316469f-c8da-4259-9387-c7f104f60148",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1560,
+      44,
+      -565
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/underwater_ruin_big"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

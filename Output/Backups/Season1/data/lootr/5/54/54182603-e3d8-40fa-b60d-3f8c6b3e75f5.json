@@ -1,0 +1,126 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 4,
+                    "minecraft:fire_protection": 4,
+                    "minecraft:unbreaking": 3
+                  }
+                },
+                "minecraft:damage": 97
+              },
+              "id": "minecraft:golden_chestplate"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "bonfire": {
+                        "stats": {
+                          "height": {
+                            "initialValue": 3.9428
+                          },
+                          "step": {
+                            "initialValue": 2.43024
+                          },
+                          "speed": {
+                            "initialValue": 0.01083
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:blazing_flask"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      1410868739,
+      -472366854,
+      -1240645748,
+      1799255541
+    ],
+    "seed": 5910358761803684610,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/5/54/54182603-e3d8-40fa-b60d-3f8c6b3e75f5",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      573,
+      104,
+      3019
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

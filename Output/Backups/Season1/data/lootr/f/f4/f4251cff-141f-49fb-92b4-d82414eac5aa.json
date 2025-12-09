@@ -1,0 +1,458 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 5,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 5,
+              "count": 10,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 7,
+              "count": 2,
+              "id": "minecraft:experience_bottle"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Fireball!\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "A classic.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_ignite",
+                        "ars_nouveau:glyph_explosion",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Fireball!"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 2,
+              "count": 6,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:instrument": "minecraft:ponder_goat_horn"
+              },
+              "id": "minecraft:goat_horn"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "toffys_hooks:climbing_hook"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 6,
+              "count": 3,
+              "id": "minecraft:arrow"
+            },
+            {
+              "Slot": 7,
+              "count": 5,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 8,
+              "count": 5,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:experience_bottle"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "exposure_expanded:scan_pincushion_filter"
+            },
+            {
+              "Slot": 11,
+              "count": 11,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "extradelight:sliced_onion"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "extradelight:pumpkin_cookie"
+            },
+            {
+              "Slot": 14,
+              "count": 2,
+              "id": "extradelight:ketchup_jar_item"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "extradelight:roasted_carrot"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "extradelight:roasted_apple"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "extradelight:bread_slice"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "extradelight:riceball_filled"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "extradelight:cooked_cactus"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:arrow"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:experience_bottle"
+            },
+            {
+              "Slot": 5,
+              "count": 2,
+              "id": "minecraft:arrow"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "ars_nouveau:alakarkinos_token"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "toffys_hooks:climbing_hook"
+            },
+            {
+              "Slot": 9,
+              "count": 2,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 11,
+              "count": 6,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 12,
+              "count": 2,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 14,
+              "count": 2,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 16,
+              "count": 8,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 20,
+              "count": 2,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "passive": {
+                        "stats": {},
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "discount": {
+                        "stats": {
+                          "multiplier": {
+                            "initialValue": 16.91244
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:villager_hat"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "components": {
+                "minecraft:instrument": "minecraft:seek_goat_horn"
+              },
+              "id": "minecraft:goat_horn"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "ars_nouveau:wilden_wing"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 25,
+              "count": 4,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 26,
+              "count": 2,
+              "id": "minecraft:wheat"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      -198894337,
+      337594875,
+      -1833641948,
+      350930346
+    ],
+    "seed": -5110389715619216785,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/f/f4/f4251cff-141f-49fb-92b4-d82414eac5aa",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      421,
+      201,
+      -431
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/pillager_outpost"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

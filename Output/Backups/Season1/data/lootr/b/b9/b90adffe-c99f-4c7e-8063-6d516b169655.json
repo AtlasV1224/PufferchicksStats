@@ -1,0 +1,142 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 9,
+              "id": "minecraft:book"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Alex's Magnificent Mansion\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "For those who can't settle with just a tiny hut.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 0,
+                        "id": "ars_nouveau:rainbow",
+                        "b": 0
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:tempestry_family"
+                        }
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_burst",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_dampen",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_phantom_block",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_pierce"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Alex's Magnificent Mansion"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 20,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1190469634,
+      -912307074,
+      -2140967599,
+      1796642389
+    ],
+    "seed": 4258419093851286100,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/b/b9/b90adffe-c99f-4c7e-8063-6d516b169655",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      426,
+      205,
+      -433
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:emerald"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:lapis_lazuli"
+            },
+            {
+              "Slot": 2,
+              "count": 14,
+              "id": "minecraft:iron_nugget"
+            },
+            {
+              "Slot": 3,
+              "count": 12,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "explode": {
+                        "stats": {
+                          "capacity": {
+                            "initialValue": 43.29643
+                          },
+                          "stun": {
+                            "initialValue": 0.20721
+                          },
+                          "damage": {
+                            "initialValue": 0.2569
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:reflection_necklace"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -289193281,
+      499797914,
+      -1976299113,
+      313684133
+    ],
+    "seed": 5104382890480066119,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/e/ee/eec342bf-1dca-4f9a-8a34-119712b270a5",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      2477,
+      99,
+      -4941
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/shipwreck_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

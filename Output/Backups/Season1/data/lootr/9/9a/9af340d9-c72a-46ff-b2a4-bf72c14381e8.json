@@ -1,0 +1,178 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            }
+          ]
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "shield": {
+                        "stats": {
+                          "knockback": {
+                            "initialValue": 1.55651
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "glider": {
+                        "stats": {
+                          "count": {
+                            "initialValue": 1.68499
+                          },
+                          "cooldown": {
+                            "initialValue": 1.59512
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:umbrella"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "components": {
+                "ars_additions:structure_lookup_data": [
+                  2145979331,
+                  -1086370800,
+                  -2066508762,
+                  2146588686
+                ],
+                "ars_additions:exploration_scroll_data": {
+                  "pos": [
+                    -2828.5,
+                    175.5,
+                    -955.5
+                  ],
+                  "search_radius": 100
+                }
+              },
+              "id": "ars_additions:exploration_warp_scroll"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "ars_nouveau:wilden_wing"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      }
+    ],
+    "uuid": [
+      -1695334183,
+      -953530625,
+      -1297825934,
+      -1052540440
+    ],
+    "seed": -2332826173673036486,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/9a/9af340d9-c72a-46ff-b2a4-bf72c14381e8",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2829,
+      175,
+      -956
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "table": "ars_additions:chests/ruined_portal"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

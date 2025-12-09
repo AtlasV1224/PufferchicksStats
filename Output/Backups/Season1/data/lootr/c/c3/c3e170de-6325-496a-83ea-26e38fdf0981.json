@@ -1,0 +1,136 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "sauce:school_tome_caster": {
+                  "flavor_text": "Creates a gravity center that also attract nearby blocks.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 50,
+                        "g": 250,
+                        "id": "ars_nouveau:constant",
+                        "b": 55
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_elemental:glyph_arc_projectile",
+                        "ars_nouveau:glyph_gravity",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_linger",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_dampen"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Gravity Well"
+                    }
+                  }
+                },
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Gravity Well\"}"
+              },
+              "id": "ars_elemental:earth_caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 10,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:music_disc_cat"
+            },
+            {
+              "Slot": 3,
+              "count": 5,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 4,
+              "count": 12,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 5,
+              "count": 17,
+              "id": "ars_nouveau:pierce_arrow"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "ars_nouveau:wilden_wing"
+            },
+            {
+              "Slot": 8,
+              "count": 17,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 9,
+              "count": 2,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 10,
+              "count": 6,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      -1008635682,
+      1663388010,
+      -2081806621,
+      -1881208447
+    ],
+    "seed": -7207990675976816806,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/c/c3/c3e170de-6325-496a-83ea-26e38fdf0981",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      458,
+      215,
+      440
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

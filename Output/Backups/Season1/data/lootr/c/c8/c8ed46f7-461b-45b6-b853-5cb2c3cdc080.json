@@ -1,0 +1,246 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:iron_shovel"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:golden_pickaxe"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:iron_helmet"
+            },
+            {
+              "Slot": 3,
+              "count": 11,
+              "id": "minecraft:raw_iron"
+            },
+            {
+              "Slot": 4,
+              "count": 8,
+              "id": "minecraft:raw_gold"
+            },
+            {
+              "Slot": 5,
+              "count": 5,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:impaling": 4,
+                    "apothic_enchanting:rebounding": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "ascension": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 0.61812
+                          },
+                          "max_duration": {
+                            "initialValue": 11.99997
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "penitence": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.49479
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "faith": {
+                        "stats": {
+                          "health": {
+                            "initialValue": 0.14247
+                          },
+                          "radius": {
+                            "initialValue": 7.68749
+                          },
+                          "damage": {
+                            "initialValue": 0.46532
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:holy_locket"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:iron_axe"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:golden_pickaxe"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:iron_boots"
+            },
+            {
+              "Slot": 4,
+              "count": 15,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "minecraft:raw_iron"
+            },
+            {
+              "Slot": 6,
+              "count": 4,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 7,
+              "count": 2,
+              "id": "minecraft:feather"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -923973897,
+      1176192438,
+      -1202496334,
+      -1009926016
+    ],
+    "seed": -4562003158249504578,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/c/c8/c8ed46f7-461b-45b6-b853-5cb2c3cdc080",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -430,
+      -38,
+      -286
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "artifacts:chests/campsite_chest"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

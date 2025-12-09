@@ -1,0 +1,76 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "soulbound:soulbound": 1,
+                    "minecraft:silk_touch": 1,
+                    "minecraft:efficiency": 5
+                  }
+                },
+                "minecraft:damage": 5
+              },
+              "id": "minecraft:iron_pickaxe"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1661027886,
+      -1364242566,
+      -1925476054,
+      -403240696
+    ],
+    "seed": 4166642634368544617,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/6/63/6301462e-aeaf-4f7a-8d3b-912ae7f70908",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1186,
+      -31,
+      3209
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/ancient_city"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

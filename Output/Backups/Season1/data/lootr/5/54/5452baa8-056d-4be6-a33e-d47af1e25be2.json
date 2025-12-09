@@ -1,0 +1,229 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "dissection": {
+                        "stats": {
+                          "time": {
+                            "initialValue": 5.77664
+                          },
+                          "distance": {
+                            "initialValue": 28.90499
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:space_dissector"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 11,
+              "count": 2,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 55
+              },
+              "id": "minecraft:leather_chestplate"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 38
+              },
+              "id": "minecraft:leather_boots"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 2,
+                    "ars_nouveau:mana_regen": 2
+                  }
+                },
+                "minecraft:damage": 32
+              },
+              "id": "minecraft:leather_boots"
+            },
+            {
+              "Slot": 8,
+              "count": 2,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "vampire": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.15334
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:vampiric_glove"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 47
+              },
+              "id": "minecraft:leather_helmet"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1414707880,
+      91048934,
+      -1556163462,
+      -236823582
+    ],
+    "seed": -1479140157023907083,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/5/54/5452baa8-056d-4be6-a33e-d47af1e25be2",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      35,
+      94,
+      -470
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:suspicious_stew_effects": [
+                  {
+                    "id": "minecraft:night_vision",
+                    "duration": 200
+                  }
+                ]
+              },
+              "id": "minecraft:suspicious_stew"
+            },
+            {
+              "Slot": 11,
+              "count": 2,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 12,
+              "count": 5,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 19,
+              "count": 2,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:fire_aspect": 1,
+                    "minecraft:smite": 3
+                  }
+                }
+              },
+              "id": "minecraft:golden_sword"
+            },
+            {
+              "Slot": 26,
+              "count": 3,
+              "id": "minecraft:melon_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "ars_nouveau:mana_boost": 2
+                  }
+                }
+              },
+              "id": "minecraft:iron_boots"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:poison"
+                }
+              },
+              "id": "minecraft:tipped_arrow"
+            },
+            {
+              "Slot": 3,
+              "count": 4,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 4,
+              "count": 9,
+              "id": "minecraft:bone"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      -967061106,
+      -149141884,
+      -1667561485,
+      -1010590892
+    ],
+    "seed": -3821792554753834861,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/c/c6/c65bd18e-f71c-4684-9c9b-07f3c3c39b54",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2429,
+      99,
+      -753
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ]
+    ],
+    "table": "betterarcheology:archeology/chest_catacombs_generic"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

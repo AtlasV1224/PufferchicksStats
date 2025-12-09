@@ -1,0 +1,159 @@
+{
+  "data": {
+    "type": 1,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Vault\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Sometimes you just need to get over that wall.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_delay",
+                        "ars_nouveau:glyph_leap",
+                        "ars_nouveau:glyph_slowfall"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Vault"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 4,
+              "id": "minecraft:torch"
+            },
+            {
+              "Slot": 3,
+              "count": 10,
+              "id": "supplementaries:rope"
+            },
+            {
+              "Slot": 4,
+              "count": 6,
+              "id": "minecraft:rail"
+            },
+            {
+              "Slot": 5,
+              "count": 2,
+              "id": "minecraft:activator_rail"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:name_tag"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/mineshaft/skeleton.png"
+                  }
+                }
+              },
+              "id": "exposure:photograph"
+            },
+            {
+              "Slot": 9,
+              "count": 3,
+              "id": "ars_nouveau:wilden_spike"
+            },
+            {
+              "Slot": 10,
+              "count": 2,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 11,
+              "count": 6,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 12,
+              "count": 4,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -986946085,
+      -1476637444,
+      -2062060662,
+      -1508177068
+    ],
+    "seed": 5402642585501387397,
+    "name": "{\"translate\":\"entity.lootr.lootr_minecart\",\"hoverEvent\":{\"contents\":{\"type\":\"lootr:lootr_minecart\",\"id\":[-986946085,-1476637444,-2062060662,-1508177068],\"name\":{\"translate\":\"entity.lootr.lootr_minecart\"}},\"action\":\"show_entity\"},\"insertion\":\"c52c65db-a7fc-4cfc-8517-738aa61b0b54\"}",
+    "blockType": 5,
+    "key": "lootr/c/c5/c52c65db-a7fc-4cfc-8517-738aa61b0b54",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -573,
+      7,
+      245
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/abandoned_mineshaft"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 80
+              },
+              "id": "minecraft:stone_sword"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:fire_aspect": 1
+                  }
+                },
+                "minecraft:damage": 49
+              },
+              "id": "minecraft:stone_sword"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "caster": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 45.93399
+                          },
+                          "damage": {
+                            "initialValue": 0.06708
+                          },
+                          "chance": {
+                            "initialValue": 0.23691
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:fire_gauntlet"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -1601643383,
+      -1514912251,
+      -1532874157,
+      101048666
+    ],
+    "seed": 6951888404120265643,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/a/a0/a088dc89-a5b4-4605-a4a2-32530605e15a",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      65,
+      98,
+      -814
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

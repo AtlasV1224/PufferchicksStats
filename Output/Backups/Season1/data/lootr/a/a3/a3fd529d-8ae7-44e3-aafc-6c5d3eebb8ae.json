@@ -1,0 +1,197 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 8,
+              "count": 3,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 10,
+              "count": 4,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "extradelight:pestle_amethyst"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Alex's Magnificent Mansion\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "For those who can't settle with just a tiny hut.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 0,
+                        "g": 8,
+                        "id": "ars_nouveau:rainbow",
+                        "b": 255
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:tempestry_family"
+                        }
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_burst",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_dampen",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_phantom_block",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_pierce"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Alex's Magnificent Mansion"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 5,
+              "count": 7,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 8,
+              "count": 5,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 9,
+              "count": 2,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "ars_nouveau:whirlisprig_shards"
+            },
+            {
+              "Slot": 12,
+              "count": 3,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 13,
+              "count": 2,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 14,
+              "count": 4,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      -1543679331,
+      -1964555037,
+      -1426297763,
+      1055635630
+    ],
+    "seed": -9164712126612920251,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/a/a3/a3fd529d-8ae7-44e3-aafc-6c5d3eebb8ae",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1331,
+      63,
+      -821
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

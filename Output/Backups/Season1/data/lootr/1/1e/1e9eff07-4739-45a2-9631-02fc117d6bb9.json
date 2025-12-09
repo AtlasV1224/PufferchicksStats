@@ -1,0 +1,94 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:looting": 1,
+                    "minecraft:smite": 3
+                  }
+                },
+                "minecraft:damage": 206
+              },
+              "id": "minecraft:iron_sword"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:projectile_protection": 2,
+                    "minecraft:protection": 2
+                  }
+                },
+                "minecraft:damage": 47
+              },
+              "id": "minecraft:leather_helmet"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      513736455,
+      1194935714,
+      -1775172868,
+      293432249
+    ],
+    "seed": 1081768822012658463,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/1/1e/1e9eff07-4739-45a2-9631-02fc117d6bb9",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      606,
+      96,
+      3009
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

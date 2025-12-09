@@ -1,0 +1,167 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "panic": {
+                        "stats": {
+                          "movement": {
+                            "initialValue": 0.17846
+                          },
+                          "radius": {
+                            "initialValue": 6.23974
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:panic_necklace"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:apple"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "minecraft:stick"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:stick"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      8439169,
+      1717652072,
+      -1482401164,
+      954634857
+    ],
+    "seed": -8085001661375829174,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/0/00/0080c581-6661-4a68-a7a4-5a7438e69269",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      4522,
+      -1,
+      324
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "betterstrongholds:chests/common"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

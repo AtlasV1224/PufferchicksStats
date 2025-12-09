@@ -1,0 +1,133 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:pumpkin_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 3,
+                    "ars_nouveau:mana_boost": 3
+                  }
+                }
+              },
+              "id": "minecraft:iron_chestplate"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "minecraft:stick"
+            },
+            {
+              "Slot": 4,
+              "count": 5,
+              "id": "minecraft:bone"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 4,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 4,
+              "count": 6,
+              "id": "minecraft:rotten_flesh"
+            }
+          ]
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      }
+    ],
+    "uuid": [
+      -1892533790,
+      251674895,
+      -1713422755,
+      -1438146741
+    ],
+    "seed": 2143959018825955210,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/8/8f/8f3239e2-0f00-410f-99df-3e5daa479f4b",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2381,
+      55,
+      -838
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "table": "betterarcheology:archeology/chest_catacombs_generic"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

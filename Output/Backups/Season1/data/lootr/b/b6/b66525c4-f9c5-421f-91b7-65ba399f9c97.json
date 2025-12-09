@@ -1,0 +1,213 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:tripwire_hook"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:instrument": "minecraft:sing_goat_horn"
+              },
+              "id": "minecraft:goat_horn"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "toffys_hooks:climbing_hook"
+            },
+            {
+              "Slot": 4,
+              "count": 11,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:experience_bottle"
+            },
+            {
+              "Slot": 7,
+              "count": 3,
+              "id": "ars_nouveau:sourceberry_bush"
+            },
+            {
+              "Slot": 8,
+              "count": 5,
+              "id": "farmersdelight:onion"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Chosen's Chaotic Shift\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "In a flash of magic, the world twists, and what was once here is now there.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 114,
+                        "id": "ars_nouveau:constant",
+                        "b": 32
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:gaia_family"
+                        },
+                        "pitch": 2.0,
+                        "volume": 0.550000011920929
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_exchange",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_randomize",
+                        "ars_nouveau:glyph_pickup"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Chosen's Chaotic Shift"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:tripwire_hook"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:instrument": "minecraft:ponder_goat_horn"
+              },
+              "id": "minecraft:goat_horn"
+            },
+            {
+              "Slot": 4,
+              "count": 3,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 7,
+              "count": 2,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "ars_nouveau:source_gem"
+            },
+            {
+              "Slot": 9,
+              "count": 6,
+              "id": "farmersdelight:onion"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      -1234885180,
+      -104512993,
+      -1850251846,
+      966761623
+    ],
+    "seed": 2163890061031596086,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/b/b6/b66525c4-f9c5-421f-91b7-65ba399f9c97",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -841,
+      188,
+      -2209
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/pillager_outpost"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

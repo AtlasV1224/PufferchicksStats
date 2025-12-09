@@ -1,0 +1,246 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "apothic_enchanting:life_mending": 1
+                  }
+                },
+                "minecraft:damage": 92
+              },
+              "id": "minecraft:diamond_leggings"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:diamond_leggings"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:diamond_boots"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 5,
+              "count": 9,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 6,
+              "count": 4,
+              "id": "minecraft:magma_cream"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hook": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.32928
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:golden_hook"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "silentgear:crimson_steel_ingot"
+            },
+            {
+              "Slot": 12,
+              "count": 2,
+              "id": "silentgear:blaze_gold_ingot"
+            },
+            {
+              "Slot": 13,
+              "count": 9,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "ars_nouveau:wixie_shards"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:vanishing_curse": 1
+                  }
+                },
+                "minecraft:damage": 53
+              },
+              "id": "minecraft:diamond_boots"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:frost_walker": 2
+                  }
+                },
+                "minecraft:damage": 62
+              },
+              "id": "minecraft:diamond_boots"
+            },
+            {
+              "Slot": 3,
+              "count": 22,
+              "id": "minecraft:spectral_arrow"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 5,
+              "count": 16,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 11,
+              "count": 23,
+              "id": "ars_nouveau:amplify_arrow"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:smite": 5
+                  }
+                },
+                "minecraft:damage": 67
+              },
+              "id": "farmersdelight:diamond_knife"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1136153204,
+      -1813624283,
+      -2141392054,
+      -793214354
+    ],
+    "seed": 6983878292790813577,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/b/bc/bc47ad8c-93e6-4a25-805c-f34ad0b8826e",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -486,
+      90,
+      -2211
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

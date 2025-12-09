@@ -1,0 +1,308 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 5,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 1,
+              "count": 4,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 2,
+              "count": 4,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 3,
+              "count": 8,
+              "id": "minecraft:glass_bottle"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "passive": {
+                        "stats": {},
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "resistance": {
+                        "stats": {
+                          "modifier": {
+                            "initialValue": 0.29334
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:steadfast_spikes"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:stick"
+            },
+            {
+              "Slot": 9,
+              "count": 2,
+              "id": "minecraft:stick"
+            },
+            {
+              "Slot": 12,
+              "count": 4,
+              "id": "minecraft:stick"
+            },
+            {
+              "Slot": 25,
+              "count": 2,
+              "id": "minecraft:stick"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:iron_nugget"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:blaze_powder"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:glass_bottle"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:blaze_powder"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 14,
+              "count": 4,
+              "id": "minecraft:glass_bottle"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:iron_nugget"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "components": {
+                "pastel:beverage": {
+                  "thickness": 2.0,
+                  "alcohol_percent": 23,
+                  "days_aged": 215181
+                },
+                "pastel:infused_beverage": {
+                  "variant": "camomillesque",
+                  "color": 15517767
+                },
+                "minecraft:potion_contents": {
+                  "custom_effects": [
+                    {
+                      "amplifier": 4,
+                      "show_icon": 1,
+                      "id": "pastel:calming",
+                      "neoforge:cures": [
+                        "sedatives",
+                        "blood_orchid"
+                      ],
+                      "duration": 7571
+                    },
+                    {
+                      "duration": 7571,
+                      "show_icon": 1,
+                      "id": "minecraft:weakness",
+                      "neoforge:cures": [
+                        "milk",
+                        "protected_by_totem"
+                      ]
+                    }
+                  ]
+                }
+              },
+              "id": "pastel:infused_beverage"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:blaze_powder"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:iron_nugget"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      1046474866,
+      -2135866073,
+      -1848945844,
+      1066666905
+    ],
+    "seed": -3746722904002937928,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/3/3e/3e5ff072-80b1-4527-91cb-534c3f940b99",
+    "dimension": "pastel:deeper_down",
+    "hasBeenOpened": 1,
+    "position": [
+      2814,
+      -282,
+      1296
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "table": "pastel:chests/undergrowth_manor/basement_storeroom_barrel"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

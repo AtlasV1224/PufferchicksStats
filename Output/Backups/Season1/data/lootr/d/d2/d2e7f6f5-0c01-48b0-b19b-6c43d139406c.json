@@ -1,0 +1,115 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "runner": {
+                        "stats": {
+                          "speed": {
+                            "initialValue": 0.79585
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:running_shoes"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:dark_oak_sapling"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:apple"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -756549899,
+      201410736,
+      -1315214269,
+      -784777108
+    ],
+    "seed": 310543635224949803,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/d2/d2e7f6f5-0c01-48b0-b19b-6c43d139406c",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2092,
+      71,
+      -2856
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "ctov:chests/village/village_dark_forest_house"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

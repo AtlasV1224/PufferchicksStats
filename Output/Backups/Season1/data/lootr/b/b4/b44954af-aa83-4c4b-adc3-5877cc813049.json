@@ -1,0 +1,107 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ],
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:fire_protection": 1,
+                    "ars_nouveau:mana_boost": 2,
+                    "ars_nouveau:mana_regen": 2
+                  }
+                },
+                "minecraft:damage": 42
+              },
+              "id": "minecraft:leather_chestplate"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:projectile_protection": 2
+                  }
+                },
+                "minecraft:damage": 52
+              },
+              "id": "minecraft:leather_boots"
+            }
+          ]
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -1678841899,
+          1864648116,
+          -1393378093,
+          -894335838
+        ]
+      }
+    ],
+    "uuid": [
+      -1270262609,
+      -1434235829,
+      -1379706761,
+      -863948727
+    ],
+    "seed": 3956215441935737770,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/b/b4/b44954af-aa83-4c4b-adc3-5877cc813049",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -467,
+      109,
+      501
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ],
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

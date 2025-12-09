@@ -1,0 +1,243 @@
+{
+  "Equipment": [
+    {
+      "id": "minecraft:golden_boots",
+      "count": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "apothic_enchanting:life_mending": 2
+          }
+        },
+        "minecraft:damage": 5
+      }
+    },
+    {
+      "id": "minecraft:elytra",
+      "count": 1,
+      "components": {
+        "minecraft:damage": 200
+      }
+    },
+    {
+      "id": "minecraft:golden_helmet",
+      "count": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "ars_nouveau:mana_boost": 2
+          }
+        },
+        "minecraft:damage": 12
+      }
+    }
+  ],
+  "Model": 127,
+  "PlayerName": "Super_MrSpring",
+  "PosZ": -22.635213389876192,
+  "Id": [
+    211336558,
+    -889830379,
+    -1164016869,
+    -1336308381
+  ],
+  "PosY": -3.0,
+  "PosX": -945.9953409304269,
+  "Dimension": "amplidim:overworld",
+  "ArmorInventory": [
+    {
+      "count": 1,
+      "Slot": 0,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "apothic_enchanting:life_mending": 2
+          }
+        },
+        "minecraft:damage": 5
+      },
+      "id": "minecraft:golden_boots"
+    },
+    {
+      "count": 1,
+      "Slot": 2,
+      "components": {
+        "minecraft:damage": 200
+      },
+      "id": "minecraft:elytra"
+    },
+    {
+      "count": 1,
+      "Slot": 3,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "ars_nouveau:mana_boost": 2
+          }
+        },
+        "minecraft:damage": 12
+      },
+      "id": "minecraft:golden_helmet"
+    }
+  ],
+  "Timestamp": 1761906195159,
+  "MainInventory": [
+    {
+      "count": 1,
+      "Slot": 0,
+      "components": {
+        "minecraft:damage": 18
+      },
+      "id": "minecraft:stone_sword"
+    },
+    {
+      "count": 1,
+      "Slot": 1,
+      "id": "minecraft:iron_pickaxe"
+    },
+    {
+      "count": 1,
+      "Slot": 2,
+      "components": {
+        "minecraft:damage": 16
+      },
+      "id": "minecraft:stone_axe"
+    },
+    {
+      "count": 1,
+      "Slot": 19,
+      "components": {
+        "minecraft:damage": 53
+      },
+      "id": "minecraft:stone_pickaxe"
+    },
+    {
+      "count": 1,
+      "Slot": 28,
+      "id": "minecraft:iron_pickaxe"
+    }
+  ],
+  "Experience": 36,
+  "PlayerUuid": [
+    679926084,
+    -1317977793,
+    -1390064289,
+    669927149
+  ],
+  "Items": [
+    {
+      "id": "sophisticatedbackpacks:copper_backpack",
+      "count": 1,
+      "components": {
+        "sophisticatedcore:number_of_upgrade_slots": 1,
+        "sophisticatedcore:number_of_inventory_slots": 45,
+        "sophisticatedcore:storage_uuid": [
+          699531657,
+          824919197,
+          -2089553327,
+          -1375620100
+        ],
+        "sophisticatedcore:render_info_tag": {
+          "upgradeItems": [
+            {}
+          ]
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "back",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:helium_flamingo",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 0,
+            "experience": 1,
+            "level": 0
+          },
+          "abilities": {
+            "abilities": {
+              "flying": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "speed": {
+                    "initialValue": 0.29945
+                  },
+                  "time": {
+                    "initialValue": 4.41752
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "belt",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:running_shoes",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 0,
+            "experience": 0,
+            "level": 0
+          },
+          "abilities": {
+            "abilities": {
+              "runner": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "speed": {
+                    "initialValue": 0.79247
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "feet",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    }
+  ],
+  "OffHandInventory": []
+}

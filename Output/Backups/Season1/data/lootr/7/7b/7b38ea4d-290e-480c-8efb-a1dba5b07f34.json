@@ -1,0 +1,215 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1897521421,
+        518932583,
+        -1765357074,
+        1888276970
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"KirinDave's Sinister Switch\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Heroes are so straightforward, so easily befuddled...",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 25,
+                        "g": 255,
+                        "id": "ars_nouveau:constant",
+                        "b": 255
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_summon_decoy",
+                        "ars_nouveau:glyph_blink",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "KirinDave's Sinister Switch"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:pumpkin_seeds"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:name_tag"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:pumpkin_seeds"
+            },
+            {
+              "Slot": 25,
+              "count": 2,
+              "id": "minecraft:pumpkin_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -1897521421,
+          518932583,
+          -1765357074,
+          1888276970
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 17,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:name_tag"
+            },
+            {
+              "Slot": 3,
+              "count": 3,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 6,
+              "count": 3,
+              "id": "ars_nouveau:wilden_wing"
+            },
+            {
+              "Slot": 7,
+              "count": 18,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 8,
+              "count": 54,
+              "id": "extradelight:bad_food"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      2067327565,
+      688801804,
+      -1896111653,
+      -1515159756
+    ],
+    "seed": -8318916748958885988,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/7/7b/7b38ea4d-290e-480c-8efb-a1dba5b07f34",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1001,
+      74,
+      -805
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1897521421,
+        518932583,
+        -1765357074,
+        1888276970
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

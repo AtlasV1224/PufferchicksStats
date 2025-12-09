@@ -1,0 +1,136 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:diamond_chestplate"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:diamond_leggings"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:netherite_upgrade_smithing_template"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "caster": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 32.1973
+                          },
+                          "damage": {
+                            "initialValue": 0.12914
+                          },
+                          "chance": {
+                            "initialValue": 0.27262
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:fire_gauntlet"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "create_dragons_plus:blaze_upgrade_smithing_template"
+            },
+            {
+              "Slot": 9,
+              "count": 5,
+              "id": "silentgear:blaze_gold_ingot"
+            },
+            {
+              "Slot": 10,
+              "count": 8,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "farmersdelight:diamond_knife"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -611171027,
+      451168358,
+      -1366837815,
+      -625740842
+    ],
+    "seed": -5312692722176906373,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/db/db92452d-1ae4-4866-ae87-b5c9dab3f3d6",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      2828,
+      97,
+      -547
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

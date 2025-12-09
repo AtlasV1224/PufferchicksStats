@@ -1,0 +1,146 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:map"
+            },
+            {
+              "Slot": 1,
+              "count": 16,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "past": {
+                        "stats": {
+                          "radius": {
+                            "initialValue": 5.28126
+                          },
+                          "chance": {
+                            "initialValue": 0.02499
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:chorus_totem"
+            },
+            {
+              "Slot": 5,
+              "count": 30,
+              "id": "ars_nouveau:split_arrow"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -1678841899,
+          1864648116,
+          -1393378093,
+          -894335838
+        ]
+      }
+    ],
+    "uuid": [
+      -92961869,
+      1368607188,
+      -1228810483,
+      -1802618520
+    ],
+    "seed": 3753092213349998039,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/f/fa/fa7583b3-5193-49d4-b6c1-d70d948e3968",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1887,
+      193,
+      3514
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

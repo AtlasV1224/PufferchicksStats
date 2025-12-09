@@ -1,0 +1,226 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:stone_bricks"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:emerald"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:yellow_dye"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "shield": {
+                        "stats": {
+                          "knockback": {
+                            "initialValue": 1.38991
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "glider": {
+                        "stats": {
+                          "count": {
+                            "initialValue": 1.15925
+                          },
+                          "cooldown": {
+                            "initialValue": 1.81033
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:umbrella"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:stone_bricks"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "bounce": {
+                        "stats": {
+                          "power": {
+                            "initialValue": 0.36373
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:springy_boot"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:smooth_stone"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:stone"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:bread"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1781820865,
+      90851395,
+      -1221296946,
+      -8934328
+    ],
+    "seed": -4338696545465642635,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/6/6a/6a346dc1-056a-4843-b734-7cceff77ac48",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -391,
+      198,
+      3442
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/village/village_mason"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 54
+              },
+              "id": "minecraft:leather_leggings"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 64
+              },
+              "id": "minecraft:stone_sword"
+            }
+          ]
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "ars_nouveau:mana_regen": 3
+                  }
+                },
+                "minecraft:damage": 81
+              },
+              "id": "minecraft:chainmail_helmet"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 4
+                  }
+                },
+                "minecraft:damage": 33
+              },
+              "id": "minecraft:golden_helmet"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 49
+              },
+              "id": "minecraft:leather_boots"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      }
+    ],
+    "uuid": [
+      11168000,
+      -2122560170,
+      -1289116964,
+      -1855764820
+    ],
+    "seed": 4951866742825785300,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/0/00/00aa6900-817c-4d56-b329-a2dc916346ac",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -479,
+      94,
+      -413
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

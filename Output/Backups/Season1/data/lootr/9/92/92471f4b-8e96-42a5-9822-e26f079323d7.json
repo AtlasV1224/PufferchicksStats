@@ -1,0 +1,89 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "\"Pillager Outpost Map\"",
+                "minecraft:map_decorations": {
+                  "+": {
+                    "type": "minecraft:mansion",
+                    "rotation": 180.0,
+                    "z": -384.0,
+                    "x": -1296.0
+                  }
+                },
+                "minecraft:map_id": 15,
+                "minecraft:map_color": 5393476
+              },
+              "id": "minecraft:filled_map"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:red_banner"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:blue_banner"
+            },
+            {
+              "Slot": 3,
+              "count": 4,
+              "id": "minecraft:paper"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1840832693,
+      -1902755163,
+      -1742544273,
+      127083479
+    ],
+    "seed": 4765687884101613888,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/92/92471f4b-8e96-42a5-9822-e26f079323d7",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1042,
+      115,
+      3048
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/map_chest"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

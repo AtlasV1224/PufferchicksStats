@@ -1,0 +1,193 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "apothic_enchanting:chromatic": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:map"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:book"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "sauce:school_tome_caster": {
+                  "flavor_text": "Encase yourself in glass.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 255,
+                        "id": "ars_nouveau:constant",
+                        "b": 26
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_underfoot",
+                        "ars_elemental:glyph_conjure_terrain",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_crush",
+                        "ars_nouveau:glyph_smelt"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Safety Jar"
+                    }
+                  }
+                },
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Safety Jar\"}"
+              },
+              "id": "ars_elemental:manipulation_caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:map"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "ars_nouveau:wilden_spike"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      738521507,
+      1227441176,
+      -1900741711,
+      -1556599128
+    ],
+    "seed": 3024043997692660897,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/2/2c/2c04f1a3-4929-4418-8eb4-fbb1a3382ea8",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      1887,
+      209,
+      -313
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

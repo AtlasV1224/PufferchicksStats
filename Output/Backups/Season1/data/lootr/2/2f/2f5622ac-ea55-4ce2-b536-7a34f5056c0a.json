@@ -1,0 +1,524 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ],
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:fire_protection": 3
+                  }
+                }
+              },
+              "id": "minecraft:iron_boots"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 2,
+              "count": 8,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "supplementaries:stasis": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:diamond_shovel"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:golden_horse_armor"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 4,
+              "count": 3,
+              "id": "ars_nouveau:amplify_arrow"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:efficiency": 4,
+                    "minecraft:fortune": 2
+                  }
+                }
+              },
+              "id": "minecraft:iron_shovel"
+            },
+            {
+              "Slot": 7,
+              "count": 11,
+              "id": "ars_nouveau:amplify_arrow"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "exposure_expanded:wobble_filter"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "ars_nouveau:amplify_arrow"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "ars_nouveau:warp_scroll"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Aurellia's Bite Storm\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "The bite from this storm is worse than its bark.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 119,
+                        "id": "ars_nouveau:constant",
+                        "b": 203
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:tempestry_family"
+                        }
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_linger",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_fangs",
+                        "ars_nouveau:glyph_lightning",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Aurellia's Bite Storm"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "ars_nouveau:amplify_arrow"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "ars_nouveau:amplify_arrow"
+            },
+            {
+              "Slot": 21,
+              "count": 13,
+              "id": "ars_nouveau:amplify_arrow"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "ars_nouveau:warp_scroll"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "blink": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 31.13805
+                          },
+                          "cooldown": {
+                            "initialValue": 9.54842
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:chorus_inhibitor"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -1678841899,
+          1864648116,
+          -1393378093,
+          -894335838
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Lyrellion’s Wall of Force\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "You. Shall. Not. Pass.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_wall",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_phantom_block",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Lyrellion’s Wall of Force"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:efficiency": 3,
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:iron_pickaxe"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:aqua_affinity": 1,
+                    "ars_nouveau:mana_boost": 3
+                  }
+                }
+              },
+              "id": "minecraft:diamond_helmet"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "apothic_enchanting:icy_thorns": 1,
+                    "minecraft:protection": 4
+                  }
+                }
+              },
+              "id": "minecraft:diamond_chestplate"
+            },
+            {
+              "Slot": 4,
+              "count": 7,
+              "id": "minecraft:diamond"
+            },
+            {
+              "Slot": 5,
+              "count": 5,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 6,
+              "count": 3,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 8,
+              "count": 7,
+              "id": "ars_nouveau:source_gem"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "ars_nouveau:drygmy_shard"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:knockback": 2
+                  }
+                }
+              },
+              "id": "farmersdelight:diamond_knife"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 10,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:mending": 1,
+                    "minecraft:protection": 4,
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:iron_helmet"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "ars_nouveau:starbuncle_shards"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      794174124,
+      -363508510,
+      -1254720972,
+      -184194038
+    ],
+    "seed": 2678875751915421460,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/2/2f/2f5622ac-ea55-4ce2-b536-7a34f5056c0a",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1733,
+      38,
+      -277
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ],
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ]
+    ],
+    "table": "minecraft:chests/end_city_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

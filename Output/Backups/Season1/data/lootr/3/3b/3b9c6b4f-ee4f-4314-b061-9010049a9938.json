@@ -1,0 +1,237 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:bamboo_planks"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:silk_touch": 1
+                  }
+                },
+                "minecraft:damage": 110
+              },
+              "id": "minecraft:iron_axe"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "exposure_expanded:bumpy_filter"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:bamboo_planks"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:bamboo_planks"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:bamboo_planks"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:tuff"
+            },
+            {
+              "Slot": 7,
+              "count": 3,
+              "id": "minecraft:tuff"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "paralysis": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 1.20715
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "unsinkable": {
+                        "stats": {},
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "shock": {
+                        "stats": {
+                          "damage": {
+                            "initialValue": 2.44509
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:jellyfish_necklace"
+            },
+            {
+              "Slot": 15,
+              "count": 14,
+              "id": "minecraft:tuff"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:tuff"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1000106831,
+      -296795372,
+      -1335783408,
+      77240632
+    ],
+    "seed": -3018654142443807463,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/3/3b/3b9c6b4f-ee4f-4314-b061-9010049a9938",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -475,
+      -29,
+      -280
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "minecraft:chests/trial_chambers/corridor"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

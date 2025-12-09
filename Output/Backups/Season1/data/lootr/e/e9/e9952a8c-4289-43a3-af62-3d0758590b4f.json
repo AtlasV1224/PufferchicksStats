@@ -1,0 +1,97 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"bold\":false,\"color\":\"light_purple\",\"italic\":false,\"strikethrough\":false,\"text\":\"Royal Jelly\"}",
+                "minecraft:potion_contents": {
+                  "custom_color": 16762880,
+                  "potion": "minecraft:awkward",
+                  "custom_effects": [
+                    {
+                      "show_icon": 1,
+                      "id": "minecraft:absorption",
+                      "duration": 1000
+                    },
+                    {
+                      "show_icon": 1,
+                      "id": "minecraft:glowing",
+                      "duration": 300
+                    },
+                    {
+                      "amplifier": 1,
+                      "show_icon": 1,
+                      "id": "minecraft:haste",
+                      "duration": 600
+                    },
+                    {
+                      "amplifier": 39,
+                      "show_icon": 1,
+                      "id": "minecraft:saturation",
+                      "duration": 1
+                    },
+                    {
+                      "show_icon": 1,
+                      "id": "minecraft:speed",
+                      "duration": 6000
+                    }
+                  ]
+                }
+              },
+              "id": "minecraft:potion"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      -376100212,
+      1116292003,
+      -1352516345,
+      1482230607
+    ],
+    "seed": -2273489156852460212,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/e/e9/e9952a8c-4289-43a3-af62-3d0758590b4f",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      615,
+      -24,
+      -1228
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "terralith:underground/giant_bee_hive"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

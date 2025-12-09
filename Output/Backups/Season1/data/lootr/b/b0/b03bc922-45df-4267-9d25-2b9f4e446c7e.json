@@ -1,0 +1,125 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:iron_pickaxe"
+            },
+            {
+              "Slot": 2,
+              "count": 11,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 3,
+              "count": 6,
+              "id": "minecraft:raw_copper"
+            },
+            {
+              "Slot": 4,
+              "count": 4,
+              "id": "minecraft:stick"
+            },
+            {
+              "Slot": 5,
+              "count": 5,
+              "id": "minecraft:glass_bottle"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "claws": {
+                        "stats": {
+                          "modifier": {
+                            "initialValue": 0.144
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:feral_claws"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1338259166,
+      1172259431,
+      -1658508385,
+      1313107070
+    ],
+    "seed": 7055084993400615591,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/b/b0/b03bc922-45df-4267-9d25-2b9f4e446c7e",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1196,
+      -25,
+      -3788
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "artifacts:chests/campsite_chest"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:compass"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:stick"
+            },
+            {
+              "Slot": 2,
+              "count": 7,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "power": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.90101
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:power_glove"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:paper"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -384526548,
+      425346269,
+      -1326015090,
+      -2121344392
+    ],
+    "seed": 8338170529016832120,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/e/e9/e914972c-195a-44dd-b0f6-9d8e818eda78",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -724,
+      68,
+      -4779
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/village/village_cartographer"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

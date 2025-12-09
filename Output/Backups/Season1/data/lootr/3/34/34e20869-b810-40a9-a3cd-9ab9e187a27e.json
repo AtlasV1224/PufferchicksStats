@@ -1,0 +1,108 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1897521421,
+        518932583,
+        -1765357074,
+        1888276970
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "push": {
+                        "stats": {
+                          "radius": {
+                            "initialValue": 3.09562
+                          },
+                          "chance": {
+                            "initialValue": 0.22483
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:whoopee_cushion"
+            },
+            {
+              "Slot": 21,
+              "count": 3,
+              "id": "minecraft:bamboo_planks"
+            },
+            {
+              "Slot": 26,
+              "count": 3,
+              "id": "minecraft:bamboo_planks"
+            }
+          ]
+        },
+        "uuid": [
+          -1897521421,
+          518932583,
+          -1765357074,
+          1888276970
+        ]
+      }
+    ],
+    "uuid": [
+      887228521,
+      -1206894423,
+      -1546806599,
+      -511204738
+    ],
+    "seed": -6419254393937491432,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/3/34/34e20869-b810-40a9-a3cd-9ab9e187a27e",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -502,
+      -7,
+      -345
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1897521421,
+        518932583,
+        -1765357074,
+        1888276970
+      ]
+    ],
+    "table": "minecraft:chests/trial_chambers/corridor"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

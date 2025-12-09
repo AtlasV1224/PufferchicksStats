@@ -1,0 +1,146 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Self Atomic\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "WARNING: ONLY TO BE USED AS A LAST RESORT!!",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 1,
+                        "id": "ars_nouveau:constant",
+                        "b": 1
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:gaia_family"
+                        }
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_explosion",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Self Atomic"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:music_disc_cat"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 5,
+              "count": 12,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 6,
+              "count": 7,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "ars_nouveau:wilden_wing"
+            },
+            {
+              "Slot": 8,
+              "count": 6,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 9,
+              "count": 6,
+              "id": "extradelight:bad_food"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      1165490212,
+      443039866,
+      -2135950956,
+      -840757672
+    ],
+    "seed": 7905859436509864806,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/4/45/4577f824-1a68-407a-80af-f994cde30e58",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -464,
+      -41,
+      685
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

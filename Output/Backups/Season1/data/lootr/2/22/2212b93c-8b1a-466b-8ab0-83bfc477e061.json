@@ -1,0 +1,125 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:leather_chestplate"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "power": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.92383
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:power_glove"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:leather_helmet"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:leather_leggings"
+            },
+            {
+              "Slot": 26,
+              "count": 3,
+              "id": "minecraft:bread"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      571652412,
+      -1961212309,
+      -1968143425,
+      -998776735
+    ],
+    "seed": -6523226958768429646,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/2/22/2212b93c-8b1a-466b-8ab0-83bfc477e061",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -3701,
+      69,
+      -4510
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/village/village_tannery"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

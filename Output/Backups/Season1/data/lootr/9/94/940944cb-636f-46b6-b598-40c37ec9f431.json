@@ -1,0 +1,209 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "ars_nouveau:sourcestone"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 9,
+              "count": 8,
+              "id": "ars_nouveau:sourcestone"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            },
+            {
+              "Slot": 12,
+              "count": 4,
+              "id": "ars_nouveau:sourcestone"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "ars_nouveau:drygmy_shard"
+            },
+            {
+              "Slot": 17,
+              "count": 8,
+              "id": "ars_nouveau:sourcestone"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "impact": {
+                        "stats": {
+                          "size": {
+                            "initialValue": 4.56789
+                          },
+                          "damage": {
+                            "initialValue": 4.59938
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "sustainability": {
+                        "stats": {
+                          "modifier": {
+                            "initialValue": 0.51422
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:ice_breaker"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "ars_nouveau:sourcestone"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            },
+            {
+              "Slot": 23,
+              "count": 6,
+              "id": "ars_nouveau:sourcestone"
+            },
+            {
+              "Slot": 24,
+              "count": 5,
+              "id": "ars_nouveau:sourcestone"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "components": {
+                "ars_additions:structure_lookup_data": [
+                  -6909166,
+                  -402176628,
+                  -2104666617,
+                  -664706463
+                ],
+                "ars_additions:exploration_scroll_data": {
+                  "pos": [
+                    962.5,
+                    309.5,
+                    349.5
+                  ],
+                  "search_radius": 100
+                }
+              },
+              "id": "ars_additions:exploration_warp_scroll"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      -1811331893,
+      1668236982,
+      -1248313149,
+      2127164465
+    ],
+    "seed": -5955032089504951663,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/94/940944cb-636f-46b6-b598-40c37ec9f431",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      962,
+      309,
+      349
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "ars_additions:chests/ruined_portal"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

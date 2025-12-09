@@ -1,0 +1,128 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 5,
+              "id": "minecraft:raw_iron"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:amethyst_shard"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:green_dye"
+            },
+            {
+              "Slot": 3,
+              "count": 4,
+              "id": "minecraft:blue_dye"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "minecraft:pink_dye"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "teleport": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 811.3536
+                          },
+                          "cooldown": {
+                            "initialValue": 69.14581
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:magic_mirror"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      1850839133,
+      -1755428678,
+      -1860514232,
+      -1575247793
+    ],
+    "seed": 1093901558841259529,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/6/6e/6e51905d-975e-48ba-911a-ce48a21ba04f",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -3986,
+      2,
+      -4002
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "pastel:chests/ruined_pedestal_stone"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

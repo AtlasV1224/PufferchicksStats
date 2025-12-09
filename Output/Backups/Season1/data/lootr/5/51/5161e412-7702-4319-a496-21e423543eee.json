@@ -1,0 +1,196 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:cooked_beef"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:cooked_beef"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:cooked_beef"
+            },
+            {
+              "Slot": 18,
+              "count": 2,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 25,
+              "count": 2,
+              "id": "minecraft:carrot"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:milk_bucket"
+            },
+            {
+              "Slot": 1,
+              "count": 10,
+              "id": "minecraft:potato"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 5,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:poisonous_potato"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:beetroot_soup"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "skating": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 34.22635
+                          },
+                          "speed": {
+                            "initialValue": 0.00109
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:roller_skates"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1365369874,
+      1996636953,
+      -1533664796,
+      592723694
+    ],
+    "seed": 1400038416046176852,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/5/51/5161e412-7702-4319-a496-21e423543eee",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1041,
+      119,
+      3073
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/kitchen"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

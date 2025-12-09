@@ -1,0 +1,120 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:iron_chestplate"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "power": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.90659
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:power_glove"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:bread"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      243487522,
+      1691961856,
+      -1245249391,
+      -78017343
+    ],
+    "seed": 5502874443680280835,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/0/0e/0e835322-64d9-4a00-b5c7-0091fb598cc1",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2693,
+      79,
+      243
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "ctov:chests/village/village_smith"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/stronghold/corridor_1.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "ars_nouveau:drygmy_shard"
+            },
+            {
+              "Slot": 26,
+              "count": 2,
+              "id": "minecraft:apple"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Potent Toxin\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Poisons that target and causes them to take additional damage from all sources.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_hex",
+                        "ars_nouveau:glyph_harm",
+                        "ars_nouveau:glyph_extend_time"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Potent Toxin"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/stronghold/corridor_3.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:coal"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -243051435,
+      -1309130115,
+      -1657301660,
+      824173903
+    ],
+    "seed": 3883298206397205485,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/f/f1/f1835455-b1f8-427d-9d37-9564311fe54f",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      4522,
+      -1,
+      326
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_crossing"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 3,
+              "count": 4,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 5,
+              "count": 6,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 6,
+              "count": 2,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 9,
+              "count": 17,
+              "id": "farmersdelight:rope"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"The Shadow's Temporary Tunnel\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Creates a temporary tunnel of blocks.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_touch",
+                        "ars_nouveau:glyph_intangible",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_extend_time"
+                      ],
+                      "particleTimeline": {},
+                      "name": "The Shadow's Temporary Tunnel"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:music_disc_13"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 6,
+              "count": 3,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:thorns": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "exposure_expanded:antialias_filter"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "ars_nouveau:music_disc_aria_biblio"
+            },
+            {
+              "Slot": 10,
+              "count": 6,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 11,
+              "count": 3,
+              "id": "farmersdelight:cabbage_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -843480951,
+      -1865989158,
+      -1334705844,
+      1152459695
+    ],
+    "seed": -5479107057559064596,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/c/cd/cdb98089-90c7-43da-b072-014c44b123af",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -3836,
+      191,
+      -4709
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

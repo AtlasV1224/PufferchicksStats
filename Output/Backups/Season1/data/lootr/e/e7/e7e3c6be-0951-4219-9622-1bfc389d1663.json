@@ -1,0 +1,196 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 5,
+              "id": "minecraft:crying_obsidian"
+            },
+            {
+              "Slot": 1,
+              "count": 5,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:golden_helmet"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:multishot": 1
+                  }
+                },
+                "minecraft:damage": 61
+              },
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 4,
+              "count": 23,
+              "id": "minecraft:arrow"
+            },
+            {
+              "Slot": 7,
+              "count": 3,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "silentgear:netherwood_sapling"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "rage": {
+                        "stats": {
+                          "incoming_damage": {
+                            "initialValue": 0.04168
+                          },
+                          "dealt_damage": {
+                            "initialValue": 0.05989
+                          },
+                          "duration": {
+                            "initialValue": 3.63299
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "phlebotomy": {
+                        "stats": {
+                          "attack_speed": {
+                            "initialValue": 0.00649
+                          },
+                          "movement_speed": {
+                            "initialValue": 0.01742
+                          },
+                          "heal": {
+                            "initialValue": 0.00025
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "spurt": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 6.58299
+                          },
+                          "cooldown": {
+                            "initialValue": 19.30732
+                          },
+                          "damage": {
+                            "initialValue": 0.14726
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:rage_glove"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -404502850,
+      156320281,
+      -1776149508,
+      949818979
+    ],
+    "seed": -1205963223058553774,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/e/e7/e7e3c6be-0951-4219-9622-1bfc389d1663",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      828,
+      58,
+      -4028
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/bastion_other"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

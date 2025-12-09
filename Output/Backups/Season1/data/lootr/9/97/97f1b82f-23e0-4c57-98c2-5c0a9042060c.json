@@ -1,0 +1,151 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:lapis_lazuli"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:lapis_lazuli"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "teleport": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 847.01899
+                          },
+                          "cooldown": {
+                            "initialValue": 93.83781
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:magic_mirror"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:lapis_lazuli"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 22,
+              "count": 2,
+              "id": "minecraft:lapis_lazuli"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1745766353,
+      601902167,
+      -1732092918,
+      -1874721268
+    ],
+    "seed": -1033481213452503120,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/9/97/97f1b82f-23e0-4c57-98c2-5c0a9042060c",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2604,
+      -18,
+      301
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "betterstrongholds:chests/treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

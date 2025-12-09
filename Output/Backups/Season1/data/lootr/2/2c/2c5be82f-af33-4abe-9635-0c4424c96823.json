@@ -1,0 +1,236 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:netherite_upgrade_smithing_template"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "create_dragons_plus:blaze_upgrade_smithing_template"
+            },
+            {
+              "Slot": 6,
+              "count": 2,
+              "id": "silentgear:crimson_iron_ingot"
+            },
+            {
+              "Slot": 7,
+              "count": 5,
+              "id": "silentgear:blaze_gold_ingot"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "ars_nouveau:music_disc_thistle_the_sound_of_glass"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 9,
+              "id": "minecraft:gilded_blackstone"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 3
+                  }
+                },
+                "minecraft:damage": 28
+              },
+              "id": "minecraft:diamond_leggings"
+            },
+            {
+              "Slot": 3,
+              "count": 34,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:netherite_upgrade_smithing_template"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "passive": {
+                        "stats": {},
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "withered": {
+                        "stats": {
+                          "time": {
+                            "initialValue": 2.63576
+                          },
+                          "chance": {
+                            "initialValue": 0.21563
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:withered_bracelet"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "create_dragons_plus:blaze_upgrade_smithing_template"
+            },
+            {
+              "Slot": 10,
+              "count": 2,
+              "id": "silentgear:crimson_iron_ingot"
+            },
+            {
+              "Slot": 11,
+              "count": 3,
+              "id": "silentgear:blaze_gold_ingot"
+            },
+            {
+              "Slot": 12,
+              "count": 8,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 13,
+              "count": 2,
+              "id": "ars_nouveau:wilden_spike"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "ars_nouveau:music_disc_thistle_the_sound_of_glass"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      744220719,
+      -1355593026,
+      -1774908348,
+      617179171
+    ],
+    "seed": 9021468638889458610,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/2/2c/2c5be82f-af33-4abe-9635-0c4424c96823",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -3331,
+      93,
+      -3994
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

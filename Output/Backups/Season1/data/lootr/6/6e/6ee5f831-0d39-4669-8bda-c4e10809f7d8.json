@@ -1,0 +1,154 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "looting": {
+                        "stats": {
+                          "chance": {
+                            "initialValue": 0.10608
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:superstitious_hat"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:charcoal"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:charcoal"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:leather_helmet"
+            },
+            {
+              "Slot": 20,
+              "count": 2,
+              "id": "minecraft:charcoal"
+            },
+            {
+              "Slot": 24,
+              "count": 4,
+              "id": "minecraft:charcoal"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:leather_boots"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:iron_sword"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1860565041,
+      221857385,
+      -1948597023,
+      134871000
+    ],
+    "seed": -5521710120606463316,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/6/6e/6ee5f831-0d39-4669-8bda-c4e10809f7d8",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      4488,
+      -1,
+      335
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "betterstrongholds:chests/armoury"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

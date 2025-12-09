@@ -1,0 +1,313 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:map"
+            },
+            {
+              "Slot": 1,
+              "count": 12,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 2,
+              "count": 5,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:loyalty": 3,
+                    "minecraft:sharpness": 4,
+                    "the_bumblezone:potent_poison": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:depth_strider": 2,
+                    "minecraft:efficiency": 3,
+                    "minecraft:punch": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "teleport": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 10.68048
+                          },
+                          "cooldown": {
+                            "initialValue": 84.93467
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:warp_drive"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "ars_nouveau:whirlisprig_shards"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "ars_nouveau:source_gem"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:multishot": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:sharpness": 3,
+                    "minecraft:quick_charge": 2,
+                    "apothic_enchanting:chromatic": 1,
+                    "minecraft:smite": 4
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 12,
+              "count": 3,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 13,
+              "count": 2,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 15,
+              "count": 2,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Yuuki's Mineral Assimilator\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "One of YuukiUkami’s earliest creations, this spell reflects their desire for precision and mastery. Infused with the arcane finesse of its creator, it draws minerals from the earth at a distance, as if the ores themselves were eager to join the mage’s growing legacy",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 48,
+                        "g": 1,
+                        "id": "ars_nouveau:constant",
+                        "b": 105
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_break",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_extract",
+                        "ars_nouveau:glyph_pickup"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Yuuki's Mineral Assimilator"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 21,
+              "count": 4,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:paper"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -200784590,
+      572214832,
+      -1235882836,
+      -1929971611
+    ],
+    "seed": 7092099914362852377,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/f/f4/f4084532-221b-4e30-b655-ecac8cf6f865",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -3341,
+      82,
+      -3980
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

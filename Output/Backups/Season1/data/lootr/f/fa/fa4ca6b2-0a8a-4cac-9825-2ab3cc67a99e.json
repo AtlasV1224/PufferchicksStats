@@ -1,0 +1,140 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:pink_terracotta"
+            },
+            {
+              "Slot": 7,
+              "count": 2,
+              "id": "minecraft:charcoal"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "components": {
+                "pastel:beverage": {
+                  "thickness": 1.0,
+                  "alcohol_percent": 14,
+                  "days_aged": 197726
+                },
+                "pastel:infused_beverage": {
+                  "variant": "beer",
+                  "color": 16762703
+                },
+                "minecraft:potion_contents": {
+                  "custom_effects": [
+                    {
+                      "amplifier": 2,
+                      "show_icon": 1,
+                      "id": "minecraft:haste",
+                      "neoforge:cures": [
+                        "protected_by_totem",
+                        "milk"
+                      ],
+                      "duration": 9600
+                    },
+                    {
+                      "amplifier": 1,
+                      "show_icon": 1,
+                      "id": "pastel:nourishing",
+                      "neoforge:cures": [
+                        "protected_by_totem",
+                        "milk"
+                      ],
+                      "duration": 9600
+                    },
+                    {
+                      "amplifier": 2,
+                      "show_icon": 1,
+                      "id": "minecraft:saturation",
+                      "neoforge:cures": [
+                        "protected_by_totem",
+                        "milk"
+                      ],
+                      "duration": 120
+                    },
+                    {
+                      "duration": 600,
+                      "show_icon": 1,
+                      "id": "minecraft:nausea",
+                      "neoforge:cures": [
+                        "protected_by_totem",
+                        "milk"
+                      ]
+                    }
+                  ]
+                }
+              },
+              "id": "pastel:infused_beverage"
+            },
+            {
+              "Slot": 14,
+              "count": 2,
+              "id": "minecraft:charcoal"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "securitycraft:reinforced_magenta_terracotta"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:bucket"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -95639886,
+      176835756,
+      -1742394701,
+      -865621602
+    ],
+    "seed": -4532033907553336824,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/f/fa/fa4ca6b2-0a8a-4cac-9825-2ab3cc67a99e",
+    "dimension": "pastel:deeper_down",
+    "hasBeenOpened": 1,
+    "position": [
+      -2229,
+      -285,
+      -305
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "pastel:chests/city_below/terrace_house_cellar"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

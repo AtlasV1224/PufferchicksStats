@@ -1,0 +1,1790 @@
+{
+  "foodTickTimer": 0,
+  "AbsorptionAmount": 0.0,
+  "XpTotal": 0,
+  "playerGameType": 0,
+  "Invulnerable": 0,
+  "SelectedItemSlot": 0,
+  "Score": 0,
+  "attributes": [
+    {
+      "base": 1.0,
+      "id": "additionalentityattributes:generic.hitbox_width"
+    },
+    {
+      "modifiers": [
+        {
+          "amount": 0.0,
+          "id": "solcarrot:health_gained",
+          "operation": "add_value"
+        }
+      ],
+      "base": 20.0,
+      "id": "minecraft:generic.max_health"
+    },
+    {
+      "base": 0.10000000149011612,
+      "id": "minecraft:generic.movement_speed"
+    },
+    {
+      "base": 1.0,
+      "id": "additionalentityattributes:generic.width"
+    },
+    {
+      "base": 1.0,
+      "id": "neoforge:swim_speed"
+    },
+    {
+      "base": 0.0,
+      "id": "additionalentityattributes:generic.mob_detection_range"
+    },
+    {
+      "base": 0.1,
+      "id": "caelus:fall_flying"
+    },
+    {
+      "base": 0.0,
+      "id": "additionalentityattributes:player.collection_range"
+    },
+    {
+      "base": 1.0,
+      "id": "additionalentityattributes:generic.hitbox_height"
+    },
+    {
+      "base": 0.0,
+      "id": "ars_nouveau:ars_nouveau.perk.max_mana"
+    },
+    {
+      "base": 1.0,
+      "id": "additionalentityattributes:generic.height"
+    },
+    {
+      "base": 0.08,
+      "id": "minecraft:generic.gravity"
+    },
+    {
+      "base": 1.0,
+      "id": "additionalentityattributes:generic.hitbox_scale"
+    },
+    {
+      "base": 4.5,
+      "id": "minecraft:player.block_interaction_range"
+    },
+    {
+      "base": 3.0,
+      "id": "minecraft:player.entity_interaction_range"
+    },
+    {
+      "base": 0.6,
+      "id": "minecraft:generic.step_height"
+    },
+    {
+      "base": 0.0,
+      "id": "minecraft:generic.oxygen_bonus"
+    },
+    {
+      "base": 1.0,
+      "id": "ars_nouveau:ars_nouveau.perk.weight"
+    },
+    {
+      "base": 0.0,
+      "id": "ars_nouveau:ars_nouveau.perk.mana_regen"
+    },
+    {
+      "base": 0.0,
+      "id": "neoforge:creative_flight"
+    }
+  ],
+  "BalmData": {
+    "TrashSlot": {},
+    "WaystonesData": {
+      "SortingIndex": [],
+      "Waystones": []
+    }
+  },
+  "Tags": [
+    "in.eid_0",
+    "in.eid_1",
+    "in.eid_2",
+    "in.eid_3",
+    "in.eid_5",
+    "in.eid_8",
+    "in.eid_12",
+    "in.eid_9",
+    "in.eid_14",
+    "in.survival_player",
+    "in.valid_player"
+  ],
+  "UUID": [
+    -574786378,
+    -2097000557,
+    -1373791064,
+    -615513952
+  ],
+  "XpLevel": 0,
+  "Inventory": [
+    {
+      "count": 1,
+      "Slot": 0,
+      "components": {
+        "minecraft:written_book_content": {
+          "pages": [
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page1.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page1.body\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page2.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page2.body1\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page2.highlight_cucumbers\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page2.body2\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page2.highlight_wild_cucumber_bushes\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page2.body3\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page3.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page3.highlight_sunflowers\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page3.body1\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page3.highlight_wild_bushes\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page3.body3\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page4.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page4.body1\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page4.highlight_cucumber_seeds\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page4.body2\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page4.highlight_cucumbers\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page4.body3\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page4.body4\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page4.highlight_sliced_cucumber\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page4.body5\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_red\",\"translate\":\"book.adorablehamsterpets.page5.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page5.body\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page6.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page6.body1\"},{\"color\":\"gold\",\"italic\":true,\"translate\":\"book.adorablehamsterpets.page6.emphasis_exclusive\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page6.body2\"},\"\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page6.body3\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page7.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page7.body1\"},\"\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page7.body2\"},{\"color\":\"dark_purple\",\"translate\":\"book.adorablehamsterpets.page7.highlight_sneak\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page7.body3\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page7.highlight_sliced_cucumber\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page7.body4\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page8.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page8.body1\"},\"\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page8.body2\"},{\"color\":\"dark_purple\",\"translate\":\"book.adorablehamsterpets.page8.highlight_sit_stay\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page8.body3\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page9.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page9.body1\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page9.highlight_seeds_or_basic_crops\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page9.body2\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page9.body3\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page9.highlight_hamster_food_mix\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page9.body4\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page10.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page10.body1\"},{\"color\":\"light_purple\",\"translate\":\"book.adorablehamsterpets.page10.highlight_love_mode\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page10.body2\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page11.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page11.body1\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page11.body2\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page11.highlight_hamster_food_mix\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page11.body3\"},{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page11.highlight_steamed_green_beans\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page11.body4\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page12.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page12.body1\"},{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page12.highlight_steamed_green_beans\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page12.body2\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page12.body3\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page13.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page13.body1\"},{\"color\":\"dark_purple\",\"translate\":\"book.adorablehamsterpets.page13.highlight_sneak_right_click\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page13.body2\"},\"\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page13.body3\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page13.highlight_hamster_food_mix\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page13.body4\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page14.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page14.body1\"},{\"color\":\"light_purple\",\"translate\":\"book.adorablehamsterpets.page14.highlight_pink_petals\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page14.body2\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page15.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page15.body1\"},{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page15.highlight_cheese\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page15.body2\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page16.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page16.body1\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page16.highlight_creepers\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page16.body2\"},{\"color\":\"aqua\",\"translate\":\"book.adorablehamsterpets.page16.highlight_diamonds\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page16.body3\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page16.body4\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page17.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page17.body1\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page17.highlight_creeper\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page17.body2\"},{\"color\":\"dark_red\",\"italic\":true,\"translate\":\"book.adorablehamsterpets.page17.warning_targeting\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page17.body3\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page17.body4\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page18.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page18.body1\"},{\"bold\":true,\"color\":\"aqua\",\"translate\":\"book.adorablehamsterpets.page18.highlight_diamonds\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page18.body2\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page18.body3\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page19.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page19.body1\"},{\"color\":\"aqua\",\"translate\":\"book.adorablehamsterpets.page19.highlight_diamond_sniffs\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page19.body2\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page19.body3\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page20.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page20.body1\"},{\"color\":\"dark_purple\",\"translate\":\"book.adorablehamsterpets.page20.highlight_g_key\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page20.body2\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_red\",\"translate\":\"book.adorablehamsterpets.page21.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page21.body1\"},{\"color\":\"dark_purple\",\"translate\":\"book.adorablehamsterpets.page21.highlight_g_key\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page21.body2\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page21.body3\"},{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page21.highlight_controls_path\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page21.body4\"},\"\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page21.body5\"},{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page21.highlight_throw_hamster_keybind\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page21.body6\"},{\"color\":\"dark_purple\",\"translate\":\"book.adorablehamsterpets.page21.highlight_g_key2\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page21.body7\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page22.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page22.body\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_red\",\"translate\":\"book.adorablehamsterpets.page23.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page23.body1\"},{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page23.highlight_book\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page23.body2\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page23.highlight_sliced_cucumber\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page23.body3\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"italic\":true,\"translate\":\"book.adorablehamsterpets.page23.emphasis_no_refunds\"},\"\\n\\n\",{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page23.body4\"}],\"text\":\"\"}"
+            }
+          ],
+          "author": "The Scarlet Fox",
+          "title": {
+            "raw": "The Hamster Life"
+          },
+          "resolved": 1
+        }
+      },
+      "id": "adorablehamsterpets:hamster_guide_book"
+    },
+    {
+      "count": 1,
+      "Slot": 1,
+      "id": "ars_nouveau:worn_notebook"
+    },
+    {
+      "count": 1,
+      "Slot": 2,
+      "components": {
+        "silentlib:loot_container": {
+          "loot_table": "silentgear:starter_blueprints"
+        }
+      },
+      "id": "silentgear:blueprint_package"
+    },
+    {
+      "count": 1,
+      "Slot": 3,
+      "id": "integrateddynamics:on_the_dynamics_of_integration"
+    }
+  ],
+  "foodLevel": 20,
+  "Motion": [
+    0.0,
+    -0.0784000015258789,
+    0.0
+  ],
+  "EnderItems": [],
+  "XpP": 0.0,
+  "Fire": -20,
+  "foodExhaustionLevel": 0.0,
+  "seenCredits": 0,
+  "DeathTime": 0,
+  "recipeBook": {
+    "isBrewinandchewinFermentingFilteringCraftable": 0,
+    "isGuiOpen": 0,
+    "isFarmersdelightCookingFilteringCraftable": 0,
+    "toBeDisplayed": [
+      "ars_nouveau:archwood_fence_gate",
+      "ars_nouveau:gilded_sourcestone_mosaic_stone_cutterslab",
+      "ars_additions:crafting/stonecutter/sourcestone_trapdoor_0",
+      "ars_nouveau:ritual_disintegration",
+      "ars_nouveau:smooth_sourcestone_stairs",
+      "ars_additions:crafting/trapdoors/magebloom_carpet",
+      "ars_nouveau:manipulation_essence_to_moss_block",
+      "ars_nouveau:water_essence_to_bucket",
+      "ars_nouveau:ritual_animal_summon",
+      "ars_nouveau:mimic_scroll",
+      "ars_nouveau:smooth_sourcestone_small_bricks_to_sourcestone",
+      "ars_nouveau:ritual_warping",
+      "ars_additions:crafting/lanterns/soul_magelight_lantern",
+      "ars_nouveau:starbuncle_shades",
+      "ars_additions:handy_haversack",
+      "starbunclemania:star_build",
+      "ars_nouveau:conjuration_essence_to_soul_sand",
+      "ars_nouveau:sourcestone_alternating_stonecutter_stair",
+      "ars_additions:ritual/ritual_locate_structure",
+      "ars_nouveau:ars_stencil",
+      "ars_nouveau:polished_sconce",
+      "ars_nouveau:void_prism",
+      "ars_nouveau:manipulation_essence_to_mycelium",
+      "ars_nouveau:ritual_binding",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_stairs",
+      "ars_nouveau:sourcestone_slab",
+      "ars_additions:crafting/chains/sourcestone_chain",
+      "ars_nouveau:source_berry_roll",
+      "ars_nouveau:gilded_sourcestone_alternating_to_sourcestone",
+      "ars_nouveau:arcane_core",
+      "ars_additions:crafting/lanterns/archwood_magelight_lantern",
+      "ars_nouveau:mendosteen_to_lime",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_slab",
+      "ars_nouveau:sourcestone_alternating_to_sourcestone",
+      "ars_nouveau:green_sbed",
+      "ars_nouveau:manipulation_essence_to_tuff",
+      "ars_additions:crafting/stonecutter/cracked_sourcestone_wall_0",
+      "ars_nouveau:smooth_sourcestone_small_bricks_stone_cutterslab",
+      "ars_nouveau:sourcestone_basketweave_stone_cutterslab",
+      "ars_nouveau:red_archwood_wood",
+      "ars_nouveau:gilded_sourcestone_small_bricks_to_sourcestone",
+      "ars_additions:crafting/chains/reversed_sourcestone_chain",
+      "ars_nouveau:spell_prism",
+      "ars_nouveau:yellow_sbed",
+      "starbunclemania:star_bin",
+      "ars_additions:crafting/stonecutter/sourcestone_button_0",
+      "ars_additions:crafting/doors/polished_sourcestone_door",
+      "ars_nouveau:platform_to_pedestal",
+      "ars_nouveau:magebloom_fiber",
+      "ars_nouveau:archwood_fence",
+      "ars_nouveau:orange_sbed",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_stairs",
+      "ars_nouveau:experience_gem",
+      "ars_nouveau:sourcestone_basketweave_slab",
+      "starbunclemania:starby_ears",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_to_sourcestone",
+      "ars_nouveau:gilded_sourcestone_small_bricks_slab",
+      "ars_nouveau:fire_essence_to_magma_block",
+      "ars_nouveau:ritual_brazier",
+      "ars_nouveau:smooth_sourcestone_large_bricks_stairs",
+      "ars_nouveau:gilded_sourcestone_mosaic_stairs",
+      "ars_nouveau:potion_jar",
+      "ars_nouveau:sourcestone_mosaic_stonecutter_stair",
+      "ars_nouveau:sourcestone_small_bricks_to_sourcestone",
+      "ars_nouveau:repository",
+      "ars_additions:crafting/chains/archwood_chain",
+      "ars_nouveau:sourcestone_mosaic_stone_cutterslab",
+      "starbunclemania:alak_hat",
+      "ars_nouveau:blank_thread",
+      "exposure:lightroom",
+      "ars_nouveau:ritual_forestation",
+      "ars_additions:crafting/stonecutter/sourcestone_chain_0",
+      "ars_nouveau:archwood_hanging_sign",
+      "ars_additions:crafting/lanterns/golden_lantern",
+      "ars_nouveau:sourcestone_large_bricks_stone_cutterslab",
+      "ars_nouveau:manipulation_essence_to_grass_block",
+      "ars_additions:crafting/stonecutter/sourcestone_chain_1",
+      "ars_nouveau:mob_jar",
+      "ars_additions:crafting/trapdoors/sourcestone_trapdoor",
+      "starbunclemania:whirli_prop",
+      "ars_nouveau:stripped_purple_archwood_wood",
+      "ars_nouveau:archwood_sconce",
+      "ars_nouveau:sourcestone_sconce",
+      "ars_nouveau:ritual_challenge",
+      "ars_additions:crafting/revert/cracked_sourcestone_to_sourcestone",
+      "ars_nouveau:sourcestone_13",
+      "ars_nouveau:smooth_sourcestone_mosaic_stonecutter_stair",
+      "ars_nouveau:sourcestone_12",
+      "ars_nouveau:enchanting_apparatus",
+      "ars_nouveau:sourcestone_15",
+      "ars_nouveau:sourcestone_14",
+      "ars_nouveau:smooth_sourcestone_large_bricks_stone_cutterslab",
+      "solcarrot:food_book",
+      "ars_nouveau:purple_sbed",
+      "ars_nouveau:clear_wixie_charm",
+      "ars_nouveau:sourcestone_11",
+      "ars_nouveau:sourcestone_10",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_slab",
+      "ars_elemental:ritual_attraction",
+      "ars_elemental:yellow_archwood",
+      "ars_nouveau:sourcestone_stairs",
+      "ars_nouveau:challenge_2",
+      "ars_nouveau:smooth_sourcestone_basketweave_stonecutter_stair",
+      "ars_nouveau:source_jar",
+      "ars_nouveau:smooth_sourcestone_basketweave_stone_cutterslab",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_stone_cutterslab",
+      "ars_nouveau:scry_to_blank_parchment",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_stonecutter_stair",
+      "ars_elemental:ritual_archwood_forestation",
+      "ars_nouveau:ritual_conjure_island_desert",
+      "ars_nouveau:bastion_to_purple",
+      "ars_nouveau:gilded_sourcestone_alternating_stonecutter_stair",
+      "ars_nouveau:smooth_sourcestone_alternating_stonecutter_stair",
+      "ars_nouveau:smooth_sourcestone_mosaic_to_sourcestone",
+      "minecraft:crafting_table",
+      "starbunclemania:chef_hat",
+      "ars_nouveau:smooth_sourcestone_stone_cutterslab",
+      "ars_nouveau:fire_essence_to_charge",
+      "ars_additions:wayfinder",
+      "ars_nouveau:smooth_sourcestone_basketweave_to_sourcestone",
+      "ars_nouveau:warp_scroll",
+      "ars_nouveau:blank_parchment",
+      "starbunclemania:robin_mask",
+      "ars_nouveau:gilded_sourcestone_basketweave_stonecutter_stair",
+      "ars_additions:clear_advanced_dominion_wand",
+      "ars_additions:crafting/lanterns/reversed_polished_sourcestone_magelight_lantern",
+      "ars_nouveau:sourcestone_basketweave_to_sourcestone",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_stonecutter_stair",
+      "ars_nouveau:ritual_overgrowth",
+      "ars_nouveau:ritual_fertility",
+      "ars_additions:crafting/lanterns/reversed_sourcestone_magelight_lantern",
+      "ars_nouveau:sourcestone_alternating_stairs",
+      "ars_nouveau:alteration_table",
+      "ars_nouveau:manipulation_essence_to_diorite",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:dull_trinket",
+      "ars_nouveau:clear_starbuncle_charm",
+      "ars_elemental:flight_alt",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:gilded_sourcestone_basketweave_stairs",
+      "ars_nouveau:archwood_to_chest",
+      "ars_additions:crafting/lanterns/reversed_polished_sourcestone_lantern",
+      "ars_nouveau:sourcestone_stonecutter_stair",
+      "ars_nouveau:spike_to_dye",
+      "ars_nouveau:smooth_sourcestone_grate",
+      "ars_additions:crafting/lanterns/magelight_lantern",
+      "ars_nouveau:sourcestone_large_bricks_slab",
+      "ars_nouveau:water_essence_to_obsidian",
+      "ars_nouveau:ritual_moonfall",
+      "ars_nouveau:ritual_gravity",
+      "ars_nouveau:sconce",
+      "ars_nouveau:gilded_sourcestone_alternating_stone_cutterslab",
+      "ars_nouveau:gilded_sourcestone_mosaic_stonecutter_stair",
+      "ars_nouveau:mirrorweave",
+      "ars_nouveau:sky_block",
+      "ars_nouveau:arcane_platform",
+      "ars_nouveau:source_lamp",
+      "ars_nouveau:sourcestone_alternating_slab",
+      "ars_additions:crafting/chains/reversed_polished_sourcestone_chain",
+      "starbunclemania:fluid_sourcelink",
+      "ars_nouveau:wipe_spell_parchment",
+      "ars_nouveau:manipulation_essence_to_flourishing_sapling",
+      "ars_nouveau:sourcestone_small_bricks_stone_cutterslab",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_to_sourcestone",
+      "ars_nouveau:green_archwood_wood",
+      "ars_elemental:ritual_repulsion",
+      "ars_elemental:curio_bag",
+      "ars_nouveau:reset_warp_scroll",
+      "ars_additions:crafting/lanterns/archwood_lantern",
+      "ars_nouveau:sourcestone_basketweave_stonecutter_stair",
+      "ars_nouveau:imbuement_chamber",
+      "ars_nouveau:rotating_turret_to_basic_spell_turret",
+      "ars_nouveau:sourcestone_20",
+      "ars_nouveau:ritual_scrying",
+      "ars_nouveau:sourcestone_21",
+      "ars_elemental:spore_blossom_up",
+      "ars_elemental:advanced_prism",
+      "ars_additions:clear_handy_haversack",
+      "ars_nouveau:sourcestone_17",
+      "ars_nouveau:sourcestone_16",
+      "ars_nouveau:sourcestone_19",
+      "ars_nouveau:sourcestone_18",
+      "ars_nouveau:smooth_sourcestone_small_bricks_stonecutter_stair",
+      "starbunclemania:sea_bunny",
+      "ars_nouveau:smooth_sourcestone_alternating_stairs",
+      "ars_nouveau:alchemical_sourcelink",
+      "ars_additions:crafting/lanterns/golden_magelight_lantern",
+      "ars_nouveau:smooth_sourcestone_basketweave_stairs",
+      "ars_nouveau:falseweave",
+      "ars_nouveau:horn_to_bonemeal",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_door_0",
+      "ars_nouveau:novice_spell_book",
+      "ars_nouveau:redstone_relay",
+      "starbunclemania:star_battery",
+      "starbunclemania:fluid_scroll_deny",
+      "ars_nouveau:sourcestone_small_bricks_stairs",
+      "ars_elemental:alt_blossom",
+      "ars_nouveau:sourcestone_stone_cutterslab",
+      "ars_nouveau:source_berry_pie",
+      "ars_nouveau:manipulation_essence_to_cascading_sapling",
+      "ars_nouveau:smooth_sourcestone_small_bricks_slab",
+      "ars_additions:crafting/stonecutter/sourcestone_door_0",
+      "ars_nouveau:smooth_sourcestone_basketweave_slab",
+      "ars_nouveau:sunrise_2",
+      "ars_nouveau:gilded_sourcestone_basketweave_slab",
+      "ars_nouveau:clear_whirlisprig_charm",
+      "ars_nouveau:ritual_containment",
+      "ars_nouveau:basic_spell_turret",
+      "ars_nouveau:vitalic_sourcelink",
+      "ars_elemental:ritual_archwood_forest",
+      "ars_nouveau:sourcestone_small_bricks_stonecutter_stair",
+      "ars_nouveau:archwood_pressure_plate",
+      "ars_nouveau:archwood_door",
+      "ars_nouveau:ritual_burrowing",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_stairs",
+      "ars_nouveau:gilded_sourcestone_alternating_slab",
+      "ars_nouveau:frostaya_to_light_blue",
+      "ars_nouveau:polished_source_sconce",
+      "ars_additions:crafting/lanterns/reversed_sourcestone_lantern",
+      "ars_nouveau:manipulation_essence_to_vexing_sapling",
+      "starbunclemania:fluid_jar",
+      "ars_nouveau:magebloom_block_to_magebloom",
+      "ars_nouveau:gilded_sourcestone_large_bricks_stairs",
+      "ars_nouveau:ritual_flight",
+      "ars_nouveau:greater_experience_gem",
+      "ars_nouveau:ritual_conjure_island_plains",
+      "ars_nouveau:gilded_sourcestone_small_bricks_stone_cutterslab",
+      "ars_nouveau:magelight_torch",
+      "ars_nouveau:stripped_blue_archwood_wood",
+      "ars_nouveau:smooth_sourcestone_mosaic_stairs",
+      "ars_nouveau:gilded_sourcestone_small_bricks_stonecutter_stair",
+      "ars_nouveau:archwood_trapdoor",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_button_0",
+      "ars_nouveau:smooth_sourcestone_mosaic_slab",
+      "ars_nouveau:manipulation_essence_to_calcite",
+      "ars_nouveau:smooth_sourcestone_alternating_slab",
+      "ars_nouveau:rotating_spell_turret",
+      "ars_nouveau:archwood_chest",
+      "ars_nouveau:clear_starbuncle_shard",
+      "ars_nouveau:purple_archwood_wood",
+      "ars_additions:crafting/stonecutter/sourcestone_wall_0",
+      "ars_nouveau:gilded_sourcestone_large_bricks_slab",
+      "ars_nouveau:novice_spellbook_alt",
+      "ars_nouveau:item_detector",
+      "ars_nouveau:blue_archwood_wood",
+      "ars_nouveau:smooth_sourcestone_slab",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_wall_0",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_stairs",
+      "ars_nouveau:potion_jar_empty",
+      "ars_nouveau:clear_allow",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_stone_cutterslab",
+      "ars_nouveau:magebloom_to_pink",
+      "ars_elemental:flashing_sapling",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_stone_cutterslab",
+      "ars_nouveau:smooth_sourcestone_to_sourcestone",
+      "ars_nouveau:gilded_sourcestone_small_bricks_stairs",
+      "ars_nouveau:smooth_sourcestone_alternating_to_sourcestone",
+      "ars_elemental:sparkflower_to_glowstone",
+      "ars_nouveau:source_gem_block_2",
+      "ars_nouveau:scribes_table",
+      "starbunclemania:drygmy_horns",
+      "ars_nouveau:ritual_awakening",
+      "ars_nouveau:bombegranate_to_orange",
+      "ars_nouveau:sourcestone_mosaic_slab",
+      "ars_nouveau:annotated_codex",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:gold_grate",
+      "ars_nouveau:sourcestone_mosaic_stairs",
+      "ars_nouveau:agronomic_sourcelink",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_stone_cutterslab",
+      "ars_nouveau:sourcestone_basketweave_stairs",
+      "ars_nouveau:red_sbed",
+      "ars_nouveau:smooth_sourcestone_large_bricks_to_sourcestone",
+      "ars_additions:crafting/walls/cracked_sourcestone_wall",
+      "ars_nouveau:air_essence_to_snow_bucket",
+      "ars_nouveau:clear_drygmy_charm",
+      "ars_nouveau:sourcestone_small_bricks_slab",
+      "ars_nouveau:ritual_sanctuary",
+      "ars_additions:crafting/lanterns/sourcestone_magelight_lantern",
+      "ars_nouveau:ritual_wilden_summon",
+      "ars_nouveau:smooth_sourcestone_large_bricks_slab",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_stairs",
+      "ars_nouveau:sourcestone_8",
+      "ars_nouveau:sourcestone_7",
+      "ars_nouveau:sourcestone_mosaic_to_sourcestone",
+      "ars_nouveau:manipulation_essence_to_granite",
+      "ars_nouveau:sourcestone_9",
+      "ars_nouveau:sourcestone_4",
+      "ars_nouveau:sourcestone_3",
+      "ars_nouveau:sourcestone_6",
+      "ars_nouveau:sourcestone_5",
+      "ars_nouveau:sourcestone_2",
+      "ars_nouveau:runic_chalk",
+      "ars_nouveau:gilded_sourcestone_mosaic_to_sourcestone",
+      "ars_nouveau:sourcestone_1",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_slab",
+      "ars_nouveau:clear_amethyst_golem_charm",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_slab",
+      "ars_elemental:ritual_squirrels",
+      "ars_nouveau:archwood_stairs",
+      "starbunclemania:fluid_scroll_allow",
+      "ars_additions:crafting/buttons/polished_sourcestone_button",
+      "ars_nouveau:wilden_summon_alt",
+      "ars_nouveau:dowsing_rod",
+      "ars_additions:crafting/walls/polished_sourcestone_wall",
+      "ars_additions:crafting/chains/golden_chain",
+      "ars_additions:crafting/revert/cracked_polished_sourcestone_to_sourcestone",
+      "ars_nouveau:gilded_sourcestone_large_bricks_stonecutter_stair",
+      "starbunclemania:wyrm_degree",
+      "ars_nouveau:arcane_pedestal",
+      "ars_nouveau:allow_scroll",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_slab",
+      "ars_nouveau:spike_to_arrow",
+      "ars_nouveau:manipulation_essence_to_deepslate",
+      "ars_nouveau:sourcestone_large_bricks_stairs",
+      "ars_nouveau:scryers_crystal",
+      "ars_additions:crafting/stonecutter/sourcestone_2",
+      "ars_additions:crafting/stonecutter/sourcestone_1",
+      "ars_nouveau:sourceberry_to_purple",
+      "ars_additions:crafting/stonecutter/sourcestone_0",
+      "ars_additions:crafting/stonecutter/sourcestone_5",
+      "ars_additions:crafting/stonecutter/sourcestone_4",
+      "ars_additions:crafting/stonecutter/sourcestone_3",
+      "ars_nouveau:moonfall_2",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_to_sourcestone",
+      "ars_nouveau:archwood_button",
+      "ars_nouveau:clear_deny",
+      "ars_nouveau:relay",
+      "ars_nouveau:archwood_grate",
+      "ars_additions:crafting/walls/cracked_polished_sourcestone_wall",
+      "ars_nouveau:gilded_sourcestone_large_bricks_stone_cutterslab",
+      "ars_nouveau:conjuration_essence_to_end_stone",
+      "ars_nouveau:deny_scroll",
+      "ars_nouveau:reset_stable_warp_scroll",
+      "ars_additions:crafting/stonecutter/cracked_polished_sourcestone_wall_0",
+      "ars_nouveau:ring_of_potential",
+      "ars_nouveau:ritual_flowering",
+      "ars_nouveau:sourcestone_large_bricks_to_sourcestone",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_stonecutter_stair",
+      "ars_nouveau:gilded_sourcestone_basketweave_to_sourcestone",
+      "ars_additions:crafting/doors/sourcestone_door",
+      "starbunclemania:star_hat",
+      "ars_nouveau:mundane_belt",
+      "ars_nouveau:source_gem_block",
+      "ars_nouveau:sourcestone_grate",
+      "ars_nouveau:ritual_sunrise",
+      "ars_nouveau:stripped_red_archwood_wood",
+      "starbunclemania:source_condenser",
+      "ars_elemental:ritual_tesla_coil",
+      "ars_additions:crafting/walls/sourcestone_wall",
+      "starbunclemania:star_miner",
+      "ars_additions:crafting/revert/cracked_polished_sourcestone_small_bricks_to_sourcestone",
+      "ars_additions:crafting/revert/cracked_sourcestone_small_bricks_to_sourcestone",
+      "ars_nouveau:ritual_restoration",
+      "ars_nouveau:clear_bookwyrm_charm",
+      "ars_nouveau:stripped_green_archwood_wood",
+      "ars_additions:crafting/lanterns/sourcestone_lantern",
+      "ars_nouveau:wing_to_leather",
+      "ars_nouveau:smooth_sourcestone_alternating_stone_cutterslab",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_stonecutter_stair",
+      "ars_nouveau:smooth_sourcestone_large_bricks_stonecutter_stair",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_to_sourcestone",
+      "ars_nouveau:blue_sbed",
+      "ars_nouveau:ghostweave",
+      "ars_elemental:ritual_detection",
+      "ars_nouveau:smooth_sourcestone_small_bricks_stairs",
+      "ars_nouveau:ritual_harvest",
+      "ars_additions:clear_xp_jar",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_trapdoor_0",
+      "ars_nouveau:worn_notebook",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_stone_cutterslab",
+      "ars_additions:crafting/revert/cracked_sourcestone_large_bricks_to_sourcestone",
+      "ars_elemental:stripped_yellow_archwood",
+      "ars_nouveau:repository_controller",
+      "ars_nouveau:gilded_sourcestone_basketweave_stone_cutterslab",
+      "ars_nouveau:gilded_sourcestone_alternating_stairs",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:manipulation_essence_to_andesite",
+      "starbunclemania:direction_scroll",
+      "ars_nouveau:smooth_sourcestone_stonecutter_stair",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_to_sourcestone",
+      "ars_nouveau:sourceberry_sack",
+      "starbunclemania:clear_fluid_deny",
+      "ars_nouveau:ritual_cloudshaping",
+      "ars_nouveau:gilded_sourcestone_large_bricks_to_sourcestone",
+      "ars_nouveau:volcanic_sourcelink",
+      "ars_nouveau:clear_alakarkinos_charm",
+      "ars_nouveau:mycelial_sourcelink",
+      "ars_nouveau:manipulation_essence_to_blazin_sapling",
+      "ars_nouveau:sourcestone_alternating_stone_cutterslab",
+      "ars_nouveau:gilded_sourcestone_mosaic_slab",
+      "ars_additions:crafting/trapdoors/polished_sourcestone_trapdoor",
+      "starbunclemania:clear_fluid_allow",
+      "ars_nouveau:sourcestone_large_bricks_stonecutter_stair",
+      "ars_nouveau:wixie_hat",
+      "ars_nouveau:sourceberry_sack_to_bush",
+      "ars_additions:crafting/buttons/sourcestone_button",
+      "ars_additions:crafting/revert/cracked_polished_sourcestone_large_bricks_to_sourcestone",
+      "ars_nouveau:smooth_sourcestone_mosaic_stone_cutterslab",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_stonecutter_stair"
+    ],
+    "isSmokerGuiOpen": 0,
+    "isFurnaceFilteringCraftable": 0,
+    "isFurnaceGuiOpen": 0,
+    "isFarmersdelightCookingGuiOpen": 0,
+    "isBlastingFurnaceFilteringCraftable": 0,
+    "isBlastingFurnaceGuiOpen": 0,
+    "isBrewinandchewinFermentingGuiOpen": 0,
+    "isFilteringCraftable": 0,
+    "isSmokerFilteringCraftable": 0,
+    "recipes": [
+      "ars_nouveau:archwood_fence_gate",
+      "ars_nouveau:gilded_sourcestone_mosaic_stone_cutterslab",
+      "ars_additions:crafting/stonecutter/sourcestone_trapdoor_0",
+      "ars_nouveau:ritual_disintegration",
+      "ars_nouveau:smooth_sourcestone_stairs",
+      "ars_additions:crafting/trapdoors/magebloom_carpet",
+      "ars_nouveau:manipulation_essence_to_moss_block",
+      "ars_nouveau:water_essence_to_bucket",
+      "ars_nouveau:ritual_animal_summon",
+      "ars_nouveau:mimic_scroll",
+      "ars_nouveau:smooth_sourcestone_small_bricks_to_sourcestone",
+      "ars_nouveau:ritual_warping",
+      "ars_additions:crafting/lanterns/soul_magelight_lantern",
+      "ars_nouveau:starbuncle_shades",
+      "ars_additions:handy_haversack",
+      "starbunclemania:star_build",
+      "ars_nouveau:conjuration_essence_to_soul_sand",
+      "ars_nouveau:sourcestone_alternating_stonecutter_stair",
+      "ars_additions:ritual/ritual_locate_structure",
+      "ars_nouveau:ars_stencil",
+      "ars_nouveau:polished_sconce",
+      "ars_nouveau:void_prism",
+      "ars_nouveau:manipulation_essence_to_mycelium",
+      "ars_nouveau:ritual_binding",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_stairs",
+      "ars_nouveau:sourcestone_slab",
+      "ars_additions:crafting/chains/sourcestone_chain",
+      "ars_nouveau:source_berry_roll",
+      "ars_nouveau:gilded_sourcestone_alternating_to_sourcestone",
+      "ars_nouveau:arcane_core",
+      "ars_additions:crafting/lanterns/archwood_magelight_lantern",
+      "ars_nouveau:mendosteen_to_lime",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_slab",
+      "ars_nouveau:sourcestone_alternating_to_sourcestone",
+      "ars_nouveau:green_sbed",
+      "ars_nouveau:manipulation_essence_to_tuff",
+      "ars_additions:crafting/stonecutter/cracked_sourcestone_wall_0",
+      "ars_nouveau:smooth_sourcestone_small_bricks_stone_cutterslab",
+      "ars_nouveau:sourcestone_basketweave_stone_cutterslab",
+      "ars_nouveau:red_archwood_wood",
+      "ars_nouveau:gilded_sourcestone_small_bricks_to_sourcestone",
+      "ars_additions:crafting/chains/reversed_sourcestone_chain",
+      "ars_nouveau:spell_prism",
+      "ars_nouveau:yellow_sbed",
+      "starbunclemania:star_bin",
+      "ars_additions:crafting/stonecutter/sourcestone_button_0",
+      "ars_additions:crafting/doors/polished_sourcestone_door",
+      "ars_nouveau:platform_to_pedestal",
+      "ars_nouveau:magebloom_fiber",
+      "ars_nouveau:archwood_fence",
+      "ars_nouveau:orange_sbed",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_stairs",
+      "ars_nouveau:experience_gem",
+      "ars_nouveau:sourcestone_basketweave_slab",
+      "starbunclemania:starby_ears",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_to_sourcestone",
+      "ars_nouveau:gilded_sourcestone_small_bricks_slab",
+      "ars_nouveau:fire_essence_to_magma_block",
+      "ars_nouveau:ritual_brazier",
+      "ars_nouveau:smooth_sourcestone_large_bricks_stairs",
+      "ars_nouveau:gilded_sourcestone_mosaic_stairs",
+      "ars_nouveau:potion_jar",
+      "ars_nouveau:sourcestone_mosaic_stonecutter_stair",
+      "ars_nouveau:sourcestone_small_bricks_to_sourcestone",
+      "ars_nouveau:repository",
+      "ars_additions:crafting/chains/archwood_chain",
+      "ars_nouveau:sourcestone_mosaic_stone_cutterslab",
+      "starbunclemania:alak_hat",
+      "ars_nouveau:blank_thread",
+      "exposure:lightroom",
+      "ars_nouveau:ritual_forestation",
+      "ars_additions:crafting/stonecutter/sourcestone_chain_0",
+      "ars_nouveau:archwood_hanging_sign",
+      "ars_additions:crafting/lanterns/golden_lantern",
+      "ars_nouveau:sourcestone_large_bricks_stone_cutterslab",
+      "ars_nouveau:manipulation_essence_to_grass_block",
+      "ars_additions:crafting/stonecutter/sourcestone_chain_1",
+      "ars_nouveau:mob_jar",
+      "ars_additions:crafting/trapdoors/sourcestone_trapdoor",
+      "starbunclemania:whirli_prop",
+      "ars_nouveau:stripped_purple_archwood_wood",
+      "ars_nouveau:archwood_sconce",
+      "ars_nouveau:sourcestone_sconce",
+      "ars_nouveau:ritual_challenge",
+      "ars_additions:crafting/revert/cracked_sourcestone_to_sourcestone",
+      "ars_nouveau:sourcestone_13",
+      "ars_nouveau:smooth_sourcestone_mosaic_stonecutter_stair",
+      "ars_nouveau:sourcestone_12",
+      "ars_nouveau:enchanting_apparatus",
+      "ars_nouveau:sourcestone_15",
+      "ars_nouveau:sourcestone_14",
+      "ars_nouveau:smooth_sourcestone_large_bricks_stone_cutterslab",
+      "solcarrot:food_book",
+      "ars_nouveau:purple_sbed",
+      "ars_nouveau:clear_wixie_charm",
+      "ars_nouveau:sourcestone_11",
+      "ars_nouveau:sourcestone_10",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_slab",
+      "ars_elemental:ritual_attraction",
+      "ars_elemental:yellow_archwood",
+      "ars_nouveau:sourcestone_stairs",
+      "ars_nouveau:challenge_2",
+      "ars_nouveau:smooth_sourcestone_basketweave_stonecutter_stair",
+      "ars_nouveau:source_jar",
+      "ars_nouveau:smooth_sourcestone_basketweave_stone_cutterslab",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_stone_cutterslab",
+      "ars_nouveau:scry_to_blank_parchment",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_stonecutter_stair",
+      "ars_elemental:ritual_archwood_forestation",
+      "ars_nouveau:ritual_conjure_island_desert",
+      "ars_nouveau:bastion_to_purple",
+      "ars_nouveau:gilded_sourcestone_alternating_stonecutter_stair",
+      "ars_nouveau:smooth_sourcestone_alternating_stonecutter_stair",
+      "ars_nouveau:smooth_sourcestone_mosaic_to_sourcestone",
+      "minecraft:crafting_table",
+      "starbunclemania:chef_hat",
+      "ars_nouveau:smooth_sourcestone_stone_cutterslab",
+      "ars_nouveau:fire_essence_to_charge",
+      "ars_additions:wayfinder",
+      "ars_nouveau:smooth_sourcestone_basketweave_to_sourcestone",
+      "ars_nouveau:warp_scroll",
+      "ars_nouveau:blank_parchment",
+      "starbunclemania:robin_mask",
+      "ars_nouveau:gilded_sourcestone_basketweave_stonecutter_stair",
+      "ars_additions:clear_advanced_dominion_wand",
+      "ars_additions:crafting/lanterns/reversed_polished_sourcestone_magelight_lantern",
+      "ars_nouveau:sourcestone_basketweave_to_sourcestone",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_stonecutter_stair",
+      "ars_nouveau:ritual_overgrowth",
+      "ars_nouveau:ritual_fertility",
+      "ars_additions:crafting/lanterns/reversed_sourcestone_magelight_lantern",
+      "ars_nouveau:sourcestone_alternating_stairs",
+      "ars_nouveau:alteration_table",
+      "ars_nouveau:manipulation_essence_to_diorite",
+      "ars_nouveau:magebloom_block",
+      "ars_nouveau:dull_trinket",
+      "ars_nouveau:clear_starbuncle_charm",
+      "ars_elemental:flight_alt",
+      "ars_nouveau:archwood_planks",
+      "ars_nouveau:gilded_sourcestone_basketweave_stairs",
+      "ars_nouveau:archwood_to_chest",
+      "ars_additions:crafting/lanterns/reversed_polished_sourcestone_lantern",
+      "ars_nouveau:sourcestone_stonecutter_stair",
+      "ars_nouveau:spike_to_dye",
+      "ars_nouveau:smooth_sourcestone_grate",
+      "ars_additions:crafting/lanterns/magelight_lantern",
+      "ars_nouveau:sourcestone_large_bricks_slab",
+      "ars_nouveau:water_essence_to_obsidian",
+      "ars_nouveau:ritual_moonfall",
+      "ars_nouveau:ritual_gravity",
+      "ars_nouveau:sconce",
+      "ars_nouveau:gilded_sourcestone_alternating_stone_cutterslab",
+      "ars_nouveau:gilded_sourcestone_mosaic_stonecutter_stair",
+      "ars_nouveau:mirrorweave",
+      "ars_nouveau:sky_block",
+      "ars_nouveau:arcane_platform",
+      "ars_nouveau:source_lamp",
+      "ars_nouveau:sourcestone_alternating_slab",
+      "ars_additions:crafting/chains/reversed_polished_sourcestone_chain",
+      "starbunclemania:fluid_sourcelink",
+      "ars_nouveau:wipe_spell_parchment",
+      "ars_nouveau:manipulation_essence_to_flourishing_sapling",
+      "ars_nouveau:sourcestone_small_bricks_stone_cutterslab",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_to_sourcestone",
+      "ars_nouveau:green_archwood_wood",
+      "ars_elemental:ritual_repulsion",
+      "ars_elemental:curio_bag",
+      "ars_nouveau:reset_warp_scroll",
+      "ars_additions:crafting/lanterns/archwood_lantern",
+      "ars_nouveau:sourcestone_basketweave_stonecutter_stair",
+      "ars_nouveau:imbuement_chamber",
+      "ars_nouveau:rotating_turret_to_basic_spell_turret",
+      "ars_nouveau:sourcestone_20",
+      "ars_nouveau:ritual_scrying",
+      "ars_nouveau:sourcestone_21",
+      "ars_elemental:spore_blossom_up",
+      "ars_elemental:advanced_prism",
+      "ars_additions:clear_handy_haversack",
+      "ars_nouveau:sourcestone_17",
+      "ars_nouveau:sourcestone_16",
+      "ars_nouveau:sourcestone_19",
+      "ars_nouveau:sourcestone_18",
+      "ars_nouveau:smooth_sourcestone_small_bricks_stonecutter_stair",
+      "starbunclemania:sea_bunny",
+      "ars_nouveau:smooth_sourcestone_alternating_stairs",
+      "ars_nouveau:alchemical_sourcelink",
+      "ars_additions:crafting/lanterns/golden_magelight_lantern",
+      "ars_nouveau:smooth_sourcestone_basketweave_stairs",
+      "ars_nouveau:falseweave",
+      "ars_nouveau:horn_to_bonemeal",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_door_0",
+      "ars_nouveau:novice_spell_book",
+      "ars_nouveau:redstone_relay",
+      "starbunclemania:star_battery",
+      "starbunclemania:fluid_scroll_deny",
+      "ars_nouveau:sourcestone_small_bricks_stairs",
+      "ars_elemental:alt_blossom",
+      "ars_nouveau:sourcestone_stone_cutterslab",
+      "ars_nouveau:source_berry_pie",
+      "ars_nouveau:manipulation_essence_to_cascading_sapling",
+      "ars_nouveau:smooth_sourcestone_small_bricks_slab",
+      "ars_additions:crafting/stonecutter/sourcestone_door_0",
+      "ars_nouveau:smooth_sourcestone_basketweave_slab",
+      "ars_nouveau:sunrise_2",
+      "ars_nouveau:gilded_sourcestone_basketweave_slab",
+      "ars_nouveau:clear_whirlisprig_charm",
+      "ars_nouveau:ritual_containment",
+      "ars_nouveau:basic_spell_turret",
+      "ars_nouveau:vitalic_sourcelink",
+      "ars_elemental:ritual_archwood_forest",
+      "ars_nouveau:sourcestone_small_bricks_stonecutter_stair",
+      "ars_nouveau:archwood_pressure_plate",
+      "ars_nouveau:archwood_door",
+      "ars_nouveau:ritual_burrowing",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_stairs",
+      "ars_nouveau:gilded_sourcestone_alternating_slab",
+      "ars_nouveau:frostaya_to_light_blue",
+      "ars_nouveau:polished_source_sconce",
+      "ars_additions:crafting/lanterns/reversed_sourcestone_lantern",
+      "ars_nouveau:manipulation_essence_to_vexing_sapling",
+      "starbunclemania:fluid_jar",
+      "ars_nouveau:magebloom_block_to_magebloom",
+      "ars_nouveau:gilded_sourcestone_large_bricks_stairs",
+      "ars_nouveau:ritual_flight",
+      "ars_nouveau:greater_experience_gem",
+      "ars_nouveau:ritual_conjure_island_plains",
+      "ars_nouveau:gilded_sourcestone_small_bricks_stone_cutterslab",
+      "ars_nouveau:magelight_torch",
+      "ars_nouveau:stripped_blue_archwood_wood",
+      "ars_nouveau:smooth_sourcestone_mosaic_stairs",
+      "ars_nouveau:gilded_sourcestone_small_bricks_stonecutter_stair",
+      "ars_nouveau:archwood_trapdoor",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_button_0",
+      "ars_nouveau:smooth_sourcestone_mosaic_slab",
+      "ars_nouveau:manipulation_essence_to_calcite",
+      "ars_nouveau:smooth_sourcestone_alternating_slab",
+      "ars_nouveau:rotating_spell_turret",
+      "ars_nouveau:archwood_chest",
+      "ars_nouveau:clear_starbuncle_shard",
+      "ars_nouveau:purple_archwood_wood",
+      "ars_additions:crafting/stonecutter/sourcestone_wall_0",
+      "ars_nouveau:gilded_sourcestone_large_bricks_slab",
+      "ars_nouveau:novice_spellbook_alt",
+      "ars_nouveau:item_detector",
+      "ars_nouveau:blue_archwood_wood",
+      "ars_nouveau:smooth_sourcestone_slab",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_wall_0",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_stairs",
+      "ars_nouveau:potion_jar_empty",
+      "ars_nouveau:clear_allow",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_stone_cutterslab",
+      "ars_nouveau:magebloom_to_pink",
+      "ars_elemental:flashing_sapling",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_stone_cutterslab",
+      "ars_nouveau:smooth_sourcestone_to_sourcestone",
+      "ars_nouveau:gilded_sourcestone_small_bricks_stairs",
+      "ars_nouveau:smooth_sourcestone_alternating_to_sourcestone",
+      "ars_elemental:sparkflower_to_glowstone",
+      "ars_nouveau:source_gem_block_2",
+      "ars_nouveau:scribes_table",
+      "starbunclemania:drygmy_horns",
+      "ars_nouveau:ritual_awakening",
+      "ars_nouveau:bombegranate_to_orange",
+      "ars_nouveau:sourcestone_mosaic_slab",
+      "ars_nouveau:annotated_codex",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:gold_grate",
+      "ars_nouveau:sourcestone_mosaic_stairs",
+      "ars_nouveau:agronomic_sourcelink",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_stone_cutterslab",
+      "ars_nouveau:sourcestone_basketweave_stairs",
+      "ars_nouveau:red_sbed",
+      "ars_nouveau:smooth_sourcestone_large_bricks_to_sourcestone",
+      "ars_additions:crafting/walls/cracked_sourcestone_wall",
+      "ars_nouveau:air_essence_to_snow_bucket",
+      "ars_nouveau:clear_drygmy_charm",
+      "ars_nouveau:sourcestone_small_bricks_slab",
+      "ars_nouveau:ritual_sanctuary",
+      "ars_additions:crafting/lanterns/sourcestone_magelight_lantern",
+      "ars_nouveau:ritual_wilden_summon",
+      "ars_nouveau:smooth_sourcestone_large_bricks_slab",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_stairs",
+      "ars_nouveau:sourcestone_8",
+      "ars_nouveau:sourcestone_7",
+      "ars_nouveau:sourcestone_mosaic_to_sourcestone",
+      "ars_nouveau:manipulation_essence_to_granite",
+      "ars_nouveau:sourcestone_9",
+      "ars_nouveau:sourcestone_4",
+      "ars_nouveau:sourcestone_3",
+      "ars_nouveau:sourcestone_6",
+      "ars_nouveau:sourcestone_5",
+      "ars_nouveau:sourcestone_2",
+      "ars_nouveau:runic_chalk",
+      "ars_nouveau:gilded_sourcestone_mosaic_to_sourcestone",
+      "ars_nouveau:sourcestone_1",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_slab",
+      "ars_nouveau:clear_amethyst_golem_charm",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_slab",
+      "ars_elemental:ritual_squirrels",
+      "ars_nouveau:archwood_stairs",
+      "starbunclemania:fluid_scroll_allow",
+      "ars_additions:crafting/buttons/polished_sourcestone_button",
+      "ars_nouveau:wilden_summon_alt",
+      "ars_nouveau:dowsing_rod",
+      "ars_additions:crafting/walls/polished_sourcestone_wall",
+      "ars_additions:crafting/chains/golden_chain",
+      "ars_additions:crafting/revert/cracked_polished_sourcestone_to_sourcestone",
+      "ars_nouveau:gilded_sourcestone_large_bricks_stonecutter_stair",
+      "starbunclemania:wyrm_degree",
+      "ars_nouveau:arcane_pedestal",
+      "ars_nouveau:allow_scroll",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_slab",
+      "ars_nouveau:spike_to_arrow",
+      "ars_nouveau:manipulation_essence_to_deepslate",
+      "ars_nouveau:sourcestone_large_bricks_stairs",
+      "ars_nouveau:scryers_crystal",
+      "ars_additions:crafting/stonecutter/sourcestone_2",
+      "ars_additions:crafting/stonecutter/sourcestone_1",
+      "ars_nouveau:sourceberry_to_purple",
+      "ars_additions:crafting/stonecutter/sourcestone_0",
+      "ars_additions:crafting/stonecutter/sourcestone_5",
+      "ars_additions:crafting/stonecutter/sourcestone_4",
+      "ars_additions:crafting/stonecutter/sourcestone_3",
+      "ars_nouveau:moonfall_2",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_to_sourcestone",
+      "ars_nouveau:archwood_button",
+      "ars_nouveau:clear_deny",
+      "ars_nouveau:relay",
+      "ars_nouveau:archwood_grate",
+      "ars_additions:crafting/walls/cracked_polished_sourcestone_wall",
+      "ars_nouveau:gilded_sourcestone_large_bricks_stone_cutterslab",
+      "ars_nouveau:conjuration_essence_to_end_stone",
+      "ars_nouveau:deny_scroll",
+      "ars_nouveau:reset_stable_warp_scroll",
+      "ars_additions:crafting/stonecutter/cracked_polished_sourcestone_wall_0",
+      "ars_nouveau:ring_of_potential",
+      "ars_nouveau:ritual_flowering",
+      "ars_nouveau:sourcestone_large_bricks_to_sourcestone",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_stonecutter_stair",
+      "ars_nouveau:gilded_sourcestone_basketweave_to_sourcestone",
+      "ars_additions:crafting/doors/sourcestone_door",
+      "starbunclemania:star_hat",
+      "ars_nouveau:mundane_belt",
+      "ars_nouveau:source_gem_block",
+      "ars_nouveau:sourcestone_grate",
+      "ars_nouveau:ritual_sunrise",
+      "ars_nouveau:stripped_red_archwood_wood",
+      "starbunclemania:source_condenser",
+      "ars_elemental:ritual_tesla_coil",
+      "ars_additions:crafting/walls/sourcestone_wall",
+      "starbunclemania:star_miner",
+      "ars_additions:crafting/revert/cracked_polished_sourcestone_small_bricks_to_sourcestone",
+      "ars_additions:crafting/revert/cracked_sourcestone_small_bricks_to_sourcestone",
+      "ars_nouveau:ritual_restoration",
+      "ars_nouveau:clear_bookwyrm_charm",
+      "ars_nouveau:stripped_green_archwood_wood",
+      "ars_additions:crafting/lanterns/sourcestone_lantern",
+      "ars_nouveau:wing_to_leather",
+      "ars_nouveau:smooth_sourcestone_alternating_stone_cutterslab",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_stonecutter_stair",
+      "ars_nouveau:smooth_sourcestone_large_bricks_stonecutter_stair",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_to_sourcestone",
+      "ars_nouveau:blue_sbed",
+      "ars_nouveau:ghostweave",
+      "ars_elemental:ritual_detection",
+      "ars_nouveau:smooth_sourcestone_small_bricks_stairs",
+      "ars_nouveau:ritual_harvest",
+      "ars_additions:clear_xp_jar",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_trapdoor_0",
+      "ars_nouveau:worn_notebook",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_stone_cutterslab",
+      "ars_additions:crafting/revert/cracked_sourcestone_large_bricks_to_sourcestone",
+      "ars_elemental:stripped_yellow_archwood",
+      "ars_nouveau:repository_controller",
+      "ars_nouveau:gilded_sourcestone_basketweave_stone_cutterslab",
+      "ars_nouveau:gilded_sourcestone_alternating_stairs",
+      "ars_nouveau:archwood_slab",
+      "ars_nouveau:manipulation_essence_to_andesite",
+      "starbunclemania:direction_scroll",
+      "ars_nouveau:smooth_sourcestone_stonecutter_stair",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_to_sourcestone",
+      "ars_nouveau:sourceberry_sack",
+      "starbunclemania:clear_fluid_deny",
+      "ars_nouveau:ritual_cloudshaping",
+      "ars_nouveau:gilded_sourcestone_large_bricks_to_sourcestone",
+      "ars_nouveau:volcanic_sourcelink",
+      "ars_nouveau:clear_alakarkinos_charm",
+      "ars_nouveau:mycelial_sourcelink",
+      "ars_nouveau:manipulation_essence_to_blazin_sapling",
+      "ars_nouveau:sourcestone_alternating_stone_cutterslab",
+      "ars_nouveau:gilded_sourcestone_mosaic_slab",
+      "ars_additions:crafting/trapdoors/polished_sourcestone_trapdoor",
+      "starbunclemania:clear_fluid_allow",
+      "ars_nouveau:sourcestone_large_bricks_stonecutter_stair",
+      "ars_nouveau:wixie_hat",
+      "ars_nouveau:sourceberry_sack_to_bush",
+      "ars_additions:crafting/buttons/sourcestone_button",
+      "ars_additions:crafting/revert/cracked_polished_sourcestone_large_bricks_to_sourcestone",
+      "ars_nouveau:smooth_sourcestone_mosaic_stone_cutterslab",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_stonecutter_stair"
+    ]
+  },
+  "OnGround": 1,
+  "LeashingEntities": [],
+  "spawn_extra_particles_on_fall": 0,
+  "Brain": {
+    "memories": {}
+  },
+  "Dimension": "minecraft:overworld",
+  "abilities": {
+    "walkSpeed": 0.10000000149011612,
+    "instabuild": 0,
+    "flying": 0,
+    "flySpeed": 0.05000000074505806,
+    "mayfly": 0,
+    "invulnerable": 0,
+    "mayBuild": 1
+  },
+  "Rotation": [
+    0.0,
+    0.0
+  ],
+  "HurtByTimestamp": 0,
+  "brewinandchewin:data_version": 100,
+  "LeashedByEntities": [],
+  "foodSaturationLevel": 5.0,
+  "NeoForgeData": {
+    "PlayerPersisted": {
+      "integrateddynamics:infoBookSpawned": 1,
+      "an_book_": 1,
+      "BalmData": {
+        "TrashSlot": {},
+        "WaystonesData": {
+          "Waystones": [],
+          "SortingIndex": []
+        }
+      },
+      "silentlib.SpawnItemsGiven": {
+        "silentgear.starter_blueprints": 1
+      },
+      "create_hard_mod_hasJoinedBefore": 1
+    }
+  },
+  "Air": 300,
+  "XpSeed": 406228215,
+  "FallFlying": 0,
+  "DataVersion": 3955,
+  "FallDistance": 0.0,
+  "SleepTimer": 0,
+  "HurtTime": 0,
+  "warden_spawn_tracker": {
+    "ticks_since_last_warning": 1204,
+    "cooldown_ticks": 0,
+    "warning_level": 0
+  },
+  "neoforge:attachments": {
+    "curios:inventory": {
+      "Curios": [
+        {
+          "StacksHandler": {
+            "HasCosmetic": 0,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "an_focus"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 0,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "face"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "head"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "necklace"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "back"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 0,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "pin"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 2,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 2,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                },
+                {
+                  "Slot": 1,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 2,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 2,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                },
+                {
+                  "ActiveState": 1,
+                  "Slot": 1
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 2,
+            "RenderToggle": 1
+          },
+          "Identifier": "bracelet"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 2,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 2,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                },
+                {
+                  "Slot": 1,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 2,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 2,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                },
+                {
+                  "ActiveState": 1,
+                  "Slot": 1
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 2,
+            "RenderToggle": 1
+          },
+          "Identifier": "hands"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 2,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 2,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                },
+                {
+                  "Slot": 1,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 2,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 2,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                },
+                {
+                  "ActiveState": 1,
+                  "Slot": 1
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 2,
+            "RenderToggle": 1
+          },
+          "Identifier": "ring"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "belt"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 2,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 2,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                },
+                {
+                  "Slot": 1,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 2,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 2,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                },
+                {
+                  "ActiveState": 1,
+                  "Slot": 1
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 2,
+            "RenderToggle": 1
+          },
+          "Identifier": "feet"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 0,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "pigment_palette"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 0,
+            "Stacks": {
+              "Size": 3,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 3,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                },
+                {
+                  "Slot": 1,
+                  "Render": 1
+                },
+                {
+                  "Slot": 2,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 3,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 3,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                },
+                {
+                  "ActiveState": 1,
+                  "Slot": 1
+                },
+                {
+                  "ActiveState": 1,
+                  "Slot": 2
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 3,
+            "RenderToggle": 1
+          },
+          "Identifier": "charm"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 0,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "bundle"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 0,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 0
+          },
+          "Identifier": "hooked_hook"
+        }
+      ]
+    },
+    "ars_nouveau:mana_cap": {
+      "reserved": 0.0,
+      "max": 100,
+      "glyph": 0,
+      "current": 100.0,
+      "book_tier": 0
+    },
+    "ars_nouveau:player_cap": {
+      "glyphs": {
+        "size": 0
+      },
+      "familiars": {
+        "size": 0
+      }
+    },
+    "pastel:dike": {
+      "rechargeTicks": 0,
+      "rechargeDelayPostHit": 0,
+      "currentProt": 0.0,
+      "rechargeDelay": 0,
+      "maxProt": 0.0
+    },
+    "pastel:primfire": 0,
+    "databank:mod_versions": {
+      "pastel": "1.1.4.1"
+    },
+    "l2core:conditionals": {
+      "data": {}
+    },
+    "hooked:hook_data": {
+      "Controller": {},
+      "Hooks": [],
+      "Properties": {
+        "range": 0.0,
+        "cooldown": 0,
+        "speed": 0.0,
+        "behavior": {
+          "type": "hooked:none"
+        },
+        "count": 0,
+        "hookModel": {
+          "texture": "hooked:textures/hook/base/hook.png"
+        },
+        "chainAppearance": {
+          "texture2": "hooked:textures/hook/base/chain2.png",
+          "texture1": "hooked:textures/hook/base/chain1.png"
+        }
+      }
+    },
+    "pastel:player_misc": {
+      "ticksBeforeSleep": -1,
+      "sleepInvincibility": 0,
+      "sleepingWindow": -1
+    },
+    "vc_gliders:is_gliding": 0,
+    "flightlib:settings": {
+      "toggle_hover": 1,
+      "toggle_active": 1
+    },
+    "l2core:flags": {
+      "flags": []
+    },
+    "solcarrot:food": {
+      "foodList": []
+    },
+    "vc_gliders:lightning_timer": 0
+  },
+  "CarryOnData": {
+    "type": "INVALID",
+    "tick": 0,
+    "keyPressed": 0,
+    "selected": 0
+  },
+  "Health": 20.0,
+  "Pos": [
+    5.5,
+    150.0,
+    -7.5
+  ],
+  "current_impulse_context_reset_grace_time": 0,
+  "PortalCooldown": 0,
+  "ignore_fall_damage_from_current_explosion": 0
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Lyrellion’s Wall of Force\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "You. Shall. Not. Pass.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_wall",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_phantom_block",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Lyrellion’s Wall of Force"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 10,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:eye_armor_trim_smithing_template"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -1678841899,
+          1864648116,
+          -1393378093,
+          -894335838
+        ]
+      }
+    ],
+    "uuid": [
+      -1284319521,
+      -1761262383,
+      -1482692055,
+      -1783272080
+    ],
+    "seed": 8876711113706577824,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/b/b3/b372d6df-9705-44d1-a79f-ea2995b56d70",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1887,
+      192,
+      3512
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1678841899,
+        1864648116,
+        -1393378093,
+        -894335838
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

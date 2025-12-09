@@ -1,0 +1,316 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:pumpkin_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:bucket"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:golden_horse_armor"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "supplementaries:quiver_content": {
+                  "items": [
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 3,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "the_bumblezone:long_neurotoxin"
+                        }
+                      }
+                    },
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 3,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "apothic_attributes:long_grievous"
+                        }
+                      }
+                    },
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "selected_slot": 0
+                }
+              },
+              "id": "supplementaries:quiver"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 7,
+              "count": 8,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 9,
+              "count": 7,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "passive": {
+                        "stats": {},
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "diving": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 8.33691
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:snorkel"
+            },
+            {
+              "Slot": 11,
+              "count": 5,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 12,
+              "count": 4,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 13,
+              "count": 17,
+              "id": "extradelight:bad_food"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 5,
+              "count": 4,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 6,
+              "count": 4,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "flying": {
+                        "stats": {
+                          "time": {
+                            "initialValue": 4.98466
+                          },
+                          "speed": {
+                            "initialValue": 0.21855
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:helium_flamingo"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "ars_nouveau:whirlisprig_shards"
+            },
+            {
+              "Slot": 9,
+              "count": 4,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      321530305,
+      1847870456,
+      -1137095876,
+      -1943928107
+    ],
+    "seed": 3730148880978931624,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/1/13/132a29c1-6e24-43f8-bc39-4b3c8c2202d5",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      1885,
+      208,
+      -313
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

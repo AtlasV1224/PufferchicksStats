@@ -1,0 +1,275 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 9,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 4,
+              "count": 3,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "overlord": {
+                        "stats": {
+                          "time": {
+                            "initialValue": 2.47746
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "cowboy": {
+                        "stats": {
+                          "speed": {
+                            "initialValue": 0.2443
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:cowboy_hat"
+            },
+            {
+              "Slot": 8,
+              "count": 31,
+              "id": "ars_nouveau:pierce_arrow"
+            },
+            {
+              "Slot": 9,
+              "count": 2,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 10,
+              "count": 4,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 12,
+              "count": 30,
+              "id": "extradelight:bad_food"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 6,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:music_disc_13"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:music_disc_cat"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:diamond_horse_armor"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "supplementaries:quiver_content": {
+                  "items": [
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 1,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "apothic_attributes:strong_wither"
+                        }
+                      }
+                    },
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 4,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "apothic_attributes:strong_grievous"
+                        }
+                      }
+                    },
+                    {},
+                    {},
+                    {},
+                    {}
+                  ],
+                  "selected_slot": 0
+                }
+              },
+              "id": "supplementaries:quiver"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 7,
+              "count": 10,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/dungeon/skull_on_fire.png"
+                  }
+                }
+              },
+              "id": "exposure:photograph"
+            },
+            {
+              "Slot": 9,
+              "count": 3,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 10,
+              "count": 28,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 11,
+              "count": 2,
+              "id": "farmersdelight:cabbage_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -580796344,
+      -1427026186,
+      -1368733708,
+      848576631
+    ],
+    "seed": 8315888727389739514,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/dd/dd61c048-aaf1-4ef6-ae6a-c7f432944077",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -450,
+      32,
+      193
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 12,
+              "id": "minecraft:bone_meal"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:flame": 1
+                  }
+                }
+              },
+              "id": "minecraft:bow"
+            },
+            {
+              "Slot": 3,
+              "count": 6,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:fire_resistance"
+                }
+              },
+              "id": "minecraft:tipped_arrow"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:quick_charge": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      }
+    ],
+    "uuid": [
+      132695058,
+      513295480,
+      -1156852969,
+      -206438874
+    ],
+    "seed": 8941315229093701328,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/0/07/07e8c412-1e98-4478-bb0b-d317f3b1fe26",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -446,
+      -30,
+      149
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "table": "betterdungeons:skeleton_dungeon/chests/common"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

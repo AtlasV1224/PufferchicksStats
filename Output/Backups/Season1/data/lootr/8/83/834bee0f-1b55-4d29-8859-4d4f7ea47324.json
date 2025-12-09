@@ -1,0 +1,208 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Poseidon's Refuge\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Fire at a body of water to create a Ice bubble in the depths.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 1,
+                        "g": 1,
+                        "id": "ars_nouveau:constant",
+                        "b": 255
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:tempestry_family"
+                        }
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_light",
+                        "ars_nouveau:glyph_burst",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_freeze",
+                        "ars_nouveau:glyph_break",
+                        "ars_nouveau:glyph_freeze"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Poseidon's Refuge"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:mending": 1,
+                    "minecraft:vanishing_curse": 1,
+                    "minecraft:efficiency": 4
+                  }
+                }
+              },
+              "id": "minecraft:diamond_pickaxe"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:diamond_horse_armor"
+            },
+            {
+              "Slot": 3,
+              "count": 5,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "ars_nouveau:source_gem"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "ars_nouveau:sourceberry_bush"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "vanish": {
+                        "stats": {
+                          "light": {
+                            "initialValue": 1.74448
+                          },
+                          "speed": {
+                            "initialValue": 0.10739
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "backstab": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 19.28334
+                          },
+                          "damage": {
+                            "initialValue": 1.58222
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:midnight_robe"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:looting": 3,
+                    "minecraft:knockback": 2
+                  }
+                }
+              },
+              "id": "farmersdelight:iron_knife"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -2092175857,
+      458575145,
+      -2007413425,
+      2124706596
+    ],
+    "seed": 933691493685016800,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/8/83/834bee0f-1b55-4d29-8859-4d4f7ea47324",
+    "dimension": "minecraft:the_end",
+    "hasBeenOpened": 1,
+    "position": [
+      2985,
+      158,
+      465
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/end_city_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

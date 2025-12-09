@@ -1,0 +1,153 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 11,
+              "id": "ars_nouveau:pierce_arrow"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:efficiency": 5,
+                    "minecraft:silk_touch": 1,
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:diamond_shovel"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "exposure_expanded:wobble_filter"
+            },
+            {
+              "Slot": 10,
+              "count": 8,
+              "id": "ars_nouveau:pierce_arrow"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:vanishing_curse": 1,
+                    "minecraft:protection": 4,
+                    "minecraft:fire_protection": 4
+                  }
+                }
+              },
+              "id": "minecraft:iron_leggings"
+            },
+            {
+              "Slot": 17,
+              "count": 5,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "jump": {
+                        "stats": {
+                          "count": {
+                            "initialValue": 1.05067
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:cloud_in_a_bottle"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      }
+    ],
+    "uuid": [
+      -839115149,
+      2138194604,
+      -1133833055,
+      -966197580
+    ],
+    "seed": -6149149470180428961,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/c/cd/cdfc1e73-7f72-42ac-bc6b-14a1c668feb4",
+    "dimension": "minecraft:the_end",
+    "hasBeenOpened": 1,
+    "position": [
+      -396,
+      182,
+      -3236
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "minecraft:chests/end_city_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

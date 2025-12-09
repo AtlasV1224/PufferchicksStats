@@ -1,0 +1,3231 @@
+{
+  "foodTickTimer": 0,
+  "AbsorptionAmount": 0.0,
+  "XpTotal": 0,
+  "playerGameType": 0,
+  "Invulnerable": 0,
+  "SelectedItemSlot": 5,
+  "Score": 0,
+  "attributes": [
+    {
+      "base": 1.0,
+      "id": "apothic_attributes:draw_speed"
+    },
+    {
+      "modifiers": [
+        {
+          "amount": 0.0,
+          "id": "solcarrot:health_gained",
+          "operation": "add_value"
+        }
+      ],
+      "base": 20.0,
+      "id": "minecraft:generic.max_health"
+    },
+    {
+      "base": 0.0,
+      "id": "neoforge:creative_flight"
+    },
+    {
+      "base": 0.0,
+      "id": "ars_nouveau:ars_nouveau.perk.warding"
+    },
+    {
+      "base": 1.0,
+      "id": "additionalentityattributes:generic.width"
+    },
+    {
+      "base": 0.0,
+      "id": "additionalentityattributes:generic.mob_detection_range"
+    },
+    {
+      "base": 1.0,
+      "id": "additionalentityattributes:generic.hitbox_width"
+    },
+    {
+      "base": 1.0,
+      "id": "ars_nouveau:ars_nouveau.perk.saturation"
+    },
+    {
+      "base": 0.0,
+      "id": "ars_nouveau:ars_nouveau.perk.feather"
+    },
+    {
+      "base": 0.0,
+      "id": "ars_nouveau:ars_nouveau.perk.max_mana"
+    },
+    {
+      "base": 1.0,
+      "id": "additionalentityattributes:generic.height"
+    },
+    {
+      "base": 4.0,
+      "id": "minecraft:generic.attack_speed"
+    },
+    {
+      "base": 1.0,
+      "id": "ars_nouveau:ars_nouveau.perk.weight"
+    },
+    {
+      "base": 1.0,
+      "id": "additionalentityattributes:generic.hitbox_scale"
+    },
+    {
+      "base": 4.5,
+      "id": "minecraft:player.block_interaction_range"
+    },
+    {
+      "base": 0.0,
+      "id": "minecraft:generic.oxygen_bonus"
+    },
+    {
+      "base": 0.0,
+      "id": "ars_nouveau:ars_nouveau.perk.mana_regen"
+    },
+    {
+      "base": 0.0,
+      "id": "additionalentityattributes:generic.magic_protection"
+    },
+    {
+      "base": 0.10000000149011612,
+      "id": "minecraft:generic.movement_speed"
+    },
+    {
+      "base": 1.0,
+      "id": "neoforge:swim_speed"
+    },
+    {
+      "base": 1.0,
+      "id": "minecraft:generic.attack_damage"
+    },
+    {
+      "base": 0.1,
+      "id": "caelus:fall_flying"
+    },
+    {
+      "base": 0.0,
+      "id": "additionalentityattributes:player.collection_range"
+    },
+    {
+      "base": 1.0,
+      "id": "additionalentityattributes:generic.hitbox_height"
+    },
+    {
+      "base": 3.0,
+      "id": "minecraft:player.entity_interaction_range"
+    },
+    {
+      "base": 0.6,
+      "id": "minecraft:generic.step_height"
+    },
+    {
+      "base": 0.08,
+      "id": "minecraft:generic.gravity"
+    }
+  ],
+  "BalmData": {
+    "TrashSlot": {},
+    "WaystonesData": {
+      "SortingIndex": [],
+      "Waystones": []
+    }
+  },
+  "Tags": [
+    "in.eid_0",
+    "in.eid_1",
+    "in.eid_2",
+    "in.eid_10",
+    "in.eid_8",
+    "in.eid_12",
+    "in.eid_9",
+    "in.eid_14",
+    "in.survival_player",
+    "in.valid_player"
+  ],
+  "UUID": [
+    611041489,
+    -973717106,
+    -1162892874,
+    850190457
+  ],
+  "XpLevel": 0,
+  "Inventory": [
+    {
+      "count": 1,
+      "Slot": 0,
+      "components": {
+        "minecraft:written_book_content": {
+          "pages": [
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page1.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page1.body\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page2.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page2.body1\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page2.highlight_cucumbers\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page2.body2\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page2.highlight_wild_cucumber_bushes\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page2.body3\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page3.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page3.highlight_sunflowers\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page3.body1\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page3.highlight_wild_bushes\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page3.body3\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page4.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page4.body1\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page4.highlight_cucumber_seeds\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page4.body2\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page4.highlight_cucumbers\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page4.body3\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page4.body4\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page4.highlight_sliced_cucumber\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page4.body5\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_red\",\"translate\":\"book.adorablehamsterpets.page5.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page5.body\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page6.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page6.body1\"},{\"color\":\"gold\",\"italic\":true,\"translate\":\"book.adorablehamsterpets.page6.emphasis_exclusive\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page6.body2\"},\"\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page6.body3\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page7.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page7.body1\"},\"\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page7.body2\"},{\"color\":\"dark_purple\",\"translate\":\"book.adorablehamsterpets.page7.highlight_sneak\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page7.body3\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page7.highlight_sliced_cucumber\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page7.body4\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page8.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page8.body1\"},\"\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page8.body2\"},{\"color\":\"dark_purple\",\"translate\":\"book.adorablehamsterpets.page8.highlight_sit_stay\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page8.body3\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page9.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page9.body1\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page9.highlight_seeds_or_basic_crops\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page9.body2\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page9.body3\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page9.highlight_hamster_food_mix\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page9.body4\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page10.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page10.body1\"},{\"color\":\"light_purple\",\"translate\":\"book.adorablehamsterpets.page10.highlight_love_mode\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page10.body2\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page11.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page11.body1\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page11.body2\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page11.highlight_hamster_food_mix\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page11.body3\"},{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page11.highlight_steamed_green_beans\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page11.body4\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page12.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page12.body1\"},{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page12.highlight_steamed_green_beans\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page12.body2\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page12.body3\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page13.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page13.body1\"},{\"color\":\"dark_purple\",\"translate\":\"book.adorablehamsterpets.page13.highlight_sneak_right_click\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page13.body2\"},\"\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page13.body3\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page13.highlight_hamster_food_mix\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page13.body4\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page14.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page14.body1\"},{\"color\":\"light_purple\",\"translate\":\"book.adorablehamsterpets.page14.highlight_pink_petals\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page14.body2\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page15.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page15.body1\"},{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page15.highlight_cheese\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page15.body2\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page16.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page16.body1\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page16.highlight_creepers\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page16.body2\"},{\"color\":\"aqua\",\"translate\":\"book.adorablehamsterpets.page16.highlight_diamonds\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page16.body3\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page16.body4\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page17.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page17.body1\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page17.highlight_creeper\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page17.body2\"},{\"color\":\"dark_red\",\"italic\":true,\"translate\":\"book.adorablehamsterpets.page17.warning_targeting\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page17.body3\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page17.body4\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page18.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page18.body1\"},{\"bold\":true,\"color\":\"aqua\",\"translate\":\"book.adorablehamsterpets.page18.highlight_diamonds\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page18.body2\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page18.body3\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page19.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page19.body1\"},{\"color\":\"aqua\",\"translate\":\"book.adorablehamsterpets.page19.highlight_diamond_sniffs\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page19.body2\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page19.body3\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page20.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page20.body1\"},{\"color\":\"dark_purple\",\"translate\":\"book.adorablehamsterpets.page20.highlight_g_key\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page20.body2\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_red\",\"translate\":\"book.adorablehamsterpets.page21.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page21.body1\"},{\"color\":\"dark_purple\",\"translate\":\"book.adorablehamsterpets.page21.highlight_g_key\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page21.body2\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page21.body3\"},{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page21.highlight_controls_path\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page21.body4\"},\"\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page21.body5\"},{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page21.highlight_throw_hamster_keybind\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page21.body6\"},{\"color\":\"dark_purple\",\"translate\":\"book.adorablehamsterpets.page21.highlight_g_key2\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page21.body7\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_aqua\",\"translate\":\"book.adorablehamsterpets.page22.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page22.body\"}],\"text\":\"\"}"
+            },
+            {
+              "raw": "{\"extra\":[{\"bold\":true,\"color\":\"dark_red\",\"translate\":\"book.adorablehamsterpets.page23.header\",\"underlined\":true},\"\\n\\n\",{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page23.body1\"},{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page23.highlight_book\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page23.body2\"},{\"color\":\"dark_green\",\"translate\":\"book.adorablehamsterpets.page23.highlight_sliced_cucumber\"},{\"color\":\"dark_gray\",\"translate\":\"book.adorablehamsterpets.page23.body3\"},\"\\n\\n\",{\"color\":\"dark_gray\",\"italic\":true,\"translate\":\"book.adorablehamsterpets.page23.emphasis_no_refunds\"},\"\\n\\n\",{\"color\":\"gold\",\"translate\":\"book.adorablehamsterpets.page23.body4\"}],\"text\":\"\"}"
+            }
+          ],
+          "author": "The Scarlet Fox",
+          "title": {
+            "raw": "The Hamster Life"
+          },
+          "resolved": 1
+        }
+      },
+      "id": "adorablehamsterpets:hamster_guide_book"
+    },
+    {
+      "count": 1,
+      "Slot": 1,
+      "id": "ars_nouveau:worn_notebook"
+    },
+    {
+      "count": 5,
+      "Slot": 2,
+      "id": "minecraft:bread"
+    },
+    {
+      "count": 1,
+      "Slot": 3,
+      "components": {
+        "sophisticatedcore:number_of_upgrade_slots": 1,
+        "sophisticatedcore:number_of_inventory_slots": 27,
+        "sophisticatedcore:storage_uuid": [
+          -1956474368,
+          912281449,
+          -1301653427,
+          -457005222
+        ],
+        "sophisticatedcore:render_info_tag": {
+          "upgradeItems": [
+            {}
+          ]
+        }
+      },
+      "id": "sophisticatedbackpacks:backpack"
+    },
+    {
+      "count": 1,
+      "Slot": 4,
+      "id": "integrateddynamics:on_the_dynamics_of_integration"
+    },
+    {
+      "count": 1,
+      "Slot": 5,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "pastel:clovers_favor": 1
+          }
+        }
+      },
+      "id": "farmersdelight:golden_knife"
+    },
+    {
+      "count": 6,
+      "Slot": 6,
+      "id": "minecraft:wheat_seeds"
+    },
+    {
+      "count": 2,
+      "Slot": 7,
+      "id": "minecraft:white_wool"
+    },
+    {
+      "count": 1,
+      "Slot": 8,
+      "id": "minecraft:red_wool"
+    },
+    {
+      "count": 4,
+      "Slot": 9,
+      "id": "minecraft:paper"
+    },
+    {
+      "count": 37,
+      "Slot": 10,
+      "id": "minecraft:bread"
+    },
+    {
+      "count": 1,
+      "Slot": 11,
+      "id": "minecraft:feather"
+    },
+    {
+      "count": 1,
+      "Slot": 12,
+      "id": "minecraft:stick"
+    },
+    {
+      "count": 4,
+      "Slot": 13,
+      "id": "minecraft:white_carpet"
+    },
+    {
+      "count": 1,
+      "Slot": 14,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 0,
+            "experience": 0,
+            "level": 0
+          },
+          "abilities": {
+            "abilities": {
+              "power": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "amount": {
+                    "initialValue": 0.95884
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "id": "artifacts:power_glove"
+    },
+    {
+      "count": 4,
+      "Slot": 15,
+      "id": "minecraft:flint"
+    },
+    {
+      "count": 3,
+      "Slot": 16,
+      "id": "puffercoin:coin_1"
+    },
+    {
+      "count": 19,
+      "Slot": 17,
+      "id": "minecraft:emerald"
+    },
+    {
+      "count": 26,
+      "Slot": 18,
+      "id": "minecraft:apple"
+    },
+    {
+      "count": 63,
+      "Slot": 19,
+      "id": "minecraft:potato"
+    },
+    {
+      "count": 25,
+      "Slot": 20,
+      "id": "farmersdelight:onion"
+    },
+    {
+      "count": 4,
+      "Slot": 21,
+      "id": "minecraft:obsidian"
+    },
+    {
+      "count": 1,
+      "Slot": 22,
+      "components": {
+        "exposure:film_frames": [
+          {
+            "identifier": {
+              "texture": "exposure_expanded:textures/exposure/gameboy_creeper.png"
+            }
+          }
+        ]
+      },
+      "id": "exposure_expanded:gameboy_film"
+    },
+    {
+      "count": 6,
+      "Slot": 23,
+      "id": "minecraft:redstone"
+    },
+    {
+      "count": 6,
+      "Slot": 24,
+      "id": "silentgear:blaze_gold_nugget"
+    },
+    {
+      "count": 1,
+      "Slot": 25,
+      "id": "ars_nouveau:warp_scroll"
+    },
+    {
+      "count": 1,
+      "Slot": 27,
+      "id": "comforts:sleeping_bag_white"
+    },
+    {
+      "count": 2,
+      "Slot": 28,
+      "id": "ars_nouveau:wilden_wing"
+    },
+    {
+      "count": 3,
+      "Slot": 29,
+      "id": "ars_nouveau:sourceberry_bush"
+    },
+    {
+      "count": 11,
+      "Slot": 30,
+      "id": "farmersdelight:tomato_seeds"
+    },
+    {
+      "count": 64,
+      "Slot": 31,
+      "id": "minecraft:cooked_beef"
+    },
+    {
+      "count": 3,
+      "Slot": 32,
+      "id": "minecraft:dandelion"
+    },
+    {
+      "count": 6,
+      "Slot": 33,
+      "id": "minecraft:oak_sapling"
+    },
+    {
+      "count": 3,
+      "Slot": 34,
+      "id": "extradelight:chili"
+    }
+  ],
+  "foodLevel": 17,
+  "Motion": [
+    0.0,
+    -0.0784000015258789,
+    0.0
+  ],
+  "EnderItems": [],
+  "XpP": 0.0,
+  "Fire": -20,
+  "foodExhaustionLevel": 1.3440961837768555,
+  "seenCredits": 0,
+  "DeathTime": 0,
+  "recipeBook": {
+    "isBrewinandchewinFermentingFilteringCraftable": 0,
+    "isGuiOpen": 0,
+    "isFarmersdelightCookingFilteringCraftable": 0,
+    "toBeDisplayed": [
+      "ars_nouveau:archwood_fence_gate",
+      "extradelight:jungle_molded_light_gray_wallpaper",
+      "extradelight:cherry_molded_purple_wallpaper",
+      "minecraft:yellow_dye_from_dandelion",
+      "ars_nouveau:smooth_sourcestone_stairs",
+      "silentgear:emerald_shard",
+      "extradelight:omelette_mix_veg",
+      "trashcans:energy_trash_can",
+      "extradelight:citrus_pattern",
+      "extradelight:fruit_molded_light_blue_wallpaper",
+      "ars_nouveau:water_essence_to_bucket",
+      "ars_nouveau:ritual_animal_summon",
+      "ars_nouveau:smooth_sourcestone_small_bricks_to_sourcestone",
+      "ars_additions:crafting/lanterns/soul_magelight_lantern",
+      "extradelight:acacia_molded_green_wallpaper",
+      "ars_additions:handy_haversack",
+      "extradelight:spruce_molded_gray_wallpaper",
+      "ars_nouveau:conjuration_essence_to_soul_sand",
+      "ars_nouveau:ars_stencil",
+      "ars_nouveau:polished_sconce",
+      "minecraft:orange_gingham_carpet_from_block",
+      "extradelight:bamboo_molded_purple_wallpaper",
+      "farmingforblockheads:green_fertilizer",
+      "farmersdelight:cooking/baked_cod_stew",
+      "create:crafting/kinetics/light_gray_seat",
+      "ars_nouveau:manipulation_essence_to_mycelium",
+      "extradelight:dark_oak_molded_gray_wallpaper",
+      "extradelight:jungle_molded_white_wallpaper",
+      "terralith:piston_alt",
+      "ars_nouveau:sourcestone_slab",
+      "extradelight:acacia_molded_pink_wallpaper",
+      "extradelight:dark_oak_molded_black_wallpaper",
+      "securitycraft:universal_block_modifier",
+      "extradelight:chili_seeds",
+      "ars_additions:crafting/chains/sourcestone_chain",
+      "ars_nouveau:source_berry_roll",
+      "extradelight:birch_molded_light_blue_wallpaper",
+      "ars_nouveau:arcane_core",
+      "ars_nouveau:mendosteen_to_lime",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_slab",
+      "ars_nouveau:sourcestone_alternating_to_sourcestone",
+      "ars_nouveau:green_sbed",
+      "securitycraft:reinforced_bamboo_fence",
+      "extradelight:acacia_molded_lime_wallpaper",
+      "extradelight:warped_molded_black_wallpaper",
+      "ars_nouveau:sourcestone_basketweave_stone_cutterslab",
+      "ars_nouveau:red_archwood_wood",
+      "createaddition:crafting/diamond_grit_sandpaper",
+      "extradelight:wallpaper_cyan",
+      "minecraft:writable_book",
+      "ars_additions:crafting/chains/reversed_sourcestone_chain",
+      "extradelight:oak_molded_black_wallpaper",
+      "securitycraft:reinforced_cherry_fence_gate",
+      "securitycraft:reinforced_acacia_fence",
+      "extradelight:gingham_blue",
+      "ars_nouveau:spell_prism",
+      "create:crafting/materials/sand_paper",
+      "minecraft:emerald_block",
+      "minecraft:golden_apple",
+      "create:crafting/schematics/empty_schematic",
+      "extradelight:omelette_mix_meat_cheese",
+      "sliceanddice:slicer",
+      "extradelight:wallpaper_red",
+      "extradelight:wallpaper_black",
+      "ars_additions:crafting/stonecutter/sourcestone_button_0",
+      "ars_additions:crafting/doors/polished_sourcestone_door",
+      "extradelight:ribbon_bow_magenta",
+      "ars_nouveau:platform_to_pedestal",
+      "extradelight:cherry_molded_brown_wallpaper",
+      "create:crafting/logistics/yellow_table_cloth",
+      "ars_nouveau:archwood_fence",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_stairs",
+      "ars_nouveau:sourcestone_basketweave_slab",
+      "starbunclemania:starby_ears",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_to_sourcestone",
+      "farmersdelight:golden_knife",
+      "extradelight:wallpaper_green",
+      "ars_nouveau:gilded_sourcestone_small_bricks_slab",
+      "extradelight:spruce_molded_cyan_wallpaper",
+      "ars_nouveau:fire_essence_to_magma_block",
+      "comforts:hammock_red",
+      "create:crafting/materials/rose_quartz",
+      "ars_nouveau:ritual_brazier",
+      "ars_nouveau:gilded_sourcestone_mosaic_stairs",
+      "extradelight:jalapeno_stuffed_potato",
+      "ars_nouveau:sourcestone_small_bricks_to_sourcestone",
+      "extradelight:ribbon_bow_light_gray",
+      "extradelight:gingham_carpet_white",
+      "starbunclemania:alak_hat",
+      "minecraft:golden_boots",
+      "extradelight:gingham_black",
+      "ars_nouveau:blank_thread",
+      "extradelight:warped_molded_magenta_wallpaper",
+      "create:crafting/logistics/white_table_cloth",
+      "ars_additions:crafting/stonecutter/sourcestone_chain_0",
+      "extradelight:dark_oak_molded_yellow_wallpaper",
+      "ars_additions:crafting/lanterns/golden_lantern",
+      "ars_nouveau:manipulation_essence_to_grass_block",
+      "ars_additions:crafting/stonecutter/sourcestone_chain_1",
+      "extradelight:spruce_molded_light_blue_wallpaper",
+      "minecraft:golden_hoe",
+      "ars_nouveau:stripped_purple_archwood_wood",
+      "ars_nouveau:archwood_sconce",
+      "extradelight:gingham_lime",
+      "ars_nouveau:sourcestone_sconce",
+      "extradelight:gingham_brown",
+      "ars_nouveau:ritual_challenge",
+      "create:crafting/logistics/powered_latch",
+      "minecraft:wooden_pickaxe",
+      "ars_additions:crafting/revert/cracked_sourcestone_to_sourcestone",
+      "ars_nouveau:enchanting_apparatus",
+      "ars_nouveau:smooth_sourcestone_large_bricks_stone_cutterslab",
+      "solcarrot:food_book",
+      "ars_nouveau:purple_sbed",
+      "ars_nouveau:clear_wixie_charm",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_slab",
+      "ars_nouveau:sourcestone_stairs",
+      "extradelight:fruit_molded_gray_wallpaper",
+      "ars_nouveau:challenge_2",
+      "ars_nouveau:smooth_sourcestone_basketweave_stonecutter_stair",
+      "securitycraft:reinforced_piston",
+      "extradelight:cinnamon_molded_lime_wallpaper",
+      "extradelight:jungle_molded_black_wallpaper",
+      "create:crafting/logistics/orange_table_cloth",
+      "farmingforblockheads:market",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_stone_cutterslab",
+      "ars_nouveau:ritual_conjure_island_desert",
+      "ars_nouveau:smooth_sourcestone_alternating_stonecutter_stair",
+      "ars_nouveau:smooth_sourcestone_mosaic_to_sourcestone",
+      "starbunclemania:chef_hat",
+      "extradelight:crimson_step_stool",
+      "extradelight:ribbon_bow_white",
+      "createaddition:crafting/redstone_relay",
+      "securitycraft:username_logger",
+      "securitycraft:reinforced_dark_oak_fence_gate",
+      "extradelight:cinnamon_molded_gray_wallpaper",
+      "starbunclemania:robin_mask",
+      "comforts:sleeping_bag_white",
+      "ars_nouveau:gilded_sourcestone_basketweave_stonecutter_stair",
+      "extradelight:cherry_molded_pink_wallpaper",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_stonecutter_stair",
+      "ars_nouveau:ritual_overgrowth",
+      "extradelight:gingham_carpet_yellow",
+      "extradelight:oak_molded_red_wallpaper",
+      "ars_nouveau:sourcestone_alternating_stairs",
+      "securitycraft:keypad_frame",
+      "ars_nouveau:alteration_table",
+      "ars_nouveau:manipulation_essence_to_diorite",
+      "minecraft:flint_and_steel",
+      "ars_nouveau:dull_trinket",
+      "ars_nouveau:clear_starbuncle_charm",
+      "extradelight:cinnamon_molded_orange_wallpaper",
+      "extradelight:cherry_molded_cyan_wallpaper",
+      "minecraft:red_gingham_carpet_from_block",
+      "extradelight:oak_step_stool",
+      "ars_elemental:flight_alt",
+      "ars_nouveau:gilded_sourcestone_basketweave_stairs",
+      "ars_nouveau:archwood_to_chest",
+      "ars_additions:crafting/lanterns/reversed_polished_sourcestone_lantern",
+      "ars_nouveau:spike_to_dye",
+      "extradelight:jungle_molded_lime_wallpaper",
+      "extradelight:gingham_light_blue",
+      "ars_additions:crafting/lanterns/magelight_lantern",
+      "extradelight:oak_molded_yellow_wallpaper",
+      "ars_nouveau:water_essence_to_obsidian",
+      "ars_nouveau:ritual_moonfall",
+      "create:crafting/kinetics/blue_seat",
+      "ars_nouveau:ritual_gravity",
+      "compressedblocks:shaped_crated_feather",
+      "ars_nouveau:sconce",
+      "farmersdelight:barbecue_stick",
+      "extradelight:jungle_molded_orange_wallpaper",
+      "extradelight:omelette_mix_meat",
+      "extradelight:dark_oak_molded_cyan_wallpaper",
+      "extradelight:cooking/oven/jalapeno_popper",
+      "ars_nouveau:mirrorweave",
+      "ars_nouveau:sky_block",
+      "ars_nouveau:arcane_platform",
+      "minecraft:golden_axe",
+      "extradelight:cooking/oven/fat_potatoes",
+      "ars_nouveau:sourcestone_alternating_slab",
+      "extradelight:cherry_step_stool",
+      "compressedblocks:shaped_crated_oak_sapling",
+      "ars_nouveau:manipulation_essence_to_flourishing_sapling",
+      "ars_nouveau:sourcestone_small_bricks_stone_cutterslab",
+      "extradelight:cinnamon_molded_light_gray_wallpaper",
+      "ars_elemental:curio_bag",
+      "securitycraft:reinforced_dark_oak_fence",
+      "extradelight:gingham_carpet_light_gray",
+      "ars_nouveau:imbuement_chamber",
+      "brewinandchewin:fermenting/jerky",
+      "create:crafting/kinetics/magenta_seat",
+      "ars_nouveau:ritual_scrying",
+      "securitycraft:reinforced_chiseled_bookshelf",
+      "create:crafting/kinetics/light_blue_seat",
+      "extradelight:cherry_molded_magenta_wallpaper",
+      "ars_elemental:advanced_prism",
+      "fruitsdelight:apple_crate",
+      "create:crafting/kinetics/gray_seat",
+      "minecraft:clock",
+      "create:crafting/kinetics/brown_seat",
+      "extradelight:dark_oak_molded_light_gray_wallpaper",
+      "ars_nouveau:smooth_sourcestone_small_bricks_stonecutter_stair",
+      "securitycraft:portable_tune_player",
+      "starbunclemania:sea_bunny",
+      "extradelight:cherry_molded_light_gray_wallpaper",
+      "extradelight:ribbon_bow_purple",
+      "ars_nouveau:alchemical_sourcelink",
+      "ars_additions:crafting/lanterns/golden_magelight_lantern",
+      "extradelight:dark_oak_molded_lime_wallpaper",
+      "ars_nouveau:smooth_sourcestone_basketweave_stairs",
+      "extradelight:birch_molded_cyan_wallpaper",
+      "compressedblocks:shaped_c0_white_wool",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_door_0",
+      "ars_nouveau:redstone_relay",
+      "extradelight:acacia_step_stool",
+      "extradelight:fruit_molded_green_wallpaper",
+      "ars_nouveau:sourcestone_small_bricks_stairs",
+      "ars_nouveau:sourcestone_stone_cutterslab",
+      "ars_nouveau:manipulation_essence_to_cascading_sapling",
+      "ars_nouveau:smooth_sourcestone_basketweave_slab",
+      "minecraft:lectern",
+      "extradelight:crimson_molded_light_gray_wallpaper",
+      "extradelight:fruit_molded_purple_wallpaper",
+      "extradelight:cooking/oven/apple_pie",
+      "minecraft:golden_sword",
+      "ars_nouveau:gilded_sourcestone_basketweave_slab",
+      "ars_nouveau:clear_whirlisprig_charm",
+      "extradelight:mangrove_molded_brown_wallpaper",
+      "extradelight:fruit_molded_brown_wallpaper",
+      "extradelight:spruce_molded_lime_wallpaper",
+      "securitycraft:sonic_security_system",
+      "minecraft:golden_pickaxe",
+      "minecraft:chiseled_bookshelf",
+      "ars_elemental:ritual_archwood_forest",
+      "minecraft:ladder",
+      "extradelight:warped_molded_cyan_wallpaper",
+      "extradelight:dark_oak_molded_pink_wallpaper",
+      "ars_nouveau:archwood_pressure_plate",
+      "extradelight:bamboo_molded_blue_wallpaper",
+      "ars_nouveau:archwood_door",
+      "minecraft:redstone_torch",
+      "ars_nouveau:gilded_sourcestone_alternating_slab",
+      "ars_additions:crafting/lanterns/reversed_sourcestone_lantern",
+      "extradelight:bamboo_molded_magenta_wallpaper",
+      "minecraft:target",
+      "ars_nouveau:manipulation_essence_to_vexing_sapling",
+      "extradelight:apple_to_block",
+      "starbunclemania:fluid_jar",
+      "extradelight:mangrove_molded_light_gray_wallpaper",
+      "extradelight:wallpaper_brown",
+      "extradelight:cinnamon_step_stool",
+      "ars_nouveau:magelight_torch",
+      "ars_nouveau:stripped_blue_archwood_wood",
+      "extradelight:warped_molded_yellow_wallpaper",
+      "extradelight:cinnamon_molded_magenta_wallpaper",
+      "extradelight:crimson_molded_magenta_wallpaper",
+      "constructionstick:template_battery",
+      "ars_nouveau:archwood_trapdoor",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_button_0",
+      "ars_nouveau:manipulation_essence_to_calcite",
+      "ars_nouveau:rotating_spell_turret",
+      "extradelight:mangrove_molded_green_wallpaper",
+      "extradelight:gingham_orange",
+      "ars_nouveau:item_detector",
+      "crabbersdelight:crab_trap",
+      "constructionstick:wooden_stick",
+      "minecraft:baked_potato_from_smoking",
+      "compressedblocks:shaped_crated_stick",
+      "extradelight:jungle_molded_red_wallpaper",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_stone_cutterslab",
+      "extradelight:mangrove_molded_blue_wallpaper",
+      "minecraft:book",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_stone_cutterslab",
+      "minecraft:light_blue_gingham_carpet_from_block",
+      "securitycraft:reinforced_crimson_fence",
+      "minecraft:wooden_shovel",
+      "extradelight:dark_oak_molded_light_blue_wallpaper",
+      "ars_nouveau:smooth_sourcestone_to_sourcestone",
+      "ars_nouveau:gilded_sourcestone_small_bricks_stairs",
+      "compressedblocks:shaped_crated_potato",
+      "extradelight:oak_molded_blue_wallpaper",
+      "ars_elemental:sparkflower_to_glowstone",
+      "compressedblocks:shaped_c0_red_wool",
+      "ars_nouveau:scribes_table",
+      "starbunclemania:drygmy_horns",
+      "extradelight:jungle_molded_pink_wallpaper",
+      "extradelight:oak_molded_orange_wallpaper",
+      "extradelight:spruce_molded_pink_wallpaper",
+      "create:crafting/logistics/green_table_cloth",
+      "extradelight:oak_molded_brown_wallpaper",
+      "compressedblocks:shaped_crated_apple",
+      "compressedblocks:shaped_crated_dandelion",
+      "silentgear:blueprint_paper",
+      "extradelight:cinnamon_molded_white_wallpaper",
+      "securitycraft:portable_radar",
+      "ars_nouveau:annotated_codex",
+      "extradelight:warped_molded_brown_wallpaper",
+      "extradelight:jungle_step_stool",
+      "create:crafting/logistics/red_table_cloth",
+      "ars_nouveau:sourcestone_mosaic_stairs",
+      "extradelight:acacia_molded_purple_wallpaper",
+      "ars_nouveau:red_sbed",
+      "extradelight:acacia_molded_white_wallpaper",
+      "ars_nouveau:smooth_sourcestone_large_bricks_to_sourcestone",
+      "ars_additions:crafting/walls/cracked_sourcestone_wall",
+      "ars_nouveau:air_essence_to_snow_bucket",
+      "ars_nouveau:sourcestone_small_bricks_slab",
+      "extradelight:crimson_molded_green_wallpaper",
+      "ars_nouveau:ritual_sanctuary",
+      "extradelight:bamboo_molded_black_wallpaper",
+      "farmersdelight:gold_nugget_from_blasting_knife",
+      "ars_additions:crafting/lanterns/sourcestone_magelight_lantern",
+      "silentgear:crude_tool_parts",
+      "compressedblocks:shaped_crated_book",
+      "minecraft:chest",
+      "create:crafting/logistics/blue_table_cloth",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_stairs",
+      "extradelight:mangrove_molded_orange_wallpaper",
+      "extradelight:cherry_molded_gray_wallpaper",
+      "extradelight:cooking/oven/apple_crisp_feast",
+      "ars_nouveau:gilded_sourcestone_mosaic_to_sourcestone",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_slab",
+      "create:crafting/logistics/light_gray_table_cloth",
+      "ars_nouveau:clear_amethyst_golem_charm",
+      "ars_elemental:ritual_squirrels",
+      "extradelight:crimson_molded_pink_wallpaper",
+      "ars_nouveau:archwood_stairs",
+      "starbunclemania:fluid_scroll_allow",
+      "extradelight:chili_to_block",
+      "minecraft:red_bed",
+      "constructionstick:smithing_upgrade/iron_stick_with_template_angel",
+      "extradelight:gingham_carpet_green",
+      "ars_additions:crafting/buttons/polished_sourcestone_button",
+      "farmersdelight:cooking/dumplings",
+      "minecraft:golden_shovel",
+      "ars_nouveau:dowsing_rod",
+      "extradelight:gingham_carpet_orange",
+      "extradelight:acacia_molded_light_blue_wallpaper",
+      "extradelight:acacia_molded_red_wallpaper",
+      "ars_additions:crafting/chains/golden_chain",
+      "extradelight:gingham_carpet_lime",
+      "extradelight:birch_molded_pink_wallpaper",
+      "extradelight:fruit_molded_white_wallpaper",
+      "extradelight:ribbon_bow_lime",
+      "extradelight:oak_molded_white_wallpaper",
+      "ars_additions:crafting/revert/cracked_polished_sourcestone_to_sourcestone",
+      "securitycraft:reinforced_mangrove_fence",
+      "extradelight:spruce_molded_purple_wallpaper",
+      "ars_nouveau:gilded_sourcestone_large_bricks_stonecutter_stair",
+      "extradelight:spruce_molded_yellow_wallpaper",
+      "create:crafting/logistics/pulse_repeater",
+      "ars_nouveau:arcane_pedestal",
+      "extradelight:warped_molded_pink_wallpaper",
+      "extradelight:crimson_molded_lime_wallpaper",
+      "create:crafting/logistics/magenta_table_cloth",
+      "extradelight:warped_molded_purple_wallpaper",
+      "ars_nouveau:spike_to_arrow",
+      "extradelight:cinnamon_molded_blue_wallpaper",
+      "ars_nouveau:manipulation_essence_to_deepslate",
+      "extradelight:bamboo_molded_green_wallpaper",
+      "extradelight:cherry_molded_lime_wallpaper",
+      "ars_additions:crafting/stonecutter/sourcestone_2",
+      "ars_additions:crafting/stonecutter/sourcestone_1",
+      "ars_additions:crafting/stonecutter/sourcestone_0",
+      "extradelight:cooking/oven/apple_cookie",
+      "ars_additions:crafting/stonecutter/sourcestone_5",
+      "ars_additions:crafting/stonecutter/sourcestone_4",
+      "ars_additions:crafting/stonecutter/sourcestone_3",
+      "extradelight:cherry_molded_black_wallpaper",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_to_sourcestone",
+      "minecraft:golden_chestplate",
+      "extradelight:bamboo_molded_brown_wallpaper",
+      "ars_nouveau:relay",
+      "extradelight:omelette_mix_mix",
+      "ars_nouveau:archwood_grate",
+      "securitycraft:universal_key_changer",
+      "ars_nouveau:conjuration_essence_to_end_stone",
+      "ars_nouveau:reset_stable_warp_scroll",
+      "ars_additions:crafting/stonecutter/cracked_polished_sourcestone_wall_0",
+      "ars_nouveau:ring_of_potential",
+      "ars_nouveau:ritual_flowering",
+      "extradelight:cooking/oven/apple_pie_stewed",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_stonecutter_stair",
+      "ars_additions:crafting/doors/sourcestone_door",
+      "minecraft:brown_gingham_carpet_from_block",
+      "securitycraft:reinforced_redstone_lamp",
+      "ars_nouveau:source_gem_block",
+      "compressedblocks:shaped_crated_white_carpet",
+      "extradelight:oak_molded_light_blue_wallpaper",
+      "extradelight:birch_molded_gray_wallpaper",
+      "ars_additions:crafting/walls/sourcestone_wall",
+      "extradelight:crimson_molded_gray_wallpaper",
+      "starbunclemania:star_miner",
+      "ars_additions:crafting/revert/cracked_polished_sourcestone_small_bricks_to_sourcestone",
+      "extradelight:omelette_mix_veg_cheese",
+      "create:crafting/logistics/brown_table_cloth",
+      "extradelight:cherry_molded_white_wallpaper",
+      "extradelight:wallpaper_orange",
+      "ars_nouveau:stripped_green_archwood_wood",
+      "extradelight:gingham_light_gray",
+      "ars_nouveau:wing_to_leather",
+      "ars_nouveau:smooth_sourcestone_alternating_stone_cutterslab",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_stonecutter_stair",
+      "extradelight:dark_oak_step_stool",
+      "ars_nouveau:smooth_sourcestone_large_bricks_stonecutter_stair",
+      "ars_nouveau:blue_sbed",
+      "extradelight:fruit_molded_blue_wallpaper",
+      "ars_nouveau:ghostweave",
+      "minecraft:magenta_gingham_carpet_from_block",
+      "extradelight:acacia_molded_blue_wallpaper",
+      "ars_additions:clear_xp_jar",
+      "ars_nouveau:worn_notebook",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_stone_cutterslab",
+      "securitycraft:reinforced_jungle_fence",
+      "extradelight:warped_molded_white_wallpaper",
+      "extradelight:gingham_red",
+      "ars_additions:crafting/revert/cracked_sourcestone_large_bricks_to_sourcestone",
+      "extradelight:fruit_molded_yellow_wallpaper",
+      "extradelight:acacia_molded_black_wallpaper",
+      "ars_elemental:stripped_yellow_archwood",
+      "ars_nouveau:repository_controller",
+      "ars_nouveau:gilded_sourcestone_alternating_stairs",
+      "extradelight:birch_molded_lime_wallpaper",
+      "extradelight:cherry_molded_red_wallpaper",
+      "ars_nouveau:manipulation_essence_to_andesite",
+      "starbunclemania:direction_scroll",
+      "minecraft:red_carpet",
+      "ars_nouveau:smooth_sourcestone_stonecutter_stair",
+      "extradelight:acacia_molded_yellow_wallpaper",
+      "minecraft:wooden_hoe",
+      "securitycraft:taser",
+      "ars_nouveau:sourceberry_sack",
+      "ars_nouveau:ritual_cloudshaping",
+      "ars_nouveau:clear_alakarkinos_charm",
+      "create:crafting/materials/red_sand_paper",
+      "ars_nouveau:mycelial_sourcelink",
+      "compressedblocks:shaped_crated_paper",
+      "ars_nouveau:manipulation_essence_to_blazin_sapling",
+      "farmersdelight:cutting_board",
+      "securitycraft:panic_button",
+      "farmersdelight:cooking/dog_food",
+      "ars_additions:crafting/trapdoors/polished_sourcestone_trapdoor",
+      "minecraft:note_block",
+      "starbunclemania:clear_fluid_allow",
+      "ars_nouveau:sourcestone_large_bricks_stonecutter_stair",
+      "extradelight:fruit_molded_black_wallpaper",
+      "ars_nouveau:sourceberry_sack_to_bush",
+      "ars_nouveau:smooth_sourcestone_mosaic_stone_cutterslab",
+      "farmersdelight:organic_compost_from_rotten_flesh",
+      "securitycraft:reinforced_spruce_fence",
+      "waystones:blank_scroll",
+      "minecraft:piston",
+      "regions_unexplored:raw_redstone_block",
+      "ars_nouveau:gilded_sourcestone_mosaic_stone_cutterslab",
+      "ars_additions:crafting/stonecutter/sourcestone_trapdoor_0",
+      "ars_nouveau:ritual_disintegration",
+      "ars_additions:crafting/trapdoors/magebloom_carpet",
+      "minecraft:white_banner",
+      "arsdelight:source_berry_cookie",
+      "extradelight:offset_spatula_gold",
+      "extradelight:crimson_molded_cyan_wallpaper",
+      "ars_nouveau:manipulation_essence_to_moss_block",
+      "minecraft:wooden_axe",
+      "ars_nouveau:mimic_scroll",
+      "minecraft:white_carpet",
+      "ars_nouveau:ritual_warping",
+      "ars_nouveau:starbuncle_shades",
+      "farmersdelight:cooking/ratatouille",
+      "starbunclemania:star_build",
+      "extradelight:jungle_molded_cyan_wallpaper",
+      "ars_nouveau:sourcestone_alternating_stonecutter_stair",
+      "ars_additions:ritual/ritual_locate_structure",
+      "ars_nouveau:void_prism",
+      "extradelight:crimson_molded_orange_wallpaper",
+      "handcrafted:stackable_book",
+      "create:crafting/logistics/powered_toggle_latch",
+      "ars_nouveau:ritual_binding",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_stairs",
+      "extradelight:jungle_molded_yellow_wallpaper",
+      "extradelight:gingham_carpet_black",
+      "extradelight:bamboo_molded_gray_wallpaper",
+      "minecraft:gold_nugget",
+      "extradelight:fruit_molded_orange_wallpaper",
+      "create:crafting/logistics/pink_table_cloth",
+      "ars_nouveau:gilded_sourcestone_alternating_to_sourcestone",
+      "extradelight:cinnamon_molded_black_wallpaper",
+      "ars_additions:crafting/lanterns/archwood_magelight_lantern",
+      "extradelight:crimson_molded_black_wallpaper",
+      "extradelight:acacia_molded_brown_wallpaper",
+      "ars_nouveau:manipulation_essence_to_tuff",
+      "create:crafting/kinetics/cyan_seat",
+      "extradelight:acacia_molded_orange_wallpaper",
+      "minecraft:cartography_table",
+      "securitycraft:alarm",
+      "ars_additions:crafting/stonecutter/cracked_sourcestone_wall_0",
+      "ars_nouveau:smooth_sourcestone_small_bricks_stone_cutterslab",
+      "extradelight:mangrove_molded_light_blue_wallpaper",
+      "ars_nouveau:gilded_sourcestone_small_bricks_to_sourcestone",
+      "farmingforblockheads:red_fertilizer",
+      "ars_nouveau:yellow_sbed",
+      "regions_unexplored:redstone_bud",
+      "comforts:sleeping_bag_red",
+      "starbunclemania:star_bin",
+      "extradelight:bamboo_molded_red_wallpaper",
+      "farmersdelight:flint_knife",
+      "extradelight:bamboo_molded_yellow_wallpaper",
+      "extradelight:gingham_carpet_blue",
+      "exposure:album",
+      "extradelight:warped_molded_orange_wallpaper",
+      "handcrafted:white_sheet",
+      "extradelight:fruit_molded_magenta_wallpaper",
+      "farmingforblockheads:feeding_trough",
+      "securitycraft:reinforced_warped_fence_gate",
+      "securitycraft:reinforced_crimson_fence_gate",
+      "ars_nouveau:magebloom_fiber",
+      "extradelight:cherry_molded_yellow_wallpaper",
+      "ars_nouveau:orange_sbed",
+      "ars_nouveau:experience_gem",
+      "minecraft:baked_potato",
+      "minecraft:fletching_table",
+      "compressedblocks:shaped_crated_rotten_flesh",
+      "extradelight:wallpaper_white",
+      "extradelight:birch_molded_magenta_wallpaper",
+      "extradelight:gingham_yellow",
+      "minecraft:red_banner",
+      "extradelight:wallpaper_light_gray",
+      "farmingforblockheads:yellow_fertilizer",
+      "exposure:photograph_frame",
+      "minecraft:golden_leggings",
+      "ars_nouveau:smooth_sourcestone_large_bricks_stairs",
+      "ars_nouveau:potion_jar",
+      "ars_nouveau:sourcestone_mosaic_stonecutter_stair",
+      "extradelight:cinnamon_molded_light_blue_wallpaper",
+      "ars_nouveau:repository",
+      "extradelight:birch_molded_orange_wallpaper",
+      "ars_additions:crafting/chains/archwood_chain",
+      "extradelight:ribbon_bow_blue",
+      "ars_nouveau:sourcestone_mosaic_stone_cutterslab",
+      "minecraft:dropper",
+      "minecraft:pink_gingham_carpet_from_block",
+      "farmersdelight:cooking/fried_rice",
+      "exposure:lightroom",
+      "ars_nouveau:ritual_forestation",
+      "extradelight:spruce_molded_white_wallpaper",
+      "extradelight:omelette_mix_mix_cheese",
+      "create:crafting/kinetics/yellow_seat",
+      "ars_nouveau:archwood_hanging_sign",
+      "ars_nouveau:sourcestone_large_bricks_stone_cutterslab",
+      "create:crafting/kinetics/lime_seat",
+      "minecraft:golden_helmet",
+      "extradelight:oak_molded_cyan_wallpaper",
+      "ars_nouveau:mob_jar",
+      "ars_additions:crafting/trapdoors/sourcestone_trapdoor",
+      "starbunclemania:whirli_prop",
+      "fruitsdelight:jam_bread",
+      "extradelight:fruit_molded_lime_wallpaper",
+      "extradelight:ribbon_bow_black",
+      "comforts:hammock_white",
+      "ars_nouveau:sourcestone_13",
+      "ars_nouveau:smooth_sourcestone_mosaic_stonecutter_stair",
+      "ars_nouveau:sourcestone_12",
+      "ars_nouveau:sourcestone_15",
+      "ars_nouveau:sourcestone_14",
+      "create:crafting/kinetics/green_seat",
+      "ars_nouveau:sourcestone_11",
+      "ars_nouveau:sourcestone_10",
+      "securitycraft:reinforced_spruce_fence_gate",
+      "extradelight:hanging_chili",
+      "create:crafting/kinetics/black_seat",
+      "ars_elemental:ritual_attraction",
+      "ars_elemental:yellow_archwood",
+      "create:crafting/schematics/schematic_and_quill",
+      "farmersdelight:cooking/vegetable_soup",
+      "minecraft:purple_gingham_carpet_from_block",
+      "securitycraft:reinforced_bamboo_fence_gate",
+      "handcrafted:red_cushion",
+      "ars_nouveau:source_jar",
+      "ars_nouveau:smooth_sourcestone_basketweave_stone_cutterslab",
+      "extradelight:bamboo_step_stool",
+      "ars_nouveau:scry_to_blank_parchment",
+      "handcrafted:red_sheet",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_stonecutter_stair",
+      "minecraft:painting",
+      "ars_elemental:ritual_archwood_forestation",
+      "ars_nouveau:bastion_to_purple",
+      "extradelight:oak_molded_purple_wallpaper",
+      "extradelight:wallpaper_blue",
+      "ars_nouveau:gilded_sourcestone_alternating_stonecutter_stair",
+      "extradelight:warped_molded_light_gray_wallpaper",
+      "minecraft:crafting_table",
+      "extradelight:cinnamon_molded_brown_wallpaper",
+      "extradelight:gingham_cyan",
+      "ars_nouveau:smooth_sourcestone_stone_cutterslab",
+      "compressedblocks:shaped_crated_bread",
+      "extradelight:acacia_molded_light_gray_wallpaper",
+      "extradelight:mangrove_molded_cyan_wallpaper",
+      "extradelight:wallpaper_yellow",
+      "ars_nouveau:fire_essence_to_charge",
+      "extradelight:ribbon_bow_pink",
+      "ars_additions:wayfinder",
+      "extradelight:mangrove_molded_white_wallpaper",
+      "extradelight:melting_pot",
+      "ars_nouveau:smooth_sourcestone_basketweave_to_sourcestone",
+      "extradelight:bamboo_molded_light_gray_wallpaper",
+      "extradelight:warped_molded_lime_wallpaper",
+      "ars_nouveau:warp_scroll",
+      "extradelight:mangrove_molded_magenta_wallpaper",
+      "biomeswevegone:golden_apple_from_green_apple",
+      "ars_nouveau:blank_parchment",
+      "terralith:dropper_alt",
+      "ars_additions:clear_advanced_dominion_wand",
+      "securitycraft:motion_activated_light",
+      "extradelight:cooking/oven/tarte_tatin_in_pan",
+      "ars_additions:crafting/lanterns/reversed_polished_sourcestone_magelight_lantern",
+      "ars_nouveau:sourcestone_basketweave_to_sourcestone",
+      "securitycraft:claymore",
+      "create:crafting/logistics/pulse_extender",
+      "ars_nouveau:ritual_fertility",
+      "extradelight:spruce_molded_red_wallpaper",
+      "ars_additions:crafting/lanterns/reversed_sourcestone_magelight_lantern",
+      "securitycraft:reinforced_bookshelf",
+      "etched:music_label",
+      "extradelight:cinnamon_molded_yellow_wallpaper",
+      "extradelight:warped_step_stool",
+      "minecraft:wooden_sword",
+      "extradelight:gingham_carpet_pink",
+      "extradelight:gingham_carpet_magenta",
+      "extradelight:crimson_molded_light_blue_wallpaper",
+      "ars_nouveau:magebloom_block",
+      "extradelight:warped_molded_green_wallpaper",
+      "ars_nouveau:archwood_planks",
+      "extradelight:mangrove_molded_black_wallpaper",
+      "ars_nouveau:sourcestone_stonecutter_stair",
+      "create:crafting/logistics/pulse_timer",
+      "waystones:return_scroll",
+      "extradelight:oak_molded_green_wallpaper",
+      "extradelight:jungle_molded_gray_wallpaper",
+      "ars_nouveau:smooth_sourcestone_grate",
+      "extradelight:warped_molded_gray_wallpaper",
+      "extradelight:bamboo_molded_white_wallpaper",
+      "ars_nouveau:sourcestone_large_bricks_slab",
+      "extradelight:crimson_molded_brown_wallpaper",
+      "extradelight:ribbon_bow_brown",
+      "ars_nouveau:gilded_sourcestone_alternating_stone_cutterslab",
+      "ars_nouveau:gilded_sourcestone_mosaic_stonecutter_stair",
+      "extradelight:wallpaper_lime",
+      "extradelight:ribbon_bow_yellow",
+      "extradelight:cherry_molded_green_wallpaper",
+      "ars_nouveau:source_lamp",
+      "create:crafting/logistics/lime_table_cloth",
+      "ars_additions:crafting/chains/reversed_polished_sourcestone_chain",
+      "constructionstick:smithing_upgrade/wooden_stick_with_template_angel",
+      "minecraft:redstone_block",
+      "extradelight:gingham_white",
+      "starbunclemania:fluid_sourcelink",
+      "ars_nouveau:wipe_spell_parchment",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_to_sourcestone",
+      "ars_nouveau:green_archwood_wood",
+      "ars_elemental:ritual_repulsion",
+      "extradelight:acacia_molded_magenta_wallpaper",
+      "extradelight:dark_oak_molded_purple_wallpaper",
+      "extradelight:drying/jerky",
+      "ars_nouveau:reset_warp_scroll",
+      "ars_additions:crafting/lanterns/archwood_lantern",
+      "ars_nouveau:sourcestone_basketweave_stonecutter_stair",
+      "ars_nouveau:rotating_turret_to_basic_spell_turret",
+      "extradelight:gingham_purple",
+      "extradelight:cinnamon_molded_red_wallpaper",
+      "ars_nouveau:sourcestone_20",
+      "ars_nouveau:sourcestone_21",
+      "ars_elemental:spore_blossom_up",
+      "ars_additions:clear_handy_haversack",
+      "ars_nouveau:sourcestone_17",
+      "arsdelight:source_berry_crate",
+      "ars_nouveau:sourcestone_16",
+      "ars_nouveau:sourcestone_19",
+      "ars_nouveau:sourcestone_18",
+      "securitycraft:reinforced_oak_fence_gate",
+      "minecraft:compass",
+      "ars_nouveau:smooth_sourcestone_alternating_stairs",
+      "farmersdelight:gold_nugget_from_smelting_knife",
+      "extradelight:mortar/dye_yellow",
+      "ars_nouveau:falseweave",
+      "securitycraft:reinforced_warped_fence",
+      "ars_nouveau:horn_to_bonemeal",
+      "ars_nouveau:novice_spell_book",
+      "starbunclemania:star_battery",
+      "extradelight:bamboo_molded_lime_wallpaper",
+      "starbunclemania:fluid_scroll_deny",
+      "extradelight:gingham_gray",
+      "extradelight:birch_molded_red_wallpaper",
+      "create:crafting/kinetics/pink_seat",
+      "ars_elemental:alt_blossom",
+      "ars_nouveau:source_berry_pie",
+      "minecraft:white_gingham_carpet_from_block",
+      "ars_nouveau:smooth_sourcestone_small_bricks_slab",
+      "ars_additions:crafting/stonecutter/sourcestone_door_0",
+      "ars_nouveau:sunrise_2",
+      "minecraft:arrow",
+      "exposure:glass_photograph_frame",
+      "extradelight:wallpaper_magenta",
+      "extradelight:oak_molded_light_gray_wallpaper",
+      "minecraft:gray_gingham_carpet_from_block",
+      "ars_nouveau:ritual_containment",
+      "compressedblocks:shaped_crated_yellow_carpet",
+      "extradelight:ribbon_bow_light_blue",
+      "ars_nouveau:basic_spell_turret",
+      "ars_nouveau:vitalic_sourcelink",
+      "securitycraft:cage_trap",
+      "ars_nouveau:sourcestone_small_bricks_stonecutter_stair",
+      "extradelight:crimson_molded_yellow_wallpaper",
+      "securitycraft:universal_block_reinforcer_lvl2",
+      "securitycraft:universal_block_reinforcer_lvl3",
+      "securitycraft:universal_block_reinforcer_lvl1",
+      "extradelight:dark_oak_molded_red_wallpaper",
+      "ars_nouveau:ritual_burrowing",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_stairs",
+      "extradelight:gingham_carpet_cyan",
+      "ars_nouveau:frostaya_to_light_blue",
+      "ars_nouveau:polished_source_sconce",
+      "extradelight:birch_molded_green_wallpaper",
+      "extradelight:dark_oak_molded_brown_wallpaper",
+      "extradelight:cherry_molded_orange_wallpaper",
+      "securitycraft:reinforced_dropper",
+      "minecraft:lime_gingham_carpet_from_block",
+      "ars_nouveau:magebloom_block_to_magebloom",
+      "ars_nouveau:gilded_sourcestone_large_bricks_stairs",
+      "silentgear:emerald_from_shards",
+      "ars_nouveau:ritual_flight",
+      "ars_nouveau:greater_experience_gem",
+      "ars_nouveau:ritual_conjure_island_plains",
+      "extradelight:gingham_magenta",
+      "ars_nouveau:gilded_sourcestone_small_bricks_stone_cutterslab",
+      "extradelight:birch_molded_brown_wallpaper",
+      "ars_nouveau:smooth_sourcestone_mosaic_stairs",
+      "extradelight:spruce_molded_magenta_wallpaper",
+      "extradelight:acacia_molded_gray_wallpaper",
+      "securitycraft:reinforced_acacia_fence_gate",
+      "extradelight:mangrove_molded_pink_wallpaper",
+      "extradelight:bamboo_molded_pink_wallpaper",
+      "ars_nouveau:gilded_sourcestone_small_bricks_stonecutter_stair",
+      "create:crafting/kinetics/red_seat",
+      "compressedblocks:shaped_crated_wheat_seeds",
+      "extradelight:dark_oak_molded_orange_wallpaper",
+      "farmersdelight:cooking/apple_cider",
+      "ars_nouveau:smooth_sourcestone_mosaic_slab",
+      "ars_nouveau:smooth_sourcestone_alternating_slab",
+      "extradelight:dark_oak_molded_blue_wallpaper",
+      "ars_nouveau:archwood_chest",
+      "ars_nouveau:clear_starbuncle_shard",
+      "extradelight:dark_oak_molded_magenta_wallpaper",
+      "ars_nouveau:purple_archwood_wood",
+      "extradelight:birch_molded_purple_wallpaper",
+      "ars_additions:crafting/stonecutter/sourcestone_wall_0",
+      "extradelight:gingham_carpet_brown",
+      "ars_nouveau:gilded_sourcestone_large_bricks_slab",
+      "ars_nouveau:novice_spellbook_alt",
+      "securitycraft:reinforced_birch_fence_gate",
+      "create:crafting/kinetics/orange_seat",
+      "ars_nouveau:blue_archwood_wood",
+      "ars_nouveau:smooth_sourcestone_slab",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_wall_0",
+      "constructionstick:smithing_upgrade/diamond_stick_with_template_angel",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_stairs",
+      "brewinandchewin:cooking/apple_jelly",
+      "constructionstick:smithing_upgrade/netherite_stick_with_template_angel",
+      "ars_nouveau:potion_jar_empty",
+      "extradelight:gingham_carpet_gray",
+      "extradelight:mangrove_molded_lime_wallpaper",
+      "extradelight:cherry_molded_blue_wallpaper",
+      "extradelight:crimson_molded_white_wallpaper",
+      "ars_nouveau:clear_allow",
+      "ars_nouveau:magebloom_to_pink",
+      "ars_elemental:flashing_sapling",
+      "extradelight:ribbon_bow_orange",
+      "constructionstick:template_angel",
+      "extradelight:crimson_molded_purple_wallpaper",
+      "minecraft:blue_gingham_carpet_from_block",
+      "extradelight:jungle_molded_light_blue_wallpaper",
+      "extradelight:jungle_molded_brown_wallpaper",
+      "ars_nouveau:smooth_sourcestone_alternating_to_sourcestone",
+      "extradelight:mangrove_molded_purple_wallpaper",
+      "minecraft:green_gingham_carpet_from_block",
+      "extradelight:warped_molded_light_blue_wallpaper",
+      "createaddition:crafting/electrum_amulet",
+      "minecraft:bookshelf",
+      "ars_nouveau:source_gem_block_2",
+      "extradelight:wallpaper_light_blue",
+      "extradelight:spruce_molded_blue_wallpaper",
+      "extradelight:ribbon_bow_gray",
+      "minecraft:yellow_gingham_carpet_from_block",
+      "ars_nouveau:ritual_awakening",
+      "ars_nouveau:bombegranate_to_orange",
+      "ars_nouveau:sourcestone_mosaic_slab",
+      "extradelight:oak_molded_pink_wallpaper",
+      "extradelight:cherry_molded_light_blue_wallpaper",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:gold_grate",
+      "securitycraft:reinforced_jungle_fence_gate",
+      "ars_nouveau:agronomic_sourcelink",
+      "create:crafting/logistics/light_blue_table_cloth",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_stone_cutterslab",
+      "extradelight:cinnamon_molded_green_wallpaper",
+      "farmersdelight:onion_crate",
+      "create:crafting/kinetics/purple_seat",
+      "ars_nouveau:sourcestone_basketweave_stairs",
+      "extradelight:dark_oak_molded_green_wallpaper",
+      "minecraft:white_bed",
+      "extradelight:dark_oak_molded_white_wallpaper",
+      "ars_nouveau:clear_drygmy_charm",
+      "create:crafting/kinetics/white_seat",
+      "extradelight:spruce_molded_green_wallpaper",
+      "extradelight:gold_spoon",
+      "ars_nouveau:ritual_wilden_summon",
+      "securitycraft:reinforced_mangrove_fence_gate",
+      "regions_unexplored:oak_shrub",
+      "extradelight:jungle_molded_blue_wallpaper",
+      "extradelight:warped_molded_blue_wallpaper",
+      "ars_nouveau:smooth_sourcestone_large_bricks_slab",
+      "ars_nouveau:sourcestone_8",
+      "ars_nouveau:sourcestone_7",
+      "ars_nouveau:sourcestone_mosaic_to_sourcestone",
+      "ars_nouveau:manipulation_essence_to_granite",
+      "ars_nouveau:sourcestone_9",
+      "ars_nouveau:sourcestone_4",
+      "ars_nouveau:sourcestone_3",
+      "ars_nouveau:sourcestone_6",
+      "minecraft:baked_potato_from_campfire_cooking",
+      "ars_nouveau:sourcestone_5",
+      "extradelight:birch_step_stool",
+      "ars_nouveau:sourcestone_2",
+      "ars_nouveau:runic_chalk",
+      "ars_nouveau:sourcestone_1",
+      "extradelight:crimson_molded_blue_wallpaper",
+      "extradelight:ribbon_bow_green",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_slab",
+      "extradelight:fruit_step_stool",
+      "constructionstick:smithing_upgrade/copper_stick_with_template_angel",
+      "brewinandchewin:fermenting/vodka_from_water",
+      "ars_nouveau:wilden_summon_alt",
+      "extradelight:wallpaper_purple",
+      "extradelight:gingham_pink",
+      "minecraft:light_weighted_pressure_plate",
+      "ars_additions:crafting/walls/polished_sourcestone_wall",
+      "extradelight:jungle_molded_magenta_wallpaper",
+      "minecraft:light_gray_gingham_carpet_from_block",
+      "minecraft:black_gingham_carpet_from_block",
+      "extradelight:spruce_step_stool",
+      "extradelight:cinnamon_molded_purple_wallpaper",
+      "handcrafted:white_cushion",
+      "extradelight:mangrove_molded_yellow_wallpaper",
+      "extradelight:wallpaper_gray",
+      "extradelight:crimson_molded_red_wallpaper",
+      "extradelight:spruce_molded_orange_wallpaper",
+      "securitycraft:reinforced_oak_fence",
+      "extradelight:spruce_molded_light_gray_wallpaper",
+      "extradelight:birch_molded_white_wallpaper",
+      "extradelight:spruce_molded_brown_wallpaper",
+      "starbunclemania:wyrm_degree",
+      "compressedblocks:shaped_crated_flint",
+      "ars_nouveau:allow_scroll",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_slab",
+      "extradelight:bamboo_molded_cyan_wallpaper",
+      "extradelight:cinnamon_molded_pink_wallpaper",
+      "extradelight:bamboo_molded_light_blue_wallpaper",
+      "extradelight:oak_molded_magenta_wallpaper",
+      "extradelight:birch_molded_yellow_wallpaper",
+      "compressedblocks:shaped_crated_cooked_beef",
+      "ars_nouveau:sourcestone_large_bricks_stairs",
+      "extradelight:gingham_carpet_purple",
+      "ars_nouveau:scryers_crystal",
+      "extradelight:birch_molded_light_gray_wallpaper",
+      "compressedblocks:shaped_c0_obsidian",
+      "ars_nouveau:sourceberry_to_purple",
+      "extradelight:spruce_molded_black_wallpaper",
+      "ars_nouveau:moonfall_2",
+      "extradelight:jungle_molded_purple_wallpaper",
+      "ars_nouveau:archwood_button",
+      "ars_nouveau:clear_deny",
+      "create:crafting/logistics/black_table_cloth",
+      "extradelight:warped_molded_red_wallpaper",
+      "extradelight:birch_molded_blue_wallpaper",
+      "extradelight:fruit_molded_red_wallpaper",
+      "extradelight:mangrove_step_stool",
+      "ars_additions:crafting/walls/cracked_polished_sourcestone_wall",
+      "ars_nouveau:gilded_sourcestone_large_bricks_stone_cutterslab",
+      "ars_nouveau:deny_scroll",
+      "extradelight:acacia_molded_cyan_wallpaper",
+      "ars_nouveau:sourcestone_large_bricks_to_sourcestone",
+      "ars_nouveau:gilded_sourcestone_basketweave_to_sourcestone",
+      "extradelight:jalapeno_stuffed_potato_full",
+      "starbunclemania:star_hat",
+      "ars_nouveau:mundane_belt",
+      "extradelight:mangrove_molded_gray_wallpaper",
+      "extradelight:ribbon_bow_cyan",
+      "extradelight:bamboo_molded_orange_wallpaper",
+      "ars_nouveau:sourcestone_grate",
+      "extradelight:gingham_green",
+      "ars_nouveau:ritual_sunrise",
+      "ars_nouveau:stripped_red_archwood_wood",
+      "extradelight:fruit_molded_light_gray_wallpaper",
+      "extradelight:fruit_molded_cyan_wallpaper",
+      "starbunclemania:source_condenser",
+      "extradelight:jungle_molded_green_wallpaper",
+      "ars_elemental:ritual_tesla_coil",
+      "create_connected:crafting/kinetics/brake",
+      "ars_additions:crafting/revert/cracked_sourcestone_small_bricks_to_sourcestone",
+      "ars_nouveau:ritual_restoration",
+      "extradelight:cinnamon_molded_cyan_wallpaper",
+      "ars_nouveau:clear_bookwyrm_charm",
+      "create:crafting/logistics/gray_table_cloth",
+      "ars_additions:crafting/lanterns/sourcestone_lantern",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_to_sourcestone",
+      "ars_elemental:ritual_detection",
+      "ars_nouveau:smooth_sourcestone_small_bricks_stairs",
+      "ars_nouveau:ritual_harvest",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_trapdoor_0",
+      "extradelight:ribbon_bow_red",
+      "extradelight:gingham_carpet_light_blue",
+      "minecraft:enchanting_table",
+      "ars_nouveau:gilded_sourcestone_basketweave_stone_cutterslab",
+      "ars_nouveau:archwood_slab",
+      "create:crafting/logistics/cyan_table_cloth",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_to_sourcestone",
+      "extradelight:mangrove_molded_red_wallpaper",
+      "minecraft:gold_block",
+      "extradelight:fruit_molded_pink_wallpaper",
+      "starbunclemania:clear_fluid_deny",
+      "minecraft:campfire",
+      "ars_nouveau:gilded_sourcestone_large_bricks_to_sourcestone",
+      "ars_nouveau:volcanic_sourcelink",
+      "extradelight:wallpaper_pink",
+      "securitycraft:reinforced_birch_fence",
+      "extradelight:gingham_carpet_red",
+      "extradelight:oak_molded_lime_wallpaper",
+      "magnumtorch:emerald_magnum_torch",
+      "minecraft:cyan_gingham_carpet_from_block",
+      "extradelight:oak_molded_gray_wallpaper",
+      "ars_nouveau:sourcestone_alternating_stone_cutterslab",
+      "ars_nouveau:gilded_sourcestone_mosaic_slab",
+      "ars_nouveau:wixie_hat",
+      "extradelight:hanging_onion",
+      "createaddition:crafting/festive_spool",
+      "ars_additions:crafting/buttons/sourcestone_button",
+      "extradelight:birch_molded_black_wallpaper",
+      "ars_additions:crafting/revert/cracked_polished_sourcestone_large_bricks_to_sourcestone",
+      "securitycraft:reinforced_cherry_fence",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_stonecutter_stair",
+      "create:crafting/logistics/purple_table_cloth"
+    ],
+    "isSmokerGuiOpen": 0,
+    "isFurnaceFilteringCraftable": 0,
+    "isFurnaceGuiOpen": 0,
+    "isFarmersdelightCookingGuiOpen": 0,
+    "isBlastingFurnaceFilteringCraftable": 0,
+    "isBlastingFurnaceGuiOpen": 0,
+    "isBrewinandchewinFermentingGuiOpen": 0,
+    "isFilteringCraftable": 0,
+    "isSmokerFilteringCraftable": 0,
+    "recipes": [
+      "ars_nouveau:archwood_fence_gate",
+      "extradelight:jungle_molded_light_gray_wallpaper",
+      "extradelight:cherry_molded_purple_wallpaper",
+      "minecraft:yellow_dye_from_dandelion",
+      "ars_nouveau:smooth_sourcestone_stairs",
+      "silentgear:emerald_shard",
+      "extradelight:omelette_mix_veg",
+      "trashcans:energy_trash_can",
+      "extradelight:citrus_pattern",
+      "extradelight:fruit_molded_light_blue_wallpaper",
+      "ars_nouveau:water_essence_to_bucket",
+      "ars_nouveau:ritual_animal_summon",
+      "ars_nouveau:smooth_sourcestone_small_bricks_to_sourcestone",
+      "ars_additions:crafting/lanterns/soul_magelight_lantern",
+      "extradelight:acacia_molded_green_wallpaper",
+      "ars_additions:handy_haversack",
+      "extradelight:spruce_molded_gray_wallpaper",
+      "ars_nouveau:conjuration_essence_to_soul_sand",
+      "ars_nouveau:ars_stencil",
+      "ars_nouveau:polished_sconce",
+      "minecraft:orange_gingham_carpet_from_block",
+      "extradelight:bamboo_molded_purple_wallpaper",
+      "farmingforblockheads:green_fertilizer",
+      "farmersdelight:cooking/baked_cod_stew",
+      "create:crafting/kinetics/light_gray_seat",
+      "ars_nouveau:manipulation_essence_to_mycelium",
+      "extradelight:dark_oak_molded_gray_wallpaper",
+      "extradelight:jungle_molded_white_wallpaper",
+      "terralith:piston_alt",
+      "ars_nouveau:sourcestone_slab",
+      "extradelight:acacia_molded_pink_wallpaper",
+      "extradelight:dark_oak_molded_black_wallpaper",
+      "securitycraft:universal_block_modifier",
+      "extradelight:chili_seeds",
+      "ars_additions:crafting/chains/sourcestone_chain",
+      "ars_nouveau:source_berry_roll",
+      "extradelight:birch_molded_light_blue_wallpaper",
+      "ars_nouveau:arcane_core",
+      "ars_nouveau:mendosteen_to_lime",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_slab",
+      "ars_nouveau:sourcestone_alternating_to_sourcestone",
+      "ars_nouveau:green_sbed",
+      "securitycraft:reinforced_bamboo_fence",
+      "extradelight:acacia_molded_lime_wallpaper",
+      "extradelight:warped_molded_black_wallpaper",
+      "ars_nouveau:sourcestone_basketweave_stone_cutterslab",
+      "ars_nouveau:red_archwood_wood",
+      "createaddition:crafting/diamond_grit_sandpaper",
+      "extradelight:wallpaper_cyan",
+      "minecraft:writable_book",
+      "ars_additions:crafting/chains/reversed_sourcestone_chain",
+      "extradelight:oak_molded_black_wallpaper",
+      "securitycraft:reinforced_cherry_fence_gate",
+      "securitycraft:reinforced_acacia_fence",
+      "extradelight:gingham_blue",
+      "ars_nouveau:spell_prism",
+      "create:crafting/materials/sand_paper",
+      "minecraft:emerald_block",
+      "minecraft:golden_apple",
+      "create:crafting/schematics/empty_schematic",
+      "extradelight:omelette_mix_meat_cheese",
+      "sliceanddice:slicer",
+      "extradelight:wallpaper_red",
+      "extradelight:wallpaper_black",
+      "ars_additions:crafting/stonecutter/sourcestone_button_0",
+      "ars_additions:crafting/doors/polished_sourcestone_door",
+      "extradelight:ribbon_bow_magenta",
+      "ars_nouveau:platform_to_pedestal",
+      "extradelight:cherry_molded_brown_wallpaper",
+      "create:crafting/logistics/yellow_table_cloth",
+      "ars_nouveau:archwood_fence",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_stairs",
+      "ars_nouveau:sourcestone_basketweave_slab",
+      "starbunclemania:starby_ears",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_to_sourcestone",
+      "farmersdelight:golden_knife",
+      "extradelight:wallpaper_green",
+      "ars_nouveau:gilded_sourcestone_small_bricks_slab",
+      "extradelight:spruce_molded_cyan_wallpaper",
+      "ars_nouveau:fire_essence_to_magma_block",
+      "comforts:hammock_red",
+      "create:crafting/materials/rose_quartz",
+      "ars_nouveau:ritual_brazier",
+      "ars_nouveau:gilded_sourcestone_mosaic_stairs",
+      "extradelight:jalapeno_stuffed_potato",
+      "ars_nouveau:sourcestone_small_bricks_to_sourcestone",
+      "extradelight:ribbon_bow_light_gray",
+      "extradelight:gingham_carpet_white",
+      "starbunclemania:alak_hat",
+      "minecraft:golden_boots",
+      "extradelight:gingham_black",
+      "ars_nouveau:blank_thread",
+      "extradelight:warped_molded_magenta_wallpaper",
+      "create:crafting/logistics/white_table_cloth",
+      "ars_additions:crafting/stonecutter/sourcestone_chain_0",
+      "extradelight:dark_oak_molded_yellow_wallpaper",
+      "ars_additions:crafting/lanterns/golden_lantern",
+      "ars_nouveau:manipulation_essence_to_grass_block",
+      "ars_additions:crafting/stonecutter/sourcestone_chain_1",
+      "extradelight:spruce_molded_light_blue_wallpaper",
+      "minecraft:golden_hoe",
+      "ars_nouveau:stripped_purple_archwood_wood",
+      "ars_nouveau:archwood_sconce",
+      "extradelight:gingham_lime",
+      "ars_nouveau:sourcestone_sconce",
+      "extradelight:gingham_brown",
+      "ars_nouveau:ritual_challenge",
+      "create:crafting/logistics/powered_latch",
+      "minecraft:wooden_pickaxe",
+      "ars_additions:crafting/revert/cracked_sourcestone_to_sourcestone",
+      "ars_nouveau:enchanting_apparatus",
+      "ars_nouveau:smooth_sourcestone_large_bricks_stone_cutterslab",
+      "solcarrot:food_book",
+      "ars_nouveau:purple_sbed",
+      "ars_nouveau:clear_wixie_charm",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_slab",
+      "ars_nouveau:sourcestone_stairs",
+      "extradelight:fruit_molded_gray_wallpaper",
+      "ars_nouveau:challenge_2",
+      "ars_nouveau:smooth_sourcestone_basketweave_stonecutter_stair",
+      "securitycraft:reinforced_piston",
+      "extradelight:cinnamon_molded_lime_wallpaper",
+      "extradelight:jungle_molded_black_wallpaper",
+      "create:crafting/logistics/orange_table_cloth",
+      "farmingforblockheads:market",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_stone_cutterslab",
+      "ars_nouveau:ritual_conjure_island_desert",
+      "ars_nouveau:smooth_sourcestone_alternating_stonecutter_stair",
+      "ars_nouveau:smooth_sourcestone_mosaic_to_sourcestone",
+      "starbunclemania:chef_hat",
+      "extradelight:crimson_step_stool",
+      "extradelight:ribbon_bow_white",
+      "createaddition:crafting/redstone_relay",
+      "securitycraft:username_logger",
+      "securitycraft:reinforced_dark_oak_fence_gate",
+      "extradelight:cinnamon_molded_gray_wallpaper",
+      "starbunclemania:robin_mask",
+      "comforts:sleeping_bag_white",
+      "ars_nouveau:gilded_sourcestone_basketweave_stonecutter_stair",
+      "extradelight:cherry_molded_pink_wallpaper",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_stonecutter_stair",
+      "ars_nouveau:ritual_overgrowth",
+      "extradelight:gingham_carpet_yellow",
+      "extradelight:oak_molded_red_wallpaper",
+      "ars_nouveau:sourcestone_alternating_stairs",
+      "securitycraft:keypad_frame",
+      "ars_nouveau:alteration_table",
+      "ars_nouveau:manipulation_essence_to_diorite",
+      "minecraft:flint_and_steel",
+      "ars_nouveau:dull_trinket",
+      "ars_nouveau:clear_starbuncle_charm",
+      "extradelight:cinnamon_molded_orange_wallpaper",
+      "extradelight:cherry_molded_cyan_wallpaper",
+      "minecraft:red_gingham_carpet_from_block",
+      "extradelight:oak_step_stool",
+      "ars_elemental:flight_alt",
+      "ars_nouveau:gilded_sourcestone_basketweave_stairs",
+      "ars_nouveau:archwood_to_chest",
+      "ars_additions:crafting/lanterns/reversed_polished_sourcestone_lantern",
+      "ars_nouveau:spike_to_dye",
+      "extradelight:jungle_molded_lime_wallpaper",
+      "extradelight:gingham_light_blue",
+      "ars_additions:crafting/lanterns/magelight_lantern",
+      "extradelight:oak_molded_yellow_wallpaper",
+      "ars_nouveau:water_essence_to_obsidian",
+      "ars_nouveau:ritual_moonfall",
+      "create:crafting/kinetics/blue_seat",
+      "ars_nouveau:ritual_gravity",
+      "compressedblocks:shaped_crated_feather",
+      "ars_nouveau:sconce",
+      "farmersdelight:barbecue_stick",
+      "extradelight:jungle_molded_orange_wallpaper",
+      "extradelight:omelette_mix_meat",
+      "extradelight:dark_oak_molded_cyan_wallpaper",
+      "extradelight:cooking/oven/jalapeno_popper",
+      "ars_nouveau:mirrorweave",
+      "ars_nouveau:sky_block",
+      "ars_nouveau:arcane_platform",
+      "minecraft:golden_axe",
+      "extradelight:cooking/oven/fat_potatoes",
+      "ars_nouveau:sourcestone_alternating_slab",
+      "extradelight:cherry_step_stool",
+      "compressedblocks:shaped_crated_oak_sapling",
+      "ars_nouveau:manipulation_essence_to_flourishing_sapling",
+      "ars_nouveau:sourcestone_small_bricks_stone_cutterslab",
+      "extradelight:cinnamon_molded_light_gray_wallpaper",
+      "ars_elemental:curio_bag",
+      "securitycraft:reinforced_dark_oak_fence",
+      "extradelight:gingham_carpet_light_gray",
+      "ars_nouveau:imbuement_chamber",
+      "brewinandchewin:fermenting/jerky",
+      "create:crafting/kinetics/magenta_seat",
+      "ars_nouveau:ritual_scrying",
+      "securitycraft:reinforced_chiseled_bookshelf",
+      "create:crafting/kinetics/light_blue_seat",
+      "extradelight:cherry_molded_magenta_wallpaper",
+      "ars_elemental:advanced_prism",
+      "fruitsdelight:apple_crate",
+      "create:crafting/kinetics/gray_seat",
+      "minecraft:clock",
+      "create:crafting/kinetics/brown_seat",
+      "extradelight:dark_oak_molded_light_gray_wallpaper",
+      "ars_nouveau:smooth_sourcestone_small_bricks_stonecutter_stair",
+      "securitycraft:portable_tune_player",
+      "starbunclemania:sea_bunny",
+      "extradelight:cherry_molded_light_gray_wallpaper",
+      "extradelight:ribbon_bow_purple",
+      "ars_nouveau:alchemical_sourcelink",
+      "ars_additions:crafting/lanterns/golden_magelight_lantern",
+      "extradelight:dark_oak_molded_lime_wallpaper",
+      "ars_nouveau:smooth_sourcestone_basketweave_stairs",
+      "extradelight:birch_molded_cyan_wallpaper",
+      "compressedblocks:shaped_c0_white_wool",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_door_0",
+      "ars_nouveau:redstone_relay",
+      "extradelight:acacia_step_stool",
+      "extradelight:fruit_molded_green_wallpaper",
+      "ars_nouveau:sourcestone_small_bricks_stairs",
+      "ars_nouveau:sourcestone_stone_cutterslab",
+      "ars_nouveau:manipulation_essence_to_cascading_sapling",
+      "ars_nouveau:smooth_sourcestone_basketweave_slab",
+      "minecraft:lectern",
+      "extradelight:crimson_molded_light_gray_wallpaper",
+      "extradelight:fruit_molded_purple_wallpaper",
+      "extradelight:cooking/oven/apple_pie",
+      "minecraft:golden_sword",
+      "ars_nouveau:gilded_sourcestone_basketweave_slab",
+      "ars_nouveau:clear_whirlisprig_charm",
+      "extradelight:mangrove_molded_brown_wallpaper",
+      "extradelight:fruit_molded_brown_wallpaper",
+      "extradelight:spruce_molded_lime_wallpaper",
+      "securitycraft:sonic_security_system",
+      "minecraft:golden_pickaxe",
+      "minecraft:chiseled_bookshelf",
+      "ars_elemental:ritual_archwood_forest",
+      "minecraft:ladder",
+      "extradelight:warped_molded_cyan_wallpaper",
+      "extradelight:dark_oak_molded_pink_wallpaper",
+      "ars_nouveau:archwood_pressure_plate",
+      "extradelight:bamboo_molded_blue_wallpaper",
+      "ars_nouveau:archwood_door",
+      "minecraft:redstone_torch",
+      "ars_nouveau:gilded_sourcestone_alternating_slab",
+      "ars_additions:crafting/lanterns/reversed_sourcestone_lantern",
+      "extradelight:bamboo_molded_magenta_wallpaper",
+      "minecraft:target",
+      "ars_nouveau:manipulation_essence_to_vexing_sapling",
+      "extradelight:apple_to_block",
+      "starbunclemania:fluid_jar",
+      "extradelight:mangrove_molded_light_gray_wallpaper",
+      "extradelight:wallpaper_brown",
+      "extradelight:cinnamon_step_stool",
+      "ars_nouveau:magelight_torch",
+      "ars_nouveau:stripped_blue_archwood_wood",
+      "extradelight:warped_molded_yellow_wallpaper",
+      "extradelight:cinnamon_molded_magenta_wallpaper",
+      "extradelight:crimson_molded_magenta_wallpaper",
+      "constructionstick:template_battery",
+      "ars_nouveau:archwood_trapdoor",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_button_0",
+      "ars_nouveau:manipulation_essence_to_calcite",
+      "ars_nouveau:rotating_spell_turret",
+      "extradelight:mangrove_molded_green_wallpaper",
+      "extradelight:gingham_orange",
+      "ars_nouveau:item_detector",
+      "crabbersdelight:crab_trap",
+      "constructionstick:wooden_stick",
+      "minecraft:baked_potato_from_smoking",
+      "compressedblocks:shaped_crated_stick",
+      "extradelight:jungle_molded_red_wallpaper",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_stone_cutterslab",
+      "extradelight:mangrove_molded_blue_wallpaper",
+      "minecraft:book",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_stone_cutterslab",
+      "minecraft:light_blue_gingham_carpet_from_block",
+      "securitycraft:reinforced_crimson_fence",
+      "minecraft:wooden_shovel",
+      "extradelight:dark_oak_molded_light_blue_wallpaper",
+      "ars_nouveau:smooth_sourcestone_to_sourcestone",
+      "ars_nouveau:gilded_sourcestone_small_bricks_stairs",
+      "compressedblocks:shaped_crated_potato",
+      "extradelight:oak_molded_blue_wallpaper",
+      "ars_elemental:sparkflower_to_glowstone",
+      "compressedblocks:shaped_c0_red_wool",
+      "ars_nouveau:scribes_table",
+      "starbunclemania:drygmy_horns",
+      "extradelight:jungle_molded_pink_wallpaper",
+      "extradelight:oak_molded_orange_wallpaper",
+      "extradelight:spruce_molded_pink_wallpaper",
+      "create:crafting/logistics/green_table_cloth",
+      "extradelight:oak_molded_brown_wallpaper",
+      "compressedblocks:shaped_crated_apple",
+      "compressedblocks:shaped_crated_dandelion",
+      "silentgear:blueprint_paper",
+      "extradelight:cinnamon_molded_white_wallpaper",
+      "securitycraft:portable_radar",
+      "ars_nouveau:annotated_codex",
+      "extradelight:warped_molded_brown_wallpaper",
+      "extradelight:jungle_step_stool",
+      "create:crafting/logistics/red_table_cloth",
+      "ars_nouveau:sourcestone_mosaic_stairs",
+      "extradelight:acacia_molded_purple_wallpaper",
+      "ars_nouveau:red_sbed",
+      "extradelight:acacia_molded_white_wallpaper",
+      "ars_nouveau:smooth_sourcestone_large_bricks_to_sourcestone",
+      "ars_additions:crafting/walls/cracked_sourcestone_wall",
+      "ars_nouveau:air_essence_to_snow_bucket",
+      "ars_nouveau:sourcestone_small_bricks_slab",
+      "extradelight:crimson_molded_green_wallpaper",
+      "ars_nouveau:ritual_sanctuary",
+      "extradelight:bamboo_molded_black_wallpaper",
+      "farmersdelight:gold_nugget_from_blasting_knife",
+      "ars_additions:crafting/lanterns/sourcestone_magelight_lantern",
+      "silentgear:crude_tool_parts",
+      "compressedblocks:shaped_crated_book",
+      "minecraft:chest",
+      "create:crafting/logistics/blue_table_cloth",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_stairs",
+      "extradelight:mangrove_molded_orange_wallpaper",
+      "extradelight:cherry_molded_gray_wallpaper",
+      "extradelight:cooking/oven/apple_crisp_feast",
+      "ars_nouveau:gilded_sourcestone_mosaic_to_sourcestone",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_slab",
+      "create:crafting/logistics/light_gray_table_cloth",
+      "ars_nouveau:clear_amethyst_golem_charm",
+      "ars_elemental:ritual_squirrels",
+      "extradelight:crimson_molded_pink_wallpaper",
+      "ars_nouveau:archwood_stairs",
+      "starbunclemania:fluid_scroll_allow",
+      "extradelight:chili_to_block",
+      "minecraft:red_bed",
+      "constructionstick:smithing_upgrade/iron_stick_with_template_angel",
+      "extradelight:gingham_carpet_green",
+      "ars_additions:crafting/buttons/polished_sourcestone_button",
+      "farmersdelight:cooking/dumplings",
+      "minecraft:golden_shovel",
+      "ars_nouveau:dowsing_rod",
+      "extradelight:gingham_carpet_orange",
+      "extradelight:acacia_molded_light_blue_wallpaper",
+      "extradelight:acacia_molded_red_wallpaper",
+      "ars_additions:crafting/chains/golden_chain",
+      "extradelight:gingham_carpet_lime",
+      "extradelight:birch_molded_pink_wallpaper",
+      "extradelight:fruit_molded_white_wallpaper",
+      "extradelight:ribbon_bow_lime",
+      "extradelight:oak_molded_white_wallpaper",
+      "ars_additions:crafting/revert/cracked_polished_sourcestone_to_sourcestone",
+      "securitycraft:reinforced_mangrove_fence",
+      "extradelight:spruce_molded_purple_wallpaper",
+      "ars_nouveau:gilded_sourcestone_large_bricks_stonecutter_stair",
+      "extradelight:spruce_molded_yellow_wallpaper",
+      "create:crafting/logistics/pulse_repeater",
+      "ars_nouveau:arcane_pedestal",
+      "extradelight:warped_molded_pink_wallpaper",
+      "extradelight:crimson_molded_lime_wallpaper",
+      "create:crafting/logistics/magenta_table_cloth",
+      "extradelight:warped_molded_purple_wallpaper",
+      "ars_nouveau:spike_to_arrow",
+      "extradelight:cinnamon_molded_blue_wallpaper",
+      "ars_nouveau:manipulation_essence_to_deepslate",
+      "extradelight:bamboo_molded_green_wallpaper",
+      "extradelight:cherry_molded_lime_wallpaper",
+      "ars_additions:crafting/stonecutter/sourcestone_2",
+      "ars_additions:crafting/stonecutter/sourcestone_1",
+      "ars_additions:crafting/stonecutter/sourcestone_0",
+      "extradelight:cooking/oven/apple_cookie",
+      "ars_additions:crafting/stonecutter/sourcestone_5",
+      "ars_additions:crafting/stonecutter/sourcestone_4",
+      "ars_additions:crafting/stonecutter/sourcestone_3",
+      "extradelight:cherry_molded_black_wallpaper",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_to_sourcestone",
+      "minecraft:golden_chestplate",
+      "extradelight:bamboo_molded_brown_wallpaper",
+      "ars_nouveau:relay",
+      "extradelight:omelette_mix_mix",
+      "ars_nouveau:archwood_grate",
+      "securitycraft:universal_key_changer",
+      "ars_nouveau:conjuration_essence_to_end_stone",
+      "ars_nouveau:reset_stable_warp_scroll",
+      "ars_additions:crafting/stonecutter/cracked_polished_sourcestone_wall_0",
+      "ars_nouveau:ring_of_potential",
+      "ars_nouveau:ritual_flowering",
+      "extradelight:cooking/oven/apple_pie_stewed",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_stonecutter_stair",
+      "ars_additions:crafting/doors/sourcestone_door",
+      "minecraft:brown_gingham_carpet_from_block",
+      "securitycraft:reinforced_redstone_lamp",
+      "ars_nouveau:source_gem_block",
+      "compressedblocks:shaped_crated_white_carpet",
+      "extradelight:oak_molded_light_blue_wallpaper",
+      "extradelight:birch_molded_gray_wallpaper",
+      "ars_additions:crafting/walls/sourcestone_wall",
+      "extradelight:crimson_molded_gray_wallpaper",
+      "starbunclemania:star_miner",
+      "ars_additions:crafting/revert/cracked_polished_sourcestone_small_bricks_to_sourcestone",
+      "extradelight:omelette_mix_veg_cheese",
+      "create:crafting/logistics/brown_table_cloth",
+      "extradelight:cherry_molded_white_wallpaper",
+      "extradelight:wallpaper_orange",
+      "ars_nouveau:stripped_green_archwood_wood",
+      "extradelight:gingham_light_gray",
+      "ars_nouveau:wing_to_leather",
+      "ars_nouveau:smooth_sourcestone_alternating_stone_cutterslab",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_stonecutter_stair",
+      "extradelight:dark_oak_step_stool",
+      "ars_nouveau:smooth_sourcestone_large_bricks_stonecutter_stair",
+      "ars_nouveau:blue_sbed",
+      "extradelight:fruit_molded_blue_wallpaper",
+      "ars_nouveau:ghostweave",
+      "minecraft:magenta_gingham_carpet_from_block",
+      "extradelight:acacia_molded_blue_wallpaper",
+      "ars_additions:clear_xp_jar",
+      "ars_nouveau:worn_notebook",
+      "ars_nouveau:smooth_gilded_sourcestone_small_bricks_stone_cutterslab",
+      "securitycraft:reinforced_jungle_fence",
+      "extradelight:warped_molded_white_wallpaper",
+      "extradelight:gingham_red",
+      "ars_additions:crafting/revert/cracked_sourcestone_large_bricks_to_sourcestone",
+      "extradelight:fruit_molded_yellow_wallpaper",
+      "extradelight:acacia_molded_black_wallpaper",
+      "ars_elemental:stripped_yellow_archwood",
+      "ars_nouveau:repository_controller",
+      "ars_nouveau:gilded_sourcestone_alternating_stairs",
+      "extradelight:birch_molded_lime_wallpaper",
+      "extradelight:cherry_molded_red_wallpaper",
+      "ars_nouveau:manipulation_essence_to_andesite",
+      "starbunclemania:direction_scroll",
+      "minecraft:red_carpet",
+      "ars_nouveau:smooth_sourcestone_stonecutter_stair",
+      "extradelight:acacia_molded_yellow_wallpaper",
+      "minecraft:wooden_hoe",
+      "securitycraft:taser",
+      "ars_nouveau:sourceberry_sack",
+      "ars_nouveau:ritual_cloudshaping",
+      "ars_nouveau:clear_alakarkinos_charm",
+      "create:crafting/materials/red_sand_paper",
+      "ars_nouveau:mycelial_sourcelink",
+      "compressedblocks:shaped_crated_paper",
+      "ars_nouveau:manipulation_essence_to_blazin_sapling",
+      "farmersdelight:cutting_board",
+      "securitycraft:panic_button",
+      "farmersdelight:cooking/dog_food",
+      "ars_additions:crafting/trapdoors/polished_sourcestone_trapdoor",
+      "minecraft:note_block",
+      "starbunclemania:clear_fluid_allow",
+      "ars_nouveau:sourcestone_large_bricks_stonecutter_stair",
+      "extradelight:fruit_molded_black_wallpaper",
+      "ars_nouveau:sourceberry_sack_to_bush",
+      "ars_nouveau:smooth_sourcestone_mosaic_stone_cutterslab",
+      "farmersdelight:organic_compost_from_rotten_flesh",
+      "securitycraft:reinforced_spruce_fence",
+      "waystones:blank_scroll",
+      "minecraft:piston",
+      "regions_unexplored:raw_redstone_block",
+      "ars_nouveau:gilded_sourcestone_mosaic_stone_cutterslab",
+      "ars_additions:crafting/stonecutter/sourcestone_trapdoor_0",
+      "ars_nouveau:ritual_disintegration",
+      "ars_additions:crafting/trapdoors/magebloom_carpet",
+      "minecraft:white_banner",
+      "arsdelight:source_berry_cookie",
+      "extradelight:offset_spatula_gold",
+      "extradelight:crimson_molded_cyan_wallpaper",
+      "ars_nouveau:manipulation_essence_to_moss_block",
+      "minecraft:wooden_axe",
+      "ars_nouveau:mimic_scroll",
+      "minecraft:white_carpet",
+      "ars_nouveau:ritual_warping",
+      "ars_nouveau:starbuncle_shades",
+      "farmersdelight:cooking/ratatouille",
+      "starbunclemania:star_build",
+      "extradelight:jungle_molded_cyan_wallpaper",
+      "ars_nouveau:sourcestone_alternating_stonecutter_stair",
+      "ars_additions:ritual/ritual_locate_structure",
+      "ars_nouveau:void_prism",
+      "extradelight:crimson_molded_orange_wallpaper",
+      "handcrafted:stackable_book",
+      "create:crafting/logistics/powered_toggle_latch",
+      "ars_nouveau:ritual_binding",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_stairs",
+      "extradelight:jungle_molded_yellow_wallpaper",
+      "extradelight:gingham_carpet_black",
+      "extradelight:bamboo_molded_gray_wallpaper",
+      "minecraft:gold_nugget",
+      "extradelight:fruit_molded_orange_wallpaper",
+      "create:crafting/logistics/pink_table_cloth",
+      "ars_nouveau:gilded_sourcestone_alternating_to_sourcestone",
+      "extradelight:cinnamon_molded_black_wallpaper",
+      "ars_additions:crafting/lanterns/archwood_magelight_lantern",
+      "extradelight:crimson_molded_black_wallpaper",
+      "extradelight:acacia_molded_brown_wallpaper",
+      "ars_nouveau:manipulation_essence_to_tuff",
+      "create:crafting/kinetics/cyan_seat",
+      "extradelight:acacia_molded_orange_wallpaper",
+      "minecraft:cartography_table",
+      "securitycraft:alarm",
+      "ars_additions:crafting/stonecutter/cracked_sourcestone_wall_0",
+      "ars_nouveau:smooth_sourcestone_small_bricks_stone_cutterslab",
+      "extradelight:mangrove_molded_light_blue_wallpaper",
+      "ars_nouveau:gilded_sourcestone_small_bricks_to_sourcestone",
+      "farmingforblockheads:red_fertilizer",
+      "ars_nouveau:yellow_sbed",
+      "regions_unexplored:redstone_bud",
+      "comforts:sleeping_bag_red",
+      "starbunclemania:star_bin",
+      "extradelight:bamboo_molded_red_wallpaper",
+      "farmersdelight:flint_knife",
+      "extradelight:bamboo_molded_yellow_wallpaper",
+      "extradelight:gingham_carpet_blue",
+      "exposure:album",
+      "extradelight:warped_molded_orange_wallpaper",
+      "handcrafted:white_sheet",
+      "extradelight:fruit_molded_magenta_wallpaper",
+      "farmingforblockheads:feeding_trough",
+      "securitycraft:reinforced_warped_fence_gate",
+      "securitycraft:reinforced_crimson_fence_gate",
+      "ars_nouveau:magebloom_fiber",
+      "extradelight:cherry_molded_yellow_wallpaper",
+      "ars_nouveau:orange_sbed",
+      "ars_nouveau:experience_gem",
+      "minecraft:baked_potato",
+      "minecraft:fletching_table",
+      "compressedblocks:shaped_crated_rotten_flesh",
+      "extradelight:wallpaper_white",
+      "extradelight:birch_molded_magenta_wallpaper",
+      "extradelight:gingham_yellow",
+      "minecraft:red_banner",
+      "extradelight:wallpaper_light_gray",
+      "farmingforblockheads:yellow_fertilizer",
+      "exposure:photograph_frame",
+      "minecraft:golden_leggings",
+      "ars_nouveau:smooth_sourcestone_large_bricks_stairs",
+      "ars_nouveau:potion_jar",
+      "ars_nouveau:sourcestone_mosaic_stonecutter_stair",
+      "extradelight:cinnamon_molded_light_blue_wallpaper",
+      "ars_nouveau:repository",
+      "extradelight:birch_molded_orange_wallpaper",
+      "ars_additions:crafting/chains/archwood_chain",
+      "extradelight:ribbon_bow_blue",
+      "ars_nouveau:sourcestone_mosaic_stone_cutterslab",
+      "minecraft:dropper",
+      "minecraft:pink_gingham_carpet_from_block",
+      "farmersdelight:cooking/fried_rice",
+      "exposure:lightroom",
+      "ars_nouveau:ritual_forestation",
+      "extradelight:spruce_molded_white_wallpaper",
+      "extradelight:omelette_mix_mix_cheese",
+      "create:crafting/kinetics/yellow_seat",
+      "ars_nouveau:archwood_hanging_sign",
+      "ars_nouveau:sourcestone_large_bricks_stone_cutterslab",
+      "create:crafting/kinetics/lime_seat",
+      "minecraft:golden_helmet",
+      "extradelight:oak_molded_cyan_wallpaper",
+      "ars_nouveau:mob_jar",
+      "ars_additions:crafting/trapdoors/sourcestone_trapdoor",
+      "starbunclemania:whirli_prop",
+      "fruitsdelight:jam_bread",
+      "extradelight:fruit_molded_lime_wallpaper",
+      "extradelight:ribbon_bow_black",
+      "comforts:hammock_white",
+      "ars_nouveau:sourcestone_13",
+      "ars_nouveau:smooth_sourcestone_mosaic_stonecutter_stair",
+      "ars_nouveau:sourcestone_12",
+      "ars_nouveau:sourcestone_15",
+      "ars_nouveau:sourcestone_14",
+      "create:crafting/kinetics/green_seat",
+      "ars_nouveau:sourcestone_11",
+      "ars_nouveau:sourcestone_10",
+      "securitycraft:reinforced_spruce_fence_gate",
+      "extradelight:hanging_chili",
+      "create:crafting/kinetics/black_seat",
+      "ars_elemental:ritual_attraction",
+      "ars_elemental:yellow_archwood",
+      "create:crafting/schematics/schematic_and_quill",
+      "farmersdelight:cooking/vegetable_soup",
+      "minecraft:purple_gingham_carpet_from_block",
+      "securitycraft:reinforced_bamboo_fence_gate",
+      "handcrafted:red_cushion",
+      "ars_nouveau:source_jar",
+      "ars_nouveau:smooth_sourcestone_basketweave_stone_cutterslab",
+      "extradelight:bamboo_step_stool",
+      "ars_nouveau:scry_to_blank_parchment",
+      "handcrafted:red_sheet",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_stonecutter_stair",
+      "minecraft:painting",
+      "ars_elemental:ritual_archwood_forestation",
+      "ars_nouveau:bastion_to_purple",
+      "extradelight:oak_molded_purple_wallpaper",
+      "extradelight:wallpaper_blue",
+      "ars_nouveau:gilded_sourcestone_alternating_stonecutter_stair",
+      "extradelight:warped_molded_light_gray_wallpaper",
+      "minecraft:crafting_table",
+      "extradelight:cinnamon_molded_brown_wallpaper",
+      "extradelight:gingham_cyan",
+      "ars_nouveau:smooth_sourcestone_stone_cutterslab",
+      "compressedblocks:shaped_crated_bread",
+      "extradelight:acacia_molded_light_gray_wallpaper",
+      "extradelight:mangrove_molded_cyan_wallpaper",
+      "extradelight:wallpaper_yellow",
+      "ars_nouveau:fire_essence_to_charge",
+      "extradelight:ribbon_bow_pink",
+      "ars_additions:wayfinder",
+      "extradelight:mangrove_molded_white_wallpaper",
+      "extradelight:melting_pot",
+      "ars_nouveau:smooth_sourcestone_basketweave_to_sourcestone",
+      "extradelight:bamboo_molded_light_gray_wallpaper",
+      "extradelight:warped_molded_lime_wallpaper",
+      "ars_nouveau:warp_scroll",
+      "extradelight:mangrove_molded_magenta_wallpaper",
+      "biomeswevegone:golden_apple_from_green_apple",
+      "ars_nouveau:blank_parchment",
+      "terralith:dropper_alt",
+      "ars_additions:clear_advanced_dominion_wand",
+      "securitycraft:motion_activated_light",
+      "extradelight:cooking/oven/tarte_tatin_in_pan",
+      "ars_additions:crafting/lanterns/reversed_polished_sourcestone_magelight_lantern",
+      "ars_nouveau:sourcestone_basketweave_to_sourcestone",
+      "securitycraft:claymore",
+      "create:crafting/logistics/pulse_extender",
+      "ars_nouveau:ritual_fertility",
+      "extradelight:spruce_molded_red_wallpaper",
+      "ars_additions:crafting/lanterns/reversed_sourcestone_magelight_lantern",
+      "securitycraft:reinforced_bookshelf",
+      "etched:music_label",
+      "extradelight:cinnamon_molded_yellow_wallpaper",
+      "extradelight:warped_step_stool",
+      "minecraft:wooden_sword",
+      "extradelight:gingham_carpet_pink",
+      "extradelight:gingham_carpet_magenta",
+      "extradelight:crimson_molded_light_blue_wallpaper",
+      "ars_nouveau:magebloom_block",
+      "extradelight:warped_molded_green_wallpaper",
+      "ars_nouveau:archwood_planks",
+      "extradelight:mangrove_molded_black_wallpaper",
+      "ars_nouveau:sourcestone_stonecutter_stair",
+      "create:crafting/logistics/pulse_timer",
+      "waystones:return_scroll",
+      "extradelight:oak_molded_green_wallpaper",
+      "extradelight:jungle_molded_gray_wallpaper",
+      "ars_nouveau:smooth_sourcestone_grate",
+      "extradelight:warped_molded_gray_wallpaper",
+      "extradelight:bamboo_molded_white_wallpaper",
+      "ars_nouveau:sourcestone_large_bricks_slab",
+      "extradelight:crimson_molded_brown_wallpaper",
+      "extradelight:ribbon_bow_brown",
+      "ars_nouveau:gilded_sourcestone_alternating_stone_cutterslab",
+      "ars_nouveau:gilded_sourcestone_mosaic_stonecutter_stair",
+      "extradelight:wallpaper_lime",
+      "extradelight:ribbon_bow_yellow",
+      "extradelight:cherry_molded_green_wallpaper",
+      "ars_nouveau:source_lamp",
+      "create:crafting/logistics/lime_table_cloth",
+      "ars_additions:crafting/chains/reversed_polished_sourcestone_chain",
+      "constructionstick:smithing_upgrade/wooden_stick_with_template_angel",
+      "minecraft:redstone_block",
+      "extradelight:gingham_white",
+      "starbunclemania:fluid_sourcelink",
+      "ars_nouveau:wipe_spell_parchment",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_to_sourcestone",
+      "ars_nouveau:green_archwood_wood",
+      "ars_elemental:ritual_repulsion",
+      "extradelight:acacia_molded_magenta_wallpaper",
+      "extradelight:dark_oak_molded_purple_wallpaper",
+      "extradelight:drying/jerky",
+      "ars_nouveau:reset_warp_scroll",
+      "ars_additions:crafting/lanterns/archwood_lantern",
+      "ars_nouveau:sourcestone_basketweave_stonecutter_stair",
+      "ars_nouveau:rotating_turret_to_basic_spell_turret",
+      "extradelight:gingham_purple",
+      "extradelight:cinnamon_molded_red_wallpaper",
+      "ars_nouveau:sourcestone_20",
+      "ars_nouveau:sourcestone_21",
+      "ars_elemental:spore_blossom_up",
+      "ars_additions:clear_handy_haversack",
+      "ars_nouveau:sourcestone_17",
+      "arsdelight:source_berry_crate",
+      "ars_nouveau:sourcestone_16",
+      "ars_nouveau:sourcestone_19",
+      "ars_nouveau:sourcestone_18",
+      "securitycraft:reinforced_oak_fence_gate",
+      "minecraft:compass",
+      "ars_nouveau:smooth_sourcestone_alternating_stairs",
+      "farmersdelight:gold_nugget_from_smelting_knife",
+      "extradelight:mortar/dye_yellow",
+      "ars_nouveau:falseweave",
+      "securitycraft:reinforced_warped_fence",
+      "ars_nouveau:horn_to_bonemeal",
+      "ars_nouveau:novice_spell_book",
+      "starbunclemania:star_battery",
+      "extradelight:bamboo_molded_lime_wallpaper",
+      "starbunclemania:fluid_scroll_deny",
+      "extradelight:gingham_gray",
+      "extradelight:birch_molded_red_wallpaper",
+      "create:crafting/kinetics/pink_seat",
+      "ars_elemental:alt_blossom",
+      "ars_nouveau:source_berry_pie",
+      "minecraft:white_gingham_carpet_from_block",
+      "ars_nouveau:smooth_sourcestone_small_bricks_slab",
+      "ars_additions:crafting/stonecutter/sourcestone_door_0",
+      "ars_nouveau:sunrise_2",
+      "minecraft:arrow",
+      "exposure:glass_photograph_frame",
+      "extradelight:wallpaper_magenta",
+      "extradelight:oak_molded_light_gray_wallpaper",
+      "minecraft:gray_gingham_carpet_from_block",
+      "ars_nouveau:ritual_containment",
+      "compressedblocks:shaped_crated_yellow_carpet",
+      "extradelight:ribbon_bow_light_blue",
+      "ars_nouveau:basic_spell_turret",
+      "ars_nouveau:vitalic_sourcelink",
+      "securitycraft:cage_trap",
+      "ars_nouveau:sourcestone_small_bricks_stonecutter_stair",
+      "extradelight:crimson_molded_yellow_wallpaper",
+      "securitycraft:universal_block_reinforcer_lvl2",
+      "securitycraft:universal_block_reinforcer_lvl3",
+      "securitycraft:universal_block_reinforcer_lvl1",
+      "extradelight:dark_oak_molded_red_wallpaper",
+      "ars_nouveau:ritual_burrowing",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_stairs",
+      "extradelight:gingham_carpet_cyan",
+      "ars_nouveau:frostaya_to_light_blue",
+      "ars_nouveau:polished_source_sconce",
+      "extradelight:birch_molded_green_wallpaper",
+      "extradelight:dark_oak_molded_brown_wallpaper",
+      "extradelight:cherry_molded_orange_wallpaper",
+      "securitycraft:reinforced_dropper",
+      "minecraft:lime_gingham_carpet_from_block",
+      "ars_nouveau:magebloom_block_to_magebloom",
+      "ars_nouveau:gilded_sourcestone_large_bricks_stairs",
+      "silentgear:emerald_from_shards",
+      "ars_nouveau:ritual_flight",
+      "ars_nouveau:greater_experience_gem",
+      "ars_nouveau:ritual_conjure_island_plains",
+      "extradelight:gingham_magenta",
+      "ars_nouveau:gilded_sourcestone_small_bricks_stone_cutterslab",
+      "extradelight:birch_molded_brown_wallpaper",
+      "ars_nouveau:smooth_sourcestone_mosaic_stairs",
+      "extradelight:spruce_molded_magenta_wallpaper",
+      "extradelight:acacia_molded_gray_wallpaper",
+      "securitycraft:reinforced_acacia_fence_gate",
+      "extradelight:mangrove_molded_pink_wallpaper",
+      "extradelight:bamboo_molded_pink_wallpaper",
+      "ars_nouveau:gilded_sourcestone_small_bricks_stonecutter_stair",
+      "create:crafting/kinetics/red_seat",
+      "compressedblocks:shaped_crated_wheat_seeds",
+      "extradelight:dark_oak_molded_orange_wallpaper",
+      "farmersdelight:cooking/apple_cider",
+      "ars_nouveau:smooth_sourcestone_mosaic_slab",
+      "ars_nouveau:smooth_sourcestone_alternating_slab",
+      "extradelight:dark_oak_molded_blue_wallpaper",
+      "ars_nouveau:archwood_chest",
+      "ars_nouveau:clear_starbuncle_shard",
+      "extradelight:dark_oak_molded_magenta_wallpaper",
+      "ars_nouveau:purple_archwood_wood",
+      "extradelight:birch_molded_purple_wallpaper",
+      "ars_additions:crafting/stonecutter/sourcestone_wall_0",
+      "extradelight:gingham_carpet_brown",
+      "ars_nouveau:gilded_sourcestone_large_bricks_slab",
+      "ars_nouveau:novice_spellbook_alt",
+      "securitycraft:reinforced_birch_fence_gate",
+      "create:crafting/kinetics/orange_seat",
+      "ars_nouveau:blue_archwood_wood",
+      "ars_nouveau:smooth_sourcestone_slab",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_wall_0",
+      "constructionstick:smithing_upgrade/diamond_stick_with_template_angel",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_stairs",
+      "brewinandchewin:cooking/apple_jelly",
+      "constructionstick:smithing_upgrade/netherite_stick_with_template_angel",
+      "ars_nouveau:potion_jar_empty",
+      "extradelight:gingham_carpet_gray",
+      "extradelight:mangrove_molded_lime_wallpaper",
+      "extradelight:cherry_molded_blue_wallpaper",
+      "extradelight:crimson_molded_white_wallpaper",
+      "ars_nouveau:clear_allow",
+      "ars_nouveau:magebloom_to_pink",
+      "ars_elemental:flashing_sapling",
+      "extradelight:ribbon_bow_orange",
+      "constructionstick:template_angel",
+      "extradelight:crimson_molded_purple_wallpaper",
+      "minecraft:blue_gingham_carpet_from_block",
+      "extradelight:jungle_molded_light_blue_wallpaper",
+      "extradelight:jungle_molded_brown_wallpaper",
+      "ars_nouveau:smooth_sourcestone_alternating_to_sourcestone",
+      "extradelight:mangrove_molded_purple_wallpaper",
+      "minecraft:green_gingham_carpet_from_block",
+      "extradelight:warped_molded_light_blue_wallpaper",
+      "createaddition:crafting/electrum_amulet",
+      "minecraft:bookshelf",
+      "ars_nouveau:source_gem_block_2",
+      "extradelight:wallpaper_light_blue",
+      "extradelight:spruce_molded_blue_wallpaper",
+      "extradelight:ribbon_bow_gray",
+      "minecraft:yellow_gingham_carpet_from_block",
+      "ars_nouveau:ritual_awakening",
+      "ars_nouveau:bombegranate_to_orange",
+      "ars_nouveau:sourcestone_mosaic_slab",
+      "extradelight:oak_molded_pink_wallpaper",
+      "extradelight:cherry_molded_light_blue_wallpaper",
+      "ars_nouveau:sourcestone",
+      "ars_nouveau:gold_grate",
+      "securitycraft:reinforced_jungle_fence_gate",
+      "ars_nouveau:agronomic_sourcelink",
+      "create:crafting/logistics/light_blue_table_cloth",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_stone_cutterslab",
+      "extradelight:cinnamon_molded_green_wallpaper",
+      "farmersdelight:onion_crate",
+      "create:crafting/kinetics/purple_seat",
+      "ars_nouveau:sourcestone_basketweave_stairs",
+      "extradelight:dark_oak_molded_green_wallpaper",
+      "minecraft:white_bed",
+      "extradelight:dark_oak_molded_white_wallpaper",
+      "ars_nouveau:clear_drygmy_charm",
+      "create:crafting/kinetics/white_seat",
+      "extradelight:spruce_molded_green_wallpaper",
+      "extradelight:gold_spoon",
+      "ars_nouveau:ritual_wilden_summon",
+      "securitycraft:reinforced_mangrove_fence_gate",
+      "regions_unexplored:oak_shrub",
+      "extradelight:jungle_molded_blue_wallpaper",
+      "extradelight:warped_molded_blue_wallpaper",
+      "ars_nouveau:smooth_sourcestone_large_bricks_slab",
+      "ars_nouveau:sourcestone_8",
+      "ars_nouveau:sourcestone_7",
+      "ars_nouveau:sourcestone_mosaic_to_sourcestone",
+      "ars_nouveau:manipulation_essence_to_granite",
+      "ars_nouveau:sourcestone_9",
+      "ars_nouveau:sourcestone_4",
+      "ars_nouveau:sourcestone_3",
+      "ars_nouveau:sourcestone_6",
+      "minecraft:baked_potato_from_campfire_cooking",
+      "ars_nouveau:sourcestone_5",
+      "extradelight:birch_step_stool",
+      "ars_nouveau:sourcestone_2",
+      "ars_nouveau:runic_chalk",
+      "ars_nouveau:sourcestone_1",
+      "extradelight:crimson_molded_blue_wallpaper",
+      "extradelight:ribbon_bow_green",
+      "ars_nouveau:smooth_gilded_sourcestone_alternating_slab",
+      "extradelight:fruit_step_stool",
+      "constructionstick:smithing_upgrade/copper_stick_with_template_angel",
+      "brewinandchewin:fermenting/vodka_from_water",
+      "ars_nouveau:wilden_summon_alt",
+      "extradelight:wallpaper_purple",
+      "extradelight:gingham_pink",
+      "minecraft:light_weighted_pressure_plate",
+      "ars_additions:crafting/walls/polished_sourcestone_wall",
+      "extradelight:jungle_molded_magenta_wallpaper",
+      "minecraft:light_gray_gingham_carpet_from_block",
+      "minecraft:black_gingham_carpet_from_block",
+      "extradelight:spruce_step_stool",
+      "extradelight:cinnamon_molded_purple_wallpaper",
+      "handcrafted:white_cushion",
+      "extradelight:mangrove_molded_yellow_wallpaper",
+      "extradelight:wallpaper_gray",
+      "extradelight:crimson_molded_red_wallpaper",
+      "extradelight:spruce_molded_orange_wallpaper",
+      "securitycraft:reinforced_oak_fence",
+      "extradelight:spruce_molded_light_gray_wallpaper",
+      "extradelight:birch_molded_white_wallpaper",
+      "extradelight:spruce_molded_brown_wallpaper",
+      "starbunclemania:wyrm_degree",
+      "compressedblocks:shaped_crated_flint",
+      "ars_nouveau:allow_scroll",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_slab",
+      "extradelight:bamboo_molded_cyan_wallpaper",
+      "extradelight:cinnamon_molded_pink_wallpaper",
+      "extradelight:bamboo_molded_light_blue_wallpaper",
+      "extradelight:oak_molded_magenta_wallpaper",
+      "extradelight:birch_molded_yellow_wallpaper",
+      "compressedblocks:shaped_crated_cooked_beef",
+      "ars_nouveau:sourcestone_large_bricks_stairs",
+      "extradelight:gingham_carpet_purple",
+      "ars_nouveau:scryers_crystal",
+      "extradelight:birch_molded_light_gray_wallpaper",
+      "compressedblocks:shaped_c0_obsidian",
+      "ars_nouveau:sourceberry_to_purple",
+      "extradelight:spruce_molded_black_wallpaper",
+      "ars_nouveau:moonfall_2",
+      "extradelight:jungle_molded_purple_wallpaper",
+      "ars_nouveau:archwood_button",
+      "ars_nouveau:clear_deny",
+      "create:crafting/logistics/black_table_cloth",
+      "extradelight:warped_molded_red_wallpaper",
+      "extradelight:birch_molded_blue_wallpaper",
+      "extradelight:fruit_molded_red_wallpaper",
+      "extradelight:mangrove_step_stool",
+      "ars_additions:crafting/walls/cracked_polished_sourcestone_wall",
+      "ars_nouveau:gilded_sourcestone_large_bricks_stone_cutterslab",
+      "ars_nouveau:deny_scroll",
+      "extradelight:acacia_molded_cyan_wallpaper",
+      "ars_nouveau:sourcestone_large_bricks_to_sourcestone",
+      "ars_nouveau:gilded_sourcestone_basketweave_to_sourcestone",
+      "extradelight:jalapeno_stuffed_potato_full",
+      "starbunclemania:star_hat",
+      "ars_nouveau:mundane_belt",
+      "extradelight:mangrove_molded_gray_wallpaper",
+      "extradelight:ribbon_bow_cyan",
+      "extradelight:bamboo_molded_orange_wallpaper",
+      "ars_nouveau:sourcestone_grate",
+      "extradelight:gingham_green",
+      "ars_nouveau:ritual_sunrise",
+      "ars_nouveau:stripped_red_archwood_wood",
+      "extradelight:fruit_molded_light_gray_wallpaper",
+      "extradelight:fruit_molded_cyan_wallpaper",
+      "starbunclemania:source_condenser",
+      "extradelight:jungle_molded_green_wallpaper",
+      "ars_elemental:ritual_tesla_coil",
+      "create_connected:crafting/kinetics/brake",
+      "ars_additions:crafting/revert/cracked_sourcestone_small_bricks_to_sourcestone",
+      "ars_nouveau:ritual_restoration",
+      "extradelight:cinnamon_molded_cyan_wallpaper",
+      "ars_nouveau:clear_bookwyrm_charm",
+      "create:crafting/logistics/gray_table_cloth",
+      "ars_additions:crafting/lanterns/sourcestone_lantern",
+      "ars_nouveau:smooth_gilded_sourcestone_large_bricks_to_sourcestone",
+      "ars_elemental:ritual_detection",
+      "ars_nouveau:smooth_sourcestone_small_bricks_stairs",
+      "ars_nouveau:ritual_harvest",
+      "ars_additions:crafting/stonecutter/polished_sourcestone_trapdoor_0",
+      "extradelight:ribbon_bow_red",
+      "extradelight:gingham_carpet_light_blue",
+      "minecraft:enchanting_table",
+      "ars_nouveau:gilded_sourcestone_basketweave_stone_cutterslab",
+      "ars_nouveau:archwood_slab",
+      "create:crafting/logistics/cyan_table_cloth",
+      "ars_nouveau:smooth_gilded_sourcestone_mosaic_to_sourcestone",
+      "extradelight:mangrove_molded_red_wallpaper",
+      "minecraft:gold_block",
+      "extradelight:fruit_molded_pink_wallpaper",
+      "starbunclemania:clear_fluid_deny",
+      "minecraft:campfire",
+      "ars_nouveau:gilded_sourcestone_large_bricks_to_sourcestone",
+      "ars_nouveau:volcanic_sourcelink",
+      "extradelight:wallpaper_pink",
+      "securitycraft:reinforced_birch_fence",
+      "extradelight:gingham_carpet_red",
+      "extradelight:oak_molded_lime_wallpaper",
+      "magnumtorch:emerald_magnum_torch",
+      "minecraft:cyan_gingham_carpet_from_block",
+      "extradelight:oak_molded_gray_wallpaper",
+      "ars_nouveau:sourcestone_alternating_stone_cutterslab",
+      "ars_nouveau:gilded_sourcestone_mosaic_slab",
+      "ars_nouveau:wixie_hat",
+      "extradelight:hanging_onion",
+      "createaddition:crafting/festive_spool",
+      "ars_additions:crafting/buttons/sourcestone_button",
+      "extradelight:birch_molded_black_wallpaper",
+      "ars_additions:crafting/revert/cracked_polished_sourcestone_large_bricks_to_sourcestone",
+      "securitycraft:reinforced_cherry_fence",
+      "ars_nouveau:smooth_gilded_sourcestone_basketweave_stonecutter_stair",
+      "create:crafting/logistics/purple_table_cloth"
+    ]
+  },
+  "OnGround": 1,
+  "LeashingEntities": [],
+  "spawn_extra_particles_on_fall": 0,
+  "Brain": {
+    "memories": {}
+  },
+  "Dimension": "minecraft:overworld",
+  "abilities": {
+    "walkSpeed": 0.10000000149011612,
+    "instabuild": 0,
+    "flying": 0,
+    "flySpeed": 0.05000000074505806,
+    "mayfly": 0,
+    "invulnerable": 0,
+    "mayBuild": 1
+  },
+  "Rotation": [
+    -114.46502685546875,
+    7.499800682067871
+  ],
+  "HurtByTimestamp": 0,
+  "brewinandchewin:data_version": 100,
+  "LeashedByEntities": [],
+  "foodSaturationLevel": 0.0,
+  "NeoForgeData": {
+    "sophisticatedBackpackSettings": {},
+    "PlayerPersisted": {
+      "integrateddynamics:infoBookSpawned": 1,
+      "an_book_": 1,
+      "BalmData": {
+        "TrashSlot": {},
+        "WaystonesData": {
+          "Waystones": [],
+          "SortingIndex": []
+        }
+      },
+      "silentlib.SpawnItemsGiven": {
+        "silentgear.starter_blueprints": 1
+      },
+      "create_hard_mod_hasJoinedBefore": 1
+    }
+  },
+  "Air": 300,
+  "XpSeed": 0,
+  "FallFlying": 0,
+  "DataVersion": 3955,
+  "FallDistance": 0.0,
+  "SleepTimer": 0,
+  "HurtTime": 0,
+  "warden_spawn_tracker": {
+    "ticks_since_last_warning": 3447,
+    "cooldown_ticks": 0,
+    "warning_level": 0
+  },
+  "neoforge:attachments": {
+    "curios:inventory": {
+      "Curios": [
+        {
+          "StacksHandler": {
+            "HasCosmetic": 0,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "an_focus"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 0,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "face"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": [
+                {
+                  "count": 1,
+                  "Slot": 0,
+                  "components": {
+                    "relics:data": {
+                      "leveling": {
+                        "luck": 0,
+                        "points": 0,
+                        "experience": 0,
+                        "level": 0
+                      },
+                      "abilities": {
+                        "abilities": {
+                          "nutrition": {
+                            "extender": {
+                              "ticking": 0,
+                              "cooldown": 0,
+                              "cooldownCap": 0
+                            },
+                            "points": 0,
+                            "lock": {
+                              "breaks": 0
+                            },
+                            "research": {
+                              "researched": 0,
+                              "links": {}
+                            },
+                            "stats": {
+                              "hunger": {
+                                "initialValue": 2.73202
+                              }
+                            }
+                          },
+                          "drinking": {
+                            "extender": {
+                              "ticking": 0,
+                              "cooldown": 0,
+                              "cooldownCap": 0
+                            },
+                            "points": 0,
+                            "lock": {
+                              "breaks": 5
+                            },
+                            "research": {
+                              "researched": 0,
+                              "links": {}
+                            },
+                            "stats": {
+                              "speed": {
+                                "initialValue": 0.38976
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "id": "artifacts:plastic_drinking_hat"
+                }
+              ]
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "head"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "necklace"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "back"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 0,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "pin"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 2,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 2,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                },
+                {
+                  "Slot": 1,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 2,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 2,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                },
+                {
+                  "ActiveState": 1,
+                  "Slot": 1
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 2,
+            "RenderToggle": 1
+          },
+          "Identifier": "bracelet"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 2,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 2,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                },
+                {
+                  "Slot": 1,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 2,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 2,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                },
+                {
+                  "ActiveState": 1,
+                  "Slot": 1
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 2,
+            "RenderToggle": 1
+          },
+          "Identifier": "hands"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 2,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 2,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                },
+                {
+                  "Slot": 1,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 2,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 2,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                },
+                {
+                  "ActiveState": 1,
+                  "Slot": 1
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 2,
+            "RenderToggle": 1
+          },
+          "Identifier": "ring"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "belt"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 1,
+            "Stacks": {
+              "Size": 2,
+              "Items": [
+                {
+                  "count": 1,
+                  "Slot": 0,
+                  "components": {
+                    "relics:data": {
+                      "leveling": {
+                        "luck": 0,
+                        "points": 0,
+                        "experience": 0,
+                        "level": 0
+                      },
+                      "abilities": {
+                        "abilities": {
+                          "hold": {
+                            "extender": {
+                              "ticking": 0,
+                              "cooldown": 0,
+                              "cooldownCap": 0
+                            },
+                            "points": 0,
+                            "lock": {
+                              "breaks": 5
+                            },
+                            "research": {
+                              "researched": 0,
+                              "links": {}
+                            },
+                            "stats": {
+                              "duration": {
+                                "initialValue": 4.83261
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "id": "artifacts:bunny_hoppers"
+                }
+              ]
+            },
+            "Renders": {
+              "Size": 2,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                },
+                {
+                  "Slot": 1,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 2,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 2,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                },
+                {
+                  "ActiveState": 1,
+                  "Slot": 1
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 2,
+            "RenderToggle": 1
+          },
+          "Identifier": "feet"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 0,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "pigment_palette"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 0,
+            "Stacks": {
+              "Size": 3,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 3,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                },
+                {
+                  "Slot": 1,
+                  "Render": 1
+                },
+                {
+                  "Slot": 2,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 3,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 3,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                },
+                {
+                  "ActiveState": 1,
+                  "Slot": 1
+                },
+                {
+                  "ActiveState": 1,
+                  "Slot": 2
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 3,
+            "RenderToggle": 1
+          },
+          "Identifier": "charm"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 0,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 1
+          },
+          "Identifier": "bundle"
+        },
+        {
+          "StacksHandler": {
+            "HasCosmetic": 0,
+            "Stacks": {
+              "Size": 1,
+              "Items": []
+            },
+            "Renders": {
+              "Size": 1,
+              "Renders": [
+                {
+                  "Slot": 0,
+                  "Render": 1
+                }
+              ]
+            },
+            "Cosmetics": {
+              "Size": 1,
+              "Items": []
+            },
+            "ActiveStates": {
+              "Size": 1,
+              "ActiveStates": [
+                {
+                  "ActiveState": 1,
+                  "Slot": 0
+                }
+              ]
+            },
+            "Visible": 1,
+            "DropRule": "DEFAULT",
+            "SavedBaseSize": 1,
+            "RenderToggle": 0
+          },
+          "Identifier": "hooked_hook"
+        }
+      ]
+    },
+    "ars_nouveau:mana_cap": {
+      "reserved": 0.0,
+      "max": 100,
+      "glyph": 0,
+      "current": 100.0,
+      "book_tier": 0
+    },
+    "polymorph:recipe_data": {},
+    "ars_nouveau:player_cap": {
+      "glyphs": {
+        "size": 0
+      },
+      "familiars": {
+        "size": 0
+      }
+    },
+    "pastel:dike": {
+      "rechargeTicks": 0,
+      "rechargeDelayPostHit": 0,
+      "currentProt": 0.0,
+      "rechargeDelay": 0,
+      "maxProt": 0.0
+    },
+    "pastel:primfire": 0,
+    "databank:mod_versions": {
+      "pastel": "1.1.4.1"
+    },
+    "l2core:conditionals": {
+      "data": {}
+    },
+    "hooked:hook_data": {
+      "Controller": {},
+      "Hooks": [],
+      "Properties": {
+        "range": 0.0,
+        "cooldown": 0,
+        "speed": 0.0,
+        "behavior": {
+          "type": "hooked:none"
+        },
+        "count": 0,
+        "hookModel": {
+          "texture": "hooked:textures/hook/base/hook.png"
+        },
+        "chainAppearance": {
+          "texture2": "hooked:textures/hook/base/chain2.png",
+          "texture1": "hooked:textures/hook/base/chain1.png"
+        }
+      }
+    },
+    "pastel:player_misc": {
+      "ticksBeforeSleep": -1,
+      "sleepInvincibility": 0,
+      "sleepingWindow": -1
+    },
+    "vc_gliders:is_gliding": 0,
+    "flightlib:settings": {
+      "toggle_hover": 1,
+      "toggle_active": 1
+    },
+    "l2core:flags": {
+      "flags": []
+    },
+    "solcarrot:food": {
+      "foodList": [
+        "minecraft:bread"
+      ]
+    },
+    "vc_gliders:lightning_timer": 0
+  },
+  "CarryOnData": {
+    "type": "INVALID",
+    "tick": 20603,
+    "keyPressed": 0,
+    "selected": 3
+  },
+  "Health": 17.0,
+  "Pos": [
+    -286.52613034419306,
+    67.0,
+    305.3026657440434
+  ],
+  "current_impulse_context_reset_grace_time": 0,
+  "PortalCooldown": 0,
+  "ignore_fall_damage_from_current_explosion": 0
+}

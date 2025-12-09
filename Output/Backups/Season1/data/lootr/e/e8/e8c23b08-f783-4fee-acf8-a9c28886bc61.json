@@ -1,0 +1,107 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:dandelion"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 2,
+              "count": 4,
+              "id": "minecraft:emerald"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:feather"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/village/village_1.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "exposure:film_frames": [
+                  {
+                    "identifier": {
+                      "texture": "exposure_expanded:textures/exposure/gameboy_tnt.png"
+                    }
+                  }
+                ]
+              },
+              "id": "exposure_expanded:gameboy_film"
+            },
+            {
+              "Slot": 6,
+              "count": 6,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -389924088,
+      -142389266,
+      -1392989758,
+      -2004435871
+    ],
+    "seed": 1646612207454288488,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/e/e8/e8c23b08-f783-4fee-acf8-a9c28886bc61",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1865,
+      73,
+      353
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/village/village_plains_house"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

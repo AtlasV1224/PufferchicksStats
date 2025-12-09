@@ -1,0 +1,95 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:bookshelf"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:flint_and_steel"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:writable_book"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "apothic_enchanting:reflective_defenses": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:efficiency": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -798399990,
+      -1379777479,
+      -1266507149,
+      -1880353526
+    ],
+    "seed": 5741890136777290772,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/d0/d069620a-adc2-4439-b482-a2738fec150a",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -451,
+      91,
+      -721
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "terralith:village/desert/library"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "\"Village Map\"",
+                "minecraft:map_decorations": {
+                  "+": {
+                    "type": "minecraft:mansion",
+                    "rotation": 180.0,
+                    "z": 336.0,
+                    "x": -1888.0
+                  }
+                },
+                "minecraft:map_id": 40,
+                "minecraft:map_color": 5393476
+              },
+              "id": "minecraft:filled_map"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:dark_oak_sapling"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 197
+              },
+              "id": "minecraft:iron_axe"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "components": {
+                "minecraft:instrument": "minecraft:sing_goat_horn"
+              },
+              "id": "minecraft:goat_horn"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:dark_oak_sapling"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      -1886713072,
+      1774665927,
+      -1209942365,
+      -574352306
+    ],
+    "seed": 112765633887528784,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/8/8f/8f8b0b10-69c7-40c7-b7e1-bea3ddc4144e",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2115,
+      104,
+      539
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "nova_structures:chests/pillager_outpost_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

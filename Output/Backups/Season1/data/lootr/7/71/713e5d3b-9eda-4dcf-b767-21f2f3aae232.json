@@ -1,0 +1,162 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:vanishing_curse": 1,
+                    "minecraft:efficiency": 5,
+                    "minecraft:unbreaking": 3
+                  }
+                },
+                "minecraft:damage": 25
+              },
+              "id": "minecraft:iron_pickaxe"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:mending": 1,
+                    "minecraft:efficiency": 5,
+                    "minecraft:unbreaking": 3
+                  }
+                },
+                "minecraft:damage": 35
+              },
+              "id": "minecraft:iron_pickaxe"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:name_tag"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:music_disc_otherside"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:music_disc_otherside"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 6,
+              "count": 14,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:swift_sneak": 2
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "vision": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.124
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:night_vision_goggles"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1899912507,
+      -1629860401,
+      -1217977870,
+      -206904782
+    ],
+    "seed": 4897431637141600556,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/7/71/713e5d3b-9eda-4dcf-b767-21f2f3aae232",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -208,
+      -49,
+      -725
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/ancient_city"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

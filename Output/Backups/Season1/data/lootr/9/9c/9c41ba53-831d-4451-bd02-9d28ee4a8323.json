@@ -1,0 +1,315 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Fireworks and Mobs\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Mobs meet fireworks",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 255,
+                        "id": "ars_nouveau:constant",
+                        "b": 1
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_harm",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_firework",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_explosion"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Fireworks and Mobs"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "ars_nouveau:starbuncle_shards"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "ars_nouveau:sourceberry_bush"
+            },
+            {
+              "Slot": 3,
+              "count": 55,
+              "id": "ars_nouveau:sourcestone"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "slipping": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 19.6822
+                          },
+                          "speed": {
+                            "initialValue": 0.00503
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "gills": {
+                        "stats": {
+                          "chance": {
+                            "initialValue": 0.08548
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "swimming": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 21.80654
+                          },
+                          "speed": {
+                            "initialValue": 0.00896
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:amphibian_boot"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "paralysis": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 1.27355
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "unsinkable": {
+                        "stats": {},
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "shock": {
+                        "stats": {
+                          "damage": {
+                            "initialValue": 0.66546
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:jellyfish_necklace"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1673414061,
+      -2095233967,
+      -1123902168,
+      -297106653
+    ],
+    "seed": 6853592634806222253,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/9c/9c41ba53-831d-4451-bd02-9d28ee4a8323",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      642,
+      64,
+      -4243
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "ars_additions:chests/ruined_portal"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

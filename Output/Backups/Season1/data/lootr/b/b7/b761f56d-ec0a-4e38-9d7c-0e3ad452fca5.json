@@ -1,0 +1,126 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 67
+              },
+              "id": "minecraft:stone_pickaxe"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "apothic_enchanting:scavenger": 1
+                  }
+                },
+                "minecraft:damage": 46
+              },
+              "id": "minecraft:iron_axe"
+            },
+            {
+              "Slot": 2,
+              "count": 7,
+              "id": "minecraft:honeycomb"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "exposure_expanded:bumpy_filter"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "luck": {
+                        "stats": {
+                          "chance": {
+                            "initialValue": 0.19821
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:lucky_scarf"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      -1218316947,
+      -334868936,
+      -1652814278,
+      -732758875
+    ],
+    "seed": 3750523928282155655,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/b/b7/b761f56d-ec0a-4e38-9d7c-0e3ad452fca5",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1991,
+      -19,
+      -318
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/trial_chambers/corridor"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

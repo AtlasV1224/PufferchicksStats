@@ -1,0 +1,82 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:glow_berries"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:slow_falling"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 3,
+              "count": 4,
+              "id": "minecraft:amethyst_shard"
+            },
+            {
+              "Slot": 5,
+              "count": 4,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 6,
+              "count": 3,
+              "components": {
+                "minecraft:firework_explosion": {
+                  "has_twinkle": 1,
+                  "fade_colors": [
+                    9664512
+                  ],
+                  "has_trail": 1,
+                  "shape": "creeper"
+                }
+              },
+              "id": "minecraft:firework_star"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      2064898411,
+      -215203837,
+      -2022509684,
+      -336443100
+    ],
+    "seed": 202360421105104824,
+    "name": "{\"translate\":\"container.the_bumblezone.honey_cocoon\"}",
+    "blockType": 0,
+    "key": "lootr/7/7b/7b13d96b-f32c-4003-8772-f38cebf24924",
+    "dimension": "the_bumblezone:the_bumblezone",
+    "hasBeenOpened": 1,
+    "position": [
+      173,
+      195,
+      -512
+    ],
+    "size": 18,
+    "actualOpeners": [],
+    "table": "the_bumblezone:structures/phantasm_aviary/tips"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

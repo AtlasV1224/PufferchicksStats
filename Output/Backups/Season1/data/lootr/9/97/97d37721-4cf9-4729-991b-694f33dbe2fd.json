@@ -1,0 +1,101 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:writable_book"
+            },
+            {
+              "Slot": 1,
+              "count": 4,
+              "id": "minecraft:lapis_lazuli"
+            },
+            {
+              "Slot": 2,
+              "count": 5,
+              "id": "minecraft:amethyst_shard"
+            },
+            {
+              "Slot": 3,
+              "count": 5,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "cardiac:lifesteal": 1,
+                    "apothic_enchanting:shield_bash": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:projectile_protection": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1747749087,
+      1291405097,
+      -1726256817,
+      870048509
+    ],
+    "seed": -1497923459919977354,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/97/97d37721-4cf9-4729-991b-694f33dbe2fd",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      4719,
+      79,
+      -322
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/library_chest"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

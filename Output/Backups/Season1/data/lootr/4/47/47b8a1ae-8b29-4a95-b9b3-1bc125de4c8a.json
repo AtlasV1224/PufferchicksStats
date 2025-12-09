@@ -1,0 +1,221 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:iron_horse_armor"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 4,
+              "count": 15,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 5,
+              "count": 4,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 6,
+              "count": 2,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "exposure_expanded:antialias_filter"
+            },
+            {
+              "Slot": 8,
+              "count": 31,
+              "id": "ars_nouveau:split_arrow"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "ars_nouveau:sourceberry_bush"
+            },
+            {
+              "Slot": 10,
+              "count": 6,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 11,
+              "count": 3,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 12,
+              "count": 9,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Rift's Blink Strike\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Just like that one guy, from that one thing! This spell will put you right in the enemy's face, so be ready for some swordplay!",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 120,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 255
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_accelerate",
+                        "ars_nouveau:glyph_harm",
+                        "ars_nouveau:glyph_blink"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Rift's Blink Strike"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 3,
+              "count": 13,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 7,
+              "count": 5,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 8,
+              "count": 3,
+              "id": "ars_nouveau:wilden_spike"
+            },
+            {
+              "Slot": 9,
+              "count": 6,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 10,
+              "count": 8,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1203282350,
+      -1960228203,
+      -1179444287,
+      635325578
+    ],
+    "seed": -57064756333023504,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/4/47/47b8a1ae-8b29-4a95-b9b3-1bc125de4c8a",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      675,
+      10,
+      511
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

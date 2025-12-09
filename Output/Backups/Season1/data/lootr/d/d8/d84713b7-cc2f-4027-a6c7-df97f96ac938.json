@@ -1,0 +1,81 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:sculk_vein"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:mending": 1,
+                    "minecraft:efficiency": 5,
+                    "minecraft:unbreaking": 3
+                  }
+                },
+                "minecraft:damage": 36
+              },
+              "id": "minecraft:iron_pickaxe"
+            },
+            {
+              "Slot": 10,
+              "count": 6,
+              "id": "cardiac:life_bottle"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -666430537,
+      -869318617,
+      -1496850537,
+      -110442184
+    ],
+    "seed": 7841903456498028303,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/d8/d84713b7-cc2f-4027-a6c7-df97f96ac938",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2283,
+      -52,
+      -4928
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/ancient_city"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

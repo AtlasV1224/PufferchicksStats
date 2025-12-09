@@ -1,0 +1,140 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:stick"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:stick"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "minecraft:stick"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "interaction": {
+                        "stats": {
+                          "range": {
+                            "initialValue": 0.35163
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "discarding": {
+                        "stats": {
+                          "interaction": {
+                            "initialValue": 0.34809
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:pocket_piston"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:stick"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:bread"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      812369431,
+      260656670,
+      -1641666360,
+      -859426244
+    ],
+    "seed": -5848046628826218185,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/3/30/306bc617-0f89-4e1e-9e26-28c8ccc6323c",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      711,
+      85,
+      -908
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "ctov:chests/village/village_smith"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

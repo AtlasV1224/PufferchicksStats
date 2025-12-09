@@ -1,0 +1,333 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 1,
+              "count": 4,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:tripwire_hook"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "toffys_hooks:climbing_hook"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 5,
+              "count": 7,
+              "id": "minecraft:arrow"
+            },
+            {
+              "Slot": 6,
+              "count": 4,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 7,
+              "count": 4,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "skating": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 47.80761
+                          },
+                          "speed": {
+                            "initialValue": 0.0205
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "ram": {
+                        "stats": {
+                          "damage": {
+                            "initialValue": 0.21089
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:ice_skates"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "extradelight:seaweed_salad"
+            },
+            {
+              "Slot": 13,
+              "count": 2,
+              "id": "extradelight:pumpkin_custard"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "extradelight:boiled_egg"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "extradelight:bbq_jar_item"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "extradelight:mayo_jar_item"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "extradelight:grated_potato"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "extradelight:tomato_soup"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "extradelight:pork_stew_rice"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "extradelight:pulled_pork_block_item"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "extradelight:bread_slice"
+            },
+            {
+              "Slot": 22,
+              "count": 2,
+              "id": "extradelight:breadcrumbs"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "extradelight:stuffed_mushrooms"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Ivy\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Now you never have to be lonely again! You will always have a friend with you! Feel free to change their name to whatever you want! :D",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 105,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_touch",
+                        "ars_nouveau:glyph_animate_block",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_name"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Ivy"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 2,
+              "count": 4,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 4,
+              "count": 3,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 6,
+              "count": 3,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 7,
+              "count": 2,
+              "id": "minecraft:experience_bottle"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "exposure_expanded:scan_pincushion_filter"
+            },
+            {
+              "Slot": 9,
+              "count": 3,
+              "id": "ars_nouveau:wilden_spike"
+            },
+            {
+              "Slot": 10,
+              "count": 13,
+              "id": "farmersdelight:onion"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1112264574,
+      -1575206418,
+      -1159110369,
+      -1108572182
+    ],
+    "seed": 3969634999721280713,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/4/42/424bcf7e-a21c-41ee-bae9-611fbdec87ea",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      1889,
+      213,
+      -309
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/pillager_outpost"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,153 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:sculk_vein"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:mending": 1,
+                    "minecraft:efficiency": 5,
+                    "minecraft:silk_touch": 1,
+                    "minecraft:unbreaking": 3
+                  }
+                },
+                "minecraft:damage": 134
+              },
+              "id": "minecraft:diamond_hoe"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:name_tag"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:music_disc_otherside"
+            },
+            {
+              "Slot": 6,
+              "count": 3,
+              "id": "minecraft:raw_iron"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:amethyst_shard"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:swift_sneak": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "vision": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.14459
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:night_vision_goggles"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1080460415,
+      669993153,
+      -2105159053,
+      986268237
+    ],
+    "seed": -1275365239820339224,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/b/bf/bf997b81-27ef-48c1-8285-d2733ac9424d",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1034,
+      -31,
+      -3718
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/ancient_city"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

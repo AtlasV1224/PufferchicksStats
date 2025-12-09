@@ -1,0 +1,229 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 3,
+              "count": 3,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 11,
+              "count": 6,
+              "id": "minecraft:nether_wart"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:nether_wart"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "silentgear:netherwood_sapling"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:golden_horse_armor"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:diamond_horse_armor"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:nether_wart"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "caster": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 35.2922
+                          },
+                          "damage": {
+                            "initialValue": 0.11432
+                          },
+                          "chance": {
+                            "initialValue": 0.27643
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:fire_gauntlet"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "artifacts:strider_shoes"
+            },
+            {
+              "Slot": 9,
+              "count": 6,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 10,
+              "count": 2,
+              "id": "ars_nouveau:wilden_spike"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -1861354987,
+      -144751585,
+      -1116564338,
+      -1397021635
+    ],
+    "seed": 1265104853136736292,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/91/910dfa15-f75f-441f-bd72-948eacbb243d",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -338,
+      87,
+      1523
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "table": "minecraft:chests/nether_bridge"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

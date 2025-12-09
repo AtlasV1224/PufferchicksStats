@@ -1,0 +1,133 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:crying_obsidian"
+            },
+            {
+              "Slot": 2,
+              "count": 5,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:knockback": 1
+                  }
+                },
+                "minecraft:damage": 47
+              },
+              "id": "minecraft:iron_sword"
+            },
+            {
+              "Slot": 4,
+              "count": 17,
+              "id": "minecraft:spectral_arrow"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:cooked_porkchop"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hold": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 3.77196
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:bunny_hoppers"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "silentgear:netherwood_sapling"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      1177840336,
+      -1236253271,
+      -1260806434,
+      -1840705931
+    ],
+    "seed": 1093659856503579154,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/4/46/46346ad0-b650-45a9-b4d9-9ede92490e75",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -663,
+      73,
+      -1706
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/bastion_other"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,1004 @@
+{
+  "Equipment": [
+    {
+      "id": "create:cogwheel",
+      "count": 4
+    },
+    {
+      "id": "minecraft:firework_rocket",
+      "count": 62
+    },
+    {
+      "id": "minecraft:diamond_boots",
+      "count": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:feather_falling": 4
+          }
+        },
+        "minecraft:damage": 50
+      }
+    },
+    {
+      "id": "minecraft:diamond_leggings",
+      "count": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:blast_protection": 3,
+            "ars_nouveau:mana_regen": 3,
+            "ars_nouveau:mana_boost": 3
+          }
+        },
+        "minecraft:damage": 39
+      }
+    },
+    {
+      "id": "minecraft:elytra",
+      "count": 1,
+      "components": {
+        "minecraft:repair_cost": 3,
+        "minecraft:enchantments": {
+          "levels": {
+            "ars_elemental:soulbound": 1,
+            "pastel:indestructible": 1
+          }
+        },
+        "minecraft:damage": 19
+      }
+    },
+    {
+      "id": "minecraft:diamond_helmet",
+      "count": 1,
+      "components": {
+        "minecraft:damage": 63
+      }
+    }
+  ],
+  "Model": 127,
+  "PlayerName": "AtlasV1224",
+  "PosZ": -3248.668955059644,
+  "Id": [
+    -2008100386,
+    700205951,
+    -1889372689,
+    1707087049
+  ],
+  "PosY": 124.0,
+  "PosX": -4572.1437112376725,
+  "Dimension": "minecraft:overworld",
+  "ArmorInventory": [
+    {
+      "count": 1,
+      "Slot": 0,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:feather_falling": 4
+          }
+        },
+        "minecraft:damage": 50
+      },
+      "id": "minecraft:diamond_boots"
+    },
+    {
+      "count": 1,
+      "Slot": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:blast_protection": 3,
+            "ars_nouveau:mana_regen": 3,
+            "ars_nouveau:mana_boost": 3
+          }
+        },
+        "minecraft:damage": 39
+      },
+      "id": "minecraft:diamond_leggings"
+    },
+    {
+      "count": 1,
+      "Slot": 3,
+      "components": {
+        "minecraft:damage": 63
+      },
+      "id": "minecraft:diamond_helmet"
+    }
+  ],
+  "Timestamp": 1758722882203,
+  "MainInventory": [
+    {
+      "count": 1,
+      "Slot": 0,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:smite": 2
+          }
+        },
+        "minecraft:damage": 311
+      },
+      "id": "farmersdelight:diamond_knife"
+    },
+    {
+      "count": 1,
+      "Slot": 1,
+      "components": {
+        "minecraft:repair_cost": 3,
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:mending": 1,
+            "minecraft:fortune": 8
+          }
+        },
+        "minecraft:damage": 836
+      },
+      "id": "minecraft:diamond_pickaxe"
+    },
+    {
+      "count": 1,
+      "Slot": 2,
+      "components": {
+        "minecraft:damage": 338
+      },
+      "id": "minecraft:diamond_shovel"
+    },
+    {
+      "count": 1,
+      "Slot": 3,
+      "components": {
+        "minecraft:damage": 612
+      },
+      "id": "minecraft:diamond_axe"
+    },
+    {
+      "count": 1,
+      "Slot": 4,
+      "id": "minecraft:bucket"
+    },
+    {
+      "count": 4,
+      "Slot": 5,
+      "id": "create:cogwheel"
+    },
+    {
+      "count": 11,
+      "Slot": 6,
+      "id": "create:encased_chain_drive"
+    },
+    {
+      "count": 7,
+      "Slot": 7,
+      "id": "minecraft:andesite"
+    },
+    {
+      "count": 24,
+      "Slot": 8,
+      "id": "minecraft:cooked_porkchop"
+    },
+    {
+      "count": 42,
+      "Slot": 9,
+      "id": "create:andesite_casing"
+    },
+    {
+      "count": 1,
+      "Slot": 10,
+      "components": {
+        "minecraft:custom_name": "\"1x1 Seething\"",
+        "create:minecart_contraption_data": {
+          "Anchor": [
+            -4648,
+            194,
+            -3255
+          ],
+          "Blocks": {
+            "BlockList": [
+              {
+                "State": 0,
+                "Pos": 0
+              },
+              {
+                "State": 1,
+                "UpdateTag": {
+                  "isCreative": 1
+                },
+                "Pos": 1,
+                "Data": {
+                  "isCreative": 1,
+                  "id": "create:blaze_heater"
+                }
+              }
+            ],
+            "Palette": [
+              {
+                "Name": "create:minecart_anchor",
+                "Properties": {
+                  "axis": "x"
+                }
+              },
+              {
+                "Name": "create:blaze_burner",
+                "Properties": {
+                  "facing": "west",
+                  "blaze": "seething"
+                }
+              }
+            ]
+          },
+          "SubContraptions": [],
+          "CapturedMultiblocks": [],
+          "DisabledActors": [],
+          "RotationMode": "ROTATION_LOCKED",
+          "Superglue": [],
+          "Actors": [
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                0,
+                1,
+                0
+              ],
+              "Data": {}
+            }
+          ],
+          "Stalled": 0,
+          "BoundsFront": [
+            -1.0,
+            0.0,
+            -1.0,
+            2.0,
+            2.0,
+            2.0
+          ],
+          "BottomlessSupply": 0,
+          "InitialOrientation": "EAST",
+          "Interactors": [
+            {
+              "Pos": [
+                0,
+                1,
+                0
+              ]
+            }
+          ],
+          "Passengers": [],
+          "Seats": [],
+          "Type": "create:mounted"
+        }
+      },
+      "id": "create:minecart_contraption"
+    },
+    {
+      "count": 1,
+      "Slot": 11,
+      "components": {
+        "minecraft:custom_name": "\"2x3 Blazing\"",
+        "create:minecart_contraption_data": {
+          "Anchor": [
+            -4651,
+            194,
+            -3257
+          ],
+          "Blocks": {
+            "BlockList": [
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "isCreative": 1
+                },
+                "Pos": 4097,
+                "Data": {
+                  "isCreative": 1,
+                  "id": "create:blaze_heater"
+                }
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "isCreative": 1
+                },
+                "Pos": 274877906945,
+                "Data": {
+                  "isCreative": 1,
+                  "id": "create:blaze_heater"
+                }
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "isCreative": 1
+                },
+                "Pos": 549755809793,
+                "Data": {
+                  "isCreative": 1,
+                  "id": "create:blaze_heater"
+                }
+              },
+              {
+                "State": 1,
+                "Pos": 0
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "isCreative": 1
+                },
+                "Pos": 274877902849,
+                "Data": {
+                  "isCreative": 1,
+                  "id": "create:blaze_heater"
+                }
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "isCreative": 1
+                },
+                "Pos": 274877911041,
+                "Data": {
+                  "isCreative": 1,
+                  "id": "create:blaze_heater"
+                }
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "isCreative": 1
+                },
+                "Pos": 1,
+                "Data": {
+                  "isCreative": 1,
+                  "id": "create:blaze_heater"
+                }
+              }
+            ],
+            "Palette": [
+              {
+                "Name": "create:blaze_burner",
+                "Properties": {
+                  "facing": "west",
+                  "blaze": "kindled"
+                }
+              },
+              {
+                "Name": "create:minecart_anchor",
+                "Properties": {
+                  "axis": "x"
+                }
+              }
+            ]
+          },
+          "SubContraptions": [],
+          "CapturedMultiblocks": [],
+          "DisabledActors": [],
+          "RotationMode": "ROTATION_LOCKED",
+          "Superglue": [
+            {
+              "To": [
+                2.0,
+                2.0,
+                2.0
+              ],
+              "From": [
+                0.0,
+                1.0,
+                -1.0
+              ]
+            }
+          ],
+          "Actors": [
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                0,
+                1,
+                0
+              ],
+              "Data": {}
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                0,
+                1,
+                -1
+              ],
+              "Data": {}
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                0,
+                1,
+                1
+              ],
+              "Data": {}
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                1,
+                1,
+                0
+              ],
+              "Data": {}
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                1,
+                1,
+                -1
+              ],
+              "Data": {}
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                1,
+                1,
+                1
+              ],
+              "Data": {}
+            }
+          ],
+          "Stalled": 0,
+          "BoundsFront": [
+            -3.0,
+            0.0,
+            -3.0,
+            4.0,
+            2.0,
+            4.0
+          ],
+          "BottomlessSupply": 0,
+          "InitialOrientation": "EAST",
+          "Interactors": [
+            {
+              "Pos": [
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "Pos": [
+                1,
+                1,
+                0
+              ]
+            },
+            {
+              "Pos": [
+                1,
+                1,
+                -1
+              ]
+            },
+            {
+              "Pos": [
+                0,
+                1,
+                -1
+              ]
+            },
+            {
+              "Pos": [
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "Pos": [
+                0,
+                1,
+                0
+              ]
+            }
+          ],
+          "Passengers": [],
+          "Seats": [],
+          "Type": "create:mounted"
+        }
+      },
+      "id": "create:minecart_contraption"
+    },
+    {
+      "count": 1,
+      "Slot": 12,
+      "id": "create:wrench"
+    },
+    {
+      "count": 2,
+      "Slot": 13,
+      "id": "create:fluid_pipe"
+    },
+    {
+      "count": 24,
+      "Slot": 14,
+      "id": "create:copper_sheet"
+    },
+    {
+      "count": 20,
+      "Slot": 15,
+      "id": "create:fluid_tank"
+    },
+    {
+      "count": 56,
+      "Slot": 16,
+      "id": "create:zinc_ingot"
+    },
+    {
+      "count": 14,
+      "Slot": 17,
+      "id": "minecraft:oak_slab"
+    },
+    {
+      "count": 14,
+      "Slot": 18,
+      "id": "torchmaster:feral_flare_lantern"
+    },
+    {
+      "count": 11,
+      "Slot": 19,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 1,
+      "Slot": 20,
+      "id": "minecraft:lever"
+    },
+    {
+      "count": 5,
+      "Slot": 21,
+      "id": "minecraft:diorite"
+    },
+    {
+      "count": 1,
+      "Slot": 22,
+      "id": "create:large_cogwheel"
+    },
+    {
+      "count": 14,
+      "Slot": 23,
+      "id": "create:shaft"
+    },
+    {
+      "count": 1,
+      "Slot": 24,
+      "id": "minecraft:bucket"
+    },
+    {
+      "count": 3,
+      "Slot": 25,
+      "id": "create:andesite_alloy"
+    },
+    {
+      "count": 44,
+      "Slot": 26,
+      "id": "create:gearbox"
+    },
+    {
+      "count": 19,
+      "Slot": 29,
+      "id": "puffercoin:coin_1"
+    },
+    {
+      "count": 1,
+      "Slot": 33,
+      "id": "create:zinc_nugget"
+    },
+    {
+      "count": 1,
+      "Slot": 34,
+      "id": "create:hand_crank"
+    },
+    {
+      "count": 63,
+      "Slot": 35,
+      "id": "minecraft:oak_log"
+    }
+  ],
+  "Experience": 4,
+  "PlayerUuid": [
+    2088048874,
+    -679722978,
+    -2141306900,
+    -1177290616
+  ],
+  "Items": [
+    {
+      "id": "create:goggles",
+      "count": 1,
+      "components": {
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "head",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:vampiric_glove",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 4,
+            "experience": 75,
+            "level": 4
+          },
+          "abilities": {
+            "abilities": {
+              "vampire": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "2": [
+                      1
+                    ],
+                    "1": [
+                      4,
+                      0,
+                      5
+                    ],
+                    "3": [
+                      2
+                    ]
+                  }
+                },
+                "stats": {
+                  "amount": {
+                    "initialValue": 0.15896
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "hands",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:pocket_piston",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 2,
+            "experience": 23,
+            "level": 2
+          },
+          "abilities": {
+            "abilities": {
+              "discarding": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "8": [
+                      7
+                    ],
+                    "3": [
+                      0
+                    ],
+                    "2": [
+                      3
+                    ],
+                    "1": [
+                      0,
+                      4,
+                      2
+                    ],
+                    "0": [
+                      5
+                    ],
+                    "6": [
+                      8,
+                      2,
+                      1
+                    ],
+                    "7": [
+                      9
+                    ],
+                    "5": [
+                      4
+                    ],
+                    "4": [
+                      6
+                    ],
+                    "9": [
+                      6
+                    ]
+                  }
+                },
+                "stats": {
+                  "interaction": {
+                    "initialValue": 0.27716
+                  }
+                }
+              },
+              "interaction": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 0
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "range": {
+                    "initialValue": 0.24792
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "hands",
+          "wasEquipped": 1,
+          "slotIndex": 1
+        }
+      }
+    },
+    {
+      "id": "artifacts:running_shoes",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 6,
+            "experience": 575,
+            "level": 6
+          },
+          "abilities": {
+            "abilities": {
+              "runner": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "8": [
+                      7
+                    ],
+                    "3": [
+                      2
+                    ],
+                    "2": [
+                      1
+                    ],
+                    "1": [
+                      0
+                    ],
+                    "0": [
+                      8
+                    ],
+                    "6": [
+                      5
+                    ],
+                    "7": [
+                      6
+                    ],
+                    "5": [
+                      4
+                    ],
+                    "4": [
+                      3
+                    ]
+                  }
+                },
+                "stats": {
+                  "speed": {
+                    "initialValue": 0.56815
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "feet",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:running_shoes",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 6,
+            "experience": 537,
+            "level": 6
+          },
+          "abilities": {
+            "abilities": {
+              "runner": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "8": [
+                      0
+                    ],
+                    "3": [
+                      4
+                    ],
+                    "2": [
+                      3
+                    ],
+                    "1": [
+                      2
+                    ],
+                    "0": [
+                      1
+                    ],
+                    "6": [
+                      7
+                    ],
+                    "7": [
+                      8
+                    ],
+                    "5": [
+                      6
+                    ],
+                    "4": [
+                      5
+                    ]
+                  }
+                },
+                "stats": {
+                  "speed": {
+                    "initialValue": 0.79322
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "feet",
+          "wasEquipped": 1,
+          "slotIndex": 1
+        }
+      }
+    }
+  ],
+  "OffHandInventory": [
+    {
+      "count": 62,
+      "Slot": 0,
+      "id": "minecraft:firework_rocket"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Self Atomic\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "WARNING: ONLY TO BE USED AS A LAST RESORT!!",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 1,
+                        "id": "ars_nouveau:constant",
+                        "b": 1
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:gaia_family"
+                        }
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_explosion",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Self Atomic"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 4,
+              "count": 17,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 5,
+              "count": 6,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 7,
+              "count": 6,
+              "id": "minecraft:magma_cream"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:netherite_upgrade_smithing_template"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:snout_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hold": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 4.36057
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:bunny_hoppers"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "create_dragons_plus:blaze_upgrade_smithing_template"
+            },
+            {
+              "Slot": 12,
+              "count": 2,
+              "id": "silentgear:blaze_gold_ingot"
+            },
+            {
+              "Slot": 13,
+              "count": 18,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "ars_nouveau:warp_scroll"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "farmersdelight:diamond_knife"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      49197277,
+      -312849762,
+      -1829392250,
+      -1300953768
+    ],
+    "seed": 2465598579208768909,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/0/02/02eeb0dd-ed5a-4a9e-92f5-b086b2750558",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -705,
+      67,
+      1740
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

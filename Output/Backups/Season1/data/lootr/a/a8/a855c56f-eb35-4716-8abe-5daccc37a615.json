@@ -1,0 +1,130 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:shield"
+            },
+            {
+              "Slot": 1,
+              "count": 4,
+              "id": "minecraft:mutton"
+            },
+            {
+              "Slot": 3,
+              "count": 4,
+              "id": "minecraft:flint"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:sharpness": 2
+                  }
+                }
+              },
+              "id": "minecraft:stone_sword"
+            },
+            {
+              "Slot": 1,
+              "count": 4,
+              "id": "minecraft:mutton"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:suspicious_stew_effects": [
+                  {
+                    "id": "minecraft:haste",
+                    "duration": 240
+                  }
+                ]
+              },
+              "id": "minecraft:suspicious_stew"
+            },
+            {
+              "Slot": 3,
+              "count": 5,
+              "id": "minecraft:stick"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      -1470773905,
+      -348829930,
+      -1967235668,
+      -868768235
+    ],
+    "seed": 3233534519751268631,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/a/a8/a855c56f-eb35-4716-8abe-5daccc37a615",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1341,
+      69,
+      1040
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "betterarcheology:archeology/chest_mott"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

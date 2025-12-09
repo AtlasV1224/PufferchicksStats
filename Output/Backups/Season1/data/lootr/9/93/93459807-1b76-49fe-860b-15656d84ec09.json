@@ -1,0 +1,325 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "pastel:beverage": {
+                  "thickness": 1.0,
+                  "alcohol_percent": 83,
+                  "days_aged": 183447
+                },
+                "pastel:infused_beverage": {
+                  "variant": "night_cream",
+                  "color": 12982783
+                },
+                "minecraft:potion_contents": {
+                  "custom_effects": [
+                    {
+                      "duration": 6000,
+                      "show_icon": 1,
+                      "id": "pastel:eternal_slumber",
+                      "neoforge:cures": [
+                        "blood_orchid"
+                      ]
+                    },
+                    {
+                      "amplifier": 7,
+                      "show_icon": 1,
+                      "id": "pastel:effect_prolonging",
+                      "neoforge:cures": [
+                        "milk",
+                        "protected_by_totem"
+                      ],
+                      "duration": 1200
+                    },
+                    {
+                      "amplifier": 3,
+                      "show_icon": 1,
+                      "id": "pastel:deadly_poison",
+                      "neoforge:cures": [
+                        "milk",
+                        "protected_by_totem",
+                        "honey"
+                      ],
+                      "duration": 1200
+                    },
+                    {
+                      "show_icon": 1,
+                      "id": "pastel:immunity",
+                      "duration": 1200
+                    }
+                  ]
+                }
+              },
+              "id": "pastel:infused_beverage"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "pastel:beverage": {
+                  "thickness": 2.0,
+                  "alcohol_percent": 40,
+                  "days_aged": 191363
+                },
+                "pastel:infused_beverage": {
+                  "variant": "velvet_brandy",
+                  "color": 15383295
+                },
+                "minecraft:potion_contents": {
+                  "custom_effects": [
+                    {
+                      "duration": 3785,
+                      "show_icon": 1,
+                      "id": "pastel:eternal_slumber",
+                      "neoforge:cures": [
+                        "blood_orchid"
+                      ]
+                    },
+                    {
+                      "amplifier": 6,
+                      "show_icon": 1,
+                      "id": "pastel:somnolence",
+                      "neoforge:cures": [
+                        "sedatives",
+                        "blood_orchid"
+                      ],
+                      "duration": 7571
+                    },
+                    {
+                      "amplifier": 3,
+                      "show_icon": 1,
+                      "id": "pastel:swiftness",
+                      "neoforge:cures": [
+                        "milk",
+                        "protected_by_totem"
+                      ],
+                      "duration": 7571
+                    },
+                    {
+                      "amplifier": 6,
+                      "show_icon": 1,
+                      "id": "pastel:magic_annulation",
+                      "neoforge:cures": [
+                        "milk",
+                        "protected_by_totem"
+                      ],
+                      "duration": 7571
+                    },
+                    {
+                      "amplifier": 3,
+                      "show_icon": 1,
+                      "id": "pastel:lightweight",
+                      "neoforge:cures": [
+                        "milk",
+                        "protected_by_totem"
+                      ],
+                      "duration": 7571
+                    }
+                  ]
+                }
+              },
+              "id": "pastel:infused_beverage"
+            },
+            {
+              "Slot": 2,
+              "count": 5,
+              "id": "minecraft:honeycomb"
+            },
+            {
+              "Slot": 3,
+              "count": 4,
+              "id": "minecraft:glass_bottle"
+            },
+            {
+              "Slot": 4,
+              "count": 5,
+              "id": "minecraft:sugar"
+            },
+            {
+              "Slot": 5,
+              "count": 6,
+              "id": "pastel:nightdew_sprout"
+            },
+            {
+              "Slot": 6,
+              "count": 4,
+              "id": "pastel:mermaids_gem"
+            },
+            {
+              "Slot": 8,
+              "count": 8,
+              "id": "pastel:purple_planks"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 10,
+              "count": 4,
+              "id": "pastel:purple_planks"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "heater": {
+                        "stats": {
+                          "capacity": {
+                            "initialValue": 20.6136
+                          },
+                          "duration": {
+                            "initialValue": 129.0446
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:pickaxe_heater"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1824155641,
+      460737022,
+      -2046093979,
+      1837427721
+    ],
+    "seed": -6147817378293833360,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/93/93459807-1b76-49fe-860b-15656d84ec09",
+    "dimension": "pastel:deeper_down",
+    "hasBeenOpened": 1,
+    "position": [
+      2821,
+      -277,
+      1300
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "table": "pastel:chests/undergrowth_manor/floor1_titration_room"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 16,
+              "id": "minecraft:copper_block"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:efficiency": 3
+                  }
+                },
+                "minecraft:damage": 7
+              },
+              "id": "minecraft:iron_axe"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "ars_nouveau:mana_boost": 3,
+                    "minecraft:unbreaking": 3
+                  }
+                },
+                "minecraft:damage": 18
+              },
+              "id": "minecraft:iron_helmet"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:projectile_protection": 4
+                  }
+                },
+                "minecraft:damage": 60
+              },
+              "id": "minecraft:iron_boots"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 5,
+              "count": 14,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "apothic_enchanting:tempting": 1
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1204941208,
+      1288391456,
+      -1905381972,
+      64628400
+    ],
+    "seed": -8490728613005699656,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 1,
+    "key": "lootr/4/47/47d1f198-4ccb-4b20-8e6e-2dac03da26b0",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      4910,
+      56,
+      -435
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "structory:ruin/taiga/illager_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

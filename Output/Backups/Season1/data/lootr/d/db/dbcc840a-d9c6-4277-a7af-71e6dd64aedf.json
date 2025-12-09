@@ -1,0 +1,119 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 15,
+              "id": "minecraft:gilded_blackstone"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:diamond_helmet"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 1
+                  }
+                },
+                "minecraft:damage": 100
+              },
+              "id": "minecraft:diamond_chestplate"
+            },
+            {
+              "Slot": 5,
+              "count": 25,
+              "id": "minecraft:spectral_arrow"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:netherite_upgrade_smithing_template"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "create_dragons_plus:blaze_upgrade_smithing_template"
+            },
+            {
+              "Slot": 10,
+              "count": 7,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "silentgear:crimson_steel_dust"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "ars_nouveau:wixie_shards"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -607353846,
+      -641318281,
+      -1481674266,
+      -580604193
+    ],
+    "seed": -2412295571876675806,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/db/dbcc840a-d9c6-4277-a7af-71e6dd64aedf",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      2822,
+      81,
+      -557
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

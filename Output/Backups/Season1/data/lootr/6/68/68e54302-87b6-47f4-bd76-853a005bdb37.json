@@ -1,0 +1,221 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 7,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "ars_nouveau:starbuncle_shards"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:golden_horse_armor"
+            },
+            {
+              "Slot": 7,
+              "count": 2,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 8,
+              "count": 3,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "ars_nouveau:pierce_arrow"
+            },
+            {
+              "Slot": 10,
+              "count": 3,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "ars_nouveau:pierce_arrow"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:music_disc_cat"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 19,
+              "count": 4,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Gravity Well\"}",
+                "ars_elemental:elemental_tome_caster": {
+                  "flavor_text": "Creates a gravity center that also attract nearby blocks.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 50,
+                        "g": 250,
+                        "id": "ars_nouveau:constant",
+                        "b": 55
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_elemental:glyph_arc_projectile",
+                        "ars_nouveau:glyph_gravity",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_linger",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_dampen"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Gravity Well"
+                    }
+                  }
+                }
+              },
+              "id": "ars_elemental:earth_caster_tome"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 24,
+              "count": 2,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 25,
+              "count": 27,
+              "id": "ars_nouveau:pierce_arrow"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "cardiac:life_bottle"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      1759855362,
+      -2018097164,
+      -1116306118,
+      6019895
+    ],
+    "seed": -8889885844516403988,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/6/68/68e54302-87b6-47f4-bd76-853a005bdb37",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2371,
+      63,
+      -4581
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

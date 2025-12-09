@@ -1,0 +1,148 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:sharpness": 2,
+                    "minecraft:smite": 1
+                  }
+                },
+                "minecraft:damage": 29
+              },
+              "id": "minecraft:stone_sword"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 2,
+                    "ars_nouveau:mana_boost": 2
+                  }
+                },
+                "minecraft:damage": 49
+              },
+              "id": "minecraft:leather_chestplate"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 7,
+              "count": 2,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 25,
+              "count": 2,
+              "id": "minecraft:coal"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -628834144,
+      -1217443332,
+      -1515239748,
+      16884032
+    ],
+    "seed": -7385737511396582259,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/d/da/da84c0a0-b76f-49fc-a5af-46bc0101a140",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      66,
+      94,
+      94
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

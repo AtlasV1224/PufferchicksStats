@@ -1,0 +1,206 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -531319254,
+        -422099107,
+        -1884379925,
+        -108231399
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:pumpkin_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 15,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:golden_horse_armor"
+            },
+            {
+              "Slot": 5,
+              "count": 4,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/dungeon/skull_on_fire.png"
+                  }
+                }
+              },
+              "id": "exposure:photograph"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "slipping": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 18.41464
+                          },
+                          "speed": {
+                            "initialValue": 0.00692
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "gills": {
+                        "stats": {
+                          "chance": {
+                            "initialValue": 0.05725
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "swimming": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 17.88239
+                          },
+                          "speed": {
+                            "initialValue": 0.00643
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:amphibian_boot"
+            },
+            {
+              "Slot": 9,
+              "count": 19,
+              "id": "farmersdelight:rope"
+            }
+          ]
+        },
+        "uuid": [
+          -531319254,
+          -422099107,
+          -1884379925,
+          -108231399
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      632418140,
+      -1582805924,
+      -1478380865,
+      189691471
+    ],
+    "seed": -526673921279302283,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/2/25/25b1ef5c-a1a8-4c5c-a7e1-b2bf0b4e764f",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      1609,
+      216,
+      607
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -531319254,
+        -422099107,
+        -1884379925,
+        -108231399
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

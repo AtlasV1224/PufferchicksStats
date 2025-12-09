@@ -1,0 +1,251 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:dandelion"
+            },
+            {
+              "Slot": 14,
+              "count": 5,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:poppy"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:apple"
+            }
+          ]
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:oak_sapling"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:dandelion"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/village/village_2.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "catch": {
+                        "stats": {
+                          "chance": {
+                            "initialValue": 0.11599
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:anglers_hat"
+            },
+            {
+              "Slot": 5,
+              "count": 2,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 6,
+              "count": 2,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1173052392,
+      -349618088,
+      -2128350416,
+      819728527
+    ],
+    "seed": -2732953325923333323,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/4/45/45eb5be8-eb29-4058-8123-f33030dc108f",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1902,
+      73,
+      342
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ]
+    ],
+    "table": "minecraft:chests/village/village_plains_house"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:iron_sword"
+            },
+            {
+              "Slot": 2,
+              "count": 4,
+              "id": "minecraft:cooked_cod"
+            },
+            {
+              "Slot": 3,
+              "count": 4,
+              "id": "minecraft:cooked_salmon"
+            },
+            {
+              "Slot": 5,
+              "count": 6,
+              "id": "minecraft:emerald"
+            }
+          ]
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:leather_chestplate"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:cooked_cod"
+            },
+            {
+              "Slot": 3,
+              "count": 4,
+              "id": "minecraft:cooked_salmon"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "components": {
+                "minecraft:map_id": 34,
+                "minecraft:item_name": "{\"translate\":\"filled_map.buried_treasure\"}",
+                "minecraft:map_decorations": {
+                  "+": {
+                    "type": "minecraft:red_x",
+                    "rotation": 180.0,
+                    "z": 1817.0,
+                    "x": -1335.0
+                  }
+                }
+              },
+              "id": "minecraft:filled_map"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      }
+    ],
+    "uuid": [
+      -1404296696,
+      139873009,
+      -1251234949,
+      1071633059
+    ],
+    "seed": -6264546208192953807,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/a/ac/ac4c2208-0856-4af1-b56b-ab7b3fdfd2a3",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1335,
+      47,
+      1817
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "table": "minecraft:chests/buried_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

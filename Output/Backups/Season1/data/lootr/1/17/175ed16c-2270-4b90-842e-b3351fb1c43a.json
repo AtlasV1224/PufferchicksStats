@@ -1,0 +1,249 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:salmon"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "extradelight:furikake"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:salmon"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "extradelight:furikake"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "regeneration": {
+                        "stats": {
+                          "cooldown": {
+                            "initialValue": 27.94638
+                          },
+                          "feed": {
+                            "initialValue": 2.7922
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "marinade": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 1.32443
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "meat_bat": {
+                        "stats": {
+                          "stun": {
+                            "initialValue": 0.20268
+                          },
+                          "damage": {
+                            "initialValue": 1.38228
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:infinity_ham"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:wheat_seeds"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:wheat_seeds"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:coal"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      392089964,
+      577784720,
+      -2077314251,
+      531743802
+    ],
+    "seed": -8018934121152492212,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/1/17/175ed16c-2270-4b90-842e-b3351fb1c43a",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      126,
+      63,
+      3567
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "minecraft:chests/village/village_fisher"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

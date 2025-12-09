@@ -1,0 +1,162 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ],
+      [
+        -1897521421,
+        518932583,
+        -1765357074,
+        1888276970
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:brown_wool"
+            }
+          ]
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "shield": {
+                        "stats": {
+                          "knockback": {
+                            "initialValue": 1.53975
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "glider": {
+                        "stats": {
+                          "count": {
+                            "initialValue": 1.2352
+                          },
+                          "cooldown": {
+                            "initialValue": 1.62531
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:umbrella"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:black_wool"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:black_wool"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:black_wool"
+            }
+          ]
+        },
+        "uuid": [
+          -1897521421,
+          518932583,
+          -1765357074,
+          1888276970
+        ]
+      }
+    ],
+    "uuid": [
+      -544042753,
+      -107917429,
+      -1100314747,
+      1856337815
+    ],
+    "seed": 1648837843658806304,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/df/df9290ff-f991-4f8b-be6a-87856ea57797",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -677,
+      66,
+      77
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ],
+      [
+        -1897521421,
+        518932583,
+        -1765357074,
+        1888276970
+      ]
+    ],
+    "table": "minecraft:chests/village/village_shepherd"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

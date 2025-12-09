@@ -1,0 +1,148 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1897521421,
+        518932583,
+        -1765357074,
+        1888276970
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 3,
+                    "ars_nouveau:mana_boost": 3
+                  }
+                }
+              },
+              "id": "minecraft:diamond_leggings"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:diamond_shovel"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Othy's Misdirection\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Swarm your enemies with bladed spirits.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 255,
+                        "id": "ars_nouveau:constant",
+                        "b": 255
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_summon_decoy",
+                        "ars_nouveau:glyph_blink",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Othy's Misdirection"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 18,
+              "count": 2,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            }
+          ]
+        },
+        "uuid": [
+          -1897521421,
+          518932583,
+          -1765357074,
+          1888276970
+        ]
+      }
+    ],
+    "uuid": [
+      -1070688700,
+      -2027074285,
+      -2089495236,
+      -1228180893
+    ],
+    "seed": -3460208228461704493,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/c/c0/c02e9644-872d-4d13-8374-d53cb6cb7263",
+    "dimension": "minecraft:the_end",
+    "hasBeenOpened": 1,
+    "position": [
+      1696,
+      230,
+      -1626
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1897521421,
+        518932583,
+        -1765357074,
+        1888276970
+      ]
+    ],
+    "table": "minecraft:chests/end_city_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Gootastic's Telekinetic Fishing Rod\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "The squid's Lovecraftian roots appear to make it immune.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_delay",
+                        "ars_nouveau:glyph_pull",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Gootastic's Telekinetic Fishing Rod"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:crying_obsidian"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:fire_aspect": 1
+                  }
+                },
+                "minecraft:damage": 238
+              },
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:thorns": 1
+                  }
+                },
+                "minecraft:damage": 20
+              },
+              "id": "minecraft:diamond_helmet"
+            },
+            {
+              "Slot": 5,
+              "count": 13,
+              "id": "minecraft:spectral_arrow"
+            },
+            {
+              "Slot": 6,
+              "count": 9,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:netherite_upgrade_smithing_template"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:snout_armor_trim_smithing_template"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "create_dragons_plus:blaze_upgrade_smithing_template"
+            },
+            {
+              "Slot": 10,
+              "count": 8,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "silentgear:crimson_steel_dust"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "explode": {
+                        "stats": {
+                          "capacity": {
+                            "initialValue": 21.67255
+                          },
+                          "stun": {
+                            "initialValue": 0.20378
+                          },
+                          "damage": {
+                            "initialValue": 0.47446
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:reflection_necklace"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      396647997,
+      -1311751149,
+      -1127486160,
+      1617131340
+    ],
+    "seed": 5214927840669482644,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/1/17/17a45e3d-b1d0-4413-bccb-ed306063774c",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      2926,
+      60,
+      4130
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

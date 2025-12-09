@@ -1,0 +1,195 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 34
+              },
+              "id": "minecraft:leather_leggings"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:flint"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 45
+              },
+              "id": "minecraft:leather_helmet"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:bane_of_arthropods": 3,
+                    "minecraft:knockback": 1
+                  }
+                },
+                "minecraft:damage": 130
+              },
+              "id": "minecraft:iron_sword"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 31
+              },
+              "id": "minecraft:golden_chestplate"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 18,
+              "count": 2,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "dissection": {
+                        "stats": {
+                          "time": {
+                            "initialValue": 7.90712
+                          },
+                          "distance": {
+                            "initialValue": 28.58839
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:space_dissector"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -913589394,
+      -2057483896,
+      -1467257906,
+      1291969378
+    ],
+    "seed": -2641184812265662610,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/c/c9/c98bbb6e-855d-4988-a88b-6bce4d01e362",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      70,
+      93,
+      94
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "table": "betterfortresses:chests/keep"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

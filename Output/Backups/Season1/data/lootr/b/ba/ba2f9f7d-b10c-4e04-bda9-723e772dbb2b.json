@@ -1,0 +1,350 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 8,
+              "count": 2,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "extradelight:ketchup_jar_item"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "extradelight:rabbit_stew_feast"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:crossbow"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Xacris's Firework Display\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Light up the sky",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 25,
+                        "g": 255,
+                        "id": "ars_nouveau:constant",
+                        "b": 255
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_wall",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_firework",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Xacris's Firework Display"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 7,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:tripwire_hook"
+            },
+            {
+              "Slot": 4,
+              "count": 6,
+              "id": "minecraft:arrow"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 7,
+              "count": 8,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "nutrition": {
+                        "stats": {
+                          "hunger": {
+                            "initialValue": 2.26776
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "drinking": {
+                        "stats": {
+                          "speed": {
+                            "initialValue": 0.34229
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:novelty_drinking_hat"
+            },
+            {
+              "Slot": 10,
+              "count": 2,
+              "id": "ars_nouveau:source_gem"
+            },
+            {
+              "Slot": 11,
+              "count": 5,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "extradelight:glow_berry_pie_slice"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "extradelight:potato_sticks"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "extradelight:grated_carrot"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "extradelight:roasted_carrot"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "extradelight:carrot_salad"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "extradelight:roasted_apple"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "extradelight:beef_stew_rice"
+            },
+            {
+              "Slot": 19,
+              "count": 2,
+              "id": "extradelight:bread_slice"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "extradelight:fried_mushrooms"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "extradelight:chicken_alfredo"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "extradelight:cooked_cactus"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      -1171284099,
+      -1324593660,
+      -1112968642,
+      1999485739
+    ],
+    "seed": -4065182782921503851,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/b/ba/ba2f9f7d-b10c-4e04-bda9-723e772dbb2b",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -837,
+      189,
+      -2209
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/pillager_outpost"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

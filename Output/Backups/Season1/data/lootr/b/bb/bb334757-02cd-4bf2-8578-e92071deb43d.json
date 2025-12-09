@@ -1,0 +1,235 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Arachne's Weaving\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Creates three snaring projectiles.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_split",
+                        "ars_nouveau:glyph_split",
+                        "ars_nouveau:glyph_snare",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Arachne's Weaving"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 7,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:name_tag"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 7,
+              "count": 19,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "sophisticatedbackpacks:backpack"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "skating": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 26.3435
+                          },
+                          "speed": {
+                            "initialValue": 0.00429
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:roller_skates"
+            },
+            {
+              "Slot": 11,
+              "count": 6,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 12,
+              "count": 2,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 13,
+              "count": 2,
+              "id": "extradelight:glow_berry_cheesecake_slice"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "extradelight:scrambled_eggs"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "extradelight:grated_potato"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "extradelight:potato_chips"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "extradelight:roasted_carrot"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "extradelight:pork_stew_rice"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "extradelight:bread_slice"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "extradelight:pasta_tomato"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "extradelight:cactus"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      }
+    ],
+    "uuid": [
+      -1154267305,
+      47008754,
+      -2055673568,
+      1910420541
+    ],
+    "seed": -2405913832532433962,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/b/bb/bb334757-02cd-4bf2-8578-e92071deb43d",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2114,
+      68,
+      3720
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

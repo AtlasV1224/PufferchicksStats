@@ -1,0 +1,172 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:unbreaking": 1
+                  }
+                }
+              },
+              "id": "minecraft:fishing_rod"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:cod"
+            },
+            {
+              "Slot": 2,
+              "count": 5,
+              "id": "minecraft:cooked_cod"
+            },
+            {
+              "Slot": 3,
+              "count": 3,
+              "id": "minecraft:salmon"
+            },
+            {
+              "Slot": 4,
+              "count": 3,
+              "id": "minecraft:cooked_salmon"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "minecraft:turtle_scute"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:unbreaking": 1
+                  }
+                },
+                "minecraft:damage": 20
+              },
+              "id": "minecraft:fishing_rod"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "skating": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 16.01616
+                          },
+                          "speed": {
+                            "initialValue": 0.00156
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:roller_skates"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1990312528,
+      -1954788028,
+      -1496357730,
+      1211067919
+    ],
+    "seed": -8990204450460144668,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/7/76/76a1c250-8b7c-4d44-a6cf-649e482f6e0f",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1077,
+      104,
+      3101
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "nova_structures:chests/illager_hideout_fishing"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

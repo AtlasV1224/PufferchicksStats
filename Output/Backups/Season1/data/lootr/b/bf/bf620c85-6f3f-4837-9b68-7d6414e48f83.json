@@ -1,0 +1,207 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:book"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:orange_banner"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "push": {
+                        "stats": {
+                          "radius": {
+                            "initialValue": 3.06408
+                          },
+                          "chance": {
+                            "initialValue": 0.22795
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:whoopee_cushion"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "\"Pillager Outpost Map\"",
+                "minecraft:map_decorations": {
+                  "+": {
+                    "type": "minecraft:mansion",
+                    "rotation": 180.0,
+                    "z": 6336.0,
+                    "x": 1296.0
+                  }
+                },
+                "minecraft:map_id": 32,
+                "minecraft:map_color": 5393476
+              },
+              "id": "minecraft:filled_map"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:orange_banner"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:purple_banner"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:map_id": 17,
+                "minecraft:custom_name": "\"Ancient City Map\"",
+                "minecraft:map_decorations": {
+                  "+": {
+                    "type": "minecraft:red_x",
+                    "rotation": 180.0,
+                    "z": 3216.0,
+                    "x": -1136.0
+                  }
+                }
+              },
+              "id": "minecraft:filled_map"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:orange_banner"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:blue_banner"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1084093307,
+      1866418231,
+      -1687650972,
+      350523267
+    ],
+    "seed": 6843232713224111991,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/b/bf/bf620c85-6f3f-4837-9b68-7d6414e48f83",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1038,
+      105,
+      3099
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/map_chest"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

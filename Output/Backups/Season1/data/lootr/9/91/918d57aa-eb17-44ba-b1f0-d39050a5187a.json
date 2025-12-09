@@ -1,0 +1,143 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hold": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 4.41001
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:bunny_hoppers"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:suspicious_stew_effects": [
+                  {
+                    "id": "minecraft:weakness",
+                    "duration": 120
+                  }
+                ]
+              },
+              "id": "minecraft:suspicious_stew"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 7,
+              "count": 12,
+              "id": "minecraft:beetroot"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:beetroot"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:potato"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      }
+    ],
+    "uuid": [
+      -1853007958,
+      -350796614,
+      -1309617264,
+      1352996986
+    ],
+    "seed": 5503729358856064001,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/91/918d57aa-eb17-44ba-b1f0-d39050a5187a",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -4999,
+      80,
+      -4836
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/kitchen"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

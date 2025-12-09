@@ -1,0 +1,174 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:yellow_wool"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:cyan_wool"
+            },
+            {
+              "Slot": 2,
+              "count": 5,
+              "id": "minecraft:blue_wool"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:pink_wool"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "minecraft:light_blue_wool"
+            },
+            {
+              "Slot": 13,
+              "count": 2,
+              "id": "minecraft:pink_wool"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:light_blue_wool"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "push": {
+                        "stats": {
+                          "radius": {
+                            "initialValue": 3.45687
+                          },
+                          "chance": {
+                            "initialValue": 0.38647
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:whoopee_cushion"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:efficiency": 3
+                  }
+                }
+              },
+              "id": "minecraft:shears"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:gray_wool"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      676962665,
+      -929674402,
+      -1325775707,
+      905495340
+    ],
+    "seed": 8344689236899360633,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/2/28/2859a169-c896-4b5e-b0fa-44a535f8c32c",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      4683,
+      72,
+      -313
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/wool"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 8,
+              "count": 4,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 12,
+              "count": 2,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "ars_nouveau:music_disc_aria_biblio"
+            },
+            {
+              "Slot": 25,
+              "count": 2,
+              "id": "minecraft:redstone"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "teleport": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 5.90207
+                          },
+                          "cooldown": {
+                            "initialValue": 91.12202
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:warp_drive"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/stronghold/corridor_4.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:apple"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1066886429,
+      -1470674895,
+      -1378151013,
+      1677528883
+    ],
+    "seed": -3947126543696781418,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/3/3f/3f97651d-a857-4831-addb-159b63fd0f33",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -3997,
+      -16,
+      -3997
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_crossing"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

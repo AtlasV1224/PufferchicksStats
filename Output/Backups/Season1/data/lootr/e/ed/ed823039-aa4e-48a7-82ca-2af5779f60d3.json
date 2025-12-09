@@ -1,0 +1,226 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 6,
+              "count": 3,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 7,
+              "count": 5,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 8,
+              "count": 3,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 10,
+              "count": 2,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 11,
+              "count": 12,
+              "id": "minecraft:lime_stained_glass"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:lime_terracotta"
+            },
+            {
+              "Slot": 14,
+              "count": 7,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 15,
+              "count": 4,
+              "id": "minecraft:lime_terracotta"
+            },
+            {
+              "Slot": 16,
+              "count": 3,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 17,
+              "count": 5,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#44FF00\",\"fallback\":\"Hazmat Leggings\",\"italic\":false,\"translate\":\"incendium.item.hazmat.leggings.name\"}",
+                "minecraft:dyed_color": {
+                  "rgb": 6219030
+                },
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:generic.armor",
+                      "amount": 5.1577606201171875,
+                      "operation": "add_value",
+                      "id": "minecraft:armor",
+                      "slot": "legs"
+                    }
+                  ]
+                },
+                "minecraft:custom_data": {
+                  "incendium": {
+                    "item": "hazmat_suit"
+                  }
+                },
+                "minecraft:lore": [
+                  "{\"color\":\"#77CC00\",\"fallback\":\"Protects the wearer from poison\",\"italic\":true,\"strikethrough\":false,\"translate\":\"incendium.item.hazmat.suit.desc1\"}",
+                  "{\"strikethrough\":false,\"text\":\"\"}",
+                  "{\"color\":\"#FF8000\",\"fallback\":\"Incendium\",\"italic\":true,\"strikethrough\":false,\"translate\":\"incendium\"}"
+                ],
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:mending": 1,
+                    "apothic_enchanting:rebounding": 2,
+                    "minecraft:protection": 4,
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:leather_leggings"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 22,
+              "count": 17,
+              "id": "minecraft:lime_terracotta"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 24,
+              "count": 2,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 25,
+              "count": 4,
+              "id": "minecraft:lime_stained_glass"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:lime_stained_glass"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -310235079,
+      -1437710169,
+      -2100679947,
+      2006933715
+    ],
+    "seed": 3501475670442771531,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/e/ed/ed823039-aa4e-48a7-82ca-2af5779f60d3",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      132,
+      62,
+      -4614
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "incendium:reactor/waste"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

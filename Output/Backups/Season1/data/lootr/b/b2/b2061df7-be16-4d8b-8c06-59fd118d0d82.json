@@ -1,0 +1,239 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:obsidian"
+            },
+            {
+              "Slot": 2,
+              "count": 14,
+              "id": "minecraft:glowstone"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:obsidian"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 12,
+              "count": 2,
+              "id": "minecraft:obsidian"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:obsidian"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 23,
+              "count": 2,
+              "id": "minecraft:glowstone"
+            },
+            {
+              "Slot": 24,
+              "count": 2,
+              "id": "minecraft:obsidian"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:banner_patterns": [
+                  {
+                    "color": "yellow",
+                    "pattern": "minecraft:base"
+                  },
+                  {
+                    "color": "black",
+                    "pattern": "minecraft:half_horizontal_bottom"
+                  },
+                  {
+                    "color": "yellow",
+                    "pattern": "minecraft:triangle_bottom"
+                  },
+                  {
+                    "color": "red",
+                    "pattern": "minecraft:rhombus"
+                  },
+                  {
+                    "color": "black",
+                    "pattern": "minecraft:circle"
+                  },
+                  {
+                    "color": "red",
+                    "pattern": "minecraft:flower"
+                  },
+                  {
+                    "color": "black",
+                    "pattern": "minecraft:triangle_top"
+                  }
+                ],
+                "minecraft:custom_name": "{\"color\":\"#44FF00\",\"fallback\":\"Radiation Shield\",\"italic\":false,\"translate\":\"incendium.item.radiation_shield.name\"}",
+                "minecraft:custom_model_data": 1450302,
+                "minecraft:custom_data": {
+                  "incendium": {
+                    "item": "radiation_shield"
+                  }
+                },
+                "minecraft:lore": [
+                  "{\"color\":\"#77CC00\",\"fallback\":\"Releases radiation\",\"italic\":false,\"translate\":\"incendium.item.radiation_shield.desc1\"}",
+                  "{\"color\":\"#77CC00\",\"fallback\":\"when blocking an attack\",\"italic\":false,\"translate\":\"incendium.item.radiation_shield.desc2\"}",
+                  "\"\"",
+                  "{\"color\":\"#FF8000\",\"fallback\":\"Incendium\",\"italic\":true,\"translate\":\"incendium\"}"
+                ],
+                "minecraft:hide_additional_tooltip": {}
+              },
+              "id": "minecraft:shield"
+            },
+            {
+              "Slot": 1,
+              "count": 20,
+              "id": "minecraft:purple_stained_glass"
+            },
+            {
+              "Slot": 2,
+              "count": 11,
+              "id": "minecraft:magenta_stained_glass"
+            },
+            {
+              "Slot": 3,
+              "count": 6,
+              "id": "minecraft:crying_obsidian"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:diamond"
+            },
+            {
+              "Slot": 5,
+              "count": 7,
+              "id": "minecraft:iron_ingot"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1308221961,
+      -1105834613,
+      -1945740803,
+      294456706
+    ],
+    "seed": -6860052583887619540,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/b/b2/b2061df7-be16-4d8b-8c06-59fd118d0d82",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -891,
+      81,
+      -917
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "incendium:reactor/treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

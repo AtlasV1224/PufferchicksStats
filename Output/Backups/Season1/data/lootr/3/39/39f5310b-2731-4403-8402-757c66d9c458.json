@@ -1,0 +1,146 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:crying_obsidian"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "ars_nouveau:mana_regen": 3
+                  }
+                },
+                "minecraft:damage": 48
+              },
+              "id": "minecraft:diamond_helmet"
+            },
+            {
+              "Slot": 3,
+              "count": 31,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 5,
+              "count": 5,
+              "id": "minecraft:magma_cream"
+            },
+            {
+              "Slot": 8,
+              "count": 2,
+              "id": "silentgear:crimson_iron_ingot"
+            },
+            {
+              "Slot": 9,
+              "count": 5,
+              "id": "silentgear:blaze_gold_ingot"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:bane_of_arthropods": 3
+                  }
+                },
+                "minecraft:damage": 211
+              },
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:diamond_helmet"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      972370187,
+      657540099,
+      -2080213636,
+      1725547608
+    ],
+    "seed": -1217750485558063775,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/3/39/39f5310b-2731-4403-8402-757c66d9c458",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -505,
+      85,
+      -2195
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

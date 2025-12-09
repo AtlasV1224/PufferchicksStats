@@ -1,0 +1,538 @@
+{
+  "Equipment": [
+    {
+      "id": "minecraft:firework_rocket",
+      "count": 31
+    },
+    {
+      "id": "minecraft:diamond_boots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_leggings",
+      "count": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:mending": 1,
+            "minecraft:protection": 4
+          }
+        }
+      }
+    },
+    {
+      "id": "silentgear:elytra",
+      "count": 1,
+      "components": {
+        "minecraft:dyed_color": {
+          "show_in_tooltip": 0,
+          "rgb": 14394021
+        },
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:elytra_wings",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:phantom_membrane",
+                      "item": {
+                        "id": "minecraft:phantom_membrane",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:phantom_membrane",
+                      "item": {
+                        "id": "minecraft:phantom_membrane",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:phantom_membrane",
+                      "item": {
+                        "id": "minecraft:phantom_membrane",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:phantom_membrane",
+                      "item": {
+                        "id": "minecraft:phantom_membrane",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:phantom_membrane",
+                      "item": {
+                        "id": "minecraft:phantom_membrane",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:phantom_membrane",
+                      "item": {
+                        "id": "minecraft:phantom_membrane",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:elytra_wings"
+            },
+            {
+              "item": {
+                "id": "silentgear:binding",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:fluffy_string",
+                      "item": {
+                        "id": "silentgear:fluffy_string",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:binding"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.elytra.nameProper\",\"with\":[{\"translate\":\"material.silentgear.phantom_membrane\"}]}",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 0.0,
+          "silentgear:draw_speed": 0.0,
+          "silentgear:durability": 0.0,
+          "silentgear:repair_efficiency": 1.0,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "minecraft:incorrect_for_wooden_tool",
+            "level_hint": "0",
+            "name": "wood"
+          },
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:projectile_speed": 0.0,
+          "silentgear:magic_damage": 0.0,
+          "silentgear:armor_toughness": 0.0,
+          "silentgear:attack_speed": 0.0,
+          "silentgear:repair_value": 0.0,
+          "silentgear:magic_armor": 8.0,
+          "silentgear:attack_damage": 0.0,
+          "silentgear:armor_durability": 17.850000381469727,
+          "silentgear:harvest_speed": 0.0,
+          "silentgear:rarity": 35.0,
+          "silentgear:ranged_damage": 0.0,
+          "silentgear:enchantment_value": 10.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:renew",
+              "level": 3
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 3
+            }
+          ],
+          "silentgear:block_reach": 0.0,
+          "silentgear:armor": 0.0,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:charging_value": 0.7000000476837158
+        },
+        "silentgear:model_key": "elytra:elytra_wings{phantom_membrane},binding{fluffy_string},",
+        "silentgear:model_index": 2,
+        "minecraft:damage": 0
+      }
+    },
+    {
+      "id": "minecraft:diamond_helmet",
+      "count": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:unbreaking": 3,
+            "minecraft:protection": 3
+          }
+        }
+      }
+    }
+  ],
+  "Model": 127,
+  "PlayerName": "TheFrenchDodo",
+  "PosZ": -311.30000001192093,
+  "Id": [
+    -506051015,
+    -684113919,
+    -1327766973,
+    -985238956
+  ],
+  "PosY": -2.0,
+  "PosX": 998.2103559068722,
+  "Dimension": "amplidim:overworld",
+  "ArmorInventory": [
+    {
+      "count": 1,
+      "Slot": 0,
+      "id": "minecraft:diamond_boots"
+    },
+    {
+      "count": 1,
+      "Slot": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:mending": 1,
+            "minecraft:protection": 4
+          }
+        }
+      },
+      "id": "minecraft:diamond_leggings"
+    },
+    {
+      "count": 1,
+      "Slot": 2,
+      "components": {
+        "minecraft:dyed_color": {
+          "show_in_tooltip": 0,
+          "rgb": 14394021
+        },
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:elytra_wings",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:phantom_membrane",
+                      "item": {
+                        "id": "minecraft:phantom_membrane",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:phantom_membrane",
+                      "item": {
+                        "id": "minecraft:phantom_membrane",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:phantom_membrane",
+                      "item": {
+                        "id": "minecraft:phantom_membrane",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:phantom_membrane",
+                      "item": {
+                        "id": "minecraft:phantom_membrane",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:phantom_membrane",
+                      "item": {
+                        "id": "minecraft:phantom_membrane",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:phantom_membrane",
+                      "item": {
+                        "id": "minecraft:phantom_membrane",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:elytra_wings"
+            },
+            {
+              "item": {
+                "id": "silentgear:binding",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:fluffy_string",
+                      "item": {
+                        "id": "silentgear:fluffy_string",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:binding"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.elytra.nameProper\",\"with\":[{\"translate\":\"material.silentgear.phantom_membrane\"}]}",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 0.0,
+          "silentgear:draw_speed": 0.0,
+          "silentgear:durability": 0.0,
+          "silentgear:repair_efficiency": 1.0,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "minecraft:incorrect_for_wooden_tool",
+            "level_hint": "0",
+            "name": "wood"
+          },
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:projectile_speed": 0.0,
+          "silentgear:magic_damage": 0.0,
+          "silentgear:armor_toughness": 0.0,
+          "silentgear:attack_speed": 0.0,
+          "silentgear:repair_value": 0.0,
+          "silentgear:magic_armor": 8.0,
+          "silentgear:attack_damage": 0.0,
+          "silentgear:armor_durability": 17.850000381469727,
+          "silentgear:harvest_speed": 0.0,
+          "silentgear:rarity": 35.0,
+          "silentgear:ranged_damage": 0.0,
+          "silentgear:enchantment_value": 10.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:renew",
+              "level": 3
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 3
+            }
+          ],
+          "silentgear:block_reach": 0.0,
+          "silentgear:armor": 0.0,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:charging_value": 0.7000000476837158
+        },
+        "silentgear:model_key": "elytra:elytra_wings{phantom_membrane},binding{fluffy_string},",
+        "silentgear:model_index": 2,
+        "minecraft:damage": 0
+      },
+      "id": "silentgear:elytra"
+    },
+    {
+      "count": 1,
+      "Slot": 3,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:unbreaking": 3,
+            "minecraft:protection": 3
+          }
+        }
+      },
+      "id": "minecraft:diamond_helmet"
+    }
+  ],
+  "Timestamp": 1759578926920,
+  "MainInventory": [
+    {
+      "count": 14,
+      "Slot": 0,
+      "id": "minecraft:bread"
+    },
+    {
+      "count": 64,
+      "Slot": 1,
+      "id": "minecraft:cobbled_deepslate"
+    },
+    {
+      "count": 31,
+      "Slot": 2,
+      "id": "minecraft:firework_rocket"
+    },
+    {
+      "count": 14,
+      "Slot": 3,
+      "id": "minecraft:tuff"
+    },
+    {
+      "count": 64,
+      "Slot": 4,
+      "id": "minecraft:cobbled_deepslate"
+    },
+    {
+      "count": 64,
+      "Slot": 5,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 28,
+      "Slot": 6,
+      "id": "create:limestone"
+    },
+    {
+      "count": 27,
+      "Slot": 7,
+      "id": "minecraft:cobbled_deepslate"
+    },
+    {
+      "count": 14,
+      "Slot": 8,
+      "id": "minecraft:raw_copper"
+    },
+    {
+      "count": 4,
+      "Slot": 9,
+      "id": "minecraft:flint"
+    },
+    {
+      "count": 30,
+      "Slot": 10,
+      "id": "minecraft:dirt"
+    },
+    {
+      "count": 64,
+      "Slot": 11,
+      "id": "minecraft:cobbled_deepslate"
+    },
+    {
+      "count": 64,
+      "Slot": 12,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 7,
+      "Slot": 13,
+      "id": "minecraft:raw_iron"
+    },
+    {
+      "count": 18,
+      "Slot": 14,
+      "id": "minecraft:granite"
+    },
+    {
+      "count": 64,
+      "Slot": 15,
+      "id": "minecraft:cobbled_deepslate"
+    },
+    {
+      "count": 1,
+      "Slot": 16,
+      "id": "minecraft:tuff"
+    },
+    {
+      "count": 23,
+      "Slot": 17,
+      "id": "minecraft:redstone"
+    },
+    {
+      "count": 64,
+      "Slot": 18,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 22,
+      "Slot": 19,
+      "id": "minecraft:diorite"
+    },
+    {
+      "count": 25,
+      "Slot": 20,
+      "id": "minecraft:andesite"
+    },
+    {
+      "count": 64,
+      "Slot": 21,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 64,
+      "Slot": 22,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 64,
+      "Slot": 23,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 10,
+      "Slot": 24,
+      "id": "minecraft:gravel"
+    },
+    {
+      "count": 4,
+      "Slot": 25,
+      "id": "minecraft:coal"
+    },
+    {
+      "count": 64,
+      "Slot": 26,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 64,
+      "Slot": 27,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 55,
+      "Slot": 28,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 64,
+      "Slot": 29,
+      "id": "minecraft:cobbled_deepslate"
+    },
+    {
+      "count": 64,
+      "Slot": 30,
+      "id": "minecraft:cobbled_deepslate"
+    },
+    {
+      "count": 64,
+      "Slot": 31,
+      "id": "minecraft:cobbled_deepslate"
+    },
+    {
+      "count": 64,
+      "Slot": 32,
+      "id": "minecraft:cobbled_deepslate"
+    },
+    {
+      "count": 64,
+      "Slot": 33,
+      "id": "minecraft:cobbled_deepslate"
+    },
+    {
+      "count": 64,
+      "Slot": 34,
+      "id": "minecraft:cobbled_deepslate"
+    },
+    {
+      "count": 64,
+      "Slot": 35,
+      "id": "minecraft:cobbled_deepslate"
+    }
+  ],
+  "Experience": 0,
+  "PlayerUuid": [
+    -1300637667,
+    -584760945,
+    -1215534361,
+    674047685
+  ],
+  "Items": [],
+  "OffHandInventory": []
+}

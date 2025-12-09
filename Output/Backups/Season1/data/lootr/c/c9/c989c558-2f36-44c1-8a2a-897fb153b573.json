@@ -1,0 +1,112 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            },
+            {
+              "Slot": 12,
+              "count": 10,
+              "id": "ars_nouveau:sourcestone"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "ars_nouveau:wixie_shards"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "components": {
+                "ars_additions:structure_lookup_data": [
+                  1522563513,
+                  802572985,
+                  -2015465702,
+                  -1374061263
+                ],
+                "ars_additions:exploration_scroll_data": {
+                  "pos": [
+                    -1916.5,
+                    64.5,
+                    994.5
+                  ],
+                  "search_radius": 100
+                }
+              },
+              "id": "ars_additions:exploration_warp_scroll"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            },
+            {
+              "Slot": 24,
+              "count": 51,
+              "id": "ars_nouveau:sourcestone"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      -913717928,
+      792085697,
+      -1976923777,
+      -1319914125
+    ],
+    "seed": -2327953724159726392,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/c/c9/c989c558-2f36-44c1-8a2a-897fb153b573",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1917,
+      64,
+      994
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "ars_additions:chests/ruined_portal"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

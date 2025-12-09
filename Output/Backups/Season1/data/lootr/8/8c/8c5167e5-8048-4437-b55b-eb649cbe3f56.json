@@ -1,0 +1,117 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 13,
+              "id": "minecraft:gilded_blackstone"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:crying_obsidian"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "ars_nouveau:mana_regen": 2
+                  }
+                },
+                "minecraft:damage": 19
+              },
+              "id": "minecraft:diamond_chestplate"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 3
+                  }
+                },
+                "minecraft:damage": 40
+              },
+              "id": "minecraft:diamond_leggings"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 8,
+              "count": 6,
+              "id": "silentgear:blaze_gold_ingot"
+            },
+            {
+              "Slot": 9,
+              "count": 10,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 10,
+              "count": 25,
+              "id": "ars_nouveau:amplify_arrow"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1940822043,
+      -2142747593,
+      -1252267164,
+      -1665253546
+    ],
+    "seed": 3232274630332800542,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/8/8c/8c5167e5-8048-4437-b55b-eb649cbe3f56",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -4505,
+      104,
+      -1316
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,73 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "the_bumblezone:bee_bread"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "components": {
+                "the_bumblezone:honey_compass_target_data": {
+                  "targetPos": [
+                    -384,
+                    0,
+                    -912
+                  ],
+                  "targetDimension": "the_bumblezone:the_bumblezone"
+                },
+                "the_bumblezone:honey_compass_base_data": {
+                  "compassType": "structure",
+                  "customName": "item.the_bumblezone.honey_compass_lesser_mystery_structure",
+                  "customDescription": "item.the_bumblezone.honey_compass_lesser_mystery_structure_description"
+                },
+                "the_bumblezone:honey_compass_state_data": {
+                  "locatedSpecialStructure": 0,
+                  "isLoading": 0,
+                  "locked": 1,
+                  "isFailed": 0
+                }
+              },
+              "id": "the_bumblezone:honey_compass"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      1343179045,
+      -324645982,
+      -1174130354,
+      1918070727
+    ],
+    "seed": 9017986458071427500,
+    "name": "{\"translate\":\"container.the_bumblezone.honey_cocoon\"}",
+    "blockType": 0,
+    "key": "lootr/5/50/500f4925-eca6-4ba2-ba04-314e72536fc7",
+    "dimension": "the_bumblezone:the_bumblezone",
+    "hasBeenOpened": 1,
+    "position": [
+      -104,
+      152,
+      -505
+    ],
+    "size": 18,
+    "actualOpeners": [],
+    "table": "the_bumblezone:structures/hive_voyager"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,769 @@
+{
+  "Equipment": [
+    {
+      "id": "minecraft:stone_sword",
+      "count": 1,
+      "components": {
+        "minecraft:damage": 40
+      }
+    },
+    {
+      "id": "minecraft:golden_leggings",
+      "count": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:protection": 3
+          }
+        },
+        "minecraft:damage": 50
+      }
+    },
+    {
+      "id": "minecraft:golden_chestplate",
+      "count": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:protection": 1
+          }
+        },
+        "minecraft:damage": 39
+      }
+    },
+    {
+      "id": "minecraft:leather_helmet",
+      "count": 1,
+      "components": {
+        "minecraft:damage": 50
+      }
+    }
+  ],
+  "Model": 127,
+  "PlayerName": "tlitookilakin",
+  "PosZ": -350.086709619202,
+  "Id": [
+    1510989718,
+    -575258308,
+    -1767032717,
+    823404678
+  ],
+  "PosY": 23.575345559490394,
+  "PosX": -510.7431718342452,
+  "Dimension": "minecraft:overworld",
+  "ArmorInventory": [
+    {
+      "count": 1,
+      "Slot": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:protection": 3
+          }
+        },
+        "minecraft:damage": 50
+      },
+      "id": "minecraft:golden_leggings"
+    },
+    {
+      "count": 1,
+      "Slot": 2,
+      "components": {
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:protection": 1
+          }
+        },
+        "minecraft:damage": 39
+      },
+      "id": "minecraft:golden_chestplate"
+    },
+    {
+      "count": 1,
+      "Slot": 3,
+      "components": {
+        "minecraft:damage": 50
+      },
+      "id": "minecraft:leather_helmet"
+    }
+  ],
+  "Timestamp": 1753200132580,
+  "MainInventory": [
+    {
+      "count": 1,
+      "Slot": 0,
+      "components": {
+        "minecraft:damage": 40
+      },
+      "id": "minecraft:stone_sword"
+    },
+    {
+      "count": 1,
+      "Slot": 1,
+      "components": {
+        "minecraft:damage": 126
+      },
+      "id": "minecraft:stone_pickaxe"
+    },
+    {
+      "count": 30,
+      "Slot": 2,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 1,
+      "Slot": 6,
+      "components": {
+        "ars_nouveau:spell_caster": {
+          "max_slots": 10,
+          "spells": {
+            "0": {
+              "particleTimeline": {},
+              "recipe": [
+                "ars_nouveau:glyph_touch",
+                "ars_nouveau:glyph_break"
+              ],
+              "color": {
+                "g": 25,
+                "r": 255,
+                "b": 180,
+                "id": "ars_nouveau:constant"
+              },
+              "name": "Break",
+              "sound": {}
+            }
+          }
+        }
+      },
+      "id": "ars_nouveau:novice_spell_book"
+    },
+    {
+      "count": 32,
+      "Slot": 7,
+      "id": "minecraft:bread"
+    },
+    {
+      "count": 13,
+      "Slot": 8,
+      "id": "minecraft:torch"
+    },
+    {
+      "count": 5,
+      "Slot": 9,
+      "id": "minecraft:moss_block"
+    },
+    {
+      "count": 14,
+      "Slot": 10,
+      "id": "create:raw_zinc"
+    },
+    {
+      "count": 64,
+      "Slot": 11,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 45,
+      "Slot": 12,
+      "id": "minecraft:granite"
+    },
+    {
+      "count": 64,
+      "Slot": 13,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 64,
+      "Slot": 14,
+      "id": "minecraft:raw_copper"
+    },
+    {
+      "count": 64,
+      "Slot": 15,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 64,
+      "Slot": 16,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 2,
+      "Slot": 17,
+      "id": "minecraft:raw_copper"
+    },
+    {
+      "count": 4,
+      "Slot": 18,
+      "id": "minecraft:diorite"
+    },
+    {
+      "count": 14,
+      "Slot": 19,
+      "id": "minecraft:raw_iron"
+    },
+    {
+      "count": 3,
+      "Slot": 20,
+      "id": "minecraft:tuff_bricks"
+    },
+    {
+      "count": 29,
+      "Slot": 21,
+      "id": "minecraft:andesite"
+    },
+    {
+      "count": 5,
+      "Slot": 22,
+      "id": "minecraft:bone"
+    },
+    {
+      "count": 64,
+      "Slot": 23,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 4,
+      "Slot": 25,
+      "id": "minecraft:mossy_cobblestone"
+    },
+    {
+      "count": 1,
+      "Slot": 29,
+      "components": {
+        "minecraft:damage": 69
+      },
+      "id": "minecraft:golden_helmet"
+    },
+    {
+      "count": 2,
+      "Slot": 30,
+      "id": "minecraft:arrow"
+    },
+    {
+      "count": 1,
+      "Slot": 31,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:regeneration"
+        }
+      },
+      "id": "minecraft:potion"
+    },
+    {
+      "count": 1,
+      "Slot": 33,
+      "components": {
+        "minecraft:damage": 59
+      },
+      "id": "minecraft:stone_axe"
+    },
+    {
+      "count": 1,
+      "Slot": 35,
+      "id": "minecraft:crafting_table"
+    }
+  ],
+  "Experience": 5,
+  "PlayerUuid": [
+    -1897521421,
+    518932583,
+    -1765357074,
+    1888276970
+  ],
+  "Items": [
+    {
+      "id": "artifacts:anglers_hat",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 1,
+            "experience": 114,
+            "level": 1
+          },
+          "abilities": {
+            "abilities": {
+              "catch": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "1": [
+                      2,
+                      0
+                    ],
+                    "2": [
+                      3
+                    ],
+                    "3": [
+                      6,
+                      4
+                    ],
+                    "7": [
+                      6
+                    ],
+                    "4": [
+                      5
+                    ]
+                  }
+                },
+                "stats": {
+                  "chance": {
+                    "initialValue": 0.17138
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "head",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:withered_bracelet",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 1,
+            "experience": 0,
+            "level": 1
+          },
+          "abilities": {
+            "abilities": {
+              "passive": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {}
+              },
+              "withered": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "8": [
+                      4
+                    ],
+                    "1": [
+                      0,
+                      2,
+                      3
+                    ],
+                    "7": [
+                      6,
+                      9
+                    ],
+                    "5": [
+                      4,
+                      7,
+                      6,
+                      8,
+                      9
+                    ],
+                    "4": [
+                      1,
+                      6
+                    ],
+                    "9": [
+                      8
+                    ]
+                  }
+                },
+                "stats": {
+                  "chance": {
+                    "initialValue": 0.33364
+                  },
+                  "time": {
+                    "initialValue": 2.57635
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "bracelet",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:pocket_piston",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 1,
+            "experience": 112,
+            "level": 1
+          },
+          "abilities": {
+            "abilities": {
+              "discarding": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "8": [
+                      7
+                    ],
+                    "3": [
+                      2
+                    ],
+                    "2": [
+                      6
+                    ],
+                    "1": [
+                      2,
+                      0,
+                      4,
+                      6
+                    ],
+                    "0": [
+                      3
+                    ],
+                    "6": [
+                      4,
+                      8
+                    ],
+                    "7": [
+                      9
+                    ],
+                    "5": [
+                      0
+                    ],
+                    "4": [
+                      5
+                    ],
+                    "9": [
+                      6
+                    ]
+                  }
+                },
+                "stats": {
+                  "interaction": {
+                    "initialValue": 0.33359
+                  }
+                }
+              },
+              "interaction": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 0
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "range": {
+                    "initialValue": 0.34618
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "hands",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:power_glove",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 1,
+            "experience": 98,
+            "level": 1
+          },
+          "abilities": {
+            "abilities": {
+              "power": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {
+                    "8": [
+                      7
+                    ],
+                    "1": [
+                      8,
+                      2
+                    ],
+                    "3": [
+                      2
+                    ],
+                    "6": [
+                      5
+                    ],
+                    "7": [
+                      6
+                    ],
+                    "5": [
+                      4
+                    ],
+                    "4": [
+                      3
+                    ],
+                    "9": [
+                      0
+                    ]
+                  }
+                },
+                "stats": {
+                  "amount": {
+                    "initialValue": 0.95601
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "hands",
+          "wasEquipped": 1,
+          "slotIndex": 1
+        }
+      }
+    },
+    {
+      "id": "relics:leather_belt",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 1,
+            "experience": 94,
+            "level": 1
+          },
+          "abilities": {
+            "abilities": {
+              "slots": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "charm": {
+                    "initialValue": 2.89441
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "belt",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:bunny_hoppers",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 3,
+            "experience": 63,
+            "level": 3
+          },
+          "abilities": {
+            "abilities": {
+              "hold": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "0": [
+                      1
+                    ],
+                    "2": [
+                      4,
+                      1
+                    ],
+                    "3": [
+                      2
+                    ],
+                    "5": [
+                      7,
+                      1,
+                      6
+                    ]
+                  }
+                },
+                "stats": {
+                  "duration": {
+                    "initialValue": 3.64655
+                  }
+                }
+              }
+            }
+          }
+        },
+        "relics:time": 0,
+        "relics:toggled": 1,
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "feet",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:running_shoes",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 3,
+            "experience": 27,
+            "level": 3
+          },
+          "abilities": {
+            "abilities": {
+              "runner": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "8": [
+                      7
+                    ],
+                    "3": [
+                      2
+                    ],
+                    "2": [
+                      1
+                    ],
+                    "1": [
+                      0
+                    ],
+                    "0": [
+                      8
+                    ],
+                    "6": [
+                      5
+                    ],
+                    "7": [
+                      6
+                    ],
+                    "5": [
+                      4
+                    ],
+                    "4": [
+                      3
+                    ]
+                  }
+                },
+                "stats": {
+                  "speed": {
+                    "initialValue": 0.79705
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "feet",
+          "wasEquipped": 1,
+          "slotIndex": 1
+        }
+      }
+    }
+  ],
+  "OffHandInventory": []
+}

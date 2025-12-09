@@ -1,0 +1,181 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Verdant Aura\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "It's covered in dirt and moss..",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 145,
+                        "g": 145,
+                        "id": "ars_nouveau:constant",
+                        "b": 201
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:gaia_family"
+                        }
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_orbit",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_split",
+                        "ars_nouveau:glyph_grow",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Verdant Aura"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 8,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 3,
+              "count": 8,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:instrument": "minecraft:ponder_goat_horn"
+              },
+              "id": "minecraft:goat_horn"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "toffys_hooks:climbing_hook"
+            },
+            {
+              "Slot": 6,
+              "count": 4,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 7,
+              "count": 10,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "swimmer": {
+                        "stats": {
+                          "modifier": {
+                            "initialValue": 0.34215
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:flippers"
+            },
+            {
+              "Slot": 9,
+              "count": 2,
+              "id": "farmersdelight:onion_crate"
+            },
+            {
+              "Slot": 10,
+              "count": 9,
+              "id": "farmersdelight:onion"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      2028137338,
+      -800242377,
+      -1453248652,
+      513993750
+    ],
+    "seed": -3744496885539304419,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/7/78/78e2eb7a-d04d-4537-a961-2f741ea2ec16",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      1161,
+      198,
+      -4591
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/pillager_outpost"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,89 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "\"Pillager Outpost Map\"",
+                "minecraft:map_decorations": {
+                  "+": {
+                    "type": "minecraft:mansion",
+                    "rotation": 180.0,
+                    "z": -384.0,
+                    "x": -1296.0
+                  }
+                },
+                "minecraft:map_id": 3,
+                "minecraft:map_color": 5393476
+              },
+              "id": "minecraft:filled_map"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:red_banner"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:yellow_banner"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:purple_banner"
+            }
+          ]
+        },
+        "uuid": [
+          -333771984,
+          2016232684,
+          -1912178210,
+          -247182298
+        ]
+      }
+    ],
+    "uuid": [
+      -1670288330,
+      -1108064692,
+      -1893354286,
+      50926818
+    ],
+    "seed": 7476235198816978363,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/9c/9c716c36-bdf4-464c-8f25-b4d2030914e2",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1119,
+      120,
+      3060
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -333771984,
+        2016232684,
+        -1912178210,
+        -247182298
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/map_chest"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

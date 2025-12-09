@@ -1,0 +1,138 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:item_name": "{\"translate\":\"filled_map.buried_treasure\"}"
+              },
+              "id": "minecraft:map"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "exposure_expanded:blur_filter"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "claws": {
+                        "stats": {
+                          "modifier": {
+                            "initialValue": 0.09399
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:feral_claws"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "ars_nouveau:warp_scroll"
+            },
+            {
+              "Slot": 8,
+              "count": 2,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 9,
+              "count": 2,
+              "id": "extradelight:furikake"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      2070271971,
+      -490845749,
+      -1097962754,
+      -306068865
+    ],
+    "seed": -7410828089742855762,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/7/7b/7b65d7e3-e2be-49cb-be8e-6afeedc1c27f",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1548,
+      46,
+      -561
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/underwater_ruin_small"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

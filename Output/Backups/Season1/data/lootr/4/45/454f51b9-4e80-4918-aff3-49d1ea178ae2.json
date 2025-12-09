@@ -1,0 +1,94 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "\"Pillager Outpost Map\"",
+                "minecraft:map_decorations": {
+                  "+": {
+                    "type": "minecraft:mansion",
+                    "rotation": 180.0,
+                    "z": -384.0,
+                    "x": -1296.0
+                  }
+                },
+                "minecraft:map_id": 20,
+                "minecraft:map_color": 5393476
+              },
+              "id": "minecraft:filled_map"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:gray_banner"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:red_banner"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "minecraft:book"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1162826169,
+      1317030168,
+      -1343010351,
+      -367555870
+    ],
+    "seed": -3441315971777624043,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/4/45/454f51b9-4e80-4918-aff3-49d1ea178ae2",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2162,
+      85,
+      521
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/illager_mansion/map_chest"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

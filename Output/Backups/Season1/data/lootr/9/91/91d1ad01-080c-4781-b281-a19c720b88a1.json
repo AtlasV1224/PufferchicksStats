@@ -1,0 +1,184 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "pastel:slush"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "pastel:beverage": {
+                  "thickness": 1.0,
+                  "alcohol_percent": 14,
+                  "days_aged": 192532
+                },
+                "pastel:infused_beverage": {
+                  "variant": "beer",
+                  "color": 16762703
+                },
+                "minecraft:potion_contents": {
+                  "custom_effects": [
+                    {
+                      "amplifier": 2,
+                      "show_icon": 1,
+                      "id": "minecraft:haste",
+                      "neoforge:cures": [
+                        "milk",
+                        "protected_by_totem"
+                      ],
+                      "duration": 9600
+                    },
+                    {
+                      "amplifier": 1,
+                      "show_icon": 1,
+                      "id": "pastel:nourishing",
+                      "neoforge:cures": [
+                        "milk",
+                        "protected_by_totem"
+                      ],
+                      "duration": 9600
+                    },
+                    {
+                      "amplifier": 2,
+                      "show_icon": 1,
+                      "id": "minecraft:saturation",
+                      "neoforge:cures": [
+                        "milk",
+                        "protected_by_totem"
+                      ],
+                      "duration": 120
+                    },
+                    {
+                      "duration": 600,
+                      "show_icon": 1,
+                      "id": "minecraft:nausea",
+                      "neoforge:cures": [
+                        "milk",
+                        "protected_by_totem"
+                      ]
+                    }
+                  ]
+                }
+              },
+              "id": "pastel:infused_beverage"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "hold": {
+                        "stats": {
+                          "duration": {
+                            "initialValue": 3.73092
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:bunny_hoppers"
+            },
+            {
+              "Slot": 8,
+              "count": 4,
+              "id": "pastel:slush"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:bucket"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:bucket"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "securitycraft:reinforced_red_terracotta"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "pastel:slush"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -1848529663,
+      135022465,
+      -1300127332,
+      1913358497
+    ],
+    "seed": 2591586109113906371,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/91/91d1ad01-080c-4781-b281-a19c720b88a1",
+    "dimension": "pastel:deeper_down",
+    "hasBeenOpened": 1,
+    "position": [
+      -1104,
+      -285,
+      -3064
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "pastel:chests/city_below/terrace_house_cellar"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

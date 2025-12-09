@@ -1,0 +1,91 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:unbreaking": 2
+                  }
+                }
+              },
+              "id": "minecraft:diamond_pickaxe"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "nova_structures:illagers_bane": 5
+                  }
+                },
+                "minecraft:damage": 139
+              },
+              "id": "minecraft:iron_sword"
+            },
+            {
+              "Slot": 3,
+              "count": 22,
+              "id": "minecraft:arrow"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "minecraft:cooked_porkchop"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -680562310,
+      -1061204560,
+      -1923705227,
+      -103114364
+    ],
+    "seed": -7431290340204894842,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/d7/d76f717a-c0bf-4db0-8d56-9675f9da9984",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -1261,
+      134,
+      -1264
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "mns:chests/uncommon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

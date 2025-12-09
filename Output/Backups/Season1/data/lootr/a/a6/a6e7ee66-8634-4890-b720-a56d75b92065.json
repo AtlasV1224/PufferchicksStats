@@ -1,0 +1,260 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 3,
+              "count": 3,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:golden_apple"
+            },
+            {
+              "Slot": 8,
+              "count": 2,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 10,
+              "count": 2,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "exposure_expanded:antialias_filter"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "ars_nouveau:source_gem"
+            },
+            {
+              "Slot": 25,
+              "count": 3,
+              "id": "minecraft:string"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Aurellia's Bite Storm\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "The bite from this storm is worse than its bark.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 119,
+                        "id": "ars_nouveau:constant",
+                        "b": 203
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:tempestry_family"
+                        }
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_linger",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_fangs",
+                        "ars_nouveau:glyph_lightning",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_extend_time"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Aurellia's Bite Storm"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 5,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:name_tag"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:golden_horse_armor"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 6,
+              "count": 9,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 7,
+              "count": 5,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 8,
+              "count": 7,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 9,
+              "count": 4,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 10,
+              "count": 7,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      -1494749594,
+      -2043393904,
+      -1222597267,
+      1975066725
+    ],
+    "seed": -3719490751358052030,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/a/a6/a6e7ee66-8634-4890-b720-a56d75b92065",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -842,
+      184,
+      -2206
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

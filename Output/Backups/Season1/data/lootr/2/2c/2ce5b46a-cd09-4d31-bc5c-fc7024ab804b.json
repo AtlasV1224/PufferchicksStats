@@ -1,0 +1,212 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 10,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 3,
+              "count": 10,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:obsidian"
+            },
+            {
+              "Slot": 6,
+              "count": 2,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 7,
+              "count": 7,
+              "id": "minecraft:basalt"
+            },
+            {
+              "Slot": 8,
+              "count": 17,
+              "id": "minecraft:lime_terracotta"
+            },
+            {
+              "Slot": 10,
+              "count": 3,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 11,
+              "count": 3,
+              "id": "minecraft:basalt"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:blackstone"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:obsidian"
+            },
+            {
+              "Slot": 17,
+              "count": 8,
+              "id": "minecraft:blackstone"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:lime_terracotta"
+            },
+            {
+              "Slot": 21,
+              "count": 3,
+              "id": "minecraft:blackstone"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#44FF00\",\"fallback\":\"Hazmat Boots\",\"italic\":false,\"translate\":\"incendium.item.hazmat.boots.name\"}",
+                "minecraft:dyed_color": {
+                  "rgb": 6219030
+                },
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:generic.armor",
+                      "amount": 2.642090082168579,
+                      "operation": "add_value",
+                      "id": "minecraft:armor",
+                      "slot": "feet"
+                    }
+                  ]
+                },
+                "minecraft:custom_data": {
+                  "incendium": {
+                    "item": "hazmat_suit"
+                  }
+                },
+                "minecraft:lore": [
+                  "{\"color\":\"#77CC00\",\"fallback\":\"Protects the wearer from poison\",\"italic\":true,\"strikethrough\":false,\"translate\":\"incendium.item.hazmat.suit.desc1\"}",
+                  "{\"strikethrough\":false,\"text\":\"\"}",
+                  "{\"color\":\"#FF8000\",\"fallback\":\"Incendium\",\"italic\":true,\"strikethrough\":false,\"translate\":\"incendium\"}"
+                ],
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:mending": 1,
+                    "minecraft:protection": 4
+                  }
+                }
+              },
+              "id": "minecraft:leather_boots"
+            },
+            {
+              "Slot": 23,
+              "count": 2,
+              "id": "minecraft:basalt"
+            },
+            {
+              "Slot": 26,
+              "count": 4,
+              "id": "minecraft:green_terracotta"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:efficiency": 2,
+                    "minecraft:fortune": 1
+                  }
+                },
+                "minecraft:damage": 161
+              },
+              "id": "minecraft:iron_pickaxe"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      753251434,
+      -855028431,
+      -1134756752,
+      615219275
+    ],
+    "seed": 2789577340995063683,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/2/2c/2ce5b46a-cd09-4d31-bc5c-fc7024ab804b",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -889,
+      58,
+      -938
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "incendium:reactor/waste"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

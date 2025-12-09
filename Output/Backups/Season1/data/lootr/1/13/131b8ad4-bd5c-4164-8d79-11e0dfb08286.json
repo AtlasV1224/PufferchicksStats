@@ -1,0 +1,175 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "securitycraft:reinforced_pink_terracotta"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "pastel:beverage": {
+                  "thickness": 1.0,
+                  "alcohol_percent": 98,
+                  "days_aged": 182841
+                },
+                "pastel:infused_beverage": {
+                  "variant": "gin",
+                  "color": 16437201
+                },
+                "minecraft:potion_contents": {
+                  "custom_effects": [
+                    {
+                      "amplifier": 4,
+                      "show_icon": 1,
+                      "id": "minecraft:luck",
+                      "neoforge:cures": [
+                        "protected_by_totem",
+                        "milk"
+                      ],
+                      "duration": 9600
+                    },
+                    {
+                      "duration": 9600,
+                      "show_icon": 1,
+                      "id": "minecraft:fire_resistance",
+                      "neoforge:cures": [
+                        "protected_by_totem",
+                        "milk"
+                      ]
+                    },
+                    {
+                      "duration": 600,
+                      "show_icon": 1,
+                      "id": "minecraft:poison",
+                      "neoforge:cures": [
+                        "protected_by_totem",
+                        "honey",
+                        "milk"
+                      ]
+                    }
+                  ]
+                }
+              },
+              "id": "pastel:infused_beverage"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:charcoal"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:charcoal"
+            },
+            {
+              "Slot": 5,
+              "count": 2,
+              "id": "pastel:slush"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:charcoal"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "pastel:slush"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:charcoal"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:charcoal"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "pastel:slush"
+            },
+            {
+              "Slot": 17,
+              "count": 2,
+              "id": "pastel:slush"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "pastel:slush"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "pastel:slush"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "pastel:slush"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "pastel:slush"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      320572116,
+      -1118027420,
+      -1921445408,
+      -542080378
+    ],
+    "seed": 7805251702025033410,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/1/13/131b8ad4-bd5c-4164-8d79-11e0dfb08286",
+    "dimension": "pastel:deeper_down",
+    "hasBeenOpened": 1,
+    "position": [
+      -660,
+      -285,
+      -2654
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "pastel:chests/city_below/terrace_house_cellar"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

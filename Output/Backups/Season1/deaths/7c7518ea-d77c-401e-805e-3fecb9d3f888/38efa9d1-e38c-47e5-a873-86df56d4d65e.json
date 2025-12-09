@@ -1,0 +1,618 @@
+{
+  "Equipment": [
+    {
+      "id": "silentgear:katana",
+      "count": 1,
+      "components": {
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:rod",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:blaze_rod"
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:rod"
+            },
+            {
+              "item": {
+                "id": "silentgear:katana_blade",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:azure_electrum",
+                              "item": {
+                                "id": "silentgear:azure_electrum_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:azure_electrum",
+                              "item": {
+                                "id": "silentgear:azure_electrum_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    },
+                    {
+                      "material": "silentgear:metal_alloy",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:alloy_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:tyrian_steel",
+                              "item": {
+                                "id": "silentgear:tyrian_steel_ingot",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:azure_electrum",
+                              "item": {
+                                "id": "silentgear:azure_electrum_ingot",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:katana_blade"
+            },
+            {
+              "item": {
+                "id": "silentgear:tip",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:hybrid_gem",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:hybrid_gem",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "silentgear:material_list": [
+                            {
+                              "material": "silentgear:redstone",
+                              "item": {
+                                "id": "minecraft:redstone",
+                                "count": 1
+                              }
+                            },
+                            {
+                              "material": "silentgear:quartz",
+                              "item": {
+                                "id": "minecraft:quartz",
+                                "count": 1
+                              }
+                            }
+                          ],
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:tip"
+            },
+            {
+              "item": {
+                "id": "silentgear:binding",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:fine_silk",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "silentgear:fine_silk",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:binding"
+            },
+            {
+              "item": {
+                "id": "silentgear:grip",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:phantom_membrane",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "minecraft:phantom_membrane",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:grip"
+            },
+            {
+              "item": {
+                "id": "silentgear:coating",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:netherite",
+                      "modifiers": [
+                        {
+                          "type": "silentgear:grade",
+                          "grade": "MAX"
+                        },
+                        {
+                          "type": "silentgear:starcharged",
+                          "level": 3
+                        }
+                      ],
+                      "item": {
+                        "id": "minecraft:netherite_ingot",
+                        "count": 1,
+                        "components": {
+                          "silentgear:starcharged_level": 3,
+                          "minecraft:enchantment_glint_override": 1,
+                          "silentgear:grade": "MAX"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:coating"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "!minecraft:attribute_modifiers": {},
+        "silentgear:model_key": "katana:rod{blaze_rod},katana_blade{metal_alloy[tyrian_steel,azure_electrum]},tip{hybrid_gem[redstone,quartz]},binding{fine_silk},grip{phantom_membrane},coating{netherite},",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 1.3117647171020508,
+          "silentgear:draw_speed": 0.0,
+          "silentgear:magic_armor": 36.08460235595703,
+          "silentgear:knockback_resistance": 1.2999998331069946,
+          "silentgear:armor_toughness": 29.429508209228516,
+          "silentgear:projectile_speed": 1.985766053199768,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "silentgear:incorrect_for_tyrian_steel_tools",
+            "level_hint": "4",
+            "name": "tyrian_steel"
+          },
+          "silentgear:magic_damage": 26.15982437133789,
+          "silentgear:attack_speed": 1.9000000953674316,
+          "silentgear:repair_value": 0.5,
+          "silentgear:repair_efficiency": 1.149999976158142,
+          "silentgear:durability": 16520.83984375,
+          "silentgear:attack_damage": 40.47704315185547,
+          "silentgear:harvest_speed": 128.45883178710938,
+          "silentgear:armor_durability": 340.396240234375,
+          "silentgear:rarity": 120.5600814819336,
+          "silentgear:ranged_damage": 16.793949127197266,
+          "silentgear:enchantment_value": 67.63862609863281,
+          "silentgear:armor": 43.54650115966797,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:block_reach": 0.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 4
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:reach",
+              "level": 1
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:sturdy",
+              "level": 3
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:malleable",
+              "level": 3
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:tool"
+                }
+              ],
+              "trait": "silentgear:accelerate",
+              "level": 3
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:chipping",
+              "level": 1
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:tool"
+                }
+              ],
+              "trait": "silentgear:jagged",
+              "level": 3
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:lucky",
+              "level": 1
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:tool"
+                }
+              ],
+              "trait": "silentgear:ancient",
+              "level": 2
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:fireproof",
+              "level": 1
+            }
+          ],
+          "silentgear:charging_value": 0.0
+        },
+        "minecraft:item_name": "{\"extra\":[{\"translate\":\"misc.silentgear.space\"},{\"translate\":\"item.silentgear.katana.nameProper\",\"with\":[{\"translate\":\"item.silentgear.alloy_ingot\",\"with\":[{\"translate\":\"material.silentgear.tyrian_steel\"}]}]}],\"translate\":\"material.silentgear.netherite\"}",
+        "minecraft:fire_resistant": {},
+        "minecraft:repair_cost": 1,
+        "silentgear:model_index": 15,
+        "minecraft:enchantments": {
+          "levels": {
+            "ars_elemental:soulbound": 1,
+            "apothic_spawners:capturing": 8,
+            "the_bumblezone:comb_cutter": 3,
+            "minecraft:sharpness": 10,
+            "minecraft:knockback": 5,
+            "minecraft:fire_aspect": 5,
+            "pastel:tight_grip": 7,
+            "minecraft:smite": 10,
+            "minecraft:sweeping_edge": 8,
+            "pastel:indestructible": 1,
+            "pastel:inventory_insertion": 1,
+            "apothic_enchanting:scavenger": 8,
+            "minecraft:looting": 8
+          }
+        },
+        "minecraft:tool": {
+          "damage_per_block": 2,
+          "rules": [
+            {
+              "speed": 15.0,
+              "blocks": "minecraft:cobweb",
+              "correct_for_drops": 1
+            },
+            {
+              "speed": 1.5,
+              "blocks": "#minecraft:sword_efficient"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "minecraft:netherite_boots",
+      "count": 1,
+      "components": {
+        "minecraft:repair_cost": 31,
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:thorns": 5,
+            "apothic_enchanting:stable_footing": 1,
+            "minecraft:blast_protection": 9,
+            "minecraft:feather_falling": 11,
+            "pastel:indestructible": 1,
+            "minecraft:protection": 8,
+            "minecraft:depth_strider": 7,
+            "ars_nouveau:mana_regen": 8,
+            "ars_elemental:soulbound": 1,
+            "ars_nouveau:mana_boost": 8
+          }
+        },
+        "minecraft:damage": 266
+      }
+    },
+    {
+      "id": "minecraft:netherite_leggings",
+      "count": 1,
+      "components": {
+        "minecraft:repair_cost": 31,
+        "minecraft:enchantments": {
+          "levels": {
+            "ars_elemental:soulbound": 1,
+            "minecraft:blast_protection": 9,
+            "minecraft:swift_sneak": 4,
+            "pastel:indestructible": 1,
+            "apothic_enchanting:rebounding": 5,
+            "minecraft:protection": 8,
+            "ars_nouveau:mana_regen": 8,
+            "minecraft:thorns": 5,
+            "ars_nouveau:mana_boost": 8
+          }
+        },
+        "minecraft:damage": 255
+      }
+    },
+    {
+      "id": "create_jetpack:netherite_jetpack",
+      "count": 1,
+      "components": {
+        "minecraft:rarity": "common",
+        "minecraft:repair_cost": 63,
+        "create:banktank_air": 2801,
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:thorns": 5,
+            "apothic_enchanting:berserkers_fury": 3,
+            "minecraft:blast_protection": 9,
+            "pastel:indestructible": 1,
+            "apothic_enchanting:rebounding": 5,
+            "minecraft:protection": 8,
+            "ars_nouveau:mana_regen": 8,
+            "ars_elemental:soulbound": 1,
+            "create:capacity": 8,
+            "ars_nouveau:mana_boost": 8
+          }
+        }
+      }
+    },
+    {
+      "id": "create:netherite_diving_helmet",
+      "count": 1,
+      "components": {
+        "minecraft:repair_cost": 15,
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:thorns": 5,
+            "minecraft:aqua_affinity": 1,
+            "minecraft:blast_protection": 9,
+            "minecraft:respiration": 7,
+            "pastel:indestructible": 1,
+            "minecraft:protection": 8,
+            "ars_nouveau:mana_regen": 8,
+            "ars_elemental:soulbound": 1,
+            "ars_nouveau:mana_boost": 8
+          }
+        },
+        "minecraft:damage": 166
+      }
+    }
+  ],
+  "Model": 127,
+  "PlayerName": "AtlasV1224",
+  "PosZ": -3075.4368885093536,
+  "Id": [
+    955230673,
+    -477345819,
+    -1468823841,
+    1456789086
+  ],
+  "PosY": -284.125,
+  "PosX": -4888.114164468351,
+  "Dimension": "pastel:deeper_down",
+  "ArmorInventory": [],
+  "Timestamp": 1760618209594,
+  "MainInventory": [
+    {
+      "count": 49,
+      "Slot": 3,
+      "id": "minecraft:string"
+    },
+    {
+      "count": 49,
+      "Slot": 4,
+      "id": "minecraft:spider_eye"
+    },
+    {
+      "count": 6,
+      "Slot": 5,
+      "id": "minecraft:bucket"
+    },
+    {
+      "count": 1,
+      "Slot": 6,
+      "id": "pastel:guidebook"
+    },
+    {
+      "count": 1,
+      "Slot": 9,
+      "id": "minecraft:wheat_seeds"
+    },
+    {
+      "count": 35,
+      "Slot": 10,
+      "id": "pastel:doombloom_seed"
+    },
+    {
+      "count": 1,
+      "Slot": 11,
+      "id": "pastel:small_red_dragonjag"
+    },
+    {
+      "count": 64,
+      "Slot": 12,
+      "id": "pastel:moonstone_shard"
+    },
+    {
+      "count": 1,
+      "Slot": 13,
+      "id": "pastel:milky_resin"
+    },
+    {
+      "count": 64,
+      "Slot": 14,
+      "id": "pastel:moonstone_shard"
+    },
+    {
+      "count": 64,
+      "Slot": 15,
+      "id": "pastel:moonstone_shard"
+    },
+    {
+      "count": 1,
+      "Slot": 16,
+      "id": "pastel:small_black_dragonjag"
+    },
+    {
+      "count": 1,
+      "Slot": 17,
+      "id": "pastel:weeping_gala_sprig"
+    },
+    {
+      "count": 1,
+      "Slot": 18,
+      "id": "pastel:eraser_spawn_egg"
+    }
+  ],
+  "Experience": 143,
+  "PlayerUuid": [
+    2088048874,
+    -679722978,
+    -2141306900,
+    -1177290616
+  ],
+  "Items": [],
+  "OffHandInventory": []
+}

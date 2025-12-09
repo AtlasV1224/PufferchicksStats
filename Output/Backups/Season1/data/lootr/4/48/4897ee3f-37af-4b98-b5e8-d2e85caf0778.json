@@ -1,0 +1,124 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "pastel:slush"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "pastel:slush"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:light_blue_terracotta"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "components": {
+                "pastel:beverage": {
+                  "thickness": 1.0,
+                  "alcohol_percent": 54,
+                  "days_aged": 208499
+                },
+                "pastel:infused_beverage": {
+                  "variant": "gilded_bloom_liquor",
+                  "color": 14858306
+                },
+                "minecraft:potion_contents": {
+                  "custom_effects": [
+                    {
+                      "duration": 9600,
+                      "show_icon": 1,
+                      "id": "pastel:effect_prolonging",
+                      "neoforge:cures": [
+                        "protected_by_totem",
+                        "milk"
+                      ]
+                    },
+                    {
+                      "show_icon": 1,
+                      "id": "pastel:immunity",
+                      "duration": 2400
+                    },
+                    {
+                      "duration": 2400,
+                      "show_icon": 1,
+                      "id": "pastel:magic_annulation",
+                      "neoforge:cures": [
+                        "protected_by_totem",
+                        "milk"
+                      ]
+                    }
+                  ]
+                }
+              },
+              "id": "pastel:infused_beverage"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:lime_terracotta"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "pastel:slush"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      1217916479,
+      934235032,
+      -1243032856,
+      1554974584
+    ],
+    "seed": -917814552199316082,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/4/48/4897ee3f-37af-4b98-b5e8-d2e85caf0778",
+    "dimension": "pastel:deeper_down",
+    "hasBeenOpened": 1,
+    "position": [
+      -2232,
+      -285,
+      -306
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "pastel:chests/city_below/terrace_house_cellar"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

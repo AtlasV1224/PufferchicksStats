@@ -1,0 +1,188 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:music_disc_13"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:bucket"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:golden_apple"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Darkfira's Flash Freeze\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Encases your enemies or friends in a tomb of ice. Guaranteed to leave them shocked and confused.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 25,
+                        "g": 255,
+                        "id": "ars_nouveau:constant",
+                        "b": 255
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:tempestry_family"
+                        },
+                        "pitch": 1.899999976158142,
+                        "volume": 1.690000057220459
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_burst",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_conjure_water",
+                        "ars_nouveau:glyph_freeze",
+                        "ars_nouveau:glyph_lightning",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Darkfira's Flash Freeze"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 20,
+              "count": 2,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 21,
+              "count": 2,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "farmersdelight:rope"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      -463134840,
+      1528646191,
+      -1762956195,
+      1930689926
+    ],
+    "seed": -3967247695303022658,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/e/e4/e4651f88-5b1d-4a2f-96eb-6c5d7313fd86",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      653,
+      -28,
+      -1
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

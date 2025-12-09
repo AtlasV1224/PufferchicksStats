@@ -1,0 +1,171 @@
+{
+  "data": {
+    "type": 1,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:glow_berries"
+            },
+            {
+              "Slot": 1,
+              "count": 4,
+              "id": "minecraft:torch"
+            },
+            {
+              "Slot": 2,
+              "count": 7,
+              "id": "minecraft:rail"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "minecraft:activator_rail"
+            },
+            {
+              "Slot": 4,
+              "count": 9,
+              "id": "minecraft:lapis_lazuli"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:diamond"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "apothic_enchanting:shield_bash": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "passive": {
+                        "stats": {},
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "fast_mining": {
+                        "stats": {
+                          "modifier": {
+                            "initialValue": 0.26207
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:digging_claws"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 92
+              },
+              "id": "farmersdelight:skillet"
+            },
+            {
+              "Slot": 9,
+              "count": 2,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 10,
+              "count": 4,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      880988139,
+      621691406,
+      -1083422420,
+      2054902060
+    ],
+    "seed": 956137108294856416,
+    "name": "{\"translate\":\"entity.lootr.lootr_minecart\",\"hoverEvent\":{\"contents\":{\"type\":\"lootr:lootr_minecart\",\"id\":[880988139,621691406,-1083422420,2054902060],\"name\":{\"translate\":\"entity.lootr.lootr_minecart\"}},\"action\":\"show_entity\"},\"insertion\":\"3482cfeb-250e-420e-bf6c-492c7a7b512c\"}",
+    "blockType": 5,
+    "key": "lootr/3/34/3482cfeb-250e-420e-bf6c-492c7a7b512c",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -829,
+      -37,
+      -641
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/abandoned_mineshaft"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

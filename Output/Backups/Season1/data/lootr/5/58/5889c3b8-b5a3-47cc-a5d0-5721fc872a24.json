@@ -1,0 +1,133 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:strength"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:flint_and_steel"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:raw_iron"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:raw_iron"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:mending": 1,
+                    "minecraft:unbreaking": 2
+                  }
+                }
+              },
+              "id": "minecraft:flint_and_steel"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:flint_and_steel"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:iron_sword"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:crossbow"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1485423544,
+      -1247590452,
+      -1513072863,
+      -58250716
+    ],
+    "seed": 8086298742122542414,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/5/58/5889c3b8-b5a3-47cc-a5d0-5721fc872a24",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -870,
+      67,
+      -1378
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "incendium:sanctum/common_loot"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

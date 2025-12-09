@@ -1,0 +1,213 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "supplementaries:quiver_content": {
+                  "items": [
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 3,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "minecraft:slowness"
+                        }
+                      }
+                    },
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 1,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "minecraft:harming"
+                        }
+                      }
+                    },
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 4,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "minecraft:strong_harming"
+                        }
+                      }
+                    },
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 6,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "minecraft:turtle_master"
+                        }
+                      }
+                    },
+                    {
+                      "id": "minecraft:tipped_arrow",
+                      "count": 4,
+                      "components": {
+                        "minecraft:potion_contents": {
+                          "potion": "minecraft:wind_charged"
+                        }
+                      }
+                    },
+                    {}
+                  ],
+                  "selected_slot": 0
+                }
+              },
+              "id": "supplementaries:quiver"
+            },
+            {
+              "Slot": 3,
+              "count": 3,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 7,
+              "count": 3,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "claws": {
+                        "stats": {
+                          "modifier": {
+                            "initialValue": 0.13996
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:feral_claws"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "extradelight:cooking_oil"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "extradelight:sweet_berry_pie_slice"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "extradelight:sugar_cookie"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "extradelight:scrambled_eggs"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "extradelight:boiled_egg"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "extradelight:mayo_jar_item"
+            },
+            {
+              "Slot": 15,
+              "count": 4,
+              "id": "extradelight:curry_powder"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "extradelight:potato_chips"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "extradelight:fried_chicken"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "extradelight:fried_mushrooms"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      739480581,
+      347553832,
+      -1596693242,
+      1202931385
+    ],
+    "seed": 4320855347355936188,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/2/2c/2c139405-14b7-4028-a0d4-650647b346b9",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1098,
+      116,
+      3143
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/woodland_mansion"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

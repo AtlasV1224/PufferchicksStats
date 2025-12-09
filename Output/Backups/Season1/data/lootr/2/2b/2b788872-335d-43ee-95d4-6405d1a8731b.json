@@ -1,0 +1,98 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -531319254,
+        -422099107,
+        -1884379925,
+        -108231399
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/stronghold/corridor_4.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:apple"
+            }
+          ]
+        },
+        "uuid": [
+          -531319254,
+          -422099107,
+          -1884379925,
+          -108231399
+        ]
+      }
+    ],
+    "uuid": [
+      729319538,
+      861750254,
+      -1781242875,
+      -777489637
+    ],
+    "seed": -2459681366660622382,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/2/2b/2b788872-335d-43ee-95d4-6405d1a8731b",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      2825,
+      -17,
+      -3866
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -531319254,
+        -422099107,
+        -1884379925,
+        -108231399
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_crossing"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

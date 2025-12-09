@@ -1,0 +1,472 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:golden_apple"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:pumpkin_seeds"
+            },
+            {
+              "Slot": 17,
+              "count": 2,
+              "id": "minecraft:pumpkin_seeds"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:golden_apple"
+            },
+            {
+              "Slot": 19,
+              "count": 2,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:bucket"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 24,
+              "count": 2,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:redstone"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:bucket"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 4,
+              "count": 8,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 5,
+              "count": 6,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 6,
+              "count": 2,
+              "id": "minecraft:gunpowder"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "apothic_enchanting:miners_fervor": 3
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            },
+            {
+              "Slot": 9,
+              "count": 3,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "ars_nouveau:wilden_spike"
+            },
+            {
+              "Slot": 11,
+              "count": 10,
+              "id": "farmersdelight:rope"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Othy's Misdirection\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Swarm your enemies with bladed spirits.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 255,
+                        "id": "ars_nouveau:constant",
+                        "b": 255
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_extend_time",
+                        "ars_nouveau:glyph_summon_decoy",
+                        "ars_nouveau:glyph_blink",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_amplify"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Othy's Misdirection"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 14,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:music_disc_13"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "sophisticatedbackpacks:copper_backpack"
+            },
+            {
+              "Slot": 8,
+              "count": 21,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 9,
+              "count": 4,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 10,
+              "count": 2,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 11,
+              "count": 28,
+              "id": "extradelight:bad_food"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:golden_horse_armor"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 16,
+              "count": 2,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 17,
+              "count": 2,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:iron_horse_armor"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 22,
+              "count": 3,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:melon_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      1893505593,
+      1118980380,
+      -1446858809,
+      920815023
+    ],
+    "seed": 4808438606510492225,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/7/70/70dc9a39-42b2-491c-a9c2-afc736e285af",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -828,
+      -1,
+      -4325
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

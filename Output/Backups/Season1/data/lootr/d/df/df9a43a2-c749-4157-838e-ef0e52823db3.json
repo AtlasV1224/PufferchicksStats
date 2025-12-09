@@ -1,0 +1,89 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:item_name": "{\"translate\":\"filled_map.buried_treasure\"}"
+              },
+              "id": "minecraft:map"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 2,
+              "count": 7,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 3,
+              "count": 3,
+              "id": "minecraft:gold_nugget"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "minecraft:wheat"
+            }
+          ]
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      }
+    ],
+    "uuid": [
+      -543538270,
+      -951500457,
+      -2087784690,
+      1384267187
+    ],
+    "seed": -3638196750622980099,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/d/df/df9a43a2-c749-4157-838e-ef0e52823db3",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      780,
+      79,
+      69
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ]
+    ],
+    "table": "minecraft:chests/underwater_ruin_big"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

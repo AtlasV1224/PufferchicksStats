@@ -1,0 +1,97 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 8,
+              "id": "minecraft:arrow"
+            },
+            {
+              "Slot": 13,
+              "count": 3,
+              "id": "minecraft:arrow"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:golden_pickaxe"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:efficiency": 5,
+                    "minecraft:fortune": 3
+                  }
+                }
+              },
+              "id": "minecraft:golden_shovel"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:unbreaking": 3
+                  }
+                },
+                "minecraft:damage": 6
+              },
+              "id": "minecraft:golden_leggings"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -476698454,
+      2145928071,
+      -1426137932,
+      1233687989
+    ],
+    "seed": -6857021175284072901,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/e/e3/e39628aa-7fe8-4387-aafe-dcb4498895b5",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -3804,
+      62,
+      1577
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "incendium:castle/tower_barrel"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

@@ -1,0 +1,130 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:iron_axe"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:iron_helmet"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:iron_leggings"
+            },
+            {
+              "Slot": 3,
+              "count": 7,
+              "id": "minecraft:spider_eye"
+            },
+            {
+              "Slot": 4,
+              "count": 6,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 5,
+              "count": 10,
+              "id": "minecraft:raw_copper"
+            },
+            {
+              "Slot": 6,
+              "count": 5,
+              "id": "minecraft:raw_gold"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "vision": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.10845
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:night_vision_goggles"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1728133330,
+      -327531478,
+      -1288504152,
+      -196334287
+    ],
+    "seed": 1458787187295843059,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/98/98fec72e-ec7a-442a-b332-fca8f44c2d31",
+    "dimension": "resource_world:resource",
+    "hasBeenOpened": 1,
+    "position": [
+      -2735,
+      -54,
+      -766
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "artifacts:chests/campsite_chest"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

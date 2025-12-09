@@ -1,0 +1,227 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "ars_nouveau:source_gem"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "puffercoin:coin_1"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 10,
+              "count": 7,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 19,
+              "count": 6,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "supplementaries:bomb_blue"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:coal"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "ars_nouveau:pierce_arrow"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 12,
+              "count": 24,
+              "id": "ars_nouveau:pierce_arrow"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "ars_nouveau:sourceberry_bush"
+            },
+            {
+              "Slot": 17,
+              "count": 3,
+              "id": "ars_nouveau:pierce_arrow"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "ars_nouveau:pierce_arrow"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "ars_nouveau:sourceberry_bush"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "panic": {
+                        "stats": {
+                          "movement": {
+                            "initialValue": 0.14338
+                          },
+                          "radius": {
+                            "initialValue": 6.54844
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:panic_necklace"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      621427498,
+      -1211216806,
+      -1995318413,
+      1078346007
+    ],
+    "seed": 3075849487041302440,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/2/25/250a3b2a-b7ce-4c5a-8911-db7340464117",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -4048,
+      -16,
+      -3985
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_crossing"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

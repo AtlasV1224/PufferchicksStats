@@ -1,0 +1,225 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:chain"
+            },
+            {
+              "Slot": 1,
+              "count": 4,
+              "id": "minecraft:lime_terracotta"
+            },
+            {
+              "Slot": 2,
+              "count": 4,
+              "id": "minecraft:nether_brick"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:chain"
+            },
+            {
+              "Slot": 4,
+              "count": 8,
+              "id": "minecraft:basalt"
+            },
+            {
+              "Slot": 5,
+              "count": 2,
+              "id": "minecraft:nether_brick"
+            },
+            {
+              "Slot": 6,
+              "count": 11,
+              "id": "minecraft:blackstone"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:lime_terracotta"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:chain"
+            },
+            {
+              "Slot": 9,
+              "count": 5,
+              "id": "minecraft:nether_brick"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:lime_terracotta"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#44FF00\",\"fallback\":\"Hazmat Helmet\",\"italic\":false,\"translate\":\"incendium.item.hazmat.helmet.name\"}",
+                "minecraft:dyed_color": {
+                  "rgb": 6219030
+                },
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:generic.armor",
+                      "amount": 2.63380765914917,
+                      "operation": "add_value",
+                      "id": "minecraft:armor",
+                      "slot": "head"
+                    }
+                  ]
+                },
+                "minecraft:custom_data": {
+                  "incendium": {
+                    "item": "hazmat_suit"
+                  }
+                },
+                "minecraft:lore": [
+                  "{\"color\":\"#77CC00\",\"fallback\":\"Protects the wearer from poison\",\"italic\":true,\"strikethrough\":false,\"translate\":\"incendium.item.hazmat.suit.desc1\"}",
+                  "{\"strikethrough\":false,\"text\":\"\"}",
+                  "{\"color\":\"#FF8000\",\"fallback\":\"Incendium\",\"italic\":true,\"strikethrough\":false,\"translate\":\"incendium\"}"
+                ],
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 4,
+                    "minecraft:respiration": 3,
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:leather_helmet"
+            },
+            {
+              "Slot": 12,
+              "count": 2,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 13,
+              "count": 5,
+              "id": "minecraft:lime_terracotta"
+            },
+            {
+              "Slot": 14,
+              "count": 4,
+              "id": "minecraft:blackstone"
+            },
+            {
+              "Slot": 15,
+              "count": 13,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:nether_brick"
+            },
+            {
+              "Slot": 17,
+              "count": 2,
+              "id": "minecraft:green_stained_glass"
+            },
+            {
+              "Slot": 18,
+              "count": 2,
+              "id": "minecraft:green_stained_glass"
+            },
+            {
+              "Slot": 19,
+              "count": 14,
+              "id": "minecraft:lime_terracotta"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:obsidian"
+            },
+            {
+              "Slot": 21,
+              "count": 6,
+              "id": "minecraft:basalt"
+            },
+            {
+              "Slot": 22,
+              "count": 4,
+              "id": "minecraft:green_stained_glass"
+            },
+            {
+              "Slot": 23,
+              "count": 10,
+              "id": "minecraft:chain"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:basalt"
+            },
+            {
+              "Slot": 25,
+              "count": 3,
+              "id": "minecraft:green_stained_glass"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:basalt"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      694045560,
+      931744678,
+      -1683699016,
+      1211463056
+    ],
+    "seed": -5355765963499615538,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/2/29/295e4b78-3789-4ba6-9ba4-cab848357590",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      93,
+      48,
+      -4630
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "incendium:reactor/waste"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

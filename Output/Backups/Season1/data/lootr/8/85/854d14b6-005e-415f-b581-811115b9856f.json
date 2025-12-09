@@ -1,0 +1,164 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 18,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "exposure:film_frames": [
+                  {
+                    "type": "black_and_white",
+                    "identifier": {
+                      "texture": "exposure:textures/exposure/shipwreck/chromatic/cargo_crates_r.png"
+                    },
+                    "extra_data": {
+                      "color_channel": "red"
+                    }
+                  },
+                  {
+                    "type": "black_and_white",
+                    "identifier": {
+                      "texture": "exposure:textures/exposure/shipwreck/chromatic/cargo_crates_g.png"
+                    },
+                    "extra_data": {
+                      "color_channel": "green"
+                    }
+                  },
+                  {
+                    "type": "black_and_white",
+                    "identifier": {
+                      "texture": "exposure:textures/exposure/shipwreck/chromatic/cargo_crates_b.png"
+                    },
+                    "extra_data": {
+                      "color_channel": "blue"
+                    }
+                  },
+                  {
+                    "type": "black_and_white",
+                    "identifier": {
+                      "texture": "exposure:textures/exposure/shipwreck/chromatic/deck_sunset_1_r.png"
+                    },
+                    "extra_data": {
+                      "color_channel": "red"
+                    }
+                  },
+                  {
+                    "type": "black_and_white",
+                    "identifier": {
+                      "texture": "exposure:textures/exposure/shipwreck/chromatic/deck_sunset_1_g.png"
+                    },
+                    "extra_data": {
+                      "color_channel": "green"
+                    }
+                  },
+                  {
+                    "type": "black_and_white",
+                    "identifier": {
+                      "texture": "exposure:textures/exposure/shipwreck/chromatic/deck_sunset_1_b.png"
+                    },
+                    "extra_data": {
+                      "color_channel": "blue"
+                    }
+                  },
+                  {
+                    "type": "black_and_white",
+                    "identifier": {
+                      "texture": "exposure:textures/exposure/shipwreck/chromatic/deck_sunset_2_r.png"
+                    },
+                    "extra_data": {
+                      "color_channel": "red"
+                    }
+                  },
+                  {
+                    "type": "black_and_white",
+                    "identifier": {
+                      "texture": "exposure:textures/exposure/shipwreck/chromatic/deck_sunset_2_g.png"
+                    },
+                    "extra_data": {
+                      "color_channel": "green"
+                    }
+                  },
+                  {
+                    "type": "black_and_white",
+                    "identifier": {
+                      "texture": "exposure:textures/exposure/shipwreck/chromatic/deck_sunset_2_b.png"
+                    },
+                    "extra_data": {
+                      "color_channel": "blue"
+                    }
+                  }
+                ],
+                "exposure:film_frame_size": 56
+              },
+              "id": "exposure:black_and_white_film"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/shipwreck/ship_dock_3.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -2058545994,
+      6177119,
+      -1249804015,
+      364479855
+    ],
+    "seed": 8916026226151301404,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/8/85/854d14b6-005e-415f-b581-811115b9856f",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      283,
+      49,
+      -3247
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/shipwreck_map"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

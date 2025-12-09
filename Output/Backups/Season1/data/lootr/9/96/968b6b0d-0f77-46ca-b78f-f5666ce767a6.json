@@ -1,0 +1,170 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:moss_block"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:tnt"
+            },
+            {
+              "Slot": 2,
+              "count": 6,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:suspicious_stew_effects": [
+                  {
+                    "id": "minecraft:poison",
+                    "duration": 200
+                  }
+                ]
+              },
+              "id": "minecraft:suspicious_stew"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:suspicious_stew_effects": [
+                  {
+                    "id": "minecraft:poison",
+                    "duration": 240
+                  }
+                ]
+              },
+              "id": "minecraft:suspicious_stew"
+            },
+            {
+              "Slot": 5,
+              "count": 49,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "mold": {
+                        "stats": {
+                          "size": {
+                            "initialValue": 24.81813
+                          },
+                          "damage": {
+                            "initialValue": 0.14168
+                          },
+                          "stun": {
+                            "initialValue": 0.03728
+                          },
+                          "freeze": {
+                            "initialValue": 1.62213
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:wool_mitten"
+            },
+            {
+              "Slot": 7,
+              "count": 10,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 8,
+              "count": 4,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 9,
+              "count": 3,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 10,
+              "count": 16,
+              "id": "extradelight:bad_food"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -1769247987,
+      259475146,
+      -1215302298,
+      1827104678
+    ],
+    "seed": -6771756572819745364,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/96/968b6b0d-0f77-46ca-b78f-f5666ce767a6",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      2397,
+      61,
+      -578
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/shipwreck_supply"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

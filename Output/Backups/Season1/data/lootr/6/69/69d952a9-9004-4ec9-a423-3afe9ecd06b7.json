@@ -1,0 +1,134 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:charcoal"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:charcoal"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:purple_terracotta"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "pastel:slush"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:charcoal"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "components": {
+                "pastel:beverage": {
+                  "thickness": 1.0,
+                  "alcohol_percent": 52,
+                  "days_aged": 190210
+                },
+                "pastel:infused_beverage": {
+                  "variant": "greener_grasses",
+                  "color": 833706
+                },
+                "minecraft:potion_contents": {
+                  "custom_effects": [
+                    {
+                      "duration": 9600,
+                      "show_icon": 1,
+                      "id": "minecraft:haste",
+                      "neoforge:cures": [
+                        "protected_by_totem",
+                        "milk"
+                      ]
+                    },
+                    {
+                      "duration": 4800,
+                      "show_icon": 1,
+                      "id": "pastel:another_roll",
+                      "neoforge:cures": [
+                        "protected_by_totem",
+                        "milk"
+                      ]
+                    }
+                  ]
+                }
+              },
+              "id": "pastel:infused_beverage"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "minecraft:bucket"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:purple_terracotta"
+            },
+            {
+              "Slot": 26,
+              "count": 6,
+              "id": "pastel:slush"
+            }
+          ]
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      }
+    ],
+    "uuid": [
+      1775850153,
+      -1878765879,
+      -1541195010,
+      -1630730569
+    ],
+    "seed": 2130422749259294630,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/6/69/69d952a9-9004-4ec9-a423-3afe9ecd06b7",
+    "dimension": "pastel:deeper_down",
+    "hasBeenOpened": 1,
+    "position": [
+      405,
+      -285,
+      -350
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "table": "pastel:chests/city_below/terrace_house_cellar"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

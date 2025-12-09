@@ -1,0 +1,127 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:pumpkin"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:efficiency": 3,
+                    "minecraft:fortune": 2
+                  }
+                },
+                "minecraft:damage": 73
+              },
+              "id": "minecraft:iron_axe"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "minecraft:emerald"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:damage": 205
+              },
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:pumpkin"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:wheat"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      -2092980774,
+      -357809704,
+      -1159463863,
+      259601718
+    ],
+    "seed": -905972202315652040,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/8/83/833fa5da-eaac-41d8-bae3-fc490f793536",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1244,
+      82,
+      -678
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "structory_towers:basic/pillager_basic"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

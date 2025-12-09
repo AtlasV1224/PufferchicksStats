@@ -1,0 +1,184 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Poison Blossom\"}",
+                "ars_elemental:elemental_tome_caster": {
+                  "flavor_text": "May the venom become the seed of a flower that will blossom in undeath.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 50,
+                        "g": 250,
+                        "id": "ars_nouveau:constant",
+                        "b": 55
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_touch",
+                        "ars_elemental:glyph_envenom",
+                        "ars_elemental:glyph_poison_spores"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Poison Blossom"
+                    }
+                  }
+                }
+              },
+              "id": "ars_elemental:earth_caster_tome"
+            },
+            {
+              "Slot": 6,
+              "count": 4,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "ars_nouveau:wilden_wing"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 15,
+              "count": 2,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 25,
+              "count": 1,
+              "id": "minecraft:redstone"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 12,
+              "id": "minecraft:redstone"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 3,
+              "count": 5,
+              "id": "minecraft:coal"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -734325982,
+      73287110,
+      -1104458030,
+      1583642390
+    ],
+    "seed": -2521332081708606830,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/d/d4/d43b1322-045e-45c6-be2b-4ed25e647716",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      2807,
+      -9,
+      -3887
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "minecraft:chests/stronghold_crossing"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

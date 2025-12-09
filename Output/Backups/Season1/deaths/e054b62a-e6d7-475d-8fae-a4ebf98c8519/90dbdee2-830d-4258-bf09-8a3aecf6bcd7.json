@@ -1,0 +1,1784 @@
+{
+  "Equipment": [
+    {
+      "id": "create:cart_assembler",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_leggings",
+      "count": 1,
+      "components": {
+        "minecraft:damage": 465
+      }
+    },
+    {
+      "id": "minecraft:diamond_chestplate",
+      "count": 1,
+      "components": {
+        "minecraft:damage": 465
+      }
+    }
+  ],
+  "Model": 127,
+  "PlayerName": "PilBerry",
+  "PosZ": -2969.56583562828,
+  "Id": [
+    -1864638750,
+    -2096283048,
+    -1089893830,
+    -319374121
+  ],
+  "PosY": -53.0,
+  "PosX": 3118.347083866813,
+  "Dimension": "minecraft:overworld",
+  "ArmorInventory": [
+    {
+      "count": 1,
+      "Slot": 1,
+      "components": {
+        "minecraft:damage": 465
+      },
+      "id": "minecraft:diamond_leggings"
+    },
+    {
+      "count": 1,
+      "Slot": 2,
+      "components": {
+        "minecraft:damage": 465
+      },
+      "id": "minecraft:diamond_chestplate"
+    }
+  ],
+  "Timestamp": 1753197748405,
+  "MainInventory": [
+    {
+      "count": 1,
+      "Slot": 0,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 0,
+            "experience": 57,
+            "level": 0
+          },
+          "abilities": {
+            "abilities": {
+              "teleport": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "distance": {
+                    "initialValue": 674.95699
+                  },
+                  "cooldown": {
+                    "initialValue": 81.20989
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "id": "relics:magic_mirror"
+    },
+    {
+      "count": 1,
+      "Slot": 1,
+      "components": {
+        "minecraft:repair_cost": 1,
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:unbreaking": 3,
+            "minecraft:fortune": 3,
+            "minecraft:efficiency": 4
+          }
+        },
+        "minecraft:damage": 44
+      },
+      "id": "minecraft:diamond_pickaxe"
+    },
+    {
+      "count": 1,
+      "Slot": 2,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 1,
+            "experience": 5,
+            "level": 1
+          },
+          "abilities": {
+            "abilities": {
+              "marinade": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 0
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "duration": {
+                    "initialValue": 2.06354
+                  }
+                }
+              },
+              "regeneration": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 1,
+                  "links": {
+                    "3": [
+                      2,
+                      0,
+                      1,
+                      4,
+                      5
+                    ]
+                  }
+                },
+                "stats": {
+                  "feed": {
+                    "initialValue": 2.48174
+                  },
+                  "cooldown": {
+                    "initialValue": 29.47469
+                  }
+                }
+              },
+              "meat_bat": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 0
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "damage": {
+                    "initialValue": 1.57013
+                  },
+                  "stun": {
+                    "initialValue": 0.231
+                  }
+                }
+              }
+            }
+          }
+        },
+        "relics:charge": 4
+      },
+      "id": "relics:infinity_ham"
+    },
+    {
+      "count": 1,
+      "Slot": 3,
+      "components": {
+        "minecraft:damage": 35
+      },
+      "id": "create:super_glue"
+    },
+    {
+      "count": 1,
+      "Slot": 4,
+      "id": "minecraft:lever"
+    },
+    {
+      "count": 1,
+      "Slot": 5,
+      "components": {
+        "create:minecart_contraption_data": {
+          "Anchor": [
+            3125,
+            -56,
+            -2972
+          ],
+          "Blocks": {
+            "BlockList": [
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "Speed": 0.0
+                },
+                "Pos": -274877906944,
+                "Data": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "id": "create:drill",
+                  "Speed": 0.0
+                }
+              },
+              {
+                "State": 1,
+                "Pos": 0
+              },
+              {
+                "State": 2,
+                "Pos": 274877906944
+              },
+              {
+                "State": 3,
+                "Pos": -549755813888
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "Speed": 0.0
+                },
+                "Pos": 824633720834,
+                "Data": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "id": "create:drill",
+                  "Speed": 0.0
+                }
+              },
+              {
+                "State": 3,
+                "Pos": 549755813888
+              },
+              {
+                "State": 4,
+                "UpdateTag": {
+                  "packed": 0,
+                  "woodType": "oak",
+                  "updateBlockRender": 1,
+                  "storageWrapper": {
+                    "numberOfUpgradeSlots": 1,
+                    "numberOfInventorySlots": 45,
+                    "sortBy": "name",
+                    "renderInfo": {
+                      "upgradeItems": [
+                        {}
+                      ]
+                    }
+                  }
+                },
+                "Pos": -274877911040
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "Speed": 0.0
+                },
+                "Pos": 824633724930,
+                "Data": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "id": "create:drill",
+                  "Speed": 0.0
+                }
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "Speed": 0.0
+                },
+                "Pos": 824633720832,
+                "Data": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "id": "create:drill",
+                  "Speed": 0.0
+                }
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "Speed": 0.0
+                },
+                "Pos": 824633724928,
+                "Data": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "id": "create:drill",
+                  "Speed": 0.0
+                }
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "Speed": 0.0
+                },
+                "Pos": 824633724927,
+                "Data": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "id": "create:drill",
+                  "Speed": 0.0
+                }
+              },
+              {
+                "State": 3,
+                "Pos": -549755813887
+              },
+              {
+                "State": 3,
+                "Pos": -274877906943
+              },
+              {
+                "State": 4,
+                "UpdateTag": {
+                  "packed": 0,
+                  "woodType": "oak",
+                  "updateBlockRender": 1,
+                  "storageWrapper": {
+                    "numberOfUpgradeSlots": 1,
+                    "numberOfInventorySlots": 45,
+                    "sortBy": "name",
+                    "renderInfo": {
+                      "itemDisplay": {
+                        "inaccessibleSlots": [],
+                        "slotFillRatios": [],
+                        "infiniteSlots": [],
+                        "slotCounts": []
+                      },
+                      "upgradeItems": [
+                        {}
+                      ]
+                    },
+                    "settings": {
+                      "memory": {
+                        "slotFilterItems": {},
+                        "slotFilterStacks": {}
+                      },
+                      "no_sort": {
+                        "selectedSlots": []
+                      },
+                      "item_display": {
+                        "displaySide": "front",
+                        "slots": []
+                      }
+                    }
+                  }
+                },
+                "Pos": -549755809791
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "Speed": 0.0
+                },
+                "Pos": 1099511623681,
+                "Data": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "id": "create:drill",
+                  "Speed": 0.0
+                }
+              },
+              {
+                "State": 3,
+                "Pos": 1
+              },
+              {
+                "State": 5,
+                "UpdateTag": {
+                  "Reach": 0.0,
+                  "Inventory": [],
+                  "State": "WAITING",
+                  "Fistbump": 0,
+                  "Mode": "USE",
+                  "Owner": [
+                    -531319254,
+                    -422099107,
+                    -1884379925,
+                    -108231399
+                  ],
+                  "Speed": 0.0,
+                  "Powered": 0,
+                  "FilterAmount": 64,
+                  "Timer": 0,
+                  "HeldItem": {},
+                  "Overflow": [],
+                  "Filter": {
+                    "id": "minecraft:redstone_block",
+                    "count": 2
+                  },
+                  "UpTo": 1
+                },
+                "Pos": 274877906945,
+                "Data": {
+                  "State": "WAITING",
+                  "Inventory": [],
+                  "Mode": "USE",
+                  "Owner": [
+                    -531319254,
+                    -422099107,
+                    -1884379925,
+                    -108231399
+                  ],
+                  "id": "create:deployer",
+                  "Speed": 0.0,
+                  "Powered": 0,
+                  "FilterAmount": 64,
+                  "Timer": 0,
+                  "HeldItem": {},
+                  "Overflow": [],
+                  "Filter": {
+                    "id": "minecraft:redstone_block",
+                    "count": 2
+                  },
+                  "UpTo": 1
+                }
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "Speed": 0.0
+                },
+                "Pos": -549755809793,
+                "Data": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "id": "create:drill",
+                  "Speed": 0.0
+                }
+              },
+              {
+                "State": 3,
+                "Pos": 549755813889
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "Speed": 0.0
+                },
+                "Pos": 824633720833,
+                "Data": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "id": "create:drill",
+                  "Speed": 0.0
+                }
+              },
+              {
+                "State": 4,
+                "UpdateTag": {
+                  "packed": 0,
+                  "woodType": "oak",
+                  "updateBlockRender": 1,
+                  "storageWrapper": {
+                    "numberOfUpgradeSlots": 1,
+                    "numberOfInventorySlots": 45,
+                    "sortBy": "name",
+                    "renderInfo": {
+                      "upgradeItems": [
+                        {}
+                      ]
+                    }
+                  }
+                },
+                "Pos": -274877911039
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "Speed": 0.0
+                },
+                "Pos": 824633724929,
+                "Data": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "id": "create:drill",
+                  "Speed": 0.0
+                }
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "Speed": 0.0
+                },
+                "Pos": 1099511623680,
+                "Data": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "id": "create:drill",
+                  "Speed": 0.0
+                }
+              },
+              {
+                "State": 5,
+                "UpdateTag": {
+                  "Reach": 0.0,
+                  "Inventory": [],
+                  "State": "WAITING",
+                  "Fistbump": 0,
+                  "Mode": "USE",
+                  "Owner": [
+                    -531319254,
+                    -422099107,
+                    -1884379925,
+                    -108231399
+                  ],
+                  "Speed": 0.0,
+                  "Powered": 0,
+                  "FilterAmount": 64,
+                  "Timer": 0,
+                  "HeldItem": {},
+                  "Overflow": [],
+                  "Filter": {
+                    "id": "minecraft:powered_rail",
+                    "count": 18
+                  },
+                  "UpTo": 1
+                },
+                "Pos": 274877906946,
+                "Data": {
+                  "State": "WAITING",
+                  "Inventory": [],
+                  "Mode": "USE",
+                  "Owner": [
+                    -531319254,
+                    -422099107,
+                    -1884379925,
+                    -108231399
+                  ],
+                  "id": "create:deployer",
+                  "Speed": 0.0,
+                  "Powered": 0,
+                  "FilterAmount": 64,
+                  "Timer": 0,
+                  "HeldItem": {},
+                  "Overflow": [],
+                  "Filter": {
+                    "id": "minecraft:powered_rail",
+                    "count": 18
+                  },
+                  "UpTo": 1
+                }
+              },
+              {
+                "State": 4,
+                "UpdateTag": {
+                  "packed": 0,
+                  "woodType": "oak",
+                  "updateBlockRender": 1,
+                  "storageWrapper": {
+                    "numberOfUpgradeSlots": 1,
+                    "numberOfInventorySlots": 45,
+                    "sortBy": "name",
+                    "renderInfo": {
+                      "itemDisplay": {
+                        "inaccessibleSlots": [],
+                        "slotFillRatios": [],
+                        "infiniteSlots": [],
+                        "slotCounts": []
+                      },
+                      "upgradeItems": [
+                        {}
+                      ]
+                    },
+                    "settings": {
+                      "memory": {
+                        "slotFilterItems": {},
+                        "slotFilterStacks": {}
+                      },
+                      "no_sort": {
+                        "selectedSlots": []
+                      },
+                      "item_display": {
+                        "displaySide": "front",
+                        "slots": []
+                      }
+                    }
+                  }
+                },
+                "Pos": -549755809792
+              },
+              {
+                "State": 0,
+                "UpdateTag": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "Speed": 0.0
+                },
+                "Pos": 1099511623682,
+                "Data": {
+                  "Progress": 0,
+                  "NextTick": 1,
+                  "id": "create:drill",
+                  "Speed": 0.0
+                }
+              }
+            ],
+            "Palette": [
+              {
+                "Name": "create:mechanical_drill",
+                "Properties": {
+                  "waterlogged": "false",
+                  "facing": "east"
+                }
+              },
+              {
+                "Name": "create:minecart_anchor",
+                "Properties": {
+                  "axis": "x"
+                }
+              },
+              {
+                "Name": "minecraft:powered_rail",
+                "Properties": {
+                  "waterlogged": "false",
+                  "powered": "true",
+                  "shape": "east_west"
+                }
+              },
+              {
+                "Name": "minecraft:cobbled_deepslate"
+              },
+              {
+                "Name": "sophisticatedstorage:copper_chest",
+                "Properties": {
+                  "type": "single",
+                  "waterlogged": "false",
+                  "facing": "east",
+                  "ticking": "false"
+                }
+              },
+              {
+                "Name": "create:deployer",
+                "Properties": {
+                  "axis_along_first": "true",
+                  "facing": "down"
+                }
+              }
+            ]
+          },
+          "SubContraptions": [],
+          "CapturedMultiblocks": [],
+          "DisabledActors": [],
+          "Actors": [
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                1,
+                1,
+                0
+              ],
+              "Data": {
+                "HeldItem": {}
+              }
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                -1,
+                0,
+                0
+              ],
+              "Data": {
+                "BreakerId": -292
+              }
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                1,
+                2,
+                0
+              ],
+              "Data": {
+                "HeldItem": {}
+              }
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                -2,
+                1,
+                -1
+              ],
+              "Data": {}
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                -2,
+                1,
+                1
+              ],
+              "Data": {}
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                3,
+                1,
+                0
+              ],
+              "Data": {
+                "BreakerId": -293
+              }
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                -2,
+                -1,
+                0
+              ],
+              "Data": {
+                "BreakerId": -294
+              }
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                -2,
+                0,
+                -1
+              ],
+              "Data": {}
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                -2,
+                0,
+                1
+              ],
+              "Data": {}
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                3,
+                0,
+                0
+              ],
+              "Data": {
+                "BreakerId": -295
+              }
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                3,
+                2,
+                0
+              ],
+              "Data": {
+                "BreakerId": -296
+              }
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                3,
+                1,
+                -1
+              ],
+              "Data": {
+                "BreakerId": -297
+              }
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                3,
+                1,
+                1
+              ],
+              "Data": {
+                "BreakerId": -298
+              }
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                3,
+                -1,
+                0
+              ],
+              "Data": {
+                "BreakerId": -299
+              }
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                3,
+                0,
+                -1
+              ],
+              "Data": {
+                "BreakerId": -300
+              }
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                3,
+                0,
+                1
+              ],
+              "Data": {
+                "BreakerId": -301
+              }
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                3,
+                2,
+                -1
+              ],
+              "Data": {
+                "BreakerId": -302
+              }
+            },
+            {
+              "Stall": 0,
+              "RelativeMotion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Motion": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "FirstMovement": 0,
+              "Pos": [
+                3,
+                2,
+                1
+              ],
+              "Data": {
+                "BreakerId": -303
+              }
+            }
+          ],
+          "RotationMode": "ROTATION_LOCKED",
+          "Superglue": [
+            {
+              "To": [
+                3.0,
+                2.0,
+                1.0
+              ],
+              "From": [
+                1.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "To": [
+                2.0,
+                3.0,
+                1.0
+              ],
+              "From": [
+                1.0,
+                1.0,
+                0.0
+              ]
+            },
+            {
+              "To": [
+                4.0,
+                3.0,
+                2.0
+              ],
+              "From": [
+                3.0,
+                0.0,
+                -1.0
+              ]
+            },
+            {
+              "To": [
+                4.0,
+                2.0,
+                1.0
+              ],
+              "From": [
+                2.0,
+                1.0,
+                0.0
+              ]
+            },
+            {
+              "To": [
+                2.0,
+                2.0,
+                1.0
+              ],
+              "From": [
+                -2.0,
+                1.0,
+                0.0
+              ]
+            },
+            {
+              "To": [
+                -1.0,
+                2.0,
+                2.0
+              ],
+              "From": [
+                -2.0,
+                0.0,
+                -1.0
+              ]
+            },
+            {
+              "To": [
+                -1.0,
+                2.0,
+                1.0
+              ],
+              "From": [
+                -2.0,
+                -1.0,
+                0.0
+              ]
+            },
+            {
+              "To": [
+                0.0,
+                2.0,
+                1.0
+              ],
+              "From": [
+                -1.0,
+                0.0,
+                0.0
+              ]
+            },
+            {
+              "To": [
+                4.0,
+                1.0,
+                1.0
+              ],
+              "From": [
+                3.0,
+                -1.0,
+                0.0
+              ]
+            }
+          ],
+          "Stalled": 1,
+          "BoundsFront": [
+            -5.0,
+            -1.0,
+            -5.0,
+            6.0,
+            3.0,
+            6.0
+          ],
+          "BottomlessSupply": 0,
+          "InitialOrientation": "WEST",
+          "Interactors": [
+            {
+              "Pos": [
+                1,
+                1,
+                0
+              ]
+            },
+            {
+              "Pos": [
+                1,
+                2,
+                0
+              ]
+            }
+          ],
+          "items": [
+            {
+              "pos": [
+                -2,
+                0,
+                -1
+              ],
+              "storage": {
+                "type": "sophisticatedstorage:sophisticated_storage",
+                "value": {
+                  "id": "sophisticatedstorage:copper_chest",
+                  "count": 1,
+                  "components": {
+                    "sophisticatedcore:sort_by": "name",
+                    "sophisticatedstorage:wood_type": "oak",
+                    "sophisticatedcore:number_of_upgrade_slots": 1,
+                    "sophisticatedstorage:packed": 0,
+                    "sophisticatedcore:number_of_inventory_slots": 45,
+                    "sophisticatedcore:storage_uuid": [
+                      1499218726,
+                      606817207,
+                      -1459187644,
+                      169959091
+                    ],
+                    "sophisticatedcore:render_info_tag": {
+                      "upgradeItems": [
+                        {}
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "pos": [
+                -2,
+                1,
+                -1
+              ],
+              "storage": {
+                "type": "sophisticatedstorage:sophisticated_storage",
+                "value": {
+                  "id": "sophisticatedstorage:copper_chest",
+                  "count": 1,
+                  "components": {
+                    "sophisticatedcore:sort_by": "name",
+                    "sophisticatedstorage:wood_type": "oak",
+                    "sophisticatedcore:number_of_upgrade_slots": 1,
+                    "sophisticatedstorage:packed": 0,
+                    "sophisticatedcore:number_of_inventory_slots": 45,
+                    "sophisticatedcore:storage_uuid": [
+                      825531894,
+                      -1499577808,
+                      -1628090800,
+                      203291437
+                    ],
+                    "sophisticatedcore:render_info_tag": {
+                      "upgradeItems": [
+                        {}
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "pos": [
+                -2,
+                1,
+                1
+              ],
+              "storage": {
+                "type": "sophisticatedstorage:sophisticated_storage",
+                "value": {
+                  "id": "sophisticatedstorage:copper_chest",
+                  "count": 1,
+                  "components": {
+                    "sophisticatedcore:sort_by": "name",
+                    "sophisticatedstorage:wood_type": "oak",
+                    "sophisticatedcore:number_of_upgrade_slots": 1,
+                    "sophisticatedstorage:packed": 0,
+                    "sophisticatedcore:number_of_inventory_slots": 45,
+                    "sophisticatedcore:storage_uuid": [
+                      -1108587159,
+                      -1454094935,
+                      -1911100824,
+                      -465543473
+                    ],
+                    "sophisticatedcore:render_info_tag": {
+                      "itemDisplay": {
+                        "inaccessibleSlots": [],
+                        "slotFillRatios": [],
+                        "infiniteSlots": [],
+                        "slotCounts": []
+                      },
+                      "upgradeItems": [
+                        {}
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "pos": [
+                -2,
+                0,
+                1
+              ],
+              "storage": {
+                "type": "sophisticatedstorage:sophisticated_storage",
+                "value": {
+                  "id": "sophisticatedstorage:copper_chest",
+                  "count": 1,
+                  "components": {
+                    "sophisticatedcore:sort_by": "name",
+                    "sophisticatedstorage:wood_type": "oak",
+                    "sophisticatedcore:number_of_upgrade_slots": 1,
+                    "sophisticatedstorage:packed": 0,
+                    "sophisticatedcore:number_of_inventory_slots": 45,
+                    "sophisticatedcore:storage_uuid": [
+                      -996474464,
+                      -1794881576,
+                      -1163211081,
+                      -85923417
+                    ],
+                    "sophisticatedcore:render_info_tag": {
+                      "itemDisplay": {
+                        "inaccessibleSlots": [],
+                        "slotFillRatios": [],
+                        "infiniteSlots": [],
+                        "slotCounts": []
+                      },
+                      "upgradeItems": [
+                        {}
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "Passengers": [],
+          "Seats": [],
+          "Type": "create:mounted"
+        }
+      },
+      "id": "create:minecart_contraption"
+    },
+    {
+      "count": 1,
+      "Slot": 6,
+      "id": "create:cart_assembler"
+    },
+    {
+      "count": 4,
+      "Slot": 7,
+      "id": "minecraft:redstone_block"
+    },
+    {
+      "count": 11,
+      "Slot": 8,
+      "id": "minecraft:powered_rail"
+    },
+    {
+      "count": 64,
+      "Slot": 9,
+      "id": "minecraft:cobbled_deepslate"
+    },
+    {
+      "count": 1,
+      "Slot": 10,
+      "id": "create:shaft"
+    },
+    {
+      "count": 13,
+      "Slot": 11,
+      "id": "minecraft:tuff"
+    },
+    {
+      "count": 46,
+      "Slot": 12,
+      "id": "minecraft:cobbled_deepslate"
+    },
+    {
+      "count": 5,
+      "Slot": 13,
+      "id": "minecraft:flint"
+    },
+    {
+      "count": 1,
+      "Slot": 14,
+      "components": {
+        "minecraft:stored_enchantments": {
+          "levels": {
+            "minecraft:efficiency": 4,
+            "minecraft:piercing": 4,
+            "minecraft:power": 4,
+            "minecraft:riptide": 3
+          }
+        }
+      },
+      "id": "minecraft:enchanted_book"
+    },
+    {
+      "count": 64,
+      "Slot": 15,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 64,
+      "Slot": 16,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 1,
+      "Slot": 17,
+      "components": {
+        "minecraft:damage": 66
+      },
+      "id": "minecraft:iron_pickaxe"
+    },
+    {
+      "count": 24,
+      "Slot": 18,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "count": 1,
+      "Slot": 19,
+      "components": {
+        "minecraft:stored_enchantments": {
+          "levels": {
+            "minecraft:mending": 1
+          }
+        }
+      },
+      "id": "minecraft:enchanted_book"
+    },
+    {
+      "count": 49,
+      "Slot": 20,
+      "id": "minecraft:book"
+    },
+    {
+      "count": 1,
+      "Slot": 27,
+      "components": {
+        "minecraft:damage": 176
+      },
+      "id": "minecraft:iron_shovel"
+    },
+    {
+      "count": 54,
+      "Slot": 28,
+      "id": "minecraft:torch"
+    },
+    {
+      "count": 1,
+      "Slot": 33,
+      "id": "minecraft:redstone"
+    },
+    {
+      "count": 64,
+      "Slot": 35,
+      "id": "minecraft:stone"
+    }
+  ],
+  "Experience": 28,
+  "PlayerUuid": [
+    -531319254,
+    -422099107,
+    -1884379925,
+    -108231399
+  ],
+  "Items": [
+    {
+      "id": "create:goggles",
+      "count": 1,
+      "components": {
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "head",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "sophisticatedbackpacks:gold_backpack",
+      "count": 1,
+      "components": {
+        "sophisticatedcore:number_of_upgrade_slots": 3,
+        "sophisticatedcore:number_of_inventory_slots": 81,
+        "sophisticatedcore:storage_uuid": [
+          -1050993441,
+          -781497268,
+          -1574377880,
+          -1105950897
+        ],
+        "sophisticatedcore:render_info_tag": {
+          "upgradeItems": [
+            {},
+            {},
+            {}
+          ]
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "back",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:power_glove",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 0,
+            "experience": 22,
+            "level": 0
+          },
+          "abilities": {
+            "abilities": {
+              "power": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "amount": {
+                    "initialValue": 0.92825
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "hands",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "relics:enders_hand",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 0,
+            "experience": 47,
+            "level": 0
+          },
+          "abilities": {
+            "abilities": {
+              "neutrality": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {}
+              },
+              "swap": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "distance": {
+                    "initialValue": 27.90814
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "hands",
+          "wasEquipped": 1,
+          "slotIndex": 1
+        }
+      }
+    },
+    {
+      "id": "artifacts:helium_flamingo",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 1,
+            "experience": 0,
+            "level": 1
+          },
+          "abilities": {
+            "abilities": {
+              "flying": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "speed": {
+                    "initialValue": 0.2963
+                  },
+                  "time": {
+                    "initialValue": 3.5197
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "belt",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "artifacts:running_shoes",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 0,
+            "experience": 19,
+            "level": 0
+          },
+          "abilities": {
+            "abilities": {
+              "runner": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "speed": {
+                    "initialValue": 0.6376
+                  }
+                }
+              }
+            }
+          }
+        },
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "feet",
+          "wasEquipped": 1,
+          "slotIndex": 0
+        }
+      }
+    },
+    {
+      "id": "relics:aqua_walker",
+      "count": 1,
+      "components": {
+        "relics:data": {
+          "leveling": {
+            "luck": 0,
+            "points": 1,
+            "experience": 51,
+            "level": 1
+          },
+          "abilities": {
+            "abilities": {
+              "walking": {
+                "extender": {
+                  "ticking": 0,
+                  "cooldown": 0,
+                  "cooldownCap": 0
+                },
+                "points": 0,
+                "lock": {
+                  "breaks": 5
+                },
+                "research": {
+                  "researched": 0,
+                  "links": {}
+                },
+                "stats": {
+                  "time": {
+                    "initialValue": 51.61824
+                  }
+                }
+              }
+            }
+          }
+        },
+        "relics:charge": 0,
+        "corpsecurioscompat:curio_slot_data": {
+          "slotType": "feet",
+          "wasEquipped": 1,
+          "slotIndex": 1
+        }
+      }
+    }
+  ],
+  "OffHandInventory": []
+}

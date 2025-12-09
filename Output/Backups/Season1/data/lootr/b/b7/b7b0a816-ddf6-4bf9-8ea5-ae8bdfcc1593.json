@@ -1,0 +1,101 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 8,
+              "id": "minecraft:moss_block"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:vine"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:looting": 1
+                  }
+                },
+                "minecraft:damage": 33
+              },
+              "id": "minecraft:iron_sword"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:clay_ball"
+            },
+            {
+              "Slot": 7,
+              "count": 4,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "minecraft:stored_enchantments": {
+                  "levels": {
+                    "minecraft:density": 2
+                  }
+                }
+              },
+              "id": "minecraft:enchanted_book"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1213159402,
+      -571061255,
+      -1901744501,
+      -540273261
+    ],
+    "seed": -6194679336793886203,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/b/b7/b7b0a816-ddf6-4bf9-8ea5-ae8bdfcc1593",
+    "dimension": "resource_world:resource",
+    "hasBeenOpened": 1,
+    "position": [
+      -2992,
+      -37,
+      427
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "terralith:underground/chest"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

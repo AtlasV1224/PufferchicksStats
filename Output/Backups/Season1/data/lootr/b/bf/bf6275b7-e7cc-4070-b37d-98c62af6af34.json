@@ -1,0 +1,211 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 34,
+              "id": "minecraft:blackstone"
+            },
+            {
+              "Slot": 1,
+              "count": 24,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 2,
+              "count": 13,
+              "id": "minecraft:green_stained_glass"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:obsidian"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:efficiency": 2,
+                    "minecraft:fortune": 1
+                  }
+                },
+                "minecraft:damage": 239
+              },
+              "id": "minecraft:iron_pickaxe"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#44FF00\",\"fallback\":\"Hazmat Chestplate\",\"italic\":false,\"translate\":\"incendium.item.hazmat.chestplate.name\"}",
+                "minecraft:dyed_color": {
+                  "rgb": 6219030
+                },
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:generic.armor",
+                      "amount": 7.574099540710449,
+                      "operation": "add_value",
+                      "id": "minecraft:armor",
+                      "slot": "chest"
+                    }
+                  ]
+                },
+                "minecraft:custom_data": {
+                  "incendium": {
+                    "item": "hazmat_suit"
+                  }
+                },
+                "minecraft:lore": [
+                  "{\"color\":\"#77CC00\",\"fallback\":\"Protects the wearer from poison\",\"italic\":true,\"translate\":\"incendium.item.hazmat.suit.desc1\"}",
+                  "\"\"",
+                  "{\"color\":\"#FF8000\",\"fallback\":\"Incendium\",\"italic\":true,\"translate\":\"incendium\"}"
+                ],
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:blast_protection": 4,
+                    "minecraft:protection": 4,
+                    "minecraft:unbreaking": 3
+                  }
+                }
+              },
+              "id": "minecraft:leather_chestplate"
+            },
+            {
+              "Slot": 1,
+              "count": 16,
+              "id": "minecraft:basalt"
+            },
+            {
+              "Slot": 2,
+              "count": 11,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 3,
+              "count": 8,
+              "id": "minecraft:chain"
+            },
+            {
+              "Slot": 4,
+              "count": 20,
+              "id": "minecraft:lime_terracotta"
+            },
+            {
+              "Slot": 5,
+              "count": 15,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 6,
+              "count": 20,
+              "id": "minecraft:lime_stained_glass"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:slime_block"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1084066377,
+      -406044560,
+      -1283614522,
+      720809780
+    ],
+    "seed": 6653250692617881458,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/b/bf/bf6275b7-e7cc-4070-b37d-98c62af6af34",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -891,
+      34,
+      -917
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "incendium:reactor/waste"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

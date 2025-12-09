@@ -1,0 +1,104 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "ars_nouveau:mana_boost": 3,
+                    "ars_nouveau:mana_regen": 3
+                  }
+                },
+                "minecraft:dyed_color": {
+                  "rgb": 95033,
+                  "show_in_tooltip": 0
+                },
+                "minecraft:trim": {
+                  "material": "minecraft:copper",
+                  "pattern": "minecraft:vex"
+                },
+                "minecraft:damage": 67
+              },
+              "id": "minecraft:leather_chestplate"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:protection": 1,
+                    "minecraft:unbreaking": 2
+                  }
+                },
+                "minecraft:custom_name": "\"Gothic Cuirass of Defense\"",
+                "minecraft:rarity": "rare",
+                "minecraft:damage": 169
+              },
+              "id": "minecraft:iron_chestplate"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:potato"
+            }
+          ]
+        },
+        "uuid": [
+          -1885153931,
+          100551408,
+          -1506813879,
+          988589670
+        ]
+      }
+    ],
+    "uuid": [
+      799266480,
+      1042826070,
+      -1634547759,
+      -669963982
+    ],
+    "seed": -3463431065584915511,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/2/2f/2fa3d6b0-3e28-4356-9e92-c7d1d8112932",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2631,
+      -10,
+      356
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -1885153931,
+        100551408,
+        -1506813879,
+        988589670
+      ]
+    ],
+    "table": "betterstrongholds:chests/common"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

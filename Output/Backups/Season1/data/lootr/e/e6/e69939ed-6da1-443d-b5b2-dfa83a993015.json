@@ -1,0 +1,80 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#0088FF\",\"fallback\":\"Chilling Blade\",\"italic\":false,\"translate\":\"incendium.item.chilling_blade.name\"}",
+                "minecraft:custom_model_data": 1450003,
+                "minecraft:custom_data": {
+                  "incendium": {
+                    "item": "chilling_blade"
+                  }
+                },
+                "minecraft:lore": [
+                  "{\"color\":\"#0055AA\",\"fallback\":\"Freezes souls to the core\",\"italic\":true,\"translate\":\"incendium.item.chilling_blade.desc1\"}",
+                  "\"\"",
+                  "{\"color\":\"#FF8000\",\"fallback\":\"Incendium\",\"italic\":true,\"translate\":\"incendium\"}"
+                ]
+              },
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 6,
+              "count": 7,
+              "id": "minecraft:quartz"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -426165779,
+      1839285309,
+      -1246568536,
+      983117845
+    ],
+    "seed": 1991856122517463036,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/e/e6/e69939ed-6da1-443d-b5b2-dfa83a993015",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -3824,
+      49,
+      1598
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "incendium:castle/barrel/ice"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

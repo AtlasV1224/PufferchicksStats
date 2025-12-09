@@ -1,0 +1,236 @@
+{
+  "data": {
+    "type": 1,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:pumpkin_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 5,
+              "id": "minecraft:torch"
+            },
+            {
+              "Slot": 3,
+              "count": 5,
+              "id": "supplementaries:rope"
+            },
+            {
+              "Slot": 4,
+              "count": 5,
+              "id": "minecraft:rail"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:detector_rail"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:name_tag"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "ars_nouveau:music_disc_firel_the_wild_hunt"
+            },
+            {
+              "Slot": 11,
+              "count": 11,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 12,
+              "count": 4,
+              "id": "farmersdelight:rice"
+            },
+            {
+              "Slot": 13,
+              "count": 2,
+              "id": "farmersdelight:cabbage_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:pumpkin_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 5,
+              "id": "minecraft:glow_berries"
+            },
+            {
+              "Slot": 2,
+              "count": 15,
+              "id": "supplementaries:rope"
+            },
+            {
+              "Slot": 3,
+              "count": 10,
+              "id": "minecraft:rail"
+            },
+            {
+              "Slot": 4,
+              "count": 3,
+              "id": "minecraft:activator_rail"
+            },
+            {
+              "Slot": 5,
+              "count": 7,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/mineshaft/skeleton.png"
+                  }
+                }
+              },
+              "id": "exposure:photograph"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "shrinking": {
+                        "stats": {
+                          "multiplier": {
+                            "initialValue": 0.21064
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:charm_of_shrinking"
+            },
+            {
+              "Slot": 8,
+              "count": 2,
+              "id": "ars_nouveau:sourceberry_bush"
+            },
+            {
+              "Slot": 9,
+              "count": 5,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 10,
+              "count": 7,
+              "id": "farmersdelight:cabbage_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      222796150,
+      679889756,
+      -1135788581,
+      -1523436715
+    ],
+    "seed": -8760160250109137497,
+    "name": "{\"translate\":\"entity.lootr.lootr_minecart\",\"hoverEvent\":{\"contents\":{\"type\":\"lootr:lootr_minecart\",\"id\":[222796150,679889756,-1135788581,-1523436715],\"name\":{\"translate\":\"entity.lootr.lootr_minecart\"}},\"action\":\"show_entity\"},\"insertion\":\"0d479976-2886-4b5c-bc4d-3ddba5323355\"}",
+    "blockType": 5,
+    "key": "lootr/0/0d/0d479976-2886-4b5c-bc4d-3ddba5323355",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -552,
+      39,
+      170
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "minecraft:chests/abandoned_mineshaft"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

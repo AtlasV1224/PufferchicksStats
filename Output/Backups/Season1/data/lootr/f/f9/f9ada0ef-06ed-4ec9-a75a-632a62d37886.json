@@ -1,0 +1,289 @@
+{
+  "data": {
+    "type": 1,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Arcane Smelt\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Enough heat to melt a mountain or evaporate oceans.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 139,
+                        "g": 1,
+                        "id": "ars_nouveau:constant",
+                        "b": 1
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_touch",
+                        "ars_nouveau:glyph_rune",
+                        "ars_nouveau:glyph_smelt",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Arcane Smelt"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 2,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 3,
+              "count": 13,
+              "id": "minecraft:rail"
+            },
+            {
+              "Slot": 4,
+              "count": 2,
+              "id": "minecraft:activator_rail"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:name_tag"
+            },
+            {
+              "Slot": 6,
+              "count": 3,
+              "id": "minecraft:bread"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 9,
+              "count": 2,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 11,
+              "count": 3,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 12,
+              "count": 2,
+              "id": "farmersdelight:rice"
+            }
+          ]
+        },
+        "uuid": [
+          -2083853256,
+          1488473380,
+          -1779687266,
+          -272052621
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 2,
+              "id": "minecraft:pumpkin_seeds"
+            },
+            {
+              "Slot": 1,
+              "count": 6,
+              "id": "minecraft:torch"
+            },
+            {
+              "Slot": 2,
+              "count": 13,
+              "id": "supplementaries:rope"
+            },
+            {
+              "Slot": 3,
+              "count": 7,
+              "id": "minecraft:rail"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:powered_rail"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:golden_apple"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:diamond"
+            },
+            {
+              "Slot": 7,
+              "count": 5,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/mineshaft/tunnel.png"
+                  }
+                }
+              },
+              "id": "exposure:photograph"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "exposure_expanded:spider_filter"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "sophisticatedbackpacks:copper_backpack"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "runner": {
+                        "stats": {
+                          "speed": {
+                            "initialValue": 0.51184
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:running_shoes"
+            },
+            {
+              "Slot": 12,
+              "count": 4,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 13,
+              "count": 2,
+              "id": "ars_nouveau:sourceberry_bush"
+            },
+            {
+              "Slot": 14,
+              "count": 3,
+              "id": "farmersdelight:cabbage_seeds"
+            },
+            {
+              "Slot": 15,
+              "count": 8,
+              "id": "farmersdelight:tomato_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -106061585,
+      116215497,
+      -1487248598,
+      1658026118
+    ],
+    "seed": 514408540837550010,
+    "name": "{\"translate\":\"entity.lootr.lootr_minecart\",\"hoverEvent\":{\"contents\":{\"type\":\"lootr:lootr_minecart\",\"id\":[-106061585,116215497,-1487248598,1658026118],\"name\":{\"translate\":\"entity.lootr.lootr_minecart\"}},\"action\":\"show_entity\"},\"insertion\":\"f9ada0ef-06ed-4ec9-a75a-632a62d37886\"}",
+    "blockType": 5,
+    "key": "lootr/f/f9/f9ada0ef-06ed-4ec9-a75a-632a62d37886",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -813,
+      -17,
+      247
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -2083853256,
+        1488473380,
+        -1779687266,
+        -272052621
+      ]
+    ],
+    "table": "minecraft:chests/abandoned_mineshaft"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

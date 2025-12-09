@@ -1,0 +1,112 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "cardiac:lifesteal": 2,
+                    "minecraft:sharpness": 3,
+                    "minecraft:looting": 2
+                  }
+                },
+                "minecraft:damage": 12
+              },
+              "id": "minecraft:golden_sword"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:projectile_protection": 4,
+                    "minecraft:respiration": 2
+                  }
+                }
+              },
+              "id": "minecraft:golden_helmet"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:fire_protection": 3
+                  }
+                },
+                "minecraft:damage": 50
+              },
+              "id": "minecraft:golden_leggings"
+            },
+            {
+              "Slot": 4,
+              "count": 4,
+              "id": "minecraft:apple"
+            },
+            {
+              "Slot": 5,
+              "count": 8,
+              "id": "minecraft:porkchop"
+            },
+            {
+              "Slot": 6,
+              "count": 7,
+              "id": "minecraft:cooked_porkchop"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1228109405,
+      196757751,
+      -1439995692,
+      -344739883
+    ],
+    "seed": -3269330294528468068,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/4/49/4933765d-0bba-48f7-aa2b-68d4eb73afd5",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -3827,
+      35,
+      1562
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "incendium:castle/barrel/food"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

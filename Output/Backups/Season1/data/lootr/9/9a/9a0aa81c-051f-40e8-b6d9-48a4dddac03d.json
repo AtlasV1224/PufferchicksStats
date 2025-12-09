@@ -1,0 +1,171 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Chem's Scientific Repulsion Runes\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Smothers an area with runes that launch entities upward. Do NOT get covered in the Repulsion Runes.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 61,
+                        "g": 207,
+                        "id": "ars_nouveau:constant",
+                        "b": 248
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_linger",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_rune",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_launch"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Chem's Scientific Repulsion Runes"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 4,
+              "id": "minecraft:iron_block"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:respiration": 1
+                  }
+                },
+                "minecraft:damage": 68
+              },
+              "id": "minecraft:diamond_helmet"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:diamond_helmet"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:projectile_protection": 3
+                  }
+                },
+                "minecraft:damage": 74
+              },
+              "id": "minecraft:diamond_boots"
+            },
+            {
+              "Slot": 5,
+              "count": 30,
+              "id": "minecraft:spectral_arrow"
+            },
+            {
+              "Slot": 6,
+              "count": 3,
+              "id": "minecraft:magma_cream"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:netherite_upgrade_smithing_template"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "create_dragons_plus:blaze_upgrade_smithing_template"
+            },
+            {
+              "Slot": 9,
+              "count": 3,
+              "id": "silentgear:crimson_iron_ingot"
+            },
+            {
+              "Slot": 10,
+              "count": 3,
+              "id": "silentgear:blaze_gold_ingot"
+            },
+            {
+              "Slot": 11,
+              "count": 6,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 12,
+              "count": 4,
+              "id": "ars_nouveau:source_gem"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "ars_nouveau:music_disc_thistle_the_sound_of_glass"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1710577636,
+      85934312,
+      -1227274076,
+      -572866499
+    ],
+    "seed": 5954637160911449566,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/9/9a/9a0aa81c-051f-40e8-b6d9-48a4dddac03d",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      -723,
+      83,
+      1748
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

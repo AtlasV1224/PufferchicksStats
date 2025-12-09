@@ -1,0 +1,224 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:yellow_stained_glass"
+            },
+            {
+              "Slot": 1,
+              "count": 4,
+              "id": "minecraft:lime_stained_glass"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 3,
+              "count": 4,
+              "id": "minecraft:yellow_stained_glass"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 5,
+              "count": 2,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 6,
+              "count": 4,
+              "id": "minecraft:polished_basalt"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:gold_nugget"
+            },
+            {
+              "Slot": 8,
+              "count": 4,
+              "id": "minecraft:blackstone"
+            },
+            {
+              "Slot": 9,
+              "count": 2,
+              "id": "minecraft:yellow_stained_glass"
+            },
+            {
+              "Slot": 10,
+              "count": 4,
+              "id": "minecraft:gold_nugget"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:blackstone"
+            },
+            {
+              "Slot": 12,
+              "count": 1,
+              "id": "minecraft:gold_nugget"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "minecraft:blackstone"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 15,
+              "count": 10,
+              "id": "minecraft:blackstone"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "minecraft:gold_nugget"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#44FF00\",\"fallback\":\"Hazmat Leggings\",\"italic\":false,\"translate\":\"incendium.item.hazmat.leggings.name\"}",
+                "minecraft:dyed_color": {
+                  "rgb": 6219030
+                },
+                "minecraft:attribute_modifiers": {
+                  "modifiers": [
+                    {
+                      "type": "minecraft:generic.armor",
+                      "amount": 4.872406959533691,
+                      "operation": "add_value",
+                      "id": "minecraft:armor",
+                      "slot": "legs"
+                    }
+                  ]
+                },
+                "minecraft:custom_data": {
+                  "incendium": {
+                    "item": "hazmat_suit"
+                  }
+                },
+                "minecraft:lore": [
+                  "{\"color\":\"#77CC00\",\"fallback\":\"Protects the wearer from poison\",\"italic\":true,\"strikethrough\":false,\"translate\":\"incendium.item.hazmat.suit.desc1\"}",
+                  "{\"strikethrough\":false,\"text\":\"\"}",
+                  "{\"color\":\"#FF8000\",\"fallback\":\"Incendium\",\"italic\":true,\"strikethrough\":false,\"translate\":\"incendium\"}"
+                ],
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:mending": 1,
+                    "apothic_enchanting:rebounding": 2
+                  }
+                }
+              },
+              "id": "minecraft:leather_leggings"
+            },
+            {
+              "Slot": 19,
+              "count": 2,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 21,
+              "count": 2,
+              "id": "minecraft:gold_nugget"
+            },
+            {
+              "Slot": 22,
+              "count": 1,
+              "id": "minecraft:slime_block"
+            },
+            {
+              "Slot": 23,
+              "count": 8,
+              "id": "minecraft:lime_stained_glass"
+            },
+            {
+              "Slot": 24,
+              "count": 6,
+              "id": "minecraft:green_terracotta"
+            },
+            {
+              "Slot": 25,
+              "count": 2,
+              "id": "minecraft:slime_ball"
+            },
+            {
+              "Slot": 26,
+              "count": 12,
+              "id": "minecraft:polished_basalt"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -94545764,
+      77746133,
+      -1480977973,
+      -934228503
+    ],
+    "seed": -4946973571862986110,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/f/fa/fa5d589c-04a2-4fd5-a7ba-11cbc850cde9",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      141,
+      54,
+      -4632
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "incendium:reactor/waste"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

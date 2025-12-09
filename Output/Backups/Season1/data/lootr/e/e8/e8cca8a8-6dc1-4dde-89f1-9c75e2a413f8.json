@@ -1,0 +1,110 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:map_id": 2,
+                "minecraft:item_name": "{\"translate\":\"filled_map.buried_treasure\"}",
+                "minecraft:map_decorations": {
+                  "+": {
+                    "type": "minecraft:red_x",
+                    "rotation": 180.0,
+                    "z": -2391.0,
+                    "x": 1401.0
+                  }
+                }
+              },
+              "id": "minecraft:filled_map"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:green_stained_glass_pane"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:blue_stained_glass_pane"
+            },
+            {
+              "Slot": 3,
+              "count": 2,
+              "id": "minecraft:feather"
+            },
+            {
+              "Slot": 4,
+              "count": 12,
+              "id": "minecraft:paper"
+            },
+            {
+              "Slot": 5,
+              "count": 2,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/shipwreck/ship_dock_4.png"
+                  }
+                }
+              },
+              "id": "exposure:aged_photograph"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -389240664,
+      1841384926,
+      -1980654475,
+      -492563464
+    ],
+    "seed": -6170855804645415233,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/e/e8/e8cca8a8-6dc1-4dde-89f1-9c75e2a413f8",
+    "dimension": "resource_world:resource",
+    "hasBeenOpened": 1,
+    "position": [
+      1733,
+      65,
+      -2826
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ]
+    ],
+    "table": "minecraft:chests/shipwreck_map"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

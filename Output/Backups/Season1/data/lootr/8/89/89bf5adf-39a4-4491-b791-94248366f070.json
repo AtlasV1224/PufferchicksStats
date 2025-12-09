@@ -1,0 +1,150 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Poison Blossom\"}",
+                "ars_elemental:elemental_tome_caster": {
+                  "flavor_text": "May the venom become the seed of a flower that will blossom in undeath.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 50,
+                        "g": 250,
+                        "id": "ars_nouveau:constant",
+                        "b": 55
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_touch",
+                        "ars_elemental:glyph_envenom",
+                        "ars_elemental:glyph_poison_spores"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Poison Blossom"
+                    }
+                  }
+                }
+              },
+              "id": "ars_elemental:earth_caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 3,
+              "count": 7,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:saddle"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:music_disc_cat"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:golden_horse_armor"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 8,
+              "count": 3,
+              "id": "minecraft:coal"
+            },
+            {
+              "Slot": 9,
+              "count": 7,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "exposure_expanded:antialias_filter"
+            },
+            {
+              "Slot": 11,
+              "count": 8,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 12,
+              "count": 6,
+              "id": "farmersdelight:tomato_seeds"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      -1983948065,
+      967066769,
+      -1215196124,
+      -2090405776
+    ],
+    "seed": -7873781676559578353,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/8/89/89bf5adf-39a4-4491-b791-94248366f070",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -15,
+      67,
+      -1284
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

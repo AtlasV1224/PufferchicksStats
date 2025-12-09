@@ -1,0 +1,253 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 4,
+              "id": "minecraft:crying_obsidian"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:looting": 3
+                  }
+                },
+                "minecraft:damage": 40
+              },
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:thorns": 3
+                  }
+                },
+                "minecraft:damage": 89
+              },
+              "id": "minecraft:diamond_chestplate"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:diamond_boots"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_strong"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 5,
+              "count": 32,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 6,
+              "count": 8,
+              "id": "minecraft:magma_cream"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:netherite_upgrade_smithing_template"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "sophisticatedbackpacks:gold_backpack"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "create_dragons_plus:blaze_upgrade_smithing_template"
+            },
+            {
+              "Slot": 10,
+              "count": 4,
+              "id": "silentgear:crimson_iron_ingot"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "silentgear:crimson_steel_dust"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Yuuki's Mineral Assimilator\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "One of YuukiUkami’s earliest creations, this spell reflects their desire for precision and mastery. Infused with the arcane finesse of its creator, it draws minerals from the earth at a distance, as if the ores themselves were eager to join the mage’s growing legacy",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 48,
+                        "g": 1,
+                        "id": "ars_nouveau:constant",
+                        "b": 105
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_break",
+                        "ars_nouveau:glyph_amplify",
+                        "ars_nouveau:glyph_extract",
+                        "ars_nouveau:glyph_pickup"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Yuuki's Mineral Assimilator"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 12,
+              "id": "minecraft:gilded_blackstone"
+            },
+            {
+              "Slot": 2,
+              "count": 5,
+              "id": "minecraft:iron_block"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:ancient_debris"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:looting": 2
+                  }
+                },
+                "minecraft:damage": 59
+              },
+              "id": "minecraft:diamond_sword"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "levels": {
+                    "minecraft:blast_protection": 3
+                  }
+                },
+                "minecraft:damage": 18
+              },
+              "id": "minecraft:diamond_helmet"
+            },
+            {
+              "Slot": 6,
+              "count": 19,
+              "id": "minecraft:quartz"
+            },
+            {
+              "Slot": 11,
+              "count": 8,
+              "id": "silentgear:blaze_gold_nugget"
+            },
+            {
+              "Slot": 12,
+              "count": 30,
+              "id": "ars_nouveau:split_arrow"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "ars_additions:codex_entry"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      -1988970661,
+      925649171,
+      -1216958042,
+      980248270
+    ],
+    "seed": 4937669651192482182,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/8/89/8972b75b-372c-4913-b776-b1a63a6d66ce",
+    "dimension": "minecraft:the_nether",
+    "hasBeenOpened": 1,
+    "position": [
+      229,
+      93,
+      2778
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "minecraft:chests/bastion_treasure"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

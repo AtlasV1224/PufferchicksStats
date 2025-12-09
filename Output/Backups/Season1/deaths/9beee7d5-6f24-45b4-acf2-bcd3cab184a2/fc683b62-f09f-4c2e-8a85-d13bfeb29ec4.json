@@ -1,0 +1,904 @@
+{
+  "Equipment": [
+    {
+      "id": "silentgear:machete",
+      "count": 1,
+      "components": {
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:machete_blade",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:machete_blade"
+            },
+            {
+              "item": {
+                "id": "silentgear:tip",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:lapis_lazuli",
+                      "item": {
+                        "id": "minecraft:lapis_lazuli",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:tip"
+            },
+            {
+              "item": {
+                "id": "silentgear:grip",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:phantom_membrane",
+                      "item": {
+                        "id": "minecraft:phantom_membrane",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:grip"
+            },
+            {
+              "item": {
+                "id": "silentgear:coating",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:netherite",
+                      "item": {
+                        "id": "minecraft:netherite_ingot",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:coating"
+            },
+            {
+              "item": {
+                "id": "silentgear:rod",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:blaze_rod"
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:rod"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "!minecraft:attribute_modifiers": {},
+        "silentgear:model_key": "machete:machete_blade{azure_electrum},tip{lapis_lazuli},grip{phantom_membrane},coating{netherite},rod{blaze_rod},",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 1.5,
+          "silentgear:draw_speed": 0.0,
+          "silentgear:magic_armor": 18.999998092651367,
+          "silentgear:knockback_resistance": 1.0,
+          "silentgear:armor_toughness": 12.000000953674316,
+          "silentgear:projectile_speed": 2.0,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "silentgear:incorrect_for_azure_electrum_tools",
+            "level_hint": "4",
+            "name": "azure_electrum"
+          },
+          "silentgear:magic_damage": 16.666667938232422,
+          "silentgear:attack_speed": 2.299999952316284,
+          "silentgear:repair_value": 0.5,
+          "silentgear:repair_efficiency": 1.149999976158142,
+          "silentgear:durability": 1638.699951171875,
+          "silentgear:attack_damage": 13.200000762939453,
+          "silentgear:harvest_speed": 48.448123931884766,
+          "silentgear:armor_durability": 68.39393615722656,
+          "silentgear:rarity": 109.0,
+          "silentgear:ranged_damage": 4.400000095367432,
+          "silentgear:enchantment_value": 42.0,
+          "silentgear:armor": 18.999998092651367,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:block_reach": 0.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:malleable",
+              "level": 3
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:tool"
+                }
+              ],
+              "trait": "silentgear:accelerate",
+              "level": 3
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:weapon"
+                }
+              ],
+              "trait": "silentgear:holy",
+              "level": 1
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:lucky",
+              "level": 4
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:tool"
+                }
+              ],
+              "trait": "silentgear:ancient",
+              "level": 2
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:fireproof",
+              "level": 1
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 2
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:reach",
+              "level": 1
+            }
+          ],
+          "silentgear:charging_value": 1.5
+        },
+        "minecraft:item_name": "{\"extra\":[{\"translate\":\"misc.silentgear.space\"},{\"translate\":\"item.silentgear.machete.nameProper\",\"with\":[{\"translate\":\"material.silentgear.azure_electrum\"}]}],\"translate\":\"material.silentgear.netherite\"}",
+        "minecraft:repair_cost": 1,
+        "silentgear:model_index": 15,
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:mending": 1,
+            "minecraft:looting": 8,
+            "apothic_enchanting:scavenger": 3,
+            "minecraft:smite": 10,
+            "minecraft:sweeping_edge": 8,
+            "cardiac:lifesteal": 5,
+            "the_bumblezone:comb_cutter": 3,
+            "soulbound:soulbound": 1,
+            "minecraft:sharpness": 9,
+            "minecraft:unbreaking": 8
+          }
+        },
+        "minecraft:damage": 17,
+        "minecraft:tool": {
+          "damage_per_block": 2,
+          "rules": [
+            {
+              "blocks": "#silentgear:incorrect_for_azure_electrum_tools",
+              "correct_for_drops": 0
+            },
+            {
+              "speed": 48.448123931884766,
+              "blocks": "#silentgear:mineable/machete",
+              "correct_for_drops": 1
+            },
+            {
+              "speed": 15.0,
+              "blocks": "minecraft:cobweb",
+              "correct_for_drops": 1
+            },
+            {
+              "speed": 1.5,
+              "blocks": "#minecraft:sword_efficient"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "silentgear:boots",
+      "count": 1,
+      "components": {
+        "minecraft:dyed_color": {
+          "show_in_tooltip": 0,
+          "rgb": -12225053
+        },
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:boot_plates",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:boot_plates"
+            },
+            {
+              "item": {
+                "id": "silentgear:lining",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:leather",
+                      "item": {
+                        "id": "minecraft:leather",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:lining"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 1
+        },
+        "!minecraft:attribute_modifiers": {},
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.boots.nameProper\",\"with\":[{\"translate\":\"material.silentgear.azure_electrum\"}]}",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 1.5,
+          "silentgear:draw_speed": 0.0,
+          "silentgear:magic_armor": 19.0,
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:armor_toughness": 8.0,
+          "silentgear:projectile_speed": 2.0,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "silentgear:incorrect_for_azure_electrum_tools",
+            "level_hint": "4",
+            "name": "azure_electrum"
+          },
+          "silentgear:magic_damage": 11.0,
+          "silentgear:attack_speed": 0.0,
+          "silentgear:repair_value": 0.5,
+          "silentgear:repair_efficiency": 1.0,
+          "silentgear:durability": 1259.0,
+          "silentgear:attack_damage": 7.0,
+          "silentgear:harvest_speed": 29.0,
+          "silentgear:armor_durability": 61.0,
+          "silentgear:rarity": 109.0,
+          "silentgear:ranged_damage": 3.0,
+          "silentgear:enchantment_value": 37.0,
+          "silentgear:armor": 3.0,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:block_reach": 0.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:malleable",
+              "level": 3
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:armor"
+                }
+              ],
+              "trait": "silentgear:light",
+              "level": 4
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 4
+            }
+          ],
+          "silentgear:charging_value": 1.5
+        },
+        "silentgear:model_key": "boots:boot_plates{azure_electrum},lining{leather},",
+        "minecraft:repair_cost": 7,
+        "minecraft:max_damage": 91,
+        "silentgear:model_index": 3,
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:thorns": 5,
+            "apothic_enchanting:stable_footing": 1,
+            "minecraft:unbreaking": 8,
+            "ars_nouveau:mana_regen": 7,
+            "soulbound:soulbound": 1,
+            "minecraft:feather_falling": 11,
+            "minecraft:protection": 8,
+            "minecraft:fire_protection": 9,
+            "minecraft:depth_strider": 7,
+            "minecraft:soul_speed": 3,
+            "minecraft:mending": 1,
+            "ars_nouveau:mana_boost": 7
+          }
+        },
+        "minecraft:damage": 239
+      }
+    },
+    {
+      "id": "silentgear:leggings",
+      "count": 1,
+      "components": {
+        "minecraft:dyed_color": {
+          "show_in_tooltip": 0,
+          "rgb": -12225053
+        },
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:legging_plates",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:legging_plates"
+            },
+            {
+              "item": {
+                "id": "silentgear:lining",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:leather",
+                      "item": {
+                        "id": "minecraft:leather",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:lining"
+            }
+          ],
+          "broken_count": 1,
+          "example": 0,
+          "repairedCount": 1
+        },
+        "!minecraft:attribute_modifiers": {},
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.leggings.nameProper\",\"with\":[{\"translate\":\"material.silentgear.azure_electrum\"}]}",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 1.4999998807907104,
+          "silentgear:draw_speed": 0.0,
+          "silentgear:magic_armor": 19.000001907348633,
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:armor_toughness": 8.0,
+          "silentgear:projectile_speed": 2.0,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "silentgear:incorrect_for_azure_electrum_tools",
+            "level_hint": "4",
+            "name": "azure_electrum"
+          },
+          "silentgear:magic_damage": 11.0,
+          "silentgear:attack_speed": 0.0,
+          "silentgear:repair_value": 0.5,
+          "silentgear:repair_efficiency": 1.0,
+          "silentgear:durability": 1259.0,
+          "silentgear:attack_damage": 7.0,
+          "silentgear:harvest_speed": 28.9999942779541,
+          "silentgear:armor_durability": 60.9999885559082,
+          "silentgear:rarity": 108.9999771118164,
+          "silentgear:ranged_damage": 3.0,
+          "silentgear:enchantment_value": 36.999996185302734,
+          "silentgear:armor": 5.999999523162842,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:block_reach": 0.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:malleable",
+              "level": 3
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:armor"
+                }
+              ],
+              "trait": "silentgear:light",
+              "level": 4
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 4
+            }
+          ],
+          "silentgear:charging_value": 1.4999998807907104
+        },
+        "silentgear:model_key": "leggings:legging_plates{azure_electrum},lining{leather},",
+        "minecraft:repair_cost": 3,
+        "silentgear:model_index": 3,
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:thorns": 5,
+            "minecraft:projectile_protection": 11,
+            "minecraft:swift_sneak": 3,
+            "minecraft:unbreaking": 8,
+            "apothic_enchanting:rebounding": 5,
+            "minecraft:protection": 8,
+            "soulbound:soulbound": 1,
+            "ars_nouveau:mana_regen": 7,
+            "minecraft:mending": 1,
+            "ars_nouveau:mana_boost": 7
+          }
+        },
+        "minecraft:damage": 126
+      }
+    },
+    {
+      "id": "silentgear:chestplate",
+      "count": 1,
+      "components": {
+        "minecraft:dyed_color": {
+          "show_in_tooltip": 0,
+          "rgb": -12225053
+        },
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:chestplate_plates",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:chestplate_plates"
+            },
+            {
+              "item": {
+                "id": "silentgear:lining",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:leather",
+                      "item": {
+                        "id": "minecraft:leather",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:lining"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 1
+        },
+        "!minecraft:attribute_modifiers": {},
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.chestplate.nameProper\",\"with\":[{\"translate\":\"material.silentgear.azure_electrum\"}]}",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 1.4999996423721313,
+          "silentgear:draw_speed": 0.0,
+          "silentgear:magic_armor": 19.0,
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:armor_toughness": 8.0,
+          "silentgear:projectile_speed": 2.0,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "silentgear:incorrect_for_azure_electrum_tools",
+            "level_hint": "4",
+            "name": "azure_electrum"
+          },
+          "silentgear:magic_damage": 10.999999046325684,
+          "silentgear:attack_speed": 0.0,
+          "silentgear:repair_value": 0.5,
+          "silentgear:repair_efficiency": 1.0,
+          "silentgear:durability": 1258.9998779296875,
+          "silentgear:attack_damage": 7.0,
+          "silentgear:harvest_speed": 28.9999942779541,
+          "silentgear:armor_durability": 60.9999885559082,
+          "silentgear:rarity": 108.99996948242188,
+          "silentgear:ranged_damage": 3.0,
+          "silentgear:enchantment_value": 37.0,
+          "silentgear:armor": 7.0,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:block_reach": 0.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:malleable",
+              "level": 3
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:armor"
+                }
+              ],
+              "trait": "silentgear:light",
+              "level": 4
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 4
+            }
+          ],
+          "silentgear:charging_value": 1.4999996423721313
+        },
+        "silentgear:model_key": "chestplate:chestplate_plates{azure_electrum},lining{leather},",
+        "minecraft:repair_cost": 1,
+        "silentgear:model_index": 3,
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:mending": 1,
+            "minecraft:blast_protection": 9,
+            "minecraft:unbreaking": 8,
+            "apothic_enchanting:rebounding": 5,
+            "minecraft:protection": 8,
+            "soulbound:soulbound": 1,
+            "apothic_enchanting:icy_thorns": 5,
+            "ars_nouveau:mana_regen": 7,
+            "ars_nouveau:mana_boost": 7
+          }
+        },
+        "minecraft:damage": 325
+      }
+    },
+    {
+      "id": "silentgear:helmet",
+      "count": 1,
+      "components": {
+        "minecraft:dyed_color": {
+          "show_in_tooltip": 0,
+          "rgb": -12225053
+        },
+        "silentgear:construction": {
+          "parts": [
+            {
+              "item": {
+                "id": "silentgear:helmet_plates",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    },
+                    {
+                      "material": "silentgear:azure_electrum",
+                      "item": {
+                        "id": "silentgear:azure_electrum_ingot",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:helmet_plates"
+            },
+            {
+              "item": {
+                "id": "silentgear:lining",
+                "count": 1,
+                "components": {
+                  "silentgear:material_list": [
+                    {
+                      "material": "silentgear:leather",
+                      "item": {
+                        "id": "minecraft:leather",
+                        "count": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              "part": "silentgear:lining"
+            }
+          ],
+          "broken_count": 0,
+          "example": 0,
+          "repairedCount": 0
+        },
+        "!minecraft:attribute_modifiers": {},
+        "minecraft:item_name": "{\"translate\":\"item.silentgear.helmet.nameProper\",\"with\":[{\"translate\":\"material.silentgear.azure_electrum\"}]}",
+        "silentgear:properties": {
+          "silentgear:projectile_accuracy": 1.5,
+          "silentgear:draw_speed": 0.0,
+          "silentgear:magic_armor": 19.0,
+          "silentgear:knockback_resistance": 0.0,
+          "silentgear:armor_toughness": 8.0,
+          "silentgear:projectile_speed": 2.0,
+          "silentgear:harvest_tier": {
+            "incorrect_blocks_for_tool": "silentgear:incorrect_for_azure_electrum_tools",
+            "level_hint": "4",
+            "name": "azure_electrum"
+          },
+          "silentgear:magic_damage": 11.0,
+          "silentgear:attack_speed": 0.0,
+          "silentgear:repair_value": 0.5,
+          "silentgear:repair_efficiency": 1.0,
+          "silentgear:durability": 1259.0,
+          "silentgear:attack_damage": 7.0,
+          "silentgear:harvest_speed": 28.999996185302734,
+          "silentgear:armor_durability": 60.999996185302734,
+          "silentgear:rarity": 108.99999237060547,
+          "silentgear:ranged_damage": 3.0,
+          "silentgear:enchantment_value": 37.0,
+          "silentgear:armor": 3.0,
+          "silentgear:attack_reach": 6.0,
+          "silentgear:block_reach": 0.0,
+          "silentgear:traits": [
+            {
+              "conditions": [],
+              "trait": "silentgear:malleable",
+              "level": 3
+            },
+            {
+              "conditions": [
+                {
+                  "type": "silentgear:gear_type",
+                  "gear_type": "silentgear:armor"
+                }
+              ],
+              "trait": "silentgear:light",
+              "level": 4
+            },
+            {
+              "conditions": [],
+              "trait": "silentgear:flexible",
+              "level": 4
+            }
+          ],
+          "silentgear:charging_value": 1.5
+        },
+        "silentgear:model_key": "helmet:helmet_plates{azure_electrum},lining{leather},",
+        "minecraft:repair_cost": 3,
+        "minecraft:max_damage": 77,
+        "silentgear:model_index": 3,
+        "minecraft:enchantments": {
+          "levels": {
+            "minecraft:thorns": 5,
+            "minecraft:aqua_affinity": 1,
+            "minecraft:projectile_protection": 11,
+            "minecraft:unbreaking": 8,
+            "minecraft:respiration": 7,
+            "minecraft:protection": 8,
+            "soulbound:soulbound": 1,
+            "ars_nouveau:mana_regen": 7,
+            "minecraft:mending": 1,
+            "ars_nouveau:mana_boost": 7
+          }
+        },
+        "minecraft:damage": 194
+      }
+    }
+  ],
+  "Model": 126,
+  "PlayerName": "kittycatcasey",
+  "PosZ": 4175.538412036987,
+  "Id": [
+    -60277918,
+    -257995730,
+    -1970941637,
+    -21848380
+  ],
+  "PosY": 247.875,
+  "PosX": -2266.762499988079,
+  "Dimension": "minecraft:overworld",
+  "ArmorInventory": [],
+  "Timestamp": 1753415792469,
+  "MainInventory": [],
+  "Experience": 0,
+  "PlayerUuid": [
+    -1678841899,
+    1864648116,
+    -1393378093,
+    -894335838
+  ],
+  "Items": [],
+  "OffHandInventory": []
+}

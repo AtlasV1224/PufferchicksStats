@@ -1,0 +1,349 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1897521421,
+        518932583,
+        -1765357074,
+        1888276970
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "id": "minecraft:glass_bottle"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "pastel:pyrite_chunk"
+            },
+            {
+              "Slot": 2,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 6,
+              "count": 1,
+              "id": "minecraft:blaze_powder"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 10,
+              "count": 4,
+              "id": "minecraft:glass_bottle"
+            },
+            {
+              "Slot": 11,
+              "count": 1,
+              "id": "minecraft:iron_nugget"
+            },
+            {
+              "Slot": 13,
+              "count": 5,
+              "id": "pastel:pyrite_chunk"
+            },
+            {
+              "Slot": 14,
+              "count": 3,
+              "id": "pastel:pyrite_chunk"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "components": {
+                "pastel:beverage": {
+                  "thickness": 1.0,
+                  "alcohol_percent": 83,
+                  "days_aged": 189244
+                },
+                "pastel:infused_beverage": {
+                  "variant": "night_cream",
+                  "color": 12982783
+                },
+                "minecraft:potion_contents": {
+                  "custom_effects": [
+                    {
+                      "duration": 6000,
+                      "show_icon": 1,
+                      "id": "pastel:eternal_slumber",
+                      "neoforge:cures": [
+                        "blood_orchid"
+                      ]
+                    },
+                    {
+                      "amplifier": 7,
+                      "show_icon": 1,
+                      "id": "pastel:effect_prolonging",
+                      "neoforge:cures": [
+                        "protected_by_totem",
+                        "milk"
+                      ],
+                      "duration": 1200
+                    },
+                    {
+                      "amplifier": 3,
+                      "show_icon": 1,
+                      "id": "pastel:deadly_poison",
+                      "neoforge:cures": [
+                        "protected_by_totem",
+                        "milk",
+                        "honey"
+                      ],
+                      "duration": 1200
+                    },
+                    {
+                      "show_icon": 1,
+                      "id": "pastel:immunity",
+                      "duration": 1200
+                    }
+                  ]
+                }
+              },
+              "id": "pastel:infused_beverage"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "minecraft:blaze_powder"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "teleport": {
+                        "stats": {
+                          "distance": {
+                            "initialValue": 797.14192
+                          },
+                          "cooldown": {
+                            "initialValue": 108.86901
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "relics:magic_mirror"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "pastel:pyrite_chunk"
+            },
+            {
+              "Slot": 23,
+              "count": 1,
+              "id": "pastel:pyrite_chunk"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "pastel:pyrite_chunk"
+            }
+          ]
+        },
+        "uuid": [
+          -1897521421,
+          518932583,
+          -1765357074,
+          1888276970
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 2,
+              "count": 6,
+              "id": "minecraft:gold_ingot"
+            },
+            {
+              "Slot": 3,
+              "count": 13,
+              "id": "minecraft:glass_bottle"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "pastel:raw_malachite"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "vision": {
+                        "stats": {
+                          "amount": {
+                            "initialValue": 0.1035
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 1,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:night_vision_goggles"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "minecraft:iron_nugget"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:gold_nugget"
+            },
+            {
+              "Slot": 3,
+              "count": 6,
+              "id": "minecraft:copper_ingot"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      1055170893,
+      1001802360,
+      -1742183726,
+      854696217
+    ],
+    "seed": -6337575603536805982,
+    "name": "{\"translate\":\"container.barrel\"}",
+    "blockType": 2,
+    "key": "lootr/3/3e/3ee4a14d-3bb6-4a78-9828-62d232f1a119",
+    "dimension": "pastel:deeper_down",
+    "hasBeenOpened": 1,
+    "position": [
+      -1102,
+      -283,
+      -4990
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1897521421,
+        518932583,
+        -1765357074,
+        1888276970
+      ]
+    ],
+    "table": "pastel:chests/undergrowth_manor/basement_storeroom_barrel"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

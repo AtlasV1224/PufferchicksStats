@@ -1,0 +1,320 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 3,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:tripwire_hook"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "toffys_hooks:climbing_hook"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 5,
+              "count": 9,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 6,
+              "count": 5,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 7,
+              "count": 2,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 8,
+              "count": 2,
+              "id": "ars_nouveau:wilden_horn"
+            },
+            {
+              "Slot": 9,
+              "count": 3,
+              "id": "farmersdelight:onion_crate"
+            },
+            {
+              "Slot": 10,
+              "count": 12,
+              "id": "farmersdelight:onion"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Takeoff!\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Launches the caster into the air and grants temporary elytra flight!",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 25,
+                        "id": "ars_nouveau:constant",
+                        "b": 180
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_self",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_glide",
+                        "ars_nouveau:glyph_duration_down"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Takeoff!"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 3,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 2,
+              "count": 6,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:tripwire_hook"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "toffys_hooks:climbing_hook"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 6,
+              "count": 4,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 7,
+              "count": 8,
+              "id": "minecraft:potato"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:iron_ingot"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:experience_bottle"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "components": {
+                "relics:data": {
+                  "abilities": {
+                    "abilities": {
+                      "nutrition": {
+                        "stats": {
+                          "hunger": {
+                            "initialValue": 1.2826
+                          }
+                        },
+                        "lock": {
+                          "breaks": 0
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      },
+                      "drinking": {
+                        "stats": {
+                          "speed": {
+                            "initialValue": 0.30529
+                          }
+                        },
+                        "lock": {
+                          "breaks": 5
+                        },
+                        "research": {
+                          "links": {},
+                          "researched": 0
+                        },
+                        "extender": {
+                          "ticking": 0,
+                          "cooldown": 0,
+                          "cooldownCap": 0
+                        },
+                        "points": 0
+                      }
+                    }
+                  },
+                  "leveling": {
+                    "luck": 0,
+                    "experience": 0,
+                    "level": 0,
+                    "points": 0
+                  }
+                }
+              },
+              "id": "artifacts:plastic_drinking_hat"
+            },
+            {
+              "Slot": 11,
+              "count": 2,
+              "id": "farmersdelight:onion_crate"
+            },
+            {
+              "Slot": 12,
+              "count": 8,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "extradelight:glow_berry_juice"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "extradelight:sugar_cookie"
+            },
+            {
+              "Slot": 15,
+              "count": 1,
+              "id": "extradelight:omelette"
+            },
+            {
+              "Slot": 16,
+              "count": 1,
+              "id": "extradelight:potato_sticks"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "extradelight:cheese"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "extradelight:beef_stew_rice"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "extradelight:meatloaf"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "extradelight:fish_salad_sandwich"
+            }
+          ]
+        },
+        "uuid": [
+          -1300637667,
+          -584760945,
+          -1215534361,
+          674047685
+        ]
+      }
+    ],
+    "uuid": [
+      427729705,
+      110578278,
+      -1967487602,
+      -980490625
+    ],
+    "seed": 8682239910574683446,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/1/19/197ea329-0697-4a66-8aba-858ec58ee67f",
+    "dimension": "amplidim:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      847,
+      192,
+      -299
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        -1300637667,
+        -584760945,
+        -1215534361,
+        674047685
+      ]
+    ],
+    "table": "minecraft:chests/pillager_outpost"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

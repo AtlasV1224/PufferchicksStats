@@ -1,0 +1,216 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Magiflare\"}",
+                "ars_elemental:elemental_tome_caster": {
+                  "flavor_text": "These wicked flames cook so well that even armor becomes weaker to magic.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 250,
+                        "g": 15,
+                        "id": "ars_nouveau:constant",
+                        "b": 15
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_elemental:glyph_homing_projectile",
+                        "ars_nouveau:glyph_ignite",
+                        "ars_nouveau:glyph_hex",
+                        "ars_nouveau:glyph_flare"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Magiflare"
+                    }
+                  }
+                }
+              },
+              "id": "ars_elemental:fire_caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "id": "extradelight:pasta_tomato"
+            },
+            {
+              "Slot": 2,
+              "count": 4,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 6,
+              "count": 2,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 7,
+              "count": 2,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "extradelight:grated_potato"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "id": "minecraft:experience_bottle"
+            },
+            {
+              "Slot": 10,
+              "count": 1,
+              "id": "minecraft:crossbow"
+            },
+            {
+              "Slot": 11,
+              "count": 2,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 12,
+              "count": 2,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 13,
+              "count": 1,
+              "id": "supplementaries:flax_seeds"
+            },
+            {
+              "Slot": 14,
+              "count": 1,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 15,
+              "count": 2,
+              "id": "minecraft:dark_oak_log"
+            },
+            {
+              "Slot": 16,
+              "count": 3,
+              "id": "ars_nouveau:wilden_spike"
+            },
+            {
+              "Slot": 17,
+              "count": 1,
+              "id": "extradelight:jerky"
+            },
+            {
+              "Slot": 18,
+              "count": 1,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 19,
+              "count": 1,
+              "id": "minecraft:experience_bottle"
+            },
+            {
+              "Slot": 20,
+              "count": 1,
+              "id": "minecraft:carrot"
+            },
+            {
+              "Slot": 21,
+              "count": 1,
+              "id": "extradelight:french_fries"
+            },
+            {
+              "Slot": 22,
+              "count": 2,
+              "id": "minecraft:wheat"
+            },
+            {
+              "Slot": 23,
+              "count": 4,
+              "id": "farmersdelight:onion"
+            },
+            {
+              "Slot": 24,
+              "count": 1,
+              "id": "extradelight:sliced_potato"
+            },
+            {
+              "Slot": 25,
+              "count": 2,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 26,
+              "count": 1,
+              "id": "minecraft:dark_oak_log"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      1625309558,
+      143150455,
+      -1509835790,
+      -1309029309
+    ],
+    "seed": 491296238028059909,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/6/60/60e04176-0888-4d77-a601-bbf2b1f9cc43",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -3691,
+      221,
+      -819
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/pillager_outpost"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

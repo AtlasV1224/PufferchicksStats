@@ -1,0 +1,139 @@
+{
+  "data": {
+    "type": 1,
+    "openers": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Lufia's Bwomp\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Your enemies will try to kill you. Use this, to kill them back. Cast under a targets feet to bury them. Results may vary.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 255,
+                        "g": 128,
+                        "id": "ars_nouveau:constant",
+                        "b": 1
+                      },
+                      "sound": {
+                        "sound": {
+                          "id": "ars_nouveau:tempestry_family"
+                        },
+                        "pitch": 0.5
+                      },
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_pierce",
+                        "ars_nouveau:glyph_intangible",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe",
+                        "ars_nouveau:glyph_aoe"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Lufia's Bwomp"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 3,
+              "count": 6,
+              "id": "supplementaries:rope"
+            },
+            {
+              "Slot": 4,
+              "count": 6,
+              "id": "minecraft:rail"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:name_tag"
+            },
+            {
+              "Slot": 9,
+              "count": 1,
+              "components": {
+                "exposure:photograph_frame": {
+                  "identifier": {
+                    "texture": "exposure:textures/exposure/mineshaft/tunnel.png"
+                  }
+                }
+              },
+              "id": "exposure:photograph"
+            },
+            {
+              "Slot": 11,
+              "count": 32,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 12,
+              "count": 3,
+              "id": "farmersdelight:rice"
+            },
+            {
+              "Slot": 13,
+              "count": 3,
+              "id": "farmersdelight:cabbage_seeds"
+            }
+          ]
+        },
+        "uuid": [
+          2001138388,
+          -1529393814,
+          -1151761747,
+          1858955045
+        ]
+      }
+    ],
+    "uuid": [
+      -1385276169,
+      -1695331326,
+      -1090454579,
+      -2085519928
+    ],
+    "seed": -8936821282841713967,
+    "name": "{\"translate\":\"entity.lootr.lootr_minecart\",\"hoverEvent\":{\"contents\":{\"type\":\"lootr:lootr_minecart\",\"id\":[-1385276169,-1695331326,-1090454579,-2085519928],\"name\":{\"translate\":\"entity.lootr.lootr_minecart\"}},\"action\":\"show_entity\"},\"insertion\":\"ad6e5cf7-9af3-4c02-bf00-fbcd83b17dc8\"}",
+    "blockType": 5,
+    "key": "lootr/a/ad/ad6e5cf7-9af3-4c02-bf00-fbcd83b17dc8",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -2605,
+      -38,
+      -899
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        2001138388,
+        -1529393814,
+        -1151761747,
+        1858955045
+      ]
+    ],
+    "table": "minecraft:chests/abandoned_mineshaft"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

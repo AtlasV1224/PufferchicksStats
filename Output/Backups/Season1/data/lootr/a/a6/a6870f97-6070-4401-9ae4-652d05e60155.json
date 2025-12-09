@@ -1,0 +1,150 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"dark_purple\",\"italic\":true,\"text\":\"Chem's Scientific Repulsion Runes\"}",
+                "ars_nouveau:tome_caster": {
+                  "flavor_text": "Smothers an area with runes that launch entities upward. Do NOT get covered in the Repulsion Runes.",
+                  "spells": {
+                    "0": {
+                      "color": {
+                        "r": 61,
+                        "g": 207,
+                        "id": "ars_nouveau:constant",
+                        "b": 248
+                      },
+                      "sound": {},
+                      "recipe": [
+                        "ars_nouveau:glyph_projectile",
+                        "ars_nouveau:glyph_linger",
+                        "ars_nouveau:glyph_sensitive",
+                        "ars_nouveau:glyph_rune",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_launch",
+                        "ars_nouveau:glyph_launch"
+                      ],
+                      "particleTimeline": {},
+                      "name": "Chem's Scientific Repulsion Runes"
+                    }
+                  }
+                }
+              },
+              "id": "ars_nouveau:caster_tome"
+            },
+            {
+              "Slot": 1,
+              "count": 2,
+              "id": "minecraft:melon_seeds"
+            },
+            {
+              "Slot": 2,
+              "count": 6,
+              "id": "minecraft:beetroot_seeds"
+            },
+            {
+              "Slot": 3,
+              "count": 1,
+              "id": "minecraft:string"
+            },
+            {
+              "Slot": 4,
+              "count": 1,
+              "id": "minecraft:name_tag"
+            },
+            {
+              "Slot": 5,
+              "count": 1,
+              "id": "minecraft:music_disc_13"
+            },
+            {
+              "Slot": 6,
+              "count": 6,
+              "id": "minecraft:rotten_flesh"
+            },
+            {
+              "Slot": 7,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "ars_nouveau:mana_regen_potion_long"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 8,
+              "count": 1,
+              "id": "minecraft:bone"
+            },
+            {
+              "Slot": 9,
+              "count": 3,
+              "id": "cardiac:life_bottle"
+            },
+            {
+              "Slot": 10,
+              "count": 5,
+              "id": "farmersdelight:rope"
+            },
+            {
+              "Slot": 11,
+              "count": 35,
+              "id": "extradelight:bad_food"
+            }
+          ]
+        },
+        "uuid": [
+          1095242867,
+          -529184618,
+          -1379070319,
+          -929691937
+        ]
+      }
+    ],
+    "uuid": [
+      -1501098089,
+      1617970177,
+      -1696307923,
+      98959701
+    ],
+    "seed": -960572296948663716,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/a/a6/a6870f97-6070-4401-9ae4-652d05e60155",
+    "dimension": "minecraft:overworld",
+    "hasBeenOpened": 1,
+    "position": [
+      -1357,
+      226,
+      992
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        1095242867,
+        -529184618,
+        -1379070319,
+        -929691937
+      ]
+    ],
+    "table": "minecraft:chests/simple_dungeon"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

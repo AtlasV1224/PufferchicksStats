@@ -1,0 +1,298 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "inventories": [
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          1433557250,
+          -1386395105,
+          -1629274564,
+          1643515946
+        ]
+      },
+      {
+        "chest": {
+          "Items": []
+        },
+        "uuid": [
+          2088048874,
+          -679722978,
+          -2141306900,
+          -1177290616
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 1,
+              "components": {
+                "pastel:beverage": {
+                  "thickness": 1.0,
+                  "alcohol_percent": 84,
+                  "days_aged": 209964
+                },
+                "pastel:infused_beverage": {
+                  "variant": "night_cream",
+                  "color": 12982783
+                },
+                "minecraft:potion_contents": {
+                  "custom_effects": [
+                    {
+                      "duration": 6000,
+                      "show_icon": 1,
+                      "id": "pastel:eternal_slumber",
+                      "neoforge:cures": [
+                        "blood_orchid"
+                      ]
+                    },
+                    {
+                      "amplifier": 7,
+                      "show_icon": 1,
+                      "id": "pastel:effect_prolonging",
+                      "neoforge:cures": [
+                        "milk",
+                        "protected_by_totem"
+                      ],
+                      "duration": 1200
+                    },
+                    {
+                      "amplifier": 3,
+                      "show_icon": 1,
+                      "id": "pastel:deadly_poison",
+                      "neoforge:cures": [
+                        "milk",
+                        "protected_by_totem",
+                        "honey"
+                      ],
+                      "duration": 1200
+                    },
+                    {
+                      "show_icon": 1,
+                      "id": "pastel:immunity",
+                      "duration": 1200
+                    }
+                  ]
+                }
+              },
+              "id": "pastel:infused_beverage"
+            },
+            {
+              "Slot": 1,
+              "count": 1,
+              "components": {
+                "pastel:beverage": {
+                  "thickness": 2.0,
+                  "alcohol_percent": 40,
+                  "days_aged": 205412
+                },
+                "pastel:infused_beverage": {
+                  "variant": "velvet_brandy",
+                  "color": 15383295
+                },
+                "minecraft:potion_contents": {
+                  "custom_effects": [
+                    {
+                      "duration": 3785,
+                      "show_icon": 1,
+                      "id": "pastel:eternal_slumber",
+                      "neoforge:cures": [
+                        "blood_orchid"
+                      ]
+                    },
+                    {
+                      "amplifier": 6,
+                      "show_icon": 1,
+                      "id": "pastel:somnolence",
+                      "neoforge:cures": [
+                        "sedatives",
+                        "blood_orchid"
+                      ],
+                      "duration": 7571
+                    },
+                    {
+                      "amplifier": 3,
+                      "show_icon": 1,
+                      "id": "pastel:swiftness",
+                      "neoforge:cures": [
+                        "milk",
+                        "protected_by_totem"
+                      ],
+                      "duration": 7571
+                    },
+                    {
+                      "amplifier": 6,
+                      "show_icon": 1,
+                      "id": "pastel:magic_annulation",
+                      "neoforge:cures": [
+                        "milk",
+                        "protected_by_totem"
+                      ],
+                      "duration": 7571
+                    },
+                    {
+                      "amplifier": 3,
+                      "show_icon": 1,
+                      "id": "pastel:lightweight",
+                      "neoforge:cures": [
+                        "milk",
+                        "protected_by_totem"
+                      ],
+                      "duration": 7571
+                    }
+                  ]
+                }
+              },
+              "id": "pastel:infused_beverage"
+            },
+            {
+              "Slot": 2,
+              "count": 3,
+              "id": "minecraft:honeycomb"
+            },
+            {
+              "Slot": 3,
+              "count": 7,
+              "id": "minecraft:glass_bottle"
+            },
+            {
+              "Slot": 4,
+              "count": 5,
+              "id": "minecraft:sugar"
+            },
+            {
+              "Slot": 6,
+              "count": 4,
+              "id": "pastel:mermaids_gem"
+            },
+            {
+              "Slot": 8,
+              "count": 5,
+              "id": "pastel:purple_planks"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      },
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 2,
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:water"
+                }
+              },
+              "id": "minecraft:potion"
+            },
+            {
+              "Slot": 4,
+              "count": 8,
+              "id": "minecraft:glass_bottle"
+            },
+            {
+              "Slot": 5,
+              "count": 10,
+              "id": "minecraft:sugar"
+            },
+            {
+              "Slot": 9,
+              "count": 6,
+              "id": "pastel:purple_planks"
+            }
+          ]
+        },
+        "uuid": [
+          -777886662,
+          -43627786,
+          -2114708613,
+          -1931975085
+        ]
+      }
+    ],
+    "uuid": [
+      224762175,
+      164252115,
+      -1556615806,
+      1209908243
+    ],
+    "seed": -5893243870772873322,
+    "name": "{\"translate\":\"container.chest\"}",
+    "blockType": 0,
+    "key": "lootr/0/0d/0d65993f-09ca-49d3-a337-ed82481dbc13",
+    "dimension": "pastel:deeper_down",
+    "hasBeenOpened": 1,
+    "position": [
+      2822,
+      -277,
+      1300
+    ],
+    "size": 27,
+    "actualOpeners": [
+      [
+        120605565,
+        448350698,
+        -1718274565,
+        -1481540022
+      ],
+      [
+        -777886662,
+        -43627786,
+        -2114708613,
+        -1931975085
+      ],
+      [
+        1433557250,
+        -1386395105,
+        -1629274564,
+        1643515946
+      ],
+      [
+        2088048874,
+        -679722978,
+        -2141306900,
+        -1177290616
+      ]
+    ],
+    "table": "pastel:chests/undergrowth_manor/floor1_titration_room"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}

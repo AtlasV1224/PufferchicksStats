@@ -1,0 +1,67 @@
+{
+  "data": {
+    "type": 0,
+    "openers": [],
+    "inventories": [
+      {
+        "chest": {
+          "Items": [
+            {
+              "Slot": 0,
+              "count": 5,
+              "id": "minecraft:glow_berries"
+            },
+            {
+              "Slot": 5,
+              "count": 3,
+              "components": {
+                "minecraft:firework_explosion": {
+                  "has_twinkle": 1,
+                  "fade_colors": [
+                    16028160
+                  ],
+                  "has_trail": 1,
+                  "shape": "creeper"
+                }
+              },
+              "id": "minecraft:firework_star"
+            },
+            {
+              "Slot": 6,
+              "count": 5,
+              "id": "minecraft:rabbit_foot"
+            }
+          ]
+        },
+        "uuid": [
+          120605565,
+          448350698,
+          -1718274565,
+          -1481540022
+        ]
+      }
+    ],
+    "uuid": [
+      -546451780,
+      1159153180,
+      -1237362272,
+      1361923303
+    ],
+    "seed": 7875786059975363876,
+    "name": "{\"translate\":\"container.the_bumblezone.honey_cocoon\"}",
+    "blockType": 0,
+    "key": "lootr/d/df/df6dcebc-4517-461c-b63f-59a0512d4ce7",
+    "dimension": "the_bumblezone:the_bumblezone",
+    "hasBeenOpened": 1,
+    "position": [
+      176,
+      195,
+      -509
+    ],
+    "size": 18,
+    "actualOpeners": [],
+    "table": "the_bumblezone:structures/phantasm_aviary/tips"
+  },
+  "DataVersion": 3955,
+  "brewinandchewin:data_version": 100
+}
