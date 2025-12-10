@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Off-Topic Chat Stats</title>
+    <link rel="stylesheet" href="PufferStatsDark.css">
+</head>
+<body>
+    <div id="topBar">
+        <button class="theme-toggle" id="theme-toggle" title="Toggles light & dark" aria-label="auto" aria-live="polite">
+            <svg class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24">
+                <mask class="moon" id="moon-mask">
+                    <rect x="0" y="0" width="100%" height="100%" fill="white" />
+                    <circle cx="24" cy="10" r="6" fill="black" />
+                </mask>
+                <circle class="sun" cx="12" cy="12" r="6" mask="url(#moon-mask)" fill="currentColor" />
+                <g class="sun-beams" stroke="currentColor">
+                    <line x1="12" y1="1" x2="12" y2="3" />
+                    <line x1="12" y1="21" x2="12" y2="23" />
+                    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+                    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+                    <line x1="1" y1="12" x2="3" y2="12" />
+                    <line x1="21" y1="12" x2="23" y2="12" />
+                    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+                    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
+                </g>
+            </svg>
+        </button>
+        <label class="toggle-btn">
+            <input type="radio" name="seasonSelect" class="seasonButton">
+            <img src="Assets/pufferchickIcon.png" class="btn-img" alt="Season 1 Pack Icon">
+            <span>Season 1</span>
+        </label>
+
+        <label class="toggle-btn">
+            <input type="radio" name="seasonSelect" class="seasonButton">
+            <img src="Assets/pufferchickIcon.png" class="btn-img" alt="Season 2 Pack Icon">
+            <span>Season 2</span>
+        </label>
+    </div>
+    <div id="sideBarAndMain">
+        <div id="sideBar">
+            <h3>Stats Selection</h3>
+
+            <form id="statsSelector">
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="global">
+                    🌍 Global
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="AtlasV1224">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarAtlasV1224">
+                    <span>AtlasV1224</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="DecidedlyHuman">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarDecidedlyHuman">
+                    <span>DecidedlyHuman</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="Erinthe">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarErinthe">
+                    <span>Erinthe</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="KhloeLeclair">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarKhloeLeclair">
+                    <span>KhloeLeclair</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="kittycatcasey">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarkittycatcasey">
+                    <span>kittycatcasey</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="LeFauxMatt">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarLeFauxMatt">
+                    <span>LeFauxMatt</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="Pil_">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarPil_">
+                    <span>Pil_</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="Pinkmoney">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarPinkmoney">
+                    <span>Pinkmoney</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="pneuma163">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarpneuma163">
+                    <span>pneuma163</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="ScarletCraft">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarScarletCraft">
+                    <span>ScarletCraft</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="shekurika">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarshekurika">
+                    <span>shekurika</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="SinZ">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarSinZ">
+                    <span>SinZ</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="skellady">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarskellady">
+                    <span>skellady</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="Spiderbuttons">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarSpiderbuttons">
+                    <span>Spiderbuttons</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="Super_MrSpring">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarSuper_MrSpring">
+                    <span>Super_MrSpring</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="TheFrenchDodo">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarTheFrenchDodo">
+                    <span>TheFrenchDodo</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="tlitookilakin">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatartlitookilakin">
+                    <span>tlitookilakin</span>
+                </label>
+
+                <label class="statOption">
+                    <input type="radio" name="stats" value="Xeragene">
+                    <img class="avatar" src="https://crafthead.net/avatar/char" width="32" height="32" id="avatarXeragene">
+                    <span>Xeragene</span>
+                </label>
+
+            </form>
+        </div>
+        <div id="main">
+            <p>Stuff</p>
+        </div>
+    </div>
+<script src="PufferStats.js"></script>
+</body>
+</html>
+

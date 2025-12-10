@@ -1,0 +1,303 @@
+/*
+  Material-like theming using CSS variables.
+  We support dark and light modes via data-theme on <html> (documentElement).
+*/
+
+
+@import "https://unpkg.com/open-props/easings.min.css";
+
+.sun-and-moon > :is(.moon, .sun, .sun-beams) {
+    transform-origin: center;
+}
+
+.sun-and-moon > :is(.moon, .sun) {
+    fill: var(--icon-fill);
+}
+
+.theme-toggle:is(:hover, :focus-visible) > .sun-and-moon > :is(.moon, .sun) {
+    fill: var(--icon-fill-hover);
+}
+
+.sun-and-moon > .sun-beams {
+    stroke: var(--icon-fill);
+    stroke-width: 2px;
+}
+
+.theme-toggle:is(:hover, :focus-visible) .sun-and-moon > .sun-beams {
+    stroke: var(--icon-fill-hover);
+}
+
+[data-theme="dark"] .sun-and-moon > .sun {
+    transform: scale(1.75);
+}
+
+[data-theme="dark"] .sun-and-moon > .sun-beams {
+    opacity: 0;
+}
+
+[data-theme="dark"] .sun-and-moon > .moon > circle {
+    transform: translateX(-7px);
+}
+
+@supports (cx: 1) {
+    [data-theme="dark"] .sun-and-moon > .moon > circle {
+        cx: 17;
+        transform: translateX(0);
+    }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .sun-and-moon > .sun {
+        transition: transform .5s var(--ease-elastic-3);
+    }
+
+    .sun-and-moon > .sun-beams {
+        transition: transform .5s var(--ease-elastic-4), opacity .5s var(--ease-3);
+    }
+
+    .sun-and-moon .moon > circle {
+        transition: transform .25s var(--ease-out-5);
+    }
+
+    @supports (cx: 1) {
+        .sun-and-moon .moon > circle {
+            transition: cx .25s var(--ease-out-5);
+        }
+    }
+
+    [data-theme="dark"] .sun-and-moon > .sun {
+        transition-timing-function: var(--ease-3);
+        transition-duration: .25s;
+        transform: scale(1.75);
+    }
+
+    [data-theme="dark"] .sun-and-moon > .sun-beams {
+        transition-duration: .15s;
+        transform: rotateZ(-25deg);
+    }
+
+    [data-theme="dark"] .sun-and-moon > .moon > circle {
+        transition-duration: .5s;
+        transition-delay: .25s;
+    }
+}
+
+:root {
+    --md-font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+    --radius-m: 12px;
+    --radius-s: 8px;
+    --transition-fast: 180ms ease-out;
+}
+
+:root[data-theme='dark'] {
+    /* Material 3 dark palette approximation */
+    --color-bg: #121212;            /* background */
+    --color-surface: #1E1E1E;       /* surface */
+    --color-surface-2: #232323;     /* raised surface */
+    --color-on-surface: #E3E3E3;    /* text on surface */
+    --color-outline: #3E3E3E;       /* outlines/dividers */
+    --color-primary: #9ECAFF;       /* primary */
+    --color-on-primary: #003355;    /* text on primary */
+    --color-primary-variant: #74B6FF; /* hover */
+}
+
+:root[data-theme='light'] {
+    /* Material 3 light palette approximation */
+    --color-bg: #F8F9FD;
+    --color-surface: #FFFFFF;
+    --color-surface-2: #F2F4F8;
+    --color-on-surface: #1B1B1F;
+    --color-outline: #D0D7DE;
+    --color-primary: #1967D2;
+    --color-on-primary: #FFFFFF;
+    --color-primary-variant: #1557B0;
+}
+
+html, body {
+    height: 100%;
+    background-color: var(--color-bg);
+    color: var(--color-on-surface);
+    font-family: var(--md-font-family);
+}
+
+
+
+/* Smooth theme transition (respects reduced motion) */
+* {
+    transition: background-color var(--transition-fast), color var(--transition-fast), border-color var(--transition-fast), box-shadow var(--transition-fast);
+}
+@media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+}
+
+#topBar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    height: 10vh;
+    padding: 0 16px;
+    background-color: var(--color-surface);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+
+#sideBar {
+    display: flex;
+    flex-direction: column; /* vertical buttons */
+    width: 20vw;
+    height: 100%;
+    background-color: var(--color-surface);
+    border-right: 1px solid var(--color-outline);
+    padding: 8px;
+    gap: 8px;
+}
+
+.statSelectorButton {
+    display: block;
+    text-align: left;
+    padding: 10px 12px;
+    border-radius: var(--radius-s);
+    background: var(--color-surface-2);
+    color: var(--color-on-surface);
+    border: 1px solid var(--color-outline);
+    cursor: pointer;
+}
+.statSelectorButton:hover {
+    background: color-mix(in oklab, var(--color-surface-2) 85%, var(--color-primary) 15%);
+}
+.statSelectorButton:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+}
+
+/* hide native radio */
+.seasonButton {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+}
+
+/* base style */
+.toggle-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 14px;
+    border-radius: 20px;
+    background: var(--color-primary);
+    color: var(--color-on-primary);
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+
+/* hover */
+.toggle-btn:hover {
+    background: var(--color-primary-variant);
+}
+
+/* selected (radio checked) */
+.toggle-btn:has(.seasonButton:checked) {
+    background: var(--color-primary-variant);
+    box-shadow: 0 0 0 2px var(--color-on-primary) inset;
+}
+
+.btn-img { width: 20px; height: 20px; }
+
+/* Theme toggle switch */
+.theme-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+.theme-toggle .switch {
+    position: relative;
+    width: 46px;
+    height: 26px;
+}
+.theme-toggle input {
+    position: absolute;
+    opacity: 0;
+    width: 0; height: 0;
+}
+.theme-toggle .track {
+    position: absolute;
+    inset: 0;
+    background: var(--color-outline);
+    border-radius: 999px;
+    transition: background var(--transition-fast);
+}
+.theme-toggle .thumb {
+    position: absolute;
+    top: 3px; left: 3px;
+    width: 20px; height: 20px;
+    background: var(--color-surface);
+    border: 1px solid var(--color-outline);
+    border-radius: 50%;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.4);
+    transition: transform var(--transition-fast), background var(--transition-fast), border-color var(--transition-fast);
+}
+.theme-toggle input:checked + .track { background: color-mix(in oklab, var(--color-primary) 75%, black 0%); }
+.theme-toggle input:checked + .track + .thumb { transform: translateX(20px); border-color: transparent; background: var(--color-primary); }
+.theme-toggle label { font-size: 0.9rem; color: var(--color-on-surface); }
+
+#sideBarAndMain {
+    display: flex;
+}
+
+#main {
+    flex: 1;
+}
+
+/* hide native radio buttons */
+.statOption input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+}
+
+/* option container */
+.statOption {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 10px;
+    cursor: pointer;
+
+    background: var(--color-surface-2);
+    color: var(--color-on-surface);
+
+    border: 2px solid var(--color-outline);
+    border-radius: 8px;
+    white-space: nowrap;
+
+    transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+/* hover */
+.statOption:hover {
+    background: var(--color-primary-variant);
+    color: var(--color-on-primary);
+}
+
+/* selected option (using :has) */
+.statOption:has(input[type="radio"]:checked) {
+    border-color: var(--color-primary);
+    background: var(--color-primary);
+    color: var(--color-on-primary);
+}
+
+/* ensure avatars inherit brightness on selection */
+.statOption img.avatar {
+    border-radius: 4px;
+    transition: filter 0.15s ease;
+}
+
+.statOption:has(input[type="radio"]:checked) img.avatar {
+    filter: brightness(0.9);
+}
+
+/* sidebar sizing rule from earlier */
+#sideBar {
+    width: max-content;
+    min-width: max-content;
+    white-space: nowrap;
+}
