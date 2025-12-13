@@ -102,3 +102,43 @@ document.getElementById("avatarskellady").src = "https://crafthead.net/avatar/sk
 document.getElementById("avatarPil_").src = "https://crafthead.net/avatar/Pil_";
 document.getElementById("avatarSinZ").src = "https://crafthead.net/avatar/SinZ";
 document.getElementById("avatarLeFauxMatt").src = "https://crafthead.net/avatar/LeFauxMatt";
+
+// if season = season1
+//     if stat selection = global
+//         overwrite main
+//     else
+//         get selected name
+//             set specific fields to name
+
+const seasonButtons = document.querySelectorAll(".seasonButton");
+const statButtons = document.querySelectorAll(".statButton");
+
+function logSelection() {
+    const selectedSeason = document.querySelector('input[name="seasonSelect"]:checked')?.value;
+    const selectedStat = document.querySelector('input[name="statSelect"]:checked')?.value;
+
+    if (!selectedSeason || !selectedStat) return;
+
+    if (selectedSeason === "season1") {
+        if (selectedStat === "global") {
+            console.log("Season 1 global selected"); //TODO: Do global stats
+        } else {
+            console.log(`Season 1 ${selectedStat} selected`);
+            document.getElementById("statDisplayAvatar").src = `https://crafthead.net/armor/body/${selectedStat}`;
+            document.getElementById("statDisplayUsername").innerText = selectedStat;
+            document.getElementById("statDisplayTotalDeaths").innerText = `Total deaths: 10` //TODO: add actual value
+            document.getElementById("statDisplayTotalLootr").innerText = `Total lootr chests opened: 5` //TODO: add actual value
+        }
+    } else if (selectedSeason === "season2") {
+        if (selectedStat === "global") {
+            console.log("Season 2 global selected"); //TODO: Do global stats 2: electric boogaloo
+        } else {
+            console.log(`Season 2 ${selectedStat} selected`); //TODO: ye this too
+        }
+    }
+}
+
+// Attach listeners to both season and stat buttons
+seasonButtons.forEach(radio => radio.addEventListener("change", logSelection));
+statButtons.forEach(radio => radio.addEventListener("change", logSelection));
+

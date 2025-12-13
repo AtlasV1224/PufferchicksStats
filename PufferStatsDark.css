@@ -1,11 +1,71 @@
-/*
-  Material-like theming using CSS variables.
-  We support dark and light modes via data-theme on <html> (documentElement).
-*/
-
-
 @import "https://unpkg.com/open-props/easings.min.css";
 
+/* Core design tokens */
+:root {
+    --md-font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+    --radius-m: 12px;
+    --radius-s: 8px;
+    --transition-fast: 180ms ease-out;
+
+    --color-bg: #FFFFFF;
+    --color-surface: #FFFFFF;
+    --color-surface-2: #F2F4F8;
+    --color-on-surface: #1B1B1F;
+    --color-outline: #D0D7DE;
+    --color-primary: #1967D2;
+    --color-on-primary: #FFFFFF;
+    --color-primary-variant: #1557B0;
+
+    --icon-fill: var(--color-on-surface);
+    --icon-fill-hover: var(--color-primary);
+}
+
+:root[data-theme='dark'] {
+    --color-bg: #121212;
+    --color-surface: #1E1E1E;
+    --color-surface-2: #232323;
+    --color-on-surface: #E3E3E3;
+    --color-outline: #3E3E3E;
+    --color-primary: #9ECAFF;
+    --color-on-primary: #003355;
+    --color-primary-variant: #74B6FF;
+
+    --icon-fill: var(--color-on-surface);
+    --icon-fill-hover: var(--color-primary);
+}
+
+:root[data-theme='light'] {
+    --color-bg: #F8F9FD;
+    --color-surface: #FFFFFF;
+    --color-surface-2: #F2F4F8;
+    --color-on-surface: #1B1B1F;
+    --color-outline: #D0D7DE;
+    --color-primary: #1967D2;
+    --color-on-primary: #FFFFFF;
+    --color-primary-variant: #1557B0;
+
+    --icon-fill: var(--color-on-surface);
+    --icon-fill-hover: var(--color-primary);
+}
+
+/* Global styles */
+html, body {
+    height: 100%;
+    background-color: var(--color-bg);
+    color: var(--color-on-surface);
+    font-family: var(--md-font-family);
+    margin: 0;
+}
+
+* {
+    transition: background-color var(--transition-fast), color var(--transition-fast), border-color var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+}
+
+/* Sun and Moon icon */
 .sun-and-moon > :is(.moon, .sun, .sun-beams) {
     transform-origin: center;
 }
@@ -50,86 +110,33 @@
     .sun-and-moon > .sun {
         transition: transform .5s var(--ease-elastic-3);
     }
-
     .sun-and-moon > .sun-beams {
         transition: transform .5s var(--ease-elastic-4), opacity .5s var(--ease-3);
     }
-
     .sun-and-moon .moon > circle {
         transition: transform .25s var(--ease-out-5);
     }
-
     @supports (cx: 1) {
         .sun-and-moon .moon > circle {
             transition: cx .25s var(--ease-out-5);
         }
     }
-
     [data-theme="dark"] .sun-and-moon > .sun {
-        transition-timing-function: var(--ease-3);
         transition-duration: .25s;
+        transition-timing-function: var(--ease-3);
         transform: scale(1.75);
     }
-
     [data-theme="dark"] .sun-and-moon > .sun-beams {
         transition-duration: .15s;
         transform: rotateZ(-25deg);
     }
-
     [data-theme="dark"] .sun-and-moon > .moon > circle {
         transition-duration: .5s;
         transition-delay: .25s;
     }
 }
 
-:root {
-    --md-font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
-    --radius-m: 12px;
-    --radius-s: 8px;
-    --transition-fast: 180ms ease-out;
-}
-
-:root[data-theme='dark'] {
-    /* Material 3 dark palette approximation */
-    --color-bg: #121212;            /* background */
-    --color-surface: #1E1E1E;       /* surface */
-    --color-surface-2: #232323;     /* raised surface */
-    --color-on-surface: #E3E3E3;    /* text on surface */
-    --color-outline: #3E3E3E;       /* outlines/dividers */
-    --color-primary: #9ECAFF;       /* primary */
-    --color-on-primary: #003355;    /* text on primary */
-    --color-primary-variant: #74B6FF; /* hover */
-}
-
-:root[data-theme='light'] {
-    /* Material 3 light palette approximation */
-    --color-bg: #F8F9FD;
-    --color-surface: #FFFFFF;
-    --color-surface-2: #F2F4F8;
-    --color-on-surface: #1B1B1F;
-    --color-outline: #D0D7DE;
-    --color-primary: #1967D2;
-    --color-on-primary: #FFFFFF;
-    --color-primary-variant: #1557B0;
-}
-
-html, body {
-    height: 100%;
-    background-color: var(--color-bg);
-    color: var(--color-on-surface);
-    font-family: var(--md-font-family);
-}
-
-
-
-/* Smooth theme transition (respects reduced motion) */
-* {
-    transition: background-color var(--transition-fast), color var(--transition-fast), border-color var(--transition-fast), box-shadow var(--transition-fast);
-}
-@media (prefers-reduced-motion: reduce) {
-    * { transition: none !important; }
-}
-
+/* Top bar */
 #topBar {
     display: flex;
     align-items: center;
@@ -140,17 +147,24 @@ html, body {
     box-shadow: 0 2px 8px rgba(0,0,0,0.25);
 }
 
+/* Sidebar layout */
+#sideBarAndMain { display: flex; min-height: 90vh; align-items: stretch; }
 #sideBar {
     display: flex;
-    flex-direction: column; /* vertical buttons */
+    flex-direction: column;
+    min-width: fit-content;
     width: 20vw;
-    height: 100%;
     background-color: var(--color-surface);
     border-right: 1px solid var(--color-outline);
     padding: 8px;
     gap: 8px;
 }
+#main {
+    flex: 1;
+    padding: 0 50px;
+}
 
+/* Stat selector button */
 .statSelectorButton {
     display: block;
     text-align: left;
@@ -169,14 +183,7 @@ html, body {
     outline-offset: 2px;
 }
 
-/* hide native radio */
-.seasonButton {
-    position: absolute;
-    opacity: 0;
-    pointer-events: none;
-}
-
-/* base style */
+/* Toggle button */
 .toggle-btn {
     display: inline-flex;
     align-items: center;
@@ -188,36 +195,28 @@ html, body {
     cursor: pointer;
     box-shadow: 0 2px 6px rgba(0,0,0,0.3);
 }
-
-/* hover */
-.toggle-btn:hover {
-    background: var(--color-primary-variant);
-}
-
-/* selected (radio checked) */
+.toggle-btn:hover { background: var(--color-primary-variant); }
 .toggle-btn:has(.seasonButton:checked) {
     background: var(--color-primary-variant);
     box-shadow: 0 0 0 2px var(--color-on-primary) inset;
 }
-
 .btn-img { width: 20px; height: 20px; }
 
-/* Theme toggle switch */
+/* Theme toggle */
 .theme-toggle {
     display: inline-flex;
     align-items: center;
     gap: 8px;
 }
-.theme-toggle .switch {
-    position: relative;
-    width: 46px;
-    height: 26px;
+/* Give the theme toggle a dark background when dark mode is active */
+[data-theme='dark'] #theme-toggle {
+    background-color: var(--color-surface-2);
+    border: 1px solid var(--color-outline);
+    border-radius: var(--radius-s);
+    padding: 6px 8px;
 }
-.theme-toggle input {
-    position: absolute;
-    opacity: 0;
-    width: 0; height: 0;
-}
+.theme-toggle .switch { position: relative; width: 46px; height: 26px; }
+.theme-toggle input { position: absolute; opacity: 0; width: 0; height: 0; }
 .theme-toggle .track {
     position: absolute;
     inset: 0;
@@ -239,65 +238,63 @@ html, body {
 .theme-toggle input:checked + .track + .thumb { transform: translateX(20px); border-color: transparent; background: var(--color-primary); }
 .theme-toggle label { font-size: 0.9rem; color: var(--color-on-surface); }
 
-#sideBarAndMain {
-    display: flex;
-}
-
-#main {
-    flex: 1;
-}
-
-/* hide native radio buttons */
-.statOption input[type="radio"] {
-    position: absolute;
-    opacity: 0;
-    pointer-events: none;
-}
-
-/* option container */
+/* Stat options */
 .statOption {
     display: flex;
     align-items: center;
     gap: 8px;
     padding: 8px 10px;
     cursor: pointer;
-
     background: var(--color-surface-2);
     color: var(--color-on-surface);
-
     border: 2px solid var(--color-outline);
     border-radius: 8px;
     white-space: nowrap;
-
     transition: background 0.15s ease, border-color 0.15s ease;
 }
-
-/* hover */
 .statOption:hover {
     background: var(--color-primary-variant);
     color: var(--color-on-primary);
 }
-
-/* selected option (using :has) */
 .statOption:has(input[type="radio"]:checked) {
     border-color: var(--color-primary);
     background: var(--color-primary);
     color: var(--color-on-primary);
 }
+.statOption img.avatar { border-radius: 4px; transition: filter 0.15s ease; }
+.statOption:has(input[type="radio"]:checked) img.avatar { filter: brightness(0.9); }
 
-/* ensure avatars inherit brightness on selection */
-.statOption img.avatar {
-    border-radius: 4px;
-    transition: filter 0.15s ease;
+/* Hide native radio buttons */
+.seasonButton,
+.statOption input[type="radio"] { position: absolute; opacity: 0; pointer-events: none; }
+
+
+/* Stat display */
+#statDisplayHeaderWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
-
-.statOption:has(input[type="radio"]:checked) img.avatar {
-    filter: brightness(0.9);
+#statDisplayHeader, #statDisplayAdvancementsHeader, #statDisplayStatistics { position: relative; }
+#statDisplayHeader {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px;
 }
-
-/* sidebar sizing rule from earlier */
-#sideBar {
-    width: max-content;
-    min-width: max-content;
-    white-space: nowrap;
+#statDisplayAvatar { padding: 20px; }
+#statDisplayLootr {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#statDisplayLootr > * {
+    margin: 0.5rem;
+}
+#statDisplayAdvancementsEmbed, #statDisplayStatisticsEmbed {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1/1;
+    display: block;
+    max-height: 100%;
 }
