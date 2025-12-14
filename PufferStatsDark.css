@@ -298,3 +298,25 @@ html, body {
     display: block;
     max-height: 100%;
 }
+
+.boxShadowForWrappers {
+    text-align: "center";
+    background-color: var(--color-surface);
+    border-radius: var(--radius-m);
+    margin-top: 50px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+    padding: 2vh;
+}
+
+
+
+/*DEBUG: Hide season 2 Button*/
+#statDisplayAdvancementsHeader, #statDisplayStatistics {
+    display: none;
+}
+
+#season2ComingSoon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

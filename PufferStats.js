@@ -1,4 +1,5 @@
 
+
 const storageKey = 'theme-preference'
 
 const onClick = () => {
@@ -59,6 +60,7 @@ window
     })
 
 
+
 // Minecraft UUID to Username
 const Usernames = {
     "AtlasV1224": "7c7518ea-d77c-401e-805e-3fecb9d3f888",
@@ -110,8 +112,41 @@ document.getElementById("avatarLeFauxMatt").src = "https://crafthead.net/avatar/
 //         get selected name
 //             set specific fields to name
 
-const seasonButtons = document.querySelectorAll(".seasonButton");
-const statButtons = document.querySelectorAll(".statButton");
+
+let deathsDataSeason1;        // holds data for this tab session
+let lootrTotalDataSeason1;    // holds data for this tab session
+let miscDataSeason1
+let dataLoaded = false;       // guard so init runs once
+
+async function init() {
+    if (dataLoaded) return; // don’t run twice
+    dataLoaded = true;
+    try {
+        const [deaths, lootr, misc] = await Promise.all([
+            fetch("./Sorted/Season1/deathsCount.json").then(r => r.json()),
+            fetch("./Sorted/Season1/lootrCount.json").then(r => r.json()),
+            fetch("./Sorted/Season1/misc.json").then(r => r.json()),
+        ]);
+        deathsDataSeason1 = deaths;
+        lootrTotalDataSeason1 = lootr;
+        miscDataSeason1 = misc;
+        // Invalidate cached Global HTML so it rebuilds with fresh data
+        season1GlobalContent = null;
+
+        // If you need to render default view once data is ready, do it here
+        // e.g., call logSelection() if inputs already have defaults
+        logSelection();
+    } catch (e) {
+        console.error("Failed to load Season 1 data", e);
+    }
+}
+
+window.addEventListener('DOMContentLoaded', init);
+
+// Cache original Season 1 stat display
+const main = document.getElementById("main");
+let season1Content = main.innerHTML; // original Season 1 HTML
+let season1GlobalContent = null; // will store global-specific HTML
 
 function logSelection() {
     const selectedSeason = document.querySelector('input[name="seasonSelect"]:checked')?.value;
@@ -120,25 +155,220 @@ function logSelection() {
     if (!selectedSeason || !selectedStat) return;
 
     if (selectedSeason === "season1") {
+        // Season 1 + Global
         if (selectedStat === "global") {
-            console.log("Season 1 global selected"); //TODO: Do global stats
+            // If global content is not yet cached, create it
+            if (!season1GlobalContent) {
+                // Clear main and insert custom global content
+                main.innerHTML = "";
+
+                const daysPlayedIRL = Math.floor(miscDataSeason1?.daysPlayedIRL ?? 0);
+                const playersJoined = miscDataSeason1?.playerCount ?? 0;
+                const daysPlayed = Math.floor(miscDataSeason1?.daysPlayed ?? 0);
+                let deathCount = 0;
+                for (let key in Usernames) {
+                    deathCount += deathsDataSeason1[key];
+                }
+                const totalDistance = Math.floor(miscDataSeason1?.totalDistanceCM ?? 0 /1000);
+                const lootrTotal = lootrTotalDataSeason1?.lootrTotal ?? 0;
+                const X = "REPLACE ME" //TODO: Replace all occurances of "X" with actual values
+
+                const headingWrapper = document.createElement("div");
+                headingWrapper.classList.add("boxShadowForWrappers");
+                main.appendChild(headingWrapper);
+
+                const heading = document.createElement("h1");
+                heading.innerText = "Season 1 Global Stats";
+                heading.style.textAlign = "center";
+                headingWrapper.appendChild(heading);
+
+                const description = document.createElement("p");
+                description.innerText = `Season 1 has come to an end after ${daysPlayedIRL} days! During this time, ${playersJoined} players joined the adventure, building incredible bases and exploring the world together. Now, as we close this chapter, we move on to a brand-new world in a fresh pack, filled with new buildings, environments, and mods to experiment with.
+                
+                To celebrate Season 1, we’ve compiled a set of stats for everyone to enjoy. With Season 2, new adventures await and with them, fresh new statistics! Each day, when a world backup occurs, the latest stats will be displayed for all to see, including a few extras added to the previous season.  `;
+                description.style.textAlign = "center";
+                headingWrapper.appendChild(description);
+
+                const worldStatsWrapper = document.createElement("div");
+                worldStatsWrapper.classList.add("boxShadowForWrappers");
+                main.appendChild(worldStatsWrapper);
+
+                const worldStatsHeading = document.createElement("h2");
+                worldStatsHeading.innerText = "World Statistics:";
+                worldStatsHeading.style.textAlign = "center";
+                worldStatsWrapper.appendChild(worldStatsHeading);
+
+                const worldStats = document.createElement("p");
+                worldStats.innerText = `
+                • Season 1 lasted ${daysPlayedIRL} days, equivalent to ${daysPlayed} Minecraft days!  
+                • Throughout the life of the server, There were also ${deathCount} player deaths.
+                • Exploration was a key focus this season, with an impressive ${totalDistance} blocks covered collectively by all players.
+                • Looting was also a favorite pastime, resulting in ${lootrTotal} Lootr inventories opened!`;
+                worldStats.style.textAlign = "center";
+                worldStatsWrapper.appendChild(worldStats);
+
+                // Season 1 has come to an end after <X> days! During this time, <X> players joined the adventure, building incredible bases and exploring the world together. Now, as we close this chapter, we move on to a brand-new world in a fresh pack, filled with new buildings, environments, and mods to experiment with.
+                //
+                //     To celebrate Season 1, we’ve compiled a set of stats for everyone to enjoy. With Season 2, new adventures await and with them, fresh new statistics! Each day, when a world backup occurs, the latest stats will be displayed for all to see, including a few extras added to the previous season.
+                //
+                //     World Statistics:
+                //     - Season 1 lasted <X> days, equivalent to <X> Minecraft days!
+                //         - Throughout the life of the server, There were also <X> player deaths, mostly caused by <X>.
+                //             - Exploration was a key focus this season, with an impressive <X> blocks covered collectively by all players.
+                //                 - Looting was also a favorite pastime, resulting in <X> Lootr inventories looted1
+                //
+                //                     The time spent on the server by players varied greatly, here are the top 5 players with the longest time spent on the server:
+                //                     1. <Player1>
+                //                         2. <Player2>
+                //                         3. <Player3>
+                //                         4. <Player4>
+                //                         5. <Player5>
+
+                //TODO: Replace global stats with none global stats
+                                    // Cache it for later
+                season1GlobalContent = main.innerHTML;
+            } else {
+                // Restore cached global content
+                main.innerHTML = season1GlobalContent;
+            }
         } else {
-            console.log(`Season 1 ${selectedStat} selected`);
+            // Restore regular Season 1 stat display
+            main.innerHTML = season1Content;
+
+            // Then update the stats for the selected player
+            const deathCount = deathsDataSeason1?.[selectedStat] ?? 0;
+            const lootrCountTotal = lootrTotalDataSeason1?.Total?.[selectedStat] ?? 0;
+
+            const playerLootrData =
+                lootrTotalDataSeason1?.ByTable?.[selectedStat] ?? {};
+
+            const entries = Object.entries(playerLootrData);
+
+// Cache DOM nodes
+            const tableEls = [
+                {
+                    name: document.getElementById("statDisplayTopLootTable1"),
+                    total: document.getElementById("statDisplayTopLootTableTotal1"),
+                },
+                {
+                    name: document.getElementById("statDisplayTopLootTable2"),
+                    total: document.getElementById("statDisplayTopLootTableTotal2"),
+                },
+                {
+                    name: document.getElementById("statDisplayTopLootTable3"),
+                    total: document.getElementById("statDisplayTopLootTableTotal3"),
+                },
+                {
+                    name: document.getElementById("statDisplayTopLootTable4"),
+                    total: document.getElementById("statDisplayTopLootTableTotal4"),
+                },
+                {
+                    name: document.getElementById("statDisplayTopLootTable5"),
+                    total: document.getElementById("statDisplayTopLootTableTotal5"),
+                },
+            ];
+
+            if (entries.length === 0) {
+                // No Lootr data at all
+                tableEls[0].name.innerText = "No Lootr chests looted";
+                tableEls[0].total.style.display = "none";
+
+                for (let i = 1; i < tableEls.length; i++) {
+                    tableEls[i].name.innerText = "";
+                    tableEls[i].total.style.display = "none";
+                }
+            } else {
+                // Populate available tables
+                const maxTables = Math.min(entries.length, 5);
+                let i = 0;
+
+                // Fill available tables
+                for (; i < maxTables; i++) {
+                    const [table, total] = entries[i];
+                    tableEls[i].name.innerText = `${table}:`;
+                    tableEls[i].total.innerText = `Opened ${total} times`;
+                    tableEls[i].total.style.display = ""; // show totals
+                }
+
+                // If fewer than 5, show "No more loot tables opened" once
+                if (i < 5) {
+                    tableEls[i].name.innerText = "No more loot tables opened";
+                    tableEls[i].total.style.display = "none";
+                    i++;
+                }
+
+                // Hide remaining rows
+                for (; i < 5; i++) {
+                    tableEls[i].name.innerText = "";
+                    tableEls[i].total.style.display = "none";
+                }
+            }
+
             document.getElementById("statDisplayAvatar").src = `https://crafthead.net/armor/body/${selectedStat}`;
             document.getElementById("statDisplayUsername").innerText = selectedStat;
-            document.getElementById("statDisplayTotalDeaths").innerText = `Total deaths: 10` //TODO: add actual value
-            document.getElementById("statDisplayTotalLootr").innerText = `Total lootr chests opened: 5` //TODO: add actual value
+            document.getElementById("statDisplayTotalDeaths").innerText = `Total deaths: ${deathCount}`;
+            document.getElementById("statDisplayTotalLootr").innerText = `Total lootr chests opened: ${lootrCountTotal}`;
+
+            document.getElementById("statDisplayTopLootTable1").innerText = `${lootrTable1}: `;
+            document.getElementById("statDisplayTopLootTableTotal1").innerText = `Opened ${lootrTableTotal1} times`;
+            document.getElementById("statDisplayTopLootTable2").innerText = `${lootrTable2}: `;
+            document.getElementById("statDisplayTopLootTableTotal2").innerText = `Opened ${lootrTableTotal2} times`;
+            document.getElementById("statDisplayTopLootTable3").innerText = `${lootrTable3}: `;
+            document.getElementById("statDisplayTopLootTableTotal3").innerText = `Opened ${lootrTableTotal3} times`;
+            document.getElementById("statDisplayTopLootTable4").innerText = `${lootrTable4}: `;
+            document.getElementById("statDisplayTopLootTableTotal4").innerText = `Opened ${lootrTableTotal4} times`;
+            document.getElementById("statDisplayTopLootTable5").innerText = `${lootrTable5}: `;
+            document.getElementById("statDisplayTopLootTableTotal5").innerText = `Opened ${lootrTableTotal5} times`;
         }
     } else if (selectedSeason === "season2") {
-        if (selectedStat === "global") {
-            console.log("Season 2 global selected"); //TODO: Do global stats 2: electric boogaloo
-        } else {
-            console.log(`Season 2 ${selectedStat} selected`); //TODO: ye this too
-        }
+        main.innerHTML = "";
+
+        const season2SoonWrapper = document.createElement("div");
+        season2SoonWrapper.classList.add("boxShadowForWrappers");
+        main.appendChild(season2SoonWrapper);
+
+        const heading = document.createElement("h1");
+        heading.innerText = `Season 2 is coming soon!`;
+        heading.style.textAlign = "center";
+        season2SoonWrapper.appendChild(heading);
+
+        const season2StartTimeUTC = "2025-12-20T15:18:30Z";
+        const season2StartTime = new Date(season2StartTimeUTC);
+        const season2StartTimeFormatted = new Intl.DateTimeFormat(
+            navigator.language,
+            {
+                dateStyle: "medium",
+                timeStyle: "short"
+            }
+        ).format(season2StartTime);
+        const description = document.createElement("p");
+        description.innerText = `Get ready for for the start of a new season starting on ${season2StartTimeFormatted} in...`;
+        description.style.textAlign = "center";
+        season2SoonWrapper.appendChild(description);
+
+        const packLink = document.createElement("a");
+        packLink.href = "https://www.curseforge.com/minecraft/modpacks/craftoria"; // target URL
+        packLink.style.textDecoration = "underline"; // optional
+        packLink.style.color = "inherit";       // optional
+
+        const packName = document.createElement("h1");
+        packName.innerText = "Craftoria!";
+        packName.style.textAlign = "center";
+
+        packLink.appendChild(packName);
+        season2SoonWrapper.appendChild(packLink);
     }
 }
 
 // Attach listeners to both season and stat buttons
+const seasonButtons = document.querySelectorAll(".seasonButton");
+const statButtons = document.querySelectorAll(".statButton");
+
+window.addEventListener('DOMContentLoaded', () => {
+    logSelection();
+});
+
 seasonButtons.forEach(radio => radio.addEventListener("change", logSelection));
 statButtons.forEach(radio => radio.addEventListener("change", logSelection));
+
 

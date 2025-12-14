@@ -4,6 +4,7 @@ import os
 import json5
 import json
 
+
 # Username Lookup table
 usernames = {
     "AtlasV1224": "7c7518ea-d77c-401e-805e-3fecb9d3f888",
@@ -25,6 +26,7 @@ usernames = {
     "SinZ": "e0989ba6-7eee-4ad1-9c49-88fc6db8e7e5",
     "LeFauxMatt": "ec1b0b30-782d-44ec-8e06-79def1444c26",
 }
+
 
 def convert_user(target_format, value):
     """
@@ -113,6 +115,7 @@ def extract_json_data(directory, key_path):
                     continue
     return results
 
+
 def write_json(out_data, out_path, action="overwrite"):
     """
     Writes data to a .json file.
@@ -150,3 +153,31 @@ def write_json(out_data, out_path, action="overwrite"):
         json.dump(existing, f, indent=4)
 
 
+def count_files(directory):
+    if not os.path.isdir(directory):
+        print(f"Directory not found: {directory}")
+        return "Null"
+    else:
+        return sum(
+            len(files)
+            for _, _, files in os.walk(directory))
+
+
+def extract_json_value(json_path, key_path):
+    """
+    Extract a value from a JSON file given a nested key path.
+
+    :param json_path: str, Path to the JSON file.
+    :param key_path: list, List of keys representing the path to the value.
+    :return: The value at the specified key path, or None if the path does not exist.
+    """
+
+    with open(json_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    for key in key_path:
+        if isinstance(data, dict) and key in data:
+            data = data[key]
+        else:
+            return None
+    return data

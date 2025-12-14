@@ -26,13 +26,13 @@
                 </g>
             </svg>
         </button>
-        <label class="toggle-btn">
+        <label class="toggle-btn" id="season1Wrapper">
             <input type="radio" name="seasonSelect" class="seasonButton" value="season1" checked>
             <img src="Assets/pufferchickIcon.png" class="btn-img" alt="Season 1 Pack Icon">
             <span>Season 1</span>
         </label>
 
-        <label class="toggle-btn">
+        <label class="toggle-btn" id="season2Wrapper">
             <input type="radio" name="seasonSelect" class="seasonButton" value="season2">
             <img src="Assets/pufferchickIcon.png" class="btn-img" alt="Season 2 Pack Icon">
             <span>Season 2</span>
@@ -160,7 +160,7 @@
             </form>
         </div>
         <div id="main">
-            <div id="statDisplayHeaderWrapper">
+            <div id="statDisplayHeaderWrapper" class="boxShadowForWrappers">
                 <div id="statDisplayHeader">
                     <img id="statDisplayAvatar" src="https://crafthead.net/armor/body/char" width="128" height="256">
                     <div>
@@ -169,27 +169,44 @@
                     </div>
                 </div>
             </div>
-            <div id="statDisplayLootr">
+            <div id="statDisplayLootr" class="boxShadowForWrappers">
                 <h2 id="statDisplayLootrHeader">Lootr:</h2>
                 <h3 id="statDisplayTotalLootr">Total lootr chests opened: 0</h3>
                 <h3 id="statDisplayTopLootTablesHeader">Top 5 loot tables:</h3>
-                <p id="statDisplayTopLootTable1">&lt;Loot Table&gt;: Opened 0 Times</p>
-                <p id="statDisplayTopLootTable2">&lt;Loot Table&gt;: Opened 0 Times</p>
-                <p id="statDisplayTopLootTable3">&lt;Loot Table&gt;: Opened 0 Times</p>
-                <p id="statDisplayTopLootTable4">&lt;Loot Table&gt;: Opened 0 Times</p>
-                <p id="statDisplayTopLootTable5">&lt;Loot Table&gt;: Opened 0 Times</p>
+                <table id="statDisplayTopLootTableTable">
+                    <tr>
+                        <td id="statDisplayTopLootTable1" class="statDisplayTopLootTable">&lt;Loot Table&gt;: Opened 0 Times</td>
+                        <td id="statDisplayTopLootTableTotal1" class="statDisplayTopLootTable">&lt;Loot Table&gt;: Opened 0 Times</td>
+                    </tr>
+                    <tr>
+                        <td id="statDisplayTopLootTable2" class="statDisplayTopLootTable">&lt;Loot Table&gt;: Opened 0 Times</td>
+                        <td id="statDisplayTopLootTableTotal2" class="statDisplayTopLootTable">&lt;Loot Table&gt;: Opened 0 Times</td>
+                    </tr>
+                    <tr>
+                        <td id="statDisplayTopLootTable3" class="statDisplayTopLootTable">&lt;Loot Table&gt;: Opened 0 Times</td>
+                        <td id="statDisplayTopLootTableTotal3" class="statDisplayTopLootTable">&lt;Loot Table&gt;: Opened 0 Times</td>
+                    </tr>
+                    <tr>
+                        <td id="statDisplayTopLootTable4" class="statDisplayTopLootTable">&lt;Loot Table&gt;: Opened 0 Times</td>
+                        <td id="statDisplayTopLootTableTotal4" class="statDisplayTopLootTable">&lt;Loot Table&gt;: Opened 0 Times</td>
+                    </tr>
+                    <tr>
+                        <td id="statDisplayTopLootTable5" class="statDisplayTopLootTable">&lt;Loot Table&gt;: Opened 0 Times</td>
+                        <td id="statDisplayTopLootTableTotal5" class="statDisplayTopLootTable">&lt;Loot Table&gt;: Opened 0 Times</td>
+                    </tr>
+                </table>
             </div>
-            <div id="statDisplayAdvancementsHeader">
-                <h2 id="statDisplayAdvancementsTotal">Advancements | Total: 0</h2>
-                <iframe id="statDisplayAdvancementsEmbed" src="./Interactive/advancements.html"></iframe>
-            </div>
-            <div id="statDisplayStatistics">
-                <h2 id="statDisplayStatisticsHeader">Statistics</h2>
-                <iframe id="statDisplayStatisticsEmbed" src="./Interactive/statistics.html"></iframe>
-            </div>
+<!--            <div id="statDisplayAdvancementsHeader">-->
+<!--                <h2 id="statDisplayAdvancementsTotal">Advancements | Total: 0</h2>-->
+<!--                <iframe id="statDisplayAdvancementsEmbed" src="./Interactive/advancements.html"></iframe>-->
+<!--            </div>-->
+<!--            <div id="statDisplayStatistics">-->
+<!--                <h2 id="statDisplayStatisticsHeader">Statistics</h2>-->
+<!--                <iframe id="statDisplayStatisticsEmbed" src="./Interactive/statistics.html"></iframe>-->
+<!--            </div>-->
         </div>
     </div>
-<script src="PufferStats.js"></script>
+<script type="module" src="PufferStats.js" defer></script>
 </body>
 </html>
 
