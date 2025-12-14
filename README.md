@@ -1,6 +1,11 @@
 ## Off Topic Minecraft server stat grabber and displayer
 
-This repository has tools to gather, prepare, and display various stats from the Off Topic minecraft server. The python script extracts NBT and JSON data from the final world backup then processes it all into a JSON format so the JS portion is able to display it on a webpage
+This repository will have tools to gather, prepare, and display various stats from the Off Topic Minecraft server. In the final state it will include a python script to be run at an interval of your choosing that will extract the necessary data to JSON files, which will then be displayed on a webpage using JavaScript.
 
-### statGetherer.py
-`statGatherer.py` is the script that converts the NBT data to JSON and seperates it from the other 11GB of the world backup, it uses the `nbtlib` module to read the NBT data, and the `json` module to write it to a JSON format.
+Current functionality displays data from pre-prepared JSON files.
+
+## Usage:
+- Clone this repository using `git clone https://github.com/AtlasV1224/PufferchicksStats`.
+- Map a page to the `PufferStats.html` file.
+
+`index.html` is included for systems that require it, it redirects to `PufferStats.html` only and can be safely removed if needed.
